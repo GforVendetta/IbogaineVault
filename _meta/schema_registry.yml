@@ -1,0 +1,315 @@
+# _meta/schema_registry.yml
+#
+# SINGLE SOURCE OF TRUTH for all vault schemas.
+# Every enum, field definition, and type constraint lives here.
+# All other docs (conversion_manifest.md, transcript_manifest.md,
+# Tag_Taxonomy.md, NLQ_ARCHITECTURE.md §5) are DERIVATIVE —
+# they display this data, they don't define it.
+#
+# If a downstream doc disagrees with this file, this file wins.
+#
+# Created: 2026-02-23
+# Last verified: 2026-02-26
+# Verified by: Philip Kagalovsky
+
+# ──────────────────────────────────────────
+# SCHEMAS
+# ──────────────────────────────────────────
+# Four document schemas exist in the vault.
+# Each schema defines which fields are required, optional, or forbidden.
+
+schemas:
+
+  paper:
+    description: "Academic papers, case reports, reviews, in-vitro studies, etc."
+    location_patterns:
+      - "YYYY/*.md"
+      - "Clinical_Guidelines/*.md"
+      - "Primary_Sources/*.md"
+      - "Other/*.md"
+      - "Industry_Documents/*.md"
+    fields:
+      # ── Required on ALL papers ──
+      title:            { type: string, required: true }
+      authors:          { type: list_of_strings, required: true }
+      year:             { type: integer, required: true }
+      category:         { type: enum, enum_ref: categories, required: true }
+      tags:             { type: list_of_enums, enum_ref: tags, required: true, min: 2, max_policy: tag_count_policy }
+      key_findings:     { type: string, required: true, max_chars: 250 }
+      document_type:    { type: enum, enum_ref: document_types_paper, required: true }
+      clinical_significance: { type: enum, enum_ref: clinical_significance, required: true }
+      aliases:          { type: list_of_strings, required: true, min: 2 }
+      source_pdf:       { type: string, required: true }
+      qtc_data:         { type: boolean, required: true }
+      electrolyte_data: { type: boolean, required: true }
+      herg_data:        { type: boolean, required: true }
+      contraindications: { type: list_of_strings, required: true, allow_empty: true }
+      evidence_level:   { type: enum, enum_ref: evidence_levels, required: true }
+
+      # ── Conditionally required ──
+      dosing_range:     { type: string, required_when: "category in [RED, GREEN]" }
+      route:            { type: enum, enum_ref: routes, required_when: "category in [RED, GREEN]" }
+      sample_size:      { type: integer, required_when: "human study", omit_when: "non-human or review" }
+      mortality_count:  { type: integer, required_when: "paper reports ≥1 death", omit_when: "no deaths reported" }
+
+      # ── Optional ──
+      doi:              { type: string, optional: true, omit_if_unavailable: true }
+      journal:          { type: string, optional: true, omit_if_unavailable: true }
+      publication_date: { type: date, optional: true, omit_if_unavailable: true, format: "quoted string — \"2024-03-15\" not bare 2024-03-15 (D13)" }
+      secondary_categories: { type: list_of_enums, enum_ref: categories, optional: true, format: "inline — [RED, ORANGE] not multi-line YAML list" }
+      organisation:     { type: string, optional: true, note: "non-academic docs only" }
+      source_url:       { type: string, optional: true, omit_if_unavailable: true, note: "video/audio/web source URL — primary sources, conference talks (D-2A)" }
+
+      # ── Optional — Academic identifiers (D16) ──
+      pmid:             { type: string, optional: true, omit_if_unavailable: true, note: "PubMed ID — populate via NCBI ID Converter from DOI" }
+      pmcid:            { type: string, optional: true, omit_if_unavailable: true, note: "PubMed Central ID — free full-text access" }
+      isbn:             { type: string, optional: true, omit_if_unavailable: true, note: "books, book-chapters, theses with ISBNs" }
+      issn:             { type: string, optional: true, omit_if_unavailable: true, note: "journal-level identifier — especially useful for journals without DOIs" }
+
+      # ── Optional — Copyright & format metadata (D17) ──
+      open_access:      { type: enum, enum_ref: open_access_status, optional: true, omit_if_unavailable: true, note: "OA status — true (confirmed OA/CC licence), false (confirmed paywalled), unknown (not yet assessed)" }
+      publisher:        { type: string, optional: true, omit_if_unavailable: true, note: "Publisher name — Elsevier, Wiley, Springer Nature, Frontiers, MDPI, etc." }
+      body_format:      { type: enum, enum_ref: body_formats, optional: true, omit_if_unavailable: true, note: "Body structure — vault-analytical (Key Findings/Clinical Implications), academic-retained (Introduction/Methods/Results/Discussion), hybrid (both), or narrative (neither — grey literature, book chapters, primary sources)" }
+
+      # ── Forbidden ──
+      scope:            { forbidden: true, note: "papers don't need scope — all are inherently published research" }
+      participants:     { forbidden: true, note: "use authors for papers" }
+      key_decisions:    { forbidden: true, note: "transcript-only field" }
+      action_items:     { forbidden: true, note: "transcript-only field" }
+
+  transcript_meeting:
+    description: "Internal meeting transcripts — Pangea team calls, planning sessions"
+    location_patterns:
+      - "Pangea_Ops/Pangea_Internal_Calls/*.md"
+    fields:
+      title:            { type: string, required: true }
+      document_type:    { type: enum, enum_ref: document_types_transcript, required: true }
+      date:             { type: date, required: true }
+      participants:     { type: list_of_strings, required: true }
+      duration:         { type: string, required: true }
+      year:             { type: integer, required: true }
+      category:         { type: enum, enum_ref: categories, required: true }
+      scope:            { type: enum, enum_ref: scopes, required: true }
+      tags:             { type: list_of_enums, enum_ref: tags, required: true }
+      key_findings:     { type: string, required: true, max_chars: 250 }
+      clinical_significance: { type: enum, enum_ref: clinical_significance, required: true }
+      aliases:          { type: list_of_strings, required: true }
+      contraindications: { type: list_of_strings, required: true, allow_empty: true }
+      key_decisions:    { type: list_of_strings, required: true }
+      action_items:     { type: list_of_strings, optional: true }
+      wikilinks:        { type: list_of_strings, optional: true }
+
+      # ── Forbidden ──
+      authors:          { forbidden: true, note: "use participants for meeting transcripts" }
+      evidence_level:   { forbidden: true, note: "meeting transcripts don't have evidence levels" }
+
+  transcript_published:
+    description: "Published interviews, conference talks, podcasts"
+    location_patterns:
+      - "Primary_Sources/*.md"
+    note: "Uses paper schema with scope addition. No key_decisions/action_items."
+    extends: paper
+    field_overrides:
+      scope:            { type: enum, enum_ref: scopes, required: true, override_forbidden: true }
+
+  meta:
+    description: "Hubs, MOCs, and administrative vault documents"
+    location_patterns:
+      - "Hubs/*.md"
+      - "MOCs/*.md"
+      - "_meta/*.md"
+    fields:
+      title:            { type: string, required: true }
+      tags:             { type: list_of_enums, enum_ref: tags_meta, required: true }
+      aliases:          { type: list_of_strings, optional: true }
+      document_type:    { type: enum, enum_ref: document_types_meta, optional: true }
+
+# ──────────────────────────────────────────
+# ENUMS
+# ──────────────────────────────────────────
+
+enums:
+
+  categories:
+    - RED       # Cardiac safety, fatalities, adverse events
+    - GREEN     # Clinical protocols, guidelines, screening
+    - ORANGE    # Pharmacology, mechanisms, receptors
+    - BLUE      # Clinical outcomes, trials, efficacy
+    - PURPLE    # Subjective experience, phenomenology
+    - WHITE     # Historical, Bwiti, policy
+
+  clinical_significance:
+    - low
+    - moderate
+    - high
+    - landmark
+
+  evidence_levels:
+    - rct
+    - cohort
+    - case-series
+    - case-report
+    - in-vitro
+    - preclinical
+    - review
+    - systematic-review
+    - guideline
+    - observational
+    - qualitative
+    - journalism
+    - primary-source
+
+  routes:
+    - oral
+    - intravenous
+    - subcutaneous
+    - intramuscular
+    - intraperitoneal
+    - topical
+    - not-specified
+    - not-applicable
+    # NOTE: NLQ tooling must map abbreviations (iv, im, etc.) to these canonical values.
+    # The vault stores full names. Query interfaces may accept abbreviations.
+    # not-specified = route exists but paper doesn't report it
+    # not-applicable = concept of route doesn't apply (in-vitro, guidelines, qualitative studies)
+
+  scopes:
+    - pangea     # Internal/operational
+    - published  # Publicly available
+
+  open_access_status:
+    - true       # Confirmed OA / CC licence
+    - false      # Confirmed paywalled
+    - unknown    # Not yet assessed
+    # NOTE: YAML parses bare true/false as booleans. This is INTENTIONAL.
+    # Papers will have `open_access: true` (boolean) in frontmatter.
+    # Validators must normalise: str(value).lower() before enum check.
+
+  body_formats:
+    - vault-analytical    # Key Findings / Clinical Implications format
+    - academic-retained   # Introduction / Methods / Results / Discussion
+    - hybrid              # Both vault-analytical and academic sections
+    - narrative           # Neither — grey literature, book chapters, primary sources
+
+  document_types_paper:
+    - clinical-trial
+    - review
+    - systematic-review
+    - case-report
+    - case-series
+    - guideline
+    - in-vitro
+    - preclinical
+    - observational
+    - qualitative
+    - commentary
+    - book
+    - book-chapter
+    - thesis
+    - primary-source
+    - research-article   # Valid but non-specific — avoid for new conversions
+    - conference-talk
+    - educational        # Lectures, courses, webinars — pedagogical intent, not conference venue
+    - interview-transcript
+    - journalism
+    - policy-report
+    - brief-communication
+    - industry-report
+
+  document_types_transcript:
+    - meeting-transcript
+    - interview-transcript
+    - conference-talk
+    - educational
+
+  document_types_meta:
+    - administrative
+
+  tags:
+    topic:
+      - topic/18-mc
+      - topic/adverse-event
+      - topic/alcohol
+      - topic/analogues
+      - topic/assessment
+      - topic/benzodiazepine
+      - topic/cardiac
+      - topic/cognition
+      - topic/combination
+      - topic/cyp2d6
+      - topic/dopamine
+      - topic/efficacy
+      - topic/electrolytes
+      - topic/gdnf
+      - topic/harm-reduction
+      - topic/history
+      - topic/mechanism
+      - topic/motor
+      - topic/multiple-sclerosis
+      - topic/neuroimaging
+      - topic/neuroplasticity
+      - topic/noribogaine
+      - topic/opioid
+      - topic/parkinsons
+      - topic/pharmacokinetics
+      - topic/phenomenology
+      - topic/policy
+      - topic/protocol
+      - topic/psychiatric
+      - topic/ptsd
+      - topic/receptor
+      - topic/serotonin
+      - topic/sleep
+      - topic/stimulant
+      - topic/tbi
+      - topic/toxicity
+      - topic/traditional-use
+      - topic/veterans
+      - topic/withdrawal
+    mechanism:
+      - mechanism/dopamine-modulation
+      - mechanism/energy-metabolism
+      - mechanism/herg-blockade
+      - mechanism/ion-channel
+      - mechanism/kappa-opioid
+      - mechanism/mu-opioid
+      - mechanism/nicotinic-receptor
+      - mechanism/nmda-antagonism
+      - mechanism/sert-inhibition
+      - mechanism/sigma-receptor
+    method:
+      - method/case-report
+      - method/case-series
+      - method/clinical-trial
+      - method/in-vitro
+      - method/journalism
+      - method/observational
+      - method/preclinical
+      - method/proteomics
+      - method/qualitative
+      - method/review
+      - method/systematic-review
+    meta:
+      - meta/hub
+      - meta/moc
+    # Total: 62 (39 topic + 10 mechanism + 11 method + 2 meta)
+
+  tags_meta:
+    # Meta documents only use meta/ namespace tags
+    - meta/hub
+    - meta/moc
+
+  tag_count_policy:
+    standard:
+      max: 5
+      applies_to: "Empirical papers — clinical-trial, case-report, case-series, in-vitro, preclinical, observational, qualitative, research-article, brief-communication"
+    synthesis:
+      max: 10
+      applies_to: "Reviews, systematic-reviews, theses, guidelines, primary-sources, conference-talks, educational, interview-transcripts, commentaries, books, book-chapters, policy-reports, journalism, industry-reports"
+    encyclopedic:
+      named_exceptions:
+        - { paper: "Alper2001", count: 16 }
+        - { paper: "Kobr2024", count: 14 }
+        - { paper: "Alfonso2023", count: 11 }
+        - { paper: "GITA2015", count: 13 }
+      note: "Adding new exceptions requires review"

@@ -1,0 +1,27 @@
+filters:
+  and:
+    - file.ext == "md"
+    - or:
+        - tags.contains("topic/analogues")
+        - tags.contains("topic/18-mc")
+properties:
+  file.name:
+    displayName: Paper
+  year:
+    displayName: Year
+  category:
+    displayName: Category
+  clinical_significance:
+    displayName: Significance
+  key_findings:
+    displayName: Key Findings
+views:
+  - type: table
+    name: Safer Analogues Research
+    order:
+      - file.name
+      - year
+      - category
+      - clinical_significance
+      - key_findings
+    sort: []

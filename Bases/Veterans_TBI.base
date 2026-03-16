@@ -1,0 +1,27 @@
+filters:
+  and:
+    - file.ext == "md"
+    - or:
+        - tags.contains("topic/veterans")
+        - tags.contains("topic/tbi")
+properties:
+  file.name:
+    displayName: Paper
+  year:
+    displayName: Year
+  category:
+    displayName: Category
+  clinical_significance:
+    displayName: Significance
+  key_findings:
+    displayName: Key Findings
+views:
+  - type: table
+    name: MISTIC & Veterans/TBI Evidence
+    order:
+      - file.name
+      - year
+      - category
+      - clinical_significance
+      - key_findings
+    sort: []

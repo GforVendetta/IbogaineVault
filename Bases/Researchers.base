@@ -1,0 +1,35 @@
+filters:
+  and:
+    - file.ext == "md"
+    - authors != null
+properties:
+  authors:
+    displayName: Authors
+  file.name:
+    displayName: Paper
+  year:
+    displayName: Year
+  category:
+    displayName: Category
+  journal:
+    displayName: Journal
+views:
+  - type: table
+    name: Papers by Researcher
+    order:
+      - authors
+      - file.name
+      - year
+      - category
+      - journal
+    sort: []
+    columnSize:
+      note.authors: 184
+  - type: table
+    name: By Year (Recent First)
+    order:
+      - authors
+      - file.name
+      - year
+      - category
+    sort: []

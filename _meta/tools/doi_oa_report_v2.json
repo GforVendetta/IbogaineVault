@@ -1,0 +1,2703 @@
+[
+  {
+    "filename": "1957/Schneider1957_Neuropharmacological_Studies_Ibogaine.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1957
+  },
+  {
+    "filename": "1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1969
+  },
+  {
+    "filename": "1971/Dhahir1971_Ibogaine_Serotonin_Toxicity.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1971
+  },
+  {
+    "filename": "1991/Glick1991_Ibogaine_Morphine_Self_Administration.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/0014-2999(91)90474-5",
+    "year": 1991,
+    "publisher": "Elsevier BV",
+    "journal": "European Journal of Pharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/0014-2999(91)90634-3",
+    "year": 1991,
+    "publisher": "Elsevier BV",
+    "journal": "European Journal of Pharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "1992/Deecher1992_Radioligand_Binding_Mechanisms.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/0006-8993(92)90661-R",
+    "year": 1992,
+    "publisher": "Elsevier BV",
+    "journal": "Brain Research",
+    "licence": ""
+  },
+  {
+    "filename": "1992/Frances1992_Ibogaine_Morphine_Withdrawal_Mice.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1992
+  },
+  {
+    "filename": "1992/Glick1992_Ibogaine_Morphine_Withdrawal_Rats.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1992
+  },
+  {
+    "filename": "1992/Sershen1992_Ibogaine_Cocaine_Locomotor.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/0024-3205(92)90344-O",
+    "year": 1992,
+    "publisher": "Elsevier BV",
+    "journal": "Life Sciences",
+    "licence": ""
+  },
+  {
+    "filename": "1993/Cappendijk1993_Ibogaine_Cocaine_Self_Administration.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/0014-2999(93)90212-Z",
+    "year": 1993,
+    "publisher": "Elsevier BV",
+    "journal": "European Journal of Pharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "1993/OHearn1993_Purkinje_Cell_Degeneration.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/0306-4522(93)90500-f",
+    "year": 1993,
+    "publisher": "Elsevier BV",
+    "journal": "Neuroscience",
+    "licence": ""
+  },
+  {
+    "filename": "1994/Glick1994_Iboga_Alkaloids_Self_Administration.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/0006-8993(94)90948-2",
+    "year": 1994,
+    "publisher": "Elsevier BV",
+    "journal": "Brain Research",
+    "licence": ""
+  },
+  {
+    "filename": "1994/Popik1994_Ibogaine_NMDA_MK801_Binding.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1994
+  },
+  {
+    "filename": "1994/Sershen1994_Ibogaine_Cocaine_Preference_Mice.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/0091-3057(94)90105-8",
+    "year": 1994,
+    "publisher": "Elsevier BV",
+    "journal": "Pharmacology Biochemistry and Behavior",
+    "licence": ""
+  },
+  {
+    "filename": "1994/Sheppard1994_Preliminary_Investigation_Ibogaine.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1016/0740-5472(94)90049-3",
+    "year": 1994,
+    "publisher": "Elsevier BV",
+    "journal": "Journal of Substance Abuse Treatment",
+    "licence": ""
+  },
+  {
+    "filename": "1995/Bowen1995_Sigma_Receptor_Selectivity.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/0014-2999(95)00247-I",
+    "year": 1995,
+    "publisher": "Elsevier BV",
+    "journal": "European Journal of Pharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "1995/Dworkin1995_Ibogaine_Food_Cocaine_Heroin_Rats.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "1995/Hearn1995_Noribogaine_Metabolite.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "1995/Mash1995_Noribogaine_SERT_Identification.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by-nc-nd",
+    "doi": "10.1016/0024-3205(95)00273-9",
+    "year": 1995,
+    "publisher": "Elsevier BV",
+    "journal": "Life Sciences",
+    "licence": "cc-by-nc-nd"
+  },
+  {
+    "filename": "1995/Pearl1995_Noribogaine_Opioid_Binding.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/0006-8993(95)00123-8",
+    "year": 1995,
+    "publisher": "Elsevier BV",
+    "journal": "Brain Research",
+    "licence": ""
+  },
+  {
+    "filename": "1995/Popik1995_100Years_Ibogaine_Review.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "1995/Rezvani1995_Ibogaine_Alcohol_Preferring_Rats.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/0091-3057(95)00152-m",
+    "year": 1995,
+    "publisher": "Elsevier BV",
+    "journal": "Pharmacology Biochemistry and Behavior",
+    "licence": ""
+  },
+  {
+    "filename": "1995/Sweetnam1995_Receptor_Binding_Profile.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Springer Science and Business Media LLC",
+    "doi": "10.1007/BF02245936",
+    "year": 1995,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Psychopharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "1996/Benwell1996_Ibogaine_Nicotine_Dopamine_Behaviour.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1996
+  },
+  {
+    "filename": "1996/Chen1996_Ibogaine_NMDA_Receptor_Block.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/0028-3908(96)84107-4",
+    "year": 1996,
+    "publisher": "Elsevier BV",
+    "journal": "Neuropharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "1996/Glick1996_18MC_NonToxic.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1996
+  },
+  {
+    "filename": "1996/Hough1996_Tissue_Distribution.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1996
+  },
+  {
+    "filename": "1996/Layer1996_IbogaineAnalogs_NMDA.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/0014-2999(96)00304-4",
+    "year": 1996,
+    "publisher": "Elsevier BV",
+    "journal": "European Journal of Pharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "1996/Lotsof1996_Trauma_Abreaction.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1996
+  },
+  {
+    "filename": "1996/Molinari1996_Ibogaine_Neurotoxicity_Reevaluation.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/0006-8993(96)00739-1",
+    "year": 1996,
+    "publisher": "Elsevier BV",
+    "journal": "Brain Research",
+    "licence": ""
+  },
+  {
+    "filename": "1996/OCallaghan1996_Astrogliosis_Neurotoxicity.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1111/j.1749-6632.1996.tb17443.x",
+    "year": 1996,
+    "publisher": "Wiley",
+    "journal": "Annals of the New York Academy of Sciences",
+    "licence": ""
+  },
+  {
+    "filename": "1996/Reid1996_Local_Ibogaine_Dopamine.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1996
+  },
+  {
+    "filename": "1996/Scallet1996_Ibogaine_Neurodegeneration_Rat_Mouse_Cerebellum.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1996
+  },
+  {
+    "filename": "1996/Staley1996_Noribogaine_Receptor_Binding.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Springer Science and Business Media LLC",
+    "doi": "10.1007/BF02805969",
+    "year": 1996,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Psychopharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1997
+  },
+  {
+    "filename": "1998/Glick1998_18MC_Nicotine.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1998
+  },
+  {
+    "filename": "1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1111/j.1749-6632.1998.tb08237.x",
+    "year": 1998,
+    "publisher": "Wiley",
+    "journal": "Annals of the New York Academy of Sciences",
+    "licence": ""
+  },
+  {
+    "filename": "1998/Luciano1998_Observations_Ibogaine_Treatment.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1111/j.1521-0391.1998.tb00472.x",
+    "year": 1998,
+    "publisher": "Wiley",
+    "journal": "American Journal on Addictions",
+    "licence": ""
+  },
+  {
+    "filename": "1998/Mah1998_Nicotinic_Receptor_Mechanism.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1998
+  },
+  {
+    "filename": "1998/Mash1998_Medication_Development_Ibogaine.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1111/j.1749-6632.1998.tb08242.x",
+    "year": 1998,
+    "publisher": "Wiley",
+    "journal": "Annals of the New York Academy of Sciences",
+    "licence": ""
+  },
+  {
+    "filename": "1998/Obach1998_CYP2D6_Ibogaine_Metabolism.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1998
+  },
+  {
+    "filename": "1998/Pablo1998_Noribogaine_MuOpioid_Agonist.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Ovid Technologies (Wolters Kluwer Health)",
+    "doi": "10.1097/00001756-199801050-00022",
+    "year": 1998,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "journal": "Neuroreport",
+    "licence": ""
+  },
+  {
+    "filename": "1998/Wittier1998_Ibogaine_GeneralReview.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1998
+  },
+  {
+    "filename": "1999/Alper1999_Acute_Opioid_Withdrawal.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1999
+  },
+  {
+    "filename": "1999/Glick1999_18MC_Review_CNS_Drugs.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1999
+  },
+  {
+    "filename": "1999/Maisonneuve1999_18MC_Morphine_Reinforcement.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/S0014-2999(99)00560-9",
+    "year": 1999,
+    "publisher": "Elsevier BV",
+    "journal": "European Journal of Pharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2000/Alper2000_Ibogaine_Acute_Opioid_Withdrawal.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1111/j.1749-6632.2000.tb06687.x",
+    "year": 2000,
+    "publisher": "Wiley",
+    "journal": "Annals of the New York Academy of Sciences",
+    "licence": ""
+  },
+  {
+    "filename": "2000/Binienda2000_Electrophysiology_IBO_Cocaine.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2000
+  },
+  {
+    "filename": "2000/Glick2000_18-MC.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2000
+  },
+  {
+    "filename": "2000/Glick2000_Legacy_African_Shrub.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1111/j.1749-6632.2000.tb06677.x",
+    "year": 2000,
+    "publisher": "Wiley",
+    "journal": "Annals of the New York Academy of Sciences",
+    "licence": ""
+  },
+  {
+    "filename": "2000/Luciano2000_Neurologic_EEG_Medical_Observations.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2000
+  },
+  {
+    "filename": "2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2000
+  },
+  {
+    "filename": "2000/Mundey2000_Ibogaine_18MC_Smooth_Muscle.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2000
+  },
+  {
+    "filename": "2000/Xu2000_Ibogaine_Neuropathology_Rat_Cerebellum.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1093/toxsci/57.1.95",
+    "year": 2000,
+    "publisher": "Oxford University Press (OUP)",
+    "journal": "Toxicological Sciences",
+    "licence": ""
+  },
+  {
+    "filename": "2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2001
+  },
+  {
+    "filename": "2001/Alper2001_Ibogaine_Review.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2001
+  },
+  {
+    "filename": "2001/Baumann2001_Neurobiological_Effects_Noribogaine.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2001
+  },
+  {
+    "filename": "2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2001
+  },
+  {
+    "filename": "2001/Frenken2001_RootsUp_INTASH_SelfHelp.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2001
+  },
+  {
+    "filename": "2001/Glick2001_Mechanisms_Action_Ibogaine_18MC.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier",
+    "doi": "10.1016/S0099-9598(01)56006-X",
+    "year": 2001,
+    "publisher": "Elsevier",
+    "journal": "\u0098The \u009cAlkaloids. Chemistry and biology/\u0098The \u009calkaloids. Chemistry and biology",
+    "licence": ""
+  },
+  {
+    "filename": "2001/Lotsof2001_Case_Studies_Patient_Management.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier",
+    "doi": "10.1016/s0099-9598(01)56020-4",
+    "year": 2001,
+    "publisher": "Elsevier",
+    "journal": "\u0098The \u009cAlkaloids. Chemistry and biology/\u0098The \u009calkaloids. Chemistry and biology",
+    "licence": ""
+  },
+  {
+    "filename": "2001/Mash2001_Ibogaine_Heroin_Withdrawal.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2001
+  },
+  {
+    "filename": "2002/Freelander2002_Comprehensive_Review.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2002
+  },
+  {
+    "filename": "2002/Marker2002_Ibogaine_Related_Fatality.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1051/ata/2002012",
+    "year": 2002,
+    "publisher": "EDP Sciences",
+    "journal": "Annales de Toxicologie Analytique",
+    "licence": ""
+  },
+  {
+    "filename": "2003/Hoeck2003_Enantioselective_Synthesis_Iboga_Intermediates.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2003
+  },
+  {
+    "filename": "2004/Bastiaans2004_Life_After_Ibogaine.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2004
+  },
+  {
+    "filename": "2004/Hittner2004_Ibogaine_Treatment_Recommendations_Model_Fitting.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Informa UK Limited",
+    "doi": "10.1080/02791072.2004.10399729",
+    "year": 2004,
+    "publisher": "Informa UK Limited",
+    "journal": "Journal of Psychoactive Drugs",
+    "licence": ""
+  },
+  {
+    "filename": "2005/He2005_GDNF_Ibogaine_Alcohol.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1523/JNEUROSCI.3959-04.2005",
+    "year": 2005,
+    "publisher": "Society for Neuroscience",
+    "journal": "Journal of Neuroscience",
+    "licence": ""
+  },
+  {
+    "filename": "2005/Kroupa2005_Boosters_Maintenance.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2005
+  },
+  {
+    "filename": "2005/Vastag2005_Ibogaine_Vast_Uncontrolled_Experiment.md",
+    "tier": "AMBER",
+    "reason": "Non-OA, publisher: American Association for the Advancement of Science (AAAS)",
+    "doi": "10.1126/science.308.5720.345",
+    "year": 2005,
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "journal": "Science",
+    "licence": ""
+  },
+  {
+    "filename": "2006/He2006_Ibogaine_and_GDNF.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1096/fj.06-6394fje",
+    "year": 2006,
+    "publisher": "Wiley",
+    "journal": "The FASEB Journal",
+    "licence": ""
+  },
+  {
+    "filename": "2006/Kontrimaviciute2006_LCMS_Method_Ibogaine_Noribogaine.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.jchromb.2006.05.035",
+    "year": 2006,
+    "publisher": "Elsevier BV",
+    "journal": "Journal of Chromatography B",
+    "licence": ""
+  },
+  {
+    "filename": "2006/Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1093/jat/30.7.434",
+    "year": 2006,
+    "publisher": "Oxford University Press (OUP)",
+    "journal": "Journal of Analytical Toxicology",
+    "licence": ""
+  },
+  {
+    "filename": "2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.mehy.2006.02.050",
+    "year": 2006,
+    "publisher": "Elsevier BV",
+    "journal": "Medical Hypotheses",
+    "licence": ""
+  },
+  {
+    "filename": "2006/Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.ejphar.2006.09.008",
+    "year": 2006,
+    "publisher": "Elsevier BV",
+    "journal": "European Journal of Pharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2007/Alper2007_Ibogaine_Treatment_Addictions.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2007
+  },
+  {
+    "filename": "2008/Alper2008_Ibogaine_Medical_Subculture.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.jep.2007.08.034",
+    "year": 2008,
+    "publisher": "Elsevier BV",
+    "journal": "Journal of Ethnopharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2008/Cheze2008_Ibogaine_Noribogaine_LC-MSMS_Drowning_Death.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.forsciint.2007.08.013",
+    "year": 2008,
+    "publisher": "Elsevier BV",
+    "journal": "Forensic Science International",
+    "licence": ""
+  },
+  {
+    "filename": "2008/Maciulaitis2008_Ibogaine_Pharmacology_Narrative_Review.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1177/0960327107087802",
+    "year": 2008,
+    "publisher": "SAGE Publications",
+    "journal": "Human & Experimental Toxicology",
+    "licence": ""
+  },
+  {
+    "filename": "2009/Hoelen2009_Long_QT_Ibogaine.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1056/NEJMc0804248",
+    "year": 2009,
+    "publisher": "Massachusetts Medical Society",
+    "journal": "New England Journal of Medicine",
+    "licence": ""
+  },
+  {
+    "filename": "2009/Paskulin2009_Translated_French_Iboga_Between_Myth_Reality.md",
+    "tier": "AMBER",
+    "reason": "Non-OA, publisher: JLE",
+    "doi": "10.1007/s10298-009-0366-y",
+    "year": 2009,
+    "publisher": "JLE",
+    "journal": "Phytoth\u00e9rapie",
+    "licence": ""
+  },
+  {
+    "filename": "2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2010
+  },
+  {
+    "filename": "2010/Carnicella2010_Noribogaine_18MC_GDNF.md",
+    "tier": "GREEN",
+    "reason": "Open Access (green), licence: other-oa",
+    "doi": "10.1111/j.1369-1600.2010.00251.x",
+    "year": 2010,
+    "publisher": "Wiley",
+    "journal": "Addiction Biology",
+    "licence": "other-oa"
+  },
+  {
+    "filename": "2010/Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2010
+  },
+  {
+    "filename": "2010/Ray2010_Psychedelics_Human_Receptorome.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.1371/journal.pone.0009019",
+    "year": 2010,
+    "publisher": "Public Library of Science (PLoS)",
+    "journal": "PLoS ONE",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2011/Alper2011_Ibogaine_Inhibition_AChE.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2011
+  },
+  {
+    "filename": "2011/Donnelly2011_Ibogaine_Drug_Alcohol_Addiction_Legal.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Informa UK Limited",
+    "doi": "10.1080/01947648.2011.550832",
+    "year": 2011,
+    "publisher": "Informa UK Limited",
+    "journal": "Journal of Legal Medicine",
+    "licence": ""
+  },
+  {
+    "filename": "2011/Houenou2011_Ibogaine_Psychosis_Schizophrenia.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Ovid Technologies (Wolters Kluwer Health)",
+    "doi": "10.1097/JCP.0b013e31822c6509",
+    "year": 2011,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "journal": "Journal of Clinical Psychopharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2011/Rodger2011_SocialContext_Subcultural_DrugPolicy.md",
+    "tier": "AMBER",
+    "reason": "Non-OA, publisher: Emerald",
+    "doi": "10.1108/17459261111174037",
+    "year": 2011,
+    "publisher": "Emerald",
+    "journal": "Drugs and Alcohol Today",
+    "licence": ""
+  },
+  {
+    "filename": "2012/Alper2012_Ibogaine_Fatalities.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1111/j.1556-4029.2011.02008.x",
+    "year": 2012,
+    "publisher": "Wiley",
+    "journal": "Journal of Forensic Sciences",
+    "licence": ""
+  },
+  {
+    "filename": "2012/Booze2012_MPC_Ibogaine_Toxicity.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2012
+  },
+  {
+    "filename": "2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1111/j.1369-1600.2012.00447.x",
+    "year": 2012,
+    "publisher": "Wiley",
+    "journal": "Addiction Biology",
+    "licence": ""
+  },
+  {
+    "filename": "2012/Paling2012_Life_Threatening_Complications.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2012
+  },
+  {
+    "filename": "2012/Paskulin2012_Metabolic_Plasticity_Ibogaine_Economising_Energy.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.jep.2012.06.039",
+    "year": 2012,
+    "publisher": "Elsevier BV",
+    "journal": "Journal of Ethnopharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Informa UK Limited",
+    "doi": "10.3109/15563650.2011.647031",
+    "year": 2012,
+    "publisher": "Informa UK Limited",
+    "journal": "Clinical Toxicology",
+    "licence": ""
+  },
+  {
+    "filename": "2012/Shawn2012_Ibogaine_TdP_VT.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Informa UK Limited",
+    "doi": "10.3109/15563650.2012.700015",
+    "year": 2012,
+    "publisher": "Informa UK Limited",
+    "journal": "Clinical Toxicology",
+    "licence": ""
+  },
+  {
+    "filename": "2012/Sisko2012_Vanishing_World_Iboga_Sustainability.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2012
+  },
+  {
+    "filename": "2012/Warrick2012_Ibogaine_Fatality.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Informa UK Limited",
+    "doi": "10.3109/15563650.2012.700015",
+    "year": 2012,
+    "publisher": "Informa UK Limited",
+    "journal": "Clinical Toxicology",
+    "licence": ""
+  },
+  {
+    "filename": "2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.1371/journal.pone.0077262",
+    "year": 2013,
+    "publisher": "Public Library of Science (PLoS)",
+    "journal": "PLoS ONE",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2013/Asua2013_Ibogaine_Toxicity_UK_Case.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1093/bja/aet396",
+    "year": 2013,
+    "publisher": "Elsevier BV",
+    "journal": "British Journal of Anaesthesia",
+    "licence": ""
+  },
+  {
+    "filename": "2013/Brown2013_Ibogaine_Treatment_Substance_Dependence.md",
+    "tier": "AMBER",
+    "reason": "Non-OA, publisher: Bentham Science Publishers Ltd.",
+    "doi": "10.2174/15672050113109990001",
+    "year": 2013,
+    "publisher": "Bentham Science Publishers Ltd.",
+    "journal": "Current Drug Abuse Reviews",
+    "licence": ""
+  },
+  {
+    "filename": "2013/Cachat2013_Ibogaine_Zebrafish.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.bbr.2012.08.041",
+    "year": 2013,
+    "publisher": "Elsevier BV",
+    "journal": "Behavioural Brain Research",
+    "licence": ""
+  },
+  {
+    "filename": "2013/Jalal2013_Ibogaine_Death_Heroin_Case.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1111/j.1521-0391.2012.00330.x",
+    "year": 2013,
+    "publisher": "Wiley",
+    "journal": "American Journal on Addictions",
+    "licence": ""
+  },
+  {
+    "filename": "2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by",
+    "doi": "10.1016/j.taap.2013.05.012",
+    "year": 2013,
+    "publisher": "Elsevier BV",
+    "journal": "Toxicology and Applied Pharmacology",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2013/Mazoyer2013_Fatality_Case.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1111/1556-4029.12250",
+    "year": 2013,
+    "publisher": "Wiley",
+    "journal": "Journal of Forensic Sciences",
+    "licence": ""
+  },
+  {
+    "filename": "2013/Papadodima2013_Ibogaine_Sudden_Death_Case.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.jflm.2013.06.032",
+    "year": 2013,
+    "publisher": "Elsevier BV",
+    "journal": "Journal of Forensic and Legal Medicine",
+    "licence": ""
+  },
+  {
+    "filename": "2014/Kingsley-Brown2014_Ibo_Tx_for_Substance_Dependence.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2014
+  },
+  {
+    "filename": "2014/Prior2014_Ibogaine_Cocaine_Pilot_RCT.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2014
+  },
+  {
+    "filename": "2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: SAGE Publications",
+    "doi": "10.1177/0269881114552713",
+    "year": 2014,
+    "publisher": "SAGE Publications",
+    "journal": "Journal of Psychopharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2014/Thurner2014_hERG_Channel_Block_Ibogaine.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1124/jpet.113.209643",
+    "year": 2014,
+    "publisher": "Elsevier BV",
+    "journal": "Journal of Pharmacology and Experimental Therapeutics",
+    "licence": ""
+  },
+  {
+    "filename": "2014/Vlaanderen2014_Cardiac_Arrest_Ibogaine.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.3109/15563650.2014.927477",
+    "year": 2014,
+    "publisher": "Informa UK Limited",
+    "journal": "Clinical Toxicology",
+    "licence": ""
+  },
+  {
+    "filename": "2015/Breuer2015_Herbal_Seizures_Case_Report.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.1186/s13256-015-0731-4",
+    "year": 2015,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Journal of Medical Case Reports",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: American Chemical Society (ACS)",
+    "doi": "10.1021/acschembio.5b00678",
+    "year": 2015,
+    "publisher": "American Chemical Society (ACS)",
+    "journal": "ACS Chemical Biology",
+    "licence": ""
+  },
+  {
+    "filename": "2015/Glue2015_Ibogaine_CYP2D6_Activity.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1002/jcph.471",
+    "year": 2015,
+    "publisher": "Wiley",
+    "journal": "The Journal of Clinical Pharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2015/Glue2015_Noribogaine_Ascending_Doses.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1002/jcph.404",
+    "year": 2015,
+    "publisher": "Wiley",
+    "journal": "The Journal of Clinical Pharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2015/Hildyard2015_QT_Prolongation_TdP_Ibogaine.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.jemermed.2015.06.051",
+    "year": 2015,
+    "publisher": "Elsevier BV",
+    "journal": "Journal of Emergency Medicine",
+    "licence": ""
+  },
+  {
+    "filename": "2015/Koenig2015_Cardiac_Mechanisms.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.3390/molecules20022208",
+    "year": 2015,
+    "publisher": "MDPI AG",
+    "journal": "Molecules",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2015/Marta2015_Ibogaine_Mania_Case_Reports.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1111/ajad.12209",
+    "year": 2015,
+    "publisher": "Wiley",
+    "journal": "American Journal on Addictions",
+    "licence": ""
+  },
+  {
+    "filename": "2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.jep.2015.01.037",
+    "year": 2015,
+    "publisher": "Elsevier BV",
+    "journal": "Journal of Ethnopharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2015/OConnell2015_Internet_Ibogaine_Toxicity.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.ajem.2014.12.023",
+    "year": 2015,
+    "publisher": "Elsevier BV",
+    "journal": "The American Journal of Emergency Medicine",
+    "licence": ""
+  },
+  {
+    "filename": "2016/Alper2016_hERG_Blockade.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Springer Science and Business Media LLC",
+    "doi": "10.1007/s12012-015-9311-5",
+    "year": 2016,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Cardiovascular Toxicology",
+    "licence": ""
+  },
+  {
+    "filename": "2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.1038/tp.2016.71",
+    "year": 2016,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Translational Psychiatry",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2016/CloutierGill2016_Ibogaine_OUD_Case_Report.md",
+    "tier": "GREEN",
+    "reason": "Open Access (green), licence: not specified",
+    "doi": "10.1080/02791072.2016.1180467",
+    "year": 2016,
+    "publisher": "Informa UK Limited",
+    "journal": "Journal of Psychoactive Drugs",
+    "licence": ""
+  },
+  {
+    "filename": "2016/Forsyth2016_Low_Dose_Ibogaine_Mood_State_Psychological_Performance.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.jep.2016.05.022",
+    "year": 2016,
+    "publisher": "Elsevier BV",
+    "journal": "Journal of Ethnopharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2016/Glue2016_Noribogaine_Opioid_Patients_Safety.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1002/cpdd.254",
+    "year": 2016,
+    "publisher": "Wiley",
+    "journal": "Clinical Pharmacology in Drug Development",
+    "licence": ""
+  },
+  {
+    "filename": "2016/Glue2016b_Methadone_Morphine_Switch.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1002/jcph.704",
+    "year": 2016,
+    "publisher": "Wiley",
+    "journal": "The Journal of Clinical Pharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2016/Litjens2016_How_Toxic_Is_Ibogaine.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Informa UK Limited",
+    "doi": "10.3109/15563650.2016.1138226",
+    "year": 2016,
+    "publisher": "Informa UK Limited",
+    "journal": "Clinical Toxicology",
+    "licence": ""
+  },
+  {
+    "filename": "2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: SAGE Publications",
+    "doi": "10.1177/0269881116641331",
+    "year": 2016,
+    "publisher": "SAGE Publications",
+    "journal": "Journal of Psychopharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2016/Meisner2016_Cardiac_Arrest_Death_Case.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1177/2045125315626073",
+    "year": 2016,
+    "publisher": "SAGE Publications",
+    "journal": "Therapeutic Advances in Psychopharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2016/Schep2016_Ibogaine_Safe_Dose.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.drugalcdep.2016.07.005",
+    "year": 2016,
+    "publisher": "Elsevier BV",
+    "journal": "Drug and Alcohol Dependence",
+    "licence": ""
+  },
+  {
+    "filename": "2017/Davis2017_Ibogaine_Opioid_Outcomes.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: not specified",
+    "doi": "10.1556/2054.01.2017.009",
+    "year": 2017,
+    "publisher": "Akademiai Kiado Zrt.",
+    "journal": "Journal of Psychedelic Studies",
+    "licence": ""
+  },
+  {
+    "filename": "2017/DosSantos2017_Antiaddictive_Ibogaine_Systematic_Review.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: not specified",
+    "doi": "10.1556/2054.01.2016.001",
+    "year": 2017,
+    "publisher": "Akademiai Kiado Zrt.",
+    "journal": "Journal of Psychedelic Studies",
+    "licence": ""
+  },
+  {
+    "filename": "2017/Heink2017_Phenomenology_Ibogaine_ASC.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Informa UK Limited",
+    "doi": "10.1080/02791072.2017.1290855",
+    "year": 2017,
+    "publisher": "Informa UK Limited",
+    "journal": "Journal of Psychoactive Drugs",
+    "licence": ""
+  },
+  {
+    "filename": "2017/Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by",
+    "doi": "10.1080/15563650.2017.1287372",
+    "year": 2017,
+    "publisher": "Informa UK Limited",
+    "journal": "Clinical Toxicology",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2017/Lavaud2017_Iboga_Alkaloids_Chemistry_Review.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Springer International Publishing",
+    "doi": "10.1007/978-3-319-49712-9_2",
+    "year": 2017,
+    "publisher": "Springer International Publishing",
+    "journal": "Fortschritte der Chemie Organischer Naturstoffe/Fortschritte der Chemie organischer Naturstoffe/Progress in the chemistry of organic natural products",
+    "licence": ""
+  },
+  {
+    "filename": "2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by-nc-nd",
+    "doi": "10.1080/00952990.2017.1310218",
+    "year": 2017,
+    "publisher": "Informa UK Limited",
+    "journal": "The American Journal of Drug and Alcohol Abuse",
+    "licence": "cc-by-nc-nd"
+  },
+  {
+    "filename": "2017/Rubi2017_hERG_iPSC_Cardiomyocytes.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by",
+    "doi": "10.1007/s12012-016-9366-y",
+    "year": 2017,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Cardiovascular Toxicology",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2017/Wilkins2017_Methadone_Low_Dose.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by-nc",
+    "doi": "10.1556/2054.01.2017.005",
+    "year": 2017,
+    "publisher": "Akademiai Kiado Zrt.",
+    "journal": "Journal of Psychedelic Studies",
+    "licence": "cc-by-nc"
+  },
+  {
+    "filename": "2018/Bading-Taika2018_Phytochemicals_Iboga_RB_Effects_Dysfunctional_Metabolism_Cognitive_Performance_Mice.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by-nc",
+    "doi": "10.31665/JFB.2018.3154",
+    "year": 2018,
+    "publisher": "International Society for Nutraceuticals & Functional Foods (ISNFF)",
+    "journal": "Journal of Food Bioactives",
+    "licence": "cc-by-nc"
+  },
+  {
+    "filename": "2018/Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier",
+    "doi": "10.1016/bs.pbr.2018.08.002",
+    "year": 2018,
+    "publisher": "Elsevier",
+    "journal": "Progress in brain research",
+    "licence": ""
+  },
+  {
+    "filename": "2018/Brown2018_OUD_Detoxification_Outcomes.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1080/00952990.2017.1320802",
+    "year": 2018,
+    "publisher": "Informa UK Limited",
+    "journal": "The American Journal of Drug and Alcohol Abuse",
+    "licence": ""
+  },
+  {
+    "filename": "2018/Camlin2018_Phenomenological_Ibogaine_Opioid_Use.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: not specified",
+    "doi": "10.1556/2054.2018.004",
+    "year": 2018,
+    "publisher": "Akademiai Kiado Zrt.",
+    "journal": "Journal of Psychedelic Studies",
+    "licence": ""
+  },
+  {
+    "filename": "2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier",
+    "doi": "10.1016/bs.pbr.2018.08.005",
+    "year": 2018,
+    "publisher": "Elsevier",
+    "journal": "Progress in brain research",
+    "licence": ""
+  },
+  {
+    "filename": "2018/Davis2018_Mixed_Method_Persisting_Effects.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Informa UK Limited",
+    "doi": "10.1080/02791072.2018.1487607",
+    "year": 2018,
+    "publisher": "Informa UK Limited",
+    "journal": "Journal of Psychoactive Drugs",
+    "licence": ""
+  },
+  {
+    "filename": "2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.3389/fphar.2018.00374",
+    "year": 2018,
+    "publisher": "Frontiers Media SA",
+    "journal": "Frontiers in Pharmacology",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2018/Knuijver2018_HPPD_Ibogaine_Case_Report.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Ovid Technologies (Wolters Kluwer Health)",
+    "doi": "10.1097/JCP.0000000000000966",
+    "year": 2018,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "journal": "Journal of Clinical Psychopharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2018/Ly2018_Psychedelics_Neural_Plasticity.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: not specified",
+    "doi": "10.1016/j.celrep.2018.05.022",
+    "year": 2018,
+    "publisher": "Elsevier BV",
+    "journal": "Cell Reports",
+    "licence": ""
+  },
+  {
+    "filename": "2018/Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Informa UK Limited",
+    "doi": "10.1080/02791072.2018.1447175",
+    "year": 2018,
+    "publisher": "Informa UK Limited",
+    "journal": "Journal of Psychoactive Drugs",
+    "licence": ""
+  },
+  {
+    "filename": "2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.3389/fphar.2018.00529",
+    "year": 2018,
+    "publisher": "Frontiers Media SA",
+    "journal": "Frontiers in Pharmacology",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2018/Orescanin-Dusic2018_Ibogaine_Uterine_Smooth_Muscle_Contractions_Relation_to_Antioxidant_Enzymes.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by",
+    "doi": "10.1155/2018/5969486",
+    "year": 2018,
+    "publisher": "Wiley",
+    "journal": "Oxidative Medicine and Cellular Longevity",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2018/Rodger2018_Healing_Potential_Ibogaine.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1111/anoc.12088",
+    "year": 2018,
+    "publisher": "Wiley",
+    "journal": "Anthropology of Consciousness",
+    "licence": ""
+  },
+  {
+    "filename": "2018/Steinberg2018_Cardiac_Arrest_Case.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by-nc",
+    "doi": "10.1002/joa3.12061",
+    "year": 2018,
+    "publisher": "Wiley",
+    "journal": "Journal of Arrhythmia",
+    "licence": "cc-by-nc"
+  },
+  {
+    "filename": "2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: American Chemical Society (ACS)",
+    "doi": "10.1021/acschemneuro.8b00294",
+    "year": 2018,
+    "publisher": "American Chemical Society (ACS)",
+    "journal": "ACS Chemical Neuroscience",
+    "licence": ""
+  },
+  {
+    "filename": "2019/Bouso2019_Product_Quality.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.1590/0101-60830000000231",
+    "year": 2019,
+    "publisher": "FapUNIFESP (SciELO)",
+    "journal": "Archives of Clinical Psychiatry (S\u00e3o Paulo)",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2019/Brown2019_Ibogaine_Subjective_Experience_OUD.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Informa UK Limited",
+    "doi": "10.1080/02791072.2019.1598603",
+    "year": 2019,
+    "publisher": "Informa UK Limited",
+    "journal": "Journal of Psychoactive Drugs",
+    "licence": ""
+  },
+  {
+    "filename": "2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms.md",
+    "tier": "GREEN",
+    "reason": "Open Access (green), licence: not specified",
+    "doi": "10.1038/s41586-019-1135-1",
+    "year": 2019,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Nature",
+    "licence": ""
+  },
+  {
+    "filename": "2019/Grogan2019_Seizures_QT_Prolongation_Cardiac.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.jemermed.2019.06.052",
+    "year": 2019,
+    "publisher": "Elsevier BV",
+    "journal": "Journal of Emergency Medicine",
+    "licence": ""
+  },
+  {
+    "filename": "2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md",
+    "tier": "GREEN",
+    "reason": "Open Access (green), licence: not specified",
+    "doi": "10.1039/d0np00033g",
+    "year": 2019,
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "journal": "Natural Product Reports",
+    "licence": ""
+  },
+  {
+    "filename": "2019/Marton2019_Ibogaine_GDNF_BDNF.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.3389/fphar.2019.00193",
+    "year": 2019,
+    "publisher": "Frontiers Media SA",
+    "journal": "Frontiers in Pharmacology",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2020/Barber2020_Consumer_Views_Online_Fora.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.drugpo.2020.102857",
+    "year": 2020,
+    "publisher": "Elsevier BV",
+    "journal": "International Journal of Drug Policy",
+    "licence": ""
+  },
+  {
+    "filename": "2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: publisher-specific-oa",
+    "doi": "10.1021/acsptsci.0c00102",
+    "year": 2020,
+    "publisher": "American Chemical Society (ACS)",
+    "journal": "ACS Pharmacology & Translational Science",
+    "licence": "publisher-specific-oa"
+  },
+  {
+    "filename": "2020/Canessa2020_Ibogaine_Noribogaine_in_Tx_Review_Safety_Efficacy.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2020
+  },
+  {
+    "filename": "2020/Davis2020_SpecialOps_Veterans_Trauma.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by-nc",
+    "doi": "10.1177/2470547020939564",
+    "year": 2020,
+    "publisher": "SAGE Publications",
+    "journal": "Chronic Stress",
+    "licence": "cc-by-nc"
+  },
+  {
+    "filename": "2020/Ekaghba2020_Acute_Toxicity_Aqueous_Iboga_TA.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2020
+  },
+  {
+    "filename": "2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Wiley",
+    "doi": "10.1111/anoc.12119",
+    "year": 2020,
+    "publisher": "Wiley",
+    "journal": "Anthropology of Consciousness",
+    "licence": ""
+  },
+  {
+    "filename": "2020/Rodriguez2020_Ibogaine_Noribogaine_Antidepressant_Rats.md",
+    "tier": "GREEN",
+    "reason": "Open Access (green), licence: cc-by-nc",
+    "doi": "10.1021/acschemneuro.0c00152",
+    "year": 2020,
+    "publisher": "American Chemical Society (ACS)",
+    "journal": "ACS Chemical Neuroscience",
+    "licence": "cc-by-nc"
+  },
+  {
+    "filename": "2020/Wilson2020_Novel_Tx_OUD_Ibogaine_Iboga_Case_Study.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: other-oa",
+    "doi": "10.1556/2054.2020.00133",
+    "year": 2020,
+    "publisher": "Akademiai Kiado Zrt.",
+    "journal": "Journal of Evolutionary Psychology",
+    "licence": "other-oa"
+  },
+  {
+    "filename": "2021/Acimovic2021_Ibogaine_Death_Case_Report.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Springer Science and Business Media LLC",
+    "doi": "10.1007/s12024-020-00342-0",
+    "year": 2021,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Forensic Science Medicine and Pathology",
+    "licence": ""
+  },
+  {
+    "filename": "2021/Bekale2021_Holy_Spirit_Iboga_Bwiti.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2021
+  },
+  {
+    "filename": "2021/Cameron2021_Tabernanthalog_Non_Hallucinogenic_Analog.md",
+    "tier": "GREEN",
+    "reason": "Open Access (green), licence: not specified",
+    "doi": "10.1038/s41586-020-3008-z",
+    "year": 2021,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Nature",
+    "licence": ""
+  },
+  {
+    "filename": "2021/Havel2021_Oxa-Iboga_Opioid_Addiction.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: not specified",
+    "doi": "10.1101/2021.07.22.453441",
+    "year": 2021,
+    "publisher": "openRxiv",
+    "journal": null,
+    "licence": ""
+  },
+  {
+    "filename": "2021/Knuijver2021_Safety_Opioid_Detox.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1111/add.15448",
+    "year": 2021,
+    "publisher": "Wiley",
+    "journal": "Addiction",
+    "licence": ""
+  },
+  {
+    "filename": "2021/Lotsof2021_To_Have_or_Have_Not.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2021
+  },
+  {
+    "filename": "2021/Lukasiewicz2021_Serotonergic_Psychedelics_Neuroplasticity.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.3389/fnmol.2021.748359",
+    "year": 2021,
+    "publisher": "Frontiers Media SA",
+    "journal": "Frontiers in Molecular Neuroscience",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2021/Luz2021_Toxicity_Therapeutic_Potential.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1080/17425255.2021.1944099",
+    "year": 2021,
+    "publisher": "Informa UK Limited",
+    "journal": "Expert Opinion on Drug Metabolism & Toxicology",
+    "licence": ""
+  },
+  {
+    "filename": "2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Springer Science and Business Media LLC",
+    "doi": "10.1007/s00213-021-05964-y",
+    "year": 2021,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Psychopharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2021/Shi2021_NAM_Ibogaine_Cardiotoxicity.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.14573/altex.2103311",
+    "year": 2021,
+    "publisher": "ALTEX Edition",
+    "journal": "ALTEX",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2021/Underwood2021_Narrative_Review_Ibogaine_Literature.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: other-oa",
+    "doi": "10.1556/2054.2021.00152",
+    "year": 2021,
+    "publisher": "Akademiai Kiado Zrt.",
+    "journal": "Journal of Psychedelic Studies",
+    "licence": "other-oa"
+  },
+  {
+    "filename": "2022/Fernandes-Nascimento2022_Microdosing_Bipolar.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by-nc",
+    "doi": "10.47626/1516-4446-2021-2359",
+    "year": 2022,
+    "publisher": "EDITORA SCIENTIFIC",
+    "journal": "Brazilian Journal of Psychiatry",
+    "licence": "cc-by-nc"
+  },
+  {
+    "filename": "2022/Kargbo2022_Ibogaine_and_Analogs_Therapeutics_Neurological_Psychiatric_Disorders.md",
+    "tier": "GREEN",
+    "reason": "Open Access (green), licence: not specified",
+    "doi": "10.1021/acsmedchemlett.2c00214",
+    "year": 2022,
+    "publisher": "American Chemical Society (ACS)",
+    "journal": "ACS Medicinal Chemistry Letters",
+    "licence": ""
+  },
+  {
+    "filename": "2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1016/j.jsat.2021.108717",
+    "year": 2022,
+    "publisher": "Elsevier BV",
+    "journal": "Journal of Substance Abuse Treatment",
+    "licence": ""
+  },
+  {
+    "filename": "2022/Malcolm2022_Addiction_Pharmacology_Ibogaine.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2022
+  },
+  {
+    "filename": "2022/Martins2022_Drug_Transporters_Ibogaine_PK.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.3389/fphar.2022.855000",
+    "year": 2022,
+    "publisher": "Frontiers Media SA",
+    "journal": "Frontiers in Pharmacology",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2022/Rodriguez-Cano2022_Underground_Ibogaine_Use_for_SUD_Tx_Qualitative_Analysis_Subjective_Experiences.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1111/dar.13587",
+    "year": 2022,
+    "publisher": "Wiley",
+    "journal": "Drug and Alcohol Review",
+    "licence": ""
+  },
+  {
+    "filename": "2022/Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs.md",
+    "tier": "GREEN",
+    "reason": "Open Access (green), licence: not specified",
+    "doi": "10.1021/acs.jmedchem.2c01562",
+    "year": 2022,
+    "publisher": "American Chemical Society (ACS)",
+    "journal": "Journal of Medicinal Chemistry",
+    "licence": ""
+  },
+  {
+    "filename": "2023/Alfonso2023_Ibogaine_Atypical_Psychedelic_Review_ES.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2023
+  },
+  {
+    "filename": "2023/Arias2023_Catharanthine_18-MC.md",
+    "tier": "GREEN",
+    "reason": "Open Access (green), licence: not specified",
+    "doi": "10.1016/j.ejphar.2022.175454",
+    "year": 2023,
+    "publisher": "Elsevier BV",
+    "journal": "European Journal of Pharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.prenap.2023.100006",
+    "year": 2023,
+    "publisher": "Elsevier BV",
+    "journal": "Pharmacological Research - Natural Products",
+    "licence": ""
+  },
+  {
+    "filename": "2023/Cherian2023_Ibogaine_Cognitive_Functioning.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1017/S1355617723011049",
+    "year": 2023,
+    "publisher": "Cambridge University Press (CUP)",
+    "journal": "Journal of the International Neuropsychological Society",
+    "licence": ""
+  },
+  {
+    "filename": "2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by-nc-nd",
+    "doi": "10.1080/00952990.2023.2220874",
+    "year": 2023,
+    "publisher": "Informa UK Limited",
+    "journal": "The American Journal of Drug and Alcohol Abuse",
+    "licence": "cc-by-nc-nd"
+  },
+  {
+    "filename": "2023/Dickinson2023_Ibogaine_Reduced_Severe_Neuropathic_Pain_Brachial_Plexus_Nerve_Root_Avulsion.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.3389/fpain.2023.1256396",
+    "year": 2023,
+    "publisher": "Frontiers Media SA",
+    "journal": "Frontiers in Pain Research",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by-nc-nd",
+    "doi": "10.1111/anoc.12172",
+    "year": 2023,
+    "publisher": "Wiley",
+    "journal": "Anthropology of Consciousness",
+    "licence": "cc-by-nc-nd"
+  },
+  {
+    "filename": "2023/Faerman2023_Ibogaine_Veterans_PTSD.md",
+    "tier": "GREEN",
+    "reason": "Open Access (bronze), licence: not specified",
+    "doi": "10.1093/sleep/zsad077.0665",
+    "year": 2023,
+    "publisher": "Oxford University Press (OUP)",
+    "journal": "SLEEP",
+    "licence": ""
+  },
+  {
+    "filename": "2023/Fernandes-Nascimento2023_Scientometric_Analysis_Three_Decades_of_Ibogaine_Research.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Informa UK Limited",
+    "doi": "10.1080/02791072.2023.2276230",
+    "year": 2023,
+    "publisher": "Informa UK Limited",
+    "journal": "Journal of Psychoactive Drugs",
+    "licence": ""
+  },
+  {
+    "filename": "2023/Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by",
+    "doi": "10.1080/00952990.2023.2246637",
+    "year": 2023,
+    "publisher": "Informa UK Limited",
+    "journal": "The American Journal of Drug and Alcohol Abuse",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by-nc-nd",
+    "doi": "10.1016/j.phrs.2022.106620",
+    "year": 2023,
+    "publisher": "Elsevier BV",
+    "journal": "Pharmacological Research",
+    "licence": "cc-by-nc-nd"
+  },
+  {
+    "filename": "2023/Mosca2023_Ibogaine_Noribogaine_SUDs_Systematic_Review.md",
+    "tier": "GREEN",
+    "reason": "Open Access (green), licence: cc-by",
+    "doi": "10.2174/1570159X21666221017085612",
+    "year": 2023,
+    "publisher": "Bentham Science Publishers Ltd.",
+    "journal": "Current Neuropharmacology",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2023/Nardou2023_Psychedelics_Critical_Period_Reopening.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by",
+    "doi": "10.1038/s41586-023-06204-3",
+    "year": 2023,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Nature",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: SAGE Publications",
+    "doi": "10.1177/02698811231200882",
+    "year": 2023,
+    "publisher": "SAGE Publications",
+    "journal": "Journal of Psychopharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Springer Science and Business Media LLC",
+    "doi": "10.1007/s00406-023-01590-1",
+    "year": 2023,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "European Archives of Psychiatry and Clinical Neuroscience",
+    "licence": ""
+  },
+  {
+    "filename": "2023/Rocha2023_USP_Safety_Protocols.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.3390/psychoactives2040024",
+    "year": 2023,
+    "publisher": "MDPI AG",
+    "journal": "Psychoactives",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2024/Biosca-Brull2024_Transcriptomic_Analysis_Single_Ibogaine_Dose.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.1038/s41398-024-02773-7",
+    "year": 2024,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Translational Psychiatry",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2024/Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Springer Science and Business Media LLC",
+    "doi": "10.1007/s00213-024-06572-2",
+    "year": 2024,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Psychopharmacology",
+    "licence": ""
+  },
+  {
+    "filename": "2024/Chen2024_RIVM_Iboga_Risk_Assessment.md",
+    "tier": "GREY",
+    "reason": "DOI not in Unpaywall database",
+    "doi": "10.21945/RIVM-2024-0030",
+    "year": 2024,
+    "publisher": "unknown",
+    "journal": "unknown",
+    "licence": ""
+  },
+  {
+    "filename": "2024/Cherian2024_Ibogaine_Primer_Clinicians.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by",
+    "doi": "10.1097/MJT.0000000000001723",
+    "year": 2024,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "journal": "American Journal of Therapeutics",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2024/Cherian2024_Magnesium_Ibogaine_TBI.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by",
+    "doi": "10.1038/s41591-023-02705-w",
+    "year": 2024,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Nature Medicine",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.3389/fnins.2024.1378841",
+    "year": 2024,
+    "publisher": "Frontiers Media SA",
+    "journal": "Frontiers in Neuroscience",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.1038/s41467-024-51856-y",
+    "year": 2024,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Nature Communications",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2024/Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol.md",
+    "tier": "GREEN",
+    "reason": "Open Access (green), licence: not specified",
+    "doi": "10.1089/psymed.2023.0009",
+    "year": 2024,
+    "publisher": "SAGE Publications",
+    "journal": "Psychedelic Medicine",
+    "licence": ""
+  },
+  {
+    "filename": "2024/Hughes2024_Chemistry_Iboga_Alkaloids.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by",
+    "doi": "10.1002/ejoc.202400432",
+    "year": 2024,
+    "publisher": "Wiley",
+    "journal": "European Journal of Organic Chemistry",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2024/Ivan2024_Nonclassic_Psychedelic_Ibogaine_Disrupts_Cognitive_Maps.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by-nc-nd",
+    "doi": "10.1016/j.bpsgos.2023.07.008",
+    "year": 2024,
+    "publisher": "Elsevier BV",
+    "journal": "Biological Psychiatry Global Open Science",
+    "licence": "cc-by-nc-nd"
+  },
+  {
+    "filename": "2024/Kamileen2024_Pachysiphine_Synthase.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by-nc-nd",
+    "doi": "10.1101/2024.06.30.601415",
+    "year": 2024,
+    "publisher": "openRxiv",
+    "journal": null,
+    "licence": "cc-by-nc-nd"
+  },
+  {
+    "filename": "2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by-nc",
+    "doi": "10.1177/02698811241237873",
+    "year": 2024,
+    "publisher": "SAGE Publications",
+    "journal": "Journal of Psychopharmacology",
+    "licence": "cc-by-nc"
+  },
+  {
+    "filename": "2024/Kobr2024_PhD_Ibogaine_Addiction_Treatment_Review.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2024
+  },
+  {
+    "filename": "2024/Mestre2024_Cardiac_Arrest_Case_Report.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.7759/cureus.63487",
+    "year": 2024,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Cureus",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2024/Ona2024_PhD_Thesis_Opioid_Dependence.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2024
+  },
+  {
+    "filename": "2024/Ozmat2024_Subjective_Ibogaine_Experiences_Intersection_Social-Ecological_Dimensions.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by-nc",
+    "doi": "10.1556/2054.2024.00322",
+    "year": 2024,
+    "publisher": "Akademiai Kiado Zrt.",
+    "journal": "Journal of Psychedelic Studies",
+    "licence": "cc-by-nc"
+  },
+  {
+    "filename": "2024/Uzelac2024_Cardiotoxic_Necrosis_Redox.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.3390/ijms25126527",
+    "year": 2024,
+    "publisher": "MDPI AG",
+    "journal": "International Journal of Molecular Sciences",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2025/Acuna2025_Ibogaine_Visual_Cortex_Plasticity.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.21203/rs.3.rs-8387313/v1",
+    "year": 2025,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": null,
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2025/Ali2025_Ibogaine_Analogs_Review.md",
+    "tier": "GREEN",
+    "reason": "Open Access (green), licence: not specified",
+    "doi": "10.1021/acs.jmedchem.5c02510",
+    "year": 2025,
+    "publisher": "American Chemical Society (ACS)",
+    "journal": "Journal of Medicinal Chemistry",
+    "licence": ""
+  },
+  {
+    "filename": "2025/Brown2025_Mystical_Experience_PTSD_Veterans.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Elsevier BV",
+    "doi": "10.1016/j.jad.2025.120722",
+    "year": 2025,
+    "publisher": "Elsevier BV",
+    "journal": "Journal of Affective Disorders",
+    "licence": ""
+  },
+  {
+    "filename": "2025/Carlucci2025_Microdosing_Bipolar_Depression.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: not specified",
+    "doi": "10.46919/archv6n4espec-16449",
+    "year": 2025,
+    "publisher": "Brazilian Journals",
+    "journal": "Journal Archives of Health",
+    "licence": ""
+  },
+  {
+    "filename": "2025/Chen2025_Multiple_Sclerosis_Neuroimaging.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.3389/fimmu.2025.1535782",
+    "year": 2025,
+    "publisher": "Frontiers Media SA",
+    "journal": "Frontiers in Immunology",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2025/Edwards2025_UK_NPIS_Ibogaine_Toxicity_Case_Series.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Informa UK Limited",
+    "doi": "10.1080/15563650.2024.2447500",
+    "year": 2025,
+    "publisher": "Informa UK Limited",
+    "journal": "Clinical Toxicology",
+    "licence": ""
+  },
+  {
+    "filename": "2025/Eliasen2025_Ibogaine_DMT_5-HT2A_HEK_Electrophysiology.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by",
+    "doi": "10.1016/j.brainres.2024.149425",
+    "year": 2025,
+    "publisher": "Elsevier BV",
+    "journal": "Brain Research",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2025/Eliasen2025_Ibogaine_Sex-Dependent_Firing_Rate.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by",
+    "doi": "10.1016/j.neuroscience.2025.10.001",
+    "year": 2025,
+    "publisher": "Elsevier BV",
+    "journal": "Neuroscience",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2025/Enginsoy2025_PhD_Practitioners_Experiences.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "2025/Erny2025_Parkinsons_Case_Report.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: not specified",
+    "doi": "10.1556/2054.2025.00478",
+    "year": 2025,
+    "publisher": "Akademiai Kiado Zrt.",
+    "journal": "Journal of Psychedelic Studies",
+    "licence": ""
+  },
+  {
+    "filename": "2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.1371/journal.pone.0333296",
+    "year": 2025,
+    "publisher": "Public Library of Science (PLoS)",
+    "journal": "PLoS ONE",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2025/Faerman2025_MISTIC_12Month_Followup.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "2025/Gomes2025_Ibogaine_Tool_Substance_Addiction.md",
+    "tier": "AMBER",
+    "reason": "Non-OA, publisher: BRILL",
+    "doi": "10.1163/9789004729759_021",
+    "year": 2025,
+    "publisher": "BRILL",
+    "journal": "Handbook of Entheogenic Healing",
+    "licence": ""
+  },
+  {
+    "filename": "2025/Gupta2025_Benzofuran_Iboga_Analogues.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "2025/Halman2025_Pharmacogenomics_Psychedelic_Therapy.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by-nc",
+    "doi": "10.1002/cpt.3459",
+    "year": 2025,
+    "publisher": "Wiley",
+    "journal": "Clinical Pharmacology & Therapeutics",
+    "licence": "cc-by-nc"
+  },
+  {
+    "filename": "2025/Hwu2025_Matrix_Pharmacology_VMAT2_SERT.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "2025/Iyer2025_Modular_Synthesis_Nature_Chemistry.md",
+    "tier": "GREEN",
+    "reason": "Open Access (green), licence: not specified",
+    "doi": "10.1038/s41557-024-01714-7",
+    "year": 2025,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Nature Chemistry",
+    "licence": ""
+  },
+  {
+    "filename": "2025/LaTorre2025_Phenomenology_Thematic_Analysis.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.21203/rs.3.rs-8022144/v1",
+    "year": 2025,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": null,
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2025/Lytychevskyi2025_Ibogaine_Synthesis_Development.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "2025/Nicolas2025_Reward_System_Transdiagnostic.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.3389/fphar.2025.1744383",
+    "year": 2025,
+    "publisher": "Frontiers Media SA",
+    "journal": "Frontiers in Pharmacology",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2025/Polanco2025_War_Trauma_Ibogaine_5-MeO.md",
+    "tier": "AMBER",
+    "reason": "Non-OA, publisher: BRILL",
+    "doi": "10.1163/9789004729759_022",
+    "year": 2025,
+    "publisher": "BRILL",
+    "journal": "Handbook of Entheogenic Healing",
+    "licence": ""
+  },
+  {
+    "filename": "2025/QuinnWilliams2025_PhD_Ibogaine_Buproprion_Monoamine_Transporters.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "2025/Rocha2025_PhD_Ibogaine_Alcohol_AUD.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "2025/Samorini2025_Studies_Iboga_Cults_Ethnobotanical_Complex.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "2025/Sijic2025_Total_Synthesis_Review.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "2025/Soderberg2025_Medical_Subculture_Risk_Management.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by",
+    "doi": "10.1057/s41285-025-00220-1",
+    "year": 2025,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Social Theory & Health",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2025/Staveley2025_PhD_Ibogaine_Veterans_PTSD.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "2025/Swieczkowski2025_Clinical_Trials_Landscape.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Informa UK Limited",
+    "doi": "10.1080/02791072.2025.2491385",
+    "year": 2025,
+    "publisher": "Informa UK Limited",
+    "journal": "Journal of Psychoactive Drugs",
+    "licence": ""
+  },
+  {
+    "filename": "2025/Underwood2025_PhD_Experiences_Part_of_Journey.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "2025/Williams2025_Magnesium_Ibogaine_TBI.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Springer Science and Business Media LLC",
+    "doi": "10.1038/s44220-025-00463-x",
+    "year": 2025,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Nature Mental Health",
+    "licence": ""
+  },
+  {
+    "filename": "2025/Yockey2025_Reconsidering_Ibogaine.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by-nc-nd",
+    "doi": "10.1016/j.glmedi.2025.100213",
+    "year": 2025,
+    "publisher": "Elsevier BV",
+    "journal": "Journal of Medicine Surgery and Public Health",
+    "licence": "cc-by-nc-nd"
+  },
+  {
+    "filename": "2026/Brunt2026_Cardiovascular_Complications_Review.md",
+    "tier": "GREEN",
+    "reason": "Open Access (hybrid), licence: cc-by-nc-nd",
+    "doi": "10.1111/add.70319",
+    "year": 2026,
+    "publisher": "Wiley",
+    "journal": "Addiction",
+    "licence": "cc-by-nc-nd"
+  },
+  {
+    "filename": "2026/Calvey2026_Neurorestorative_Properties_Ibogaine.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2026
+  },
+  {
+    "filename": "2026/Esperanca2026_Cardiac_Safety_Translational_Perspectives_Scoping_Review.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.3390/molecules31030545",
+    "year": 2026,
+    "publisher": "MDPI AG",
+    "journal": "Molecules",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2026/Geoly2026_Cortical_Thickness_Brain_Age_MISTIC.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.1016/j.isci.2026.115121",
+    "year": 2026,
+    "publisher": "Elsevier BV",
+    "journal": "iScience",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2026/Grundmann2026_Indole_Alkaloids_Biased_Opioid_Receptor_Modulators.md",
+    "tier": "GREEN",
+    "reason": "Open Access (green), licence: cc-by",
+    "doi": "10.20944/preprints202601.2298.v1",
+    "year": 2026,
+    "publisher": "MDPI AG",
+    "journal": "Preprints.org",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2026/Koutrouli2026_Psilocybin_Ibogaine_Cocaine_Addiction.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by-nc-nd",
+    "doi": "10.1016/j.nsa.2025.106393",
+    "year": 2026,
+    "publisher": "Elsevier BV",
+    "journal": "Neuroscience Applied",
+    "licence": "cc-by-nc-nd"
+  },
+  {
+    "filename": "2026/Olash2026_Subjective_Experience_Magnesium_Ibogaine.md",
+    "tier": "GREEN",
+    "reason": "Open Access (gold), licence: cc-by",
+    "doi": "10.1038/s44184-026-00185-7",
+    "year": 2026,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "npj Mental Health Research",
+    "licence": "cc-by"
+  },
+  {
+    "filename": "2026/Terasaki2026_Ibogaine_OUD_Unrecognised_Risk.md",
+    "tier": "RED",
+    "reason": "Non-OA, aggressive publisher: Ovid Technologies (Wolters Kluwer Health)",
+    "doi": "10.1097/ADM.0000000000001645",
+    "year": 2026,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "journal": "Journal of Addiction Medicine",
+    "licence": ""
+  },
+  {
+    "filename": "Clinical_Guidelines/Aotearoa2014_Client_Info_Sheet.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2014
+  },
+  {
+    "filename": "Clinical_Guidelines/GITA2015_Clinical_Guidelines.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2015
+  },
+  {
+    "filename": "Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2003
+  },
+  {
+    "filename": "Clinical_Guidelines/Pangea/Pangea_Emergency_Equipment.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "Clinical_Guidelines/Patterson2014_IACT_Aotearoa_NZ_Guidelines_Integrated_Therapy.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2014
+  },
+  {
+    "filename": "Primary_Sources/1996_WBAI_Mash_FDA_Trials_Ibogaine.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1996
+  },
+  {
+    "filename": "Primary_Sources/2010_Horizons_Clare_Wilkins_400_Sessions.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2010
+  },
+  {
+    "filename": "Primary_Sources/2010_MAPS_Clare_Wilkins_Evolution.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2010
+  },
+  {
+    "filename": "Primary_Sources/2014_11_MAPS_Clare_Wilkins_Architecture_of_Emergency.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2014
+  },
+  {
+    "filename": "Primary_Sources/2017_BC_Clare_Wilkins_Methadone_Detox.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2017
+  },
+  {
+    "filename": "Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2017
+  },
+  {
+    "filename": "Primary_Sources/2017_PS_Clare_Wilkins_Methadone_Detox.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2017
+  },
+  {
+    "filename": "Primary_Sources/2018_Oliver_Alper_Mechanism_Safety.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2018
+  },
+  {
+    "filename": "Primary_Sources/2018_Oliver_Mash_Noribogaine_Discovery.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2018
+  },
+  {
+    "filename": "Primary_Sources/2018_Oliver_Wilkins_Pangea_Protocol.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2018
+  },
+  {
+    "filename": "Primary_Sources/2020_MYEBOGA_Clare_Wilkins_Interview.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2020
+  },
+  {
+    "filename": "Primary_Sources/2021_Microdose_Clare_Wilkins_Holotropic_Perspective.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2021
+  },
+  {
+    "filename": "Primary_Sources/2025_Noller_Ibogaine_QA.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "Primary_Sources/Wachtel2025_Bastiaans_Ibogaine_Historical_Account.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "Industry_Documents/Beond2022_Clinical_Summary.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2022
+  },
+  {
+    "filename": "Industry_Documents/ICEERS2019_Report_Phase1.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2019
+  },
+  {
+    "filename": "Industry_Documents/ICEERS2020_Future_Iboga_Gabon.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2020
+  },
+  {
+    "filename": "Industry_Documents/LAPPA2025_Ibogaine_Legislative_Analysis.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  },
+  {
+    "filename": "Other/Albert2008_MyEboga_Experience_Reports.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2008
+  },
+  {
+    "filename": "Other/Alper2023_Expert_Testimony_KY.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2023
+  },
+  {
+    "filename": "Other/Busby2024_Beond_Death_Investigation.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2024
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch1.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1997
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch10.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch11.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch12.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch13.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch14.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch15.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch16.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch17.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch18.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch2.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1997
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch3.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1997
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch4.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1997
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch5.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch6.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch7.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "Other/DeRienzo1995_Ibogaine_Story_Ch8.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 1995
+  },
+  {
+    "filename": "Other/Evans2024_Soneira_Ibogaine_Scramble.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2024
+  },
+  {
+    "filename": "Other/Evans2026_Ibogaine_Fatalities_Cover_Ups.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2026
+  },
+  {
+    "filename": "Other/Strategic_Implementation_Benzodiazepines_CBD.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2023
+  },
+  {
+    "filename": "Other/deLugo2025_Kush_Sierra_Leone_Synthetics.md",
+    "tier": "GREY",
+    "reason": "No DOI in YAML",
+    "doi": "",
+    "year": 2025
+  }
+]

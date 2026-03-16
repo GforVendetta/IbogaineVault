@@ -1,0 +1,44 @@
+# === Binary files (never track) ===
+*.pdf
+*.zip
+*.plugin
+*.tar.gz
+
+# === Local-only clinical workstation files ===
+.local/
+
+# === macOS system files ===
+.DS_Store
+**/.DS_Store
+
+# === Obsidian internals (machine-specific) ===
+.obsidian/
+.trash/
+
+# === Copilot index (machine-generated, >200MB) ===
+.copilot-index/
+
+# === Smart Connections cache (machine-generated) ===
+.smart-env/
+
+# === Tier 2 — internal operational content ===
+Pangea_Ops/
+Collaborator_Research/
+Cowork_Outputs/
+
+# === Development and build artifacts ===
+_builds/
+_archive/
+
+# === AI tooling configuration (operational, not research content) ===
+CLAUDE.md
+copilot/
+
+# === Operational logs (Tier 2) ===
+_meta/WORKLOG.md
+_meta/archive/
+_meta/prompts/
+
+# === Copilot local state ===
+copilot/copilot-conversations/
+copilot/memory/

@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.ext == "md"
+    - category == "GREEN"
+properties:
+  file.name:
+    displayName: Protocol/Paper
+  year:
+    displayName: Year
+  clinical_significance:
+    displayName: Significance
+  key_findings:
+    displayName: Key Findings
+views:
+  - type: table
+    name: Clinical Protocols & Guidelines
+    order:
+      - file.name
+      - year
+      - clinical_significance
+      - key_findings
+    sort: []

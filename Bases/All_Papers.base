@@ -1,0 +1,25 @@
+filters:
+  and:
+    - file.ext == "md"
+    - category != null
+properties:
+  file.name:
+    displayName: Paper
+  year:
+    displayName: Year
+  category:
+    displayName: Category
+  clinical_significance:
+    displayName: Significance
+  key_findings:
+    displayName: Key Findings
+views:
+  - type: table
+    name: All Research Papers
+    order:
+      - file.name
+      - year
+      - category
+      - clinical_significance
+      - key_findings
+    sort: []

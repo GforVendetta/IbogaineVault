@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.ext == "md"
+    - or:
+        - tags.contains("topic/adverse-event")
+        - tags.contains("topic/toxicity")
+        - tags.contains("topic/cardiac")
+properties:
+  file.name:
+    displayName: Paper
+  year:
+    displayName: Year
+  category:
+    displayName: Category
+  clinical_significance:
+    displayName: Significance
+  key_findings:
+    displayName: Key Findings
+views:
+  - type: table
+    name: Contraindications & Adverse Events
+    order:
+      - file.name
+      - year
+      - category
+      - clinical_significance
+      - key_findings
+    sort: []
