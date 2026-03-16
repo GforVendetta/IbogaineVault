@@ -26,6 +26,9 @@ route: not-specified
 contraindications: []
 doi: "10.1016/j.ejphar.2009.10.032"
 pmid: 19853595
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Induction of energy metabolism related enzymes in yeast *Saccharomyces cerevisiae* exposed to ibogaine is adaptation to acute decrease in ATP energy pool

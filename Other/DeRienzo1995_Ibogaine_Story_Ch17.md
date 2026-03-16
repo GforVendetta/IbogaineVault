@@ -36,6 +36,8 @@ contraindications:
 dosing_range: "150mg, 300mg, 600mg, 900mg, possible 1200mg (nested dose run-up); 150mg/kg oral no toxicity in primates; 50mg/kg i.p. required for ataxia in primates"
 route: oral
 organisation: "MindVox"
+open_access: true
+body_format: academic-retained
 ---
 
 # The Ibogaine Story — Chapter 17: Cures Not Wars

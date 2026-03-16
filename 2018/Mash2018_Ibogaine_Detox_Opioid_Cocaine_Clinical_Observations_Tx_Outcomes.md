@@ -37,6 +37,9 @@ contraindications:
   - "HIV/AIDS"
 dosing_range: "10–25 mg/kg ibogaine HCl"
 route: oral
+open_access: true
+publisher: "Frontiers"
+body_format: academic-retained
 ---
 
 # Ibogaine Detoxification Transitions Opioid and Cocaine Abusers Between Dependence and Abstinence: Clinical Observations and Treatment Outcomes

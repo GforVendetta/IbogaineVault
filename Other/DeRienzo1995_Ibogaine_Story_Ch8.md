@@ -31,6 +31,8 @@ contraindications: []
 dosing_range: "Weight-adjusted oral ibogaine HCl (allergy test dose 10mg, then full dose in two halves 30min apart)"
 route: oral
 organisation: "MindVox"
+open_access: true
+body_format: narrative
 ---
 
 # The Ibogaine Story — Chapter 8: Nico Adriaans

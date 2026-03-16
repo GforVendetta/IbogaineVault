@@ -34,6 +34,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Identification of a Primary Metabolite of Ibogaine That Targets Serotonin Transporters and Elevates Serotonin

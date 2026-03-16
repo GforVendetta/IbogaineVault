@@ -31,6 +31,9 @@ herg_data: false
 dosing_range: "15 mg/kg flood + 38 mg/kg saturation protocol; outpatient 3–12 mg/kg"
 route: oral
 contraindications: []
+open_access: true
+publisher: "Frontiers"
+body_format: academic-retained
 ---
 
 # Ibogaine reduced severe neuropathic pain associated with a case of brachial plexus nerve root avulsion (Dickinson et al., 2023)

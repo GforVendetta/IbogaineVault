@@ -26,6 +26,8 @@ electrolyte_data: false
 herg_data: false
 contraindications: []
 organisation: "Autonomedia"
+open_access: true
+body_format: narrative
 ---
 
 # The Ibogaine Story — Chapter 3: Dhoruba Moore

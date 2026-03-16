@@ -46,6 +46,9 @@ contraindications:
   - "Impaired hepatic or renal function"
   - "Alcohol, amphetamines, cocaine, or psychiatric medications within 1 week"
   - "Buprenorphine or methadone within 4 weeks"
+open_access: false
+publisher: "Taylor & Francis"
+body_format: vault-analytical
 ---
 
 # Changes in Withdrawal and Craving Scores in Participants Undergoing Opioid Detoxification Utilizing Ibogaine

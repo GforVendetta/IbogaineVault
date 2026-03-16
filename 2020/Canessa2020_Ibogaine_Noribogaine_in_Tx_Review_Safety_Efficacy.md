@@ -22,6 +22,8 @@ electrolyte_data: false
 herg_data: false
 institution: "University of Hertfordshire"
 contraindications: []
+open_access: true
+body_format: academic-retained
 ---
 
 # Ibogaine & Noribogaine Safety & Efficacy Review (Canessa, 2020)

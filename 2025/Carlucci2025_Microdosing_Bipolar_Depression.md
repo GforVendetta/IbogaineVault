@@ -29,6 +29,9 @@ aliases:
   - "Microdosing Bipolar Case"
 source_pdf: "2025/Carlucci2025_Microdosing_Bipolar_Depression.pdf"
 contraindications: []
+open_access: unknown
+publisher: "Psilocybin Technology"
+body_format: hybrid
 ---
 
 # Ibogaine microdosing in a patient with bipolar depression: case report

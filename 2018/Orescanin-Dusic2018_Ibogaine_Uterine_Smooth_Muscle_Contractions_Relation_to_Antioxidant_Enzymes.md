@@ -34,6 +34,9 @@ herg_data: false
 dosing_range: "1–60 mg/l ibogaine (isolated uterine tissue, cumulative dosing)"
 route: not-specified
 contraindications: []
+open_access: true
+publisher: "Hindawi"
+body_format: academic-retained
 ---
 
 # The Effects of Ibogaine on Uterine Smooth Muscle Contractions: Relation to the Activity of Antioxidant Enzymes

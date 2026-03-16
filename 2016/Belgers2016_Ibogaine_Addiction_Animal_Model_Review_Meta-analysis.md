@@ -28,6 +28,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "Springer Nature"
+body_format: academic-retained
 ---
 
 # Ibogaine and addiction in the animal model, a systematic review and meta-analysis

@@ -27,6 +27,8 @@ route: not-applicable
 aliases:
   - "Alper 2001 History"
   - "Contemporary History of Ibogaine"
+open_access: unknown
+body_format: academic-retained
 ---
 
 # A Contemporary History of Ibogaine in the United States and Europe

@@ -51,6 +51,9 @@ contraindications:
   - "Overdose risk"
 dosing_range: "12.05 mg/kg (SD 1.44) oral ibogaine HCl with IV magnesium sulfate (1 mg pre- and post-ibogaine)"
 route: oral
+open_access: false
+publisher: "Elsevier"
+body_format: hybrid
 ---
 
 # Increased cortical thickness and decreased brain age among special operations veterans with blast TBI after a magnesium-ibogaine protocol

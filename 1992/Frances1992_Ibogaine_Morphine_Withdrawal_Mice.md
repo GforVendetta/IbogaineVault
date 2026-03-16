@@ -27,6 +27,8 @@ herg_data: false
 contraindications: []
 dosing_range: "30 mg/kg IP (ibogaine in saline)"
 route: intraperitoneal
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Effects of ibogaine on naloxone-precipitated withdrawal in morphine-dependent mice

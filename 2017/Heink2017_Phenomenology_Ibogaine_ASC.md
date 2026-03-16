@@ -29,6 +29,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Taylor & Francis"
+body_format: vault-analytical
 ---
 
 # Examination of the Phenomenology of the Ibogaine Treatment Experience: Role of Altered States of Consciousness and Psychedelic Experiences

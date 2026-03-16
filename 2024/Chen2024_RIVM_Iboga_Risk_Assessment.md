@@ -51,6 +51,9 @@ contraindications:
 dosing_range: "1–30 mg/kg bw oral (common use); 0.3–55 mg/kg bw (clinical studies); LD₅₀ 263 mg/kg bw mice, 327 mg/kg bw rats; noribogaine LD₅₀ 630 mg/kg bw mice"
 route: oral
 organisation: "National Institute for Public Health and the Environment (RIVM), Netherlands"
+open_access: unknown
+publisher: "RIVM"
+body_format: vault-analytical
 ---
 
 # Risk Assessment of Herbal Preparations Containing *Tabernanthe iboga*

@@ -27,6 +27,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Understanding the Healing Potential of Ibogaine through a Comparative and Interpretive Phenomenology of the Visionary Experience

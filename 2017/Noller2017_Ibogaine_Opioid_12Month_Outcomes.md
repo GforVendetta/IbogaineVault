@@ -40,6 +40,9 @@ contraindications:
 dosing_range: "25–55 mg/kg oral"
 route: oral
 key_findings: "Single ibogaine treatment (mean 31.4 mg/kg) reduced ASI drug use score 81% at 12mo (p=0.002, n=8). BDI-II depression scores fell from 22.1 to 4.4 (p<0.001). 75% negative urine at 12mo. 1 fatality during treatment."
+open_access: false
+publisher: "Taylor & Francis"
+body_format: vault-analytical
 ---
 # Ibogaine treatment outcomes for opioid dependence from a twelve-month follow-up observational study
 

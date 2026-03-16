@@ -19,6 +19,8 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: unknown
+body_format: academic-retained
 ---
 
 # Ibogaine Treatment for Substance Dependence: Legality, Social Geography, and Efficacy

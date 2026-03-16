@@ -32,6 +32,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: true
 contraindications: []
+open_access: true
+publisher: "Springer Nature"
+body_format: academic-retained
 ---
 
 # **Oxa-Iboga alkaloids lack cardiac risk and disrupt opioid use in animal models**

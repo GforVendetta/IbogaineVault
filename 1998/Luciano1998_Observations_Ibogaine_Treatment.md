@@ -28,6 +28,9 @@ herg_data: false
 contraindications: []
 dosing_range: "1 mg/kg test dose (day 1); 20–25 mg/kg ibogaine HCl full dose (day 2)"
 route: oral
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Observations on Treatment with Ibogaine

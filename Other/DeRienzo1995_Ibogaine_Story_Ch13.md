@@ -32,6 +32,8 @@ herg_data: false
 contraindications: []
 route: not-applicable
 organisation: "MindVox"
+open_access: true
+body_format: narrative
 ---
 
 # The Ibogaine Story — Chapter 13: Bwiti

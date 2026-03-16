@@ -35,6 +35,9 @@ contraindications: []
 dosing_range: "10–20 µM ibogaine HCl (human erythrocytes ex vivo)"
 route: not-applicable
 pmid: "25660330"
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Ex vivo effects of ibogaine on the activity of antioxidative enzymes in human erythrocytes

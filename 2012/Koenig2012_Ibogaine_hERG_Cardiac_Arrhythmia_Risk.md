@@ -33,6 +33,9 @@ contraindications:
   - "QT-prolonging medications"
 dosing_range: "IC₅₀ 3.9 μM — in vitro hERG patch-clamp; overlaps therapeutic plasma range (low μM)"
 route: not-applicable
+open_access: true
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Anti-addiction drug ibogaine inhibits hERG channels: a cardiac arrhythmia risk

@@ -33,6 +33,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # A Review of the Mechanisms Involved in the Neuroprotection and Neurotoxicity of Iboga Alkaloids

@@ -27,6 +27,8 @@ contraindications:
   - "BP ≤90/60 (without BP medication)"
   - "History of adverse reactions to cannabis (for CBD component)"
   - "Psychosis history (for cannabis component)"
+open_access: unknown
+body_format: academic-retained
 ---
 
 ## Adjunc've Medica'on U'lisa'on in Ibogaine-Assisted Detoxifica'on Therapy

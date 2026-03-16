@@ -32,6 +32,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Springer Nature"
+body_format: hybrid
 ---
 
 # Receptor Binding Profile Suggests Multiple Mechanisms of Action Are Responsible for Ibogaine's Putative Anti-Addictive Activity

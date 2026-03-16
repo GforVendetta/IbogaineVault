@@ -34,6 +34,9 @@ contraindications:
   - "Irregular cardiac rhythms (exclusion criterion at St. Kitts clinic)"
 dosing_range:
 route:
+open_access: true
+publisher: "AAAS"
+body_format: vault-analytical
 ---
 
 # Ibogaine Therapy: A 'Vast, Uncontrolled Experiment'

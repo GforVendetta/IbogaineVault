@@ -28,6 +28,8 @@ herg_data: false
 contraindications: []
 dosing_range: "LD50=1442.6 mg/kg; LD0=784.71 mg/kg; LD100=2000 mg/kg (aqueous root bark extract, oral, Wistar rats)"
 route: oral
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Study of the Acute Toxicity of the Aqueous Extract of *Tabernanthe iboga* (Baill.) (Apocynacea) on Wistar Rats

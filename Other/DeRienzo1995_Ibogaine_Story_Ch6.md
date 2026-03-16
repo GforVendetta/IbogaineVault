@@ -37,6 +37,8 @@ contraindications:
 dosing_range: "Weight-adjusted oral ibogaine HCl (99.7% purity); booster doses administered 1.5hr post-initial if needed; rectal aqueous solution as emergency anti-emetic route"
 route: oral
 organisation: "MindVox"
+open_access: true
+body_format: narrative
 ---
 
 # The Ibogaine Story — Chapter 6: Bob Sisko

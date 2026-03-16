@@ -27,6 +27,9 @@ qtc_data: true
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: academic-retained
 ---
 
 # A Systematic Literature Review of Clinical Trials and Therapeutic Applications of Ibogaine

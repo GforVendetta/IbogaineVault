@@ -24,6 +24,8 @@ herg_data: false
 contraindications: []
 dosing_range: "N/A — emergency equipment guideline"
 route: not-applicable
+open_access: unknown
+body_format: academic-retained
 ---
 
 # List of Required Medical Equipment & Medications (Red Cart)

@@ -40,6 +40,9 @@ contraindications:
   - "co-ingestants"
 dosing_range: "10–25 mg/kg (typical clinical range); IC₅₀ overlaps therapeutic plasma concentrations (2.4 μM ibogaine, 3.2 μM noribogaine at 10 mg/kg)"
 route: oral
+open_access: false
+publisher: "Springer Nature"
+body_format: vault-analytical
 ---
 
 # hERG Blockade by Iboga Alkaloids

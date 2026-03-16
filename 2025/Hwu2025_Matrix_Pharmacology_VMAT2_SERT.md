@@ -47,6 +47,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "American Chemical Society"
+body_format: vault-analytical
 ---
 
 # Deciphering Ibogaine's Matrix Pharmacology: Multiple Transporter Modulation at Serotonin Synapses

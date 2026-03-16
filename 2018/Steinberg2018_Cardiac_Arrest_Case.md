@@ -33,6 +33,9 @@ contraindications:
   - "pre-existing cardiac conditions"
 dosing_range: "65–70mg/kg (5.6g total)"
 route: oral
+open_access: true
+publisher: "Wiley"
+body_format: academic-retained
 ---
 
 DOI: 10.1002/joa3.12061

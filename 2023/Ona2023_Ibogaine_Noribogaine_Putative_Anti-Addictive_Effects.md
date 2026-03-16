@@ -38,6 +38,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "SAGE"
+body_format: vault-analytical
 ---
 
 # Main targets of ibogaine and noribogaine associated with its putative anti-addictive effects: A mechanistic overview

@@ -50,6 +50,9 @@ contraindications:
   - "suicidality"
 dosing_range: "10mg/kg"
 route: oral
+open_access: true
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Safety of ibogaine administration in detoxification of opioid-dependent individuals: a descriptive open-label observational study

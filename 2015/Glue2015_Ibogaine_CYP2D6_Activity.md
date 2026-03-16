@@ -36,6 +36,9 @@ herg_data: false
 dosing_range: "20 mg oral ibogaine (human)"
 route: oral
 contraindications: []
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 

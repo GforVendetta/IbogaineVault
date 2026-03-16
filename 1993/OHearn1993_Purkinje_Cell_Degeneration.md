@@ -27,6 +27,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Degeneration of Purkinje Cells in Parasagittal Zones of the Cerebellar Vermis after Treatment with Ibogaine or Harmaline

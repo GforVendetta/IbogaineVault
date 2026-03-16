@@ -38,6 +38,8 @@ contraindications:
   - "Concurrent methadone or benzodiazepine use"
   - "Undiagnosed cardiovascular disease"
   - "Potassium and magnesium abnormalities"
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Neurorestorative Properties of Ibogaine: Linking Multi-Receptor Affinities to Remyelination and Metabolic Restoration

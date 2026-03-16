@@ -35,6 +35,9 @@ electrolyte_data: false
 herg_data: false
 route: not-applicable
 contraindications: []
+open_access: true
+publisher: "Springer Nature"
+body_format: vault-analytical
 ---
 
 # Efficient and modular synthesis of ibogaine and related alkaloids

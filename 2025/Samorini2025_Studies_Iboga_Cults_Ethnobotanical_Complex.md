@@ -20,6 +20,8 @@ herg_data: false
 contraindications: []
 clinical_significance: low
 route: not-applicable
+open_access: unknown
+body_format: narrative
 ---
 
 # Studies on the iboga cults: IV. The ethnobotanical complex

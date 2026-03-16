@@ -31,6 +31,9 @@ herg_data: false
 dosing_range: "25–75 mg/day low-dose for 80 days"
 route: oral
 contraindications: []
+open_access: false
+publisher: "Akadémiai Kiadó"
+body_format: academic-retained
 ---
 
 # Ibogaine for the treatment of Parkinson's disease: A case report

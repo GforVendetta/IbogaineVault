@@ -33,6 +33,9 @@ herg_data: false
 dosing_range: "MISTIC protocol - see Cherian 2024"
 route: oral
 contraindications: []
+open_access: false
+publisher: "Oxford University Press"
+body_format: academic-retained
 ---
 
 # Ibogaine Treatment in Combat Veterans Significantly Improves Sleep

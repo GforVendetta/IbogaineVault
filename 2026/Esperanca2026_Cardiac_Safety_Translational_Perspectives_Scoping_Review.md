@@ -36,6 +36,9 @@ contraindications:
   - "Electrolyte disturbances"
 dosing_range: "Varies across reviewed studies; NOAEL 25mg/kg (preclinical)"
 route: oral
+open_access: true
+publisher: "MDPI"
+body_format: vault-analytical
 ---
 
 # Ibogaine: Therapeutic Potential, Cardiac Safety, and Translational Perspectives in the Treatment of Substance Use Disorders—A Scoping Review

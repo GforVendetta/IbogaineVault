@@ -41,6 +41,9 @@ contraindications:
   - "Hypokalaemia (exacerbates hERG blockade and reduces channel surface density)"
 dosing_range: "IC₅₀: hERG 4 μM, hNav1.5 142 μM, hCav1.2 163 μM; 18-MC hERG 15 μM — in vitro concentrations"
 route: not-applicable
+open_access: true
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Anti-addiction drug ibogaine inhibits voltage-gated ionic currents: A study to assess the drug's cardiac ion channel profile

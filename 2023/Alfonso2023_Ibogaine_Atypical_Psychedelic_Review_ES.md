@@ -39,6 +39,8 @@ aliases:
   - "Gallo Alfonso 2023"
   - "Uruguayan ibogaine review"
 contraindications: []
+open_access: unknown
+body_format: academic-retained
 ---
 
 # Ibogaína: un psicodélico atípico con potencial antiadictivo

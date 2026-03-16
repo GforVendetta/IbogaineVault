@@ -39,6 +39,9 @@ contraindications:
   - "History of IV heroin use"
 dosing_range: "10.5 mg/kg ibogaine HCl (85–98% purity) + 14 mg/kg T. iboga root bark extract (50% alkaloids) over 15 hours"
 route: oral
+open_access: false
+publisher: "Informa Healthcare"
+body_format: vault-analytical
 ---
 # Pause-dependent ventricular tachycardia and torsades de pointes after ibogaine ingestion
 

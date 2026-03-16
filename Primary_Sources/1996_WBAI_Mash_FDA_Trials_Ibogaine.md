@@ -37,6 +37,8 @@ contraindications:
 dosing_range: "2 mg/kg increments in dose-escalation design up to 14–15 mg/kg target; Mash states underground doses 'way too high' and could be cut by half"
 route: oral
 organisation: "Pacifica Radio / WBAI"
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Uncovering Ibogaine: The Deborah Mash Interview

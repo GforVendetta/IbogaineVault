@@ -40,6 +40,9 @@ contraindications:
   - "hypomagnesemia"
 dosing_range: "4.5–29 mg/kg (mean 14.3±6.1)"
 route: oral
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Fatalities Temporally Associated with the Ingestion of Ibogaine

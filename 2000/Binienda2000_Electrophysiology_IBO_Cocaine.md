@@ -30,6 +30,8 @@ herg_data: false
 dosing_range: "50 mg/kg ibogaine (rat i.p.); 20 mg/kg cocaine (rat i.p.)"
 route: intraperitoneal
 contraindications: []
+open_access: unknown
+body_format: academic-retained
 ---
 
 ## Application of Electrophysiological Method to Study Interactions between Ibogaine and Cocaine

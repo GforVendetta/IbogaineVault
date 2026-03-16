@@ -33,6 +33,9 @@ herg_data: false
 dosing_range: "40–80 mg/kg ibogaine (mouse, i.p.)"
 route: intraperitoneal
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: hybrid
 ---
 
 # Structurally modified ibogaine analogs exhibit differing affinities for NMDA receptors

@@ -29,6 +29,9 @@ contraindications: []
 aliases:
   - "Barber 2020"
   - "Consumer Views Online Fora"
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Ibogaine therapy for addiction: Consumer views from online fora

@@ -20,6 +20,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Wiley"
+body_format: academic-retained
 ---
 
 # **Transpersonal Intersubjectivity in Ibogaine Experiences: Three cases**

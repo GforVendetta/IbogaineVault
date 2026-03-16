@@ -20,6 +20,8 @@ qtc_data: false
 herg_data: false
 electrolyte_data: false
 contraindications: []
+open_access: true
+body_format: vault-analytical
 ---
 
 # Returning to the Path: The Use of Iboga[ine] in an Equatorial African Ritual Context and the Binding of Time, Space, and Social Relationships

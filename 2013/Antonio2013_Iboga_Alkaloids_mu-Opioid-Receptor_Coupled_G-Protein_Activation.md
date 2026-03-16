@@ -37,6 +37,9 @@ herg_data: false
 dosing_range: "N/A (functional Ki 3–13 µM for MOR)"
 route: not-specified
 contraindications: []
+open_access: true
+publisher: "PLoS"
+body_format: academic-retained
 ---
 
 # Effect of Iboga Alkaloids on µ-Opioid Receptor-Coupled G Protein Activation

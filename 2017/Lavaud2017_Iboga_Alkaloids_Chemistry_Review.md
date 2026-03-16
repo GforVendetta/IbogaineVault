@@ -31,6 +31,9 @@ herg_data: false
 electrolyte_data: false
 contraindications: []
 clinical_significance: moderate
+open_access: false
+publisher: "Springer Nature"
+body_format: vault-analytical
 ---
 
 # The Iboga Alkaloids

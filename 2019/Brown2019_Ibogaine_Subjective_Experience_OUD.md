@@ -36,6 +36,9 @@ contraindications:
   - "Physical or psychosocial problems preventing compliance with study requirements"
 dosing_range: "22.5 ± 10.1 mg/kg HCl (Mexico, n=26); 31.4 ± 7.6 mg/kg HCl (NZ, n=14); 9.9 ± 7.8 mg/kg HCl + 18.7 ± 17.3 mg/kg crude rootbark extract (Mexico, n=4)"
 route: oral
+open_access: false
+publisher: "Taylor & Francis"
+body_format: hybrid
 ---
 
 # Ibogaine and Subjective Experience: Transformative States and Psychopharmacotherapy in the Treatment of Opioid Use Disorder

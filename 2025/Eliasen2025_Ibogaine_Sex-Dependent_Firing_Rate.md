@@ -31,6 +31,9 @@ aliases:
   - "Eliasen 2025 Sex-Dependent"
   - "Eliasen 2025 VTA"
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: hybrid
 ---
 
 # The psychoactive compound ibogaine sex-dependently alters the firing rate and afterhyperpolarization of Ih-negative neurons in the mouse ventral tegmental area

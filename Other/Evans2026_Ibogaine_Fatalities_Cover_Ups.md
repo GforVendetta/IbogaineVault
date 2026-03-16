@@ -29,6 +29,8 @@ aliases:
 organisation: "Ecstatic Integration"
 dosing_range: "Not specified (flood dose protocols at various clinics)"
 route: oral
+open_access: true
+body_format: vault-analytical
 ---
 
 # Learning from ibogaine fatalities, rather than covering them up

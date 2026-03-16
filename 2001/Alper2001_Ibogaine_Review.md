@@ -43,6 +43,8 @@ mortality_count: 3
 sample_size: 39
 dosing_range: "4.5–29 mg/kg oral"
 route: oral
+open_access: unknown
+body_format: hybrid
 ---
 
 # Ibogaine: A Review

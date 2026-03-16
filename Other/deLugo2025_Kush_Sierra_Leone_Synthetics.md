@@ -26,6 +26,8 @@ evidence_level: qualitative
 qtc_data: false
 herg_data: false
 electrolyte_data: false
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Kush in Sierra Leone: West Africa's Growing Synthetic Drugs Challenge

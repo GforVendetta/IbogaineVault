@@ -27,6 +27,8 @@ herg_data: false
 contraindications: []
 source_pdf: "not-applicable"
 source_url: "http://www.youtube.com/watch?v=xKAD0Rd7HA"
+open_access: unknown
+body_format: academic-retained
 ---
 
 # Clare Wilkins at Microdose 2021: A Holotropic Perspective on Networks, Fissures, and Reciprocity

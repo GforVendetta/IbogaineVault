@@ -34,6 +34,8 @@ contraindications: []
 dosing_range: "2.5–80 mg/kg IP ibogaine in rats; 5–40 mg/kg IP dose-response on morphine self-administration; 40–80 mg/kg IP for persistent after-effect"
 route: intraperitoneal
 organisation: "MindVox"
+open_access: true
+body_format: narrative
 ---
 
 # The Ibogaine Story — Chapter 7: Stanley Glick

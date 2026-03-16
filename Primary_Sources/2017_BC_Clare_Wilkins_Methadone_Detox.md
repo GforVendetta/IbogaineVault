@@ -31,6 +31,8 @@ route: oral
 contraindications: []
 source_pdf: "not-applicable"
 source_url: "http://www.youtube.com/watch?v=UIX1SXLJjSI"
+open_access: unknown
+body_format: narrative
 ---
 
 # Clare Wilkins at Breaking Convention 2017: Novel Approach to Methadone Detox

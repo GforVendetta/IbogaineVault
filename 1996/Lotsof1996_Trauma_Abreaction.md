@@ -26,6 +26,8 @@ herg_data: false
 route: oral
 dosing_range: "10 mg/kg (PK study) and 20 mg/kg (therapeutic) oral — Case 2 only; doses not specified for Cases 1 and 3"
 contraindications: []
+open_access: unknown
+body_format: academic-retained
 ---
 
 # IBOGAINE, TRAUMA, AND ABREACTION: THE TREATMENT OF CHEMICAL DEPENDENCE

@@ -32,6 +32,9 @@ herg_data: false
 dosing_range: "1–30 µM ibogaine or 18-MC (isolated tissue)"
 route: not-specified
 contraindications: []
+open_access: true
+publisher: "Springer Nature"
+body_format: vault-analytical
 ---
 
 # Pharmacological comparison of the effect of ibogaine and 18-methoxycoronaridine on isolated smooth muscle from the rat and guinea-pig

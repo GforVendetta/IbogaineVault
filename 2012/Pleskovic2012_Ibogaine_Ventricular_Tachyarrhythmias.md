@@ -34,6 +34,9 @@ contraindications:
   - "Recent polysubstance use"
 dosing_range: "600 mg oral (single dose, ~8 mg/kg)"
 route: oral
+open_access: false
+publisher: "Informa Healthcare"
+body_format: vault-analytical
 ---
 
 # Ibogaine-Associated Ventricular Tachyarrhythmias

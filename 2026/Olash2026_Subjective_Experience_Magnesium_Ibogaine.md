@@ -37,6 +37,9 @@ aliases:
   - "MISTIC Phenomenology"
   - "MISTIC Qualitative"
 contraindications: []
+open_access: true
+publisher: "Springer Nature"
+body_format: vault-analytical
 ---
 
 # Accelerated Recovery Using Magnesium Ibogaine: Characterizing the Subjective Experience

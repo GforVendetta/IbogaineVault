@@ -41,6 +41,9 @@ contraindications:
   - "Polysubstance addiction history (15 years)"
 dosing_range: "Unknown; claimed 'teaspoon' (~108–144 mg ibogaine from 1.5–2g powder at 7.2%), but blood levels suggest substantially higher dose (possibly >20g powder)"
 route: oral
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Fatal Case of a 27-Year-Old Male After Taking Iboga in Withdrawal Treatment

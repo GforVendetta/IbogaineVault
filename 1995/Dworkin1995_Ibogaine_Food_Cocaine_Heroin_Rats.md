@@ -29,6 +29,8 @@ herg_data: false
 contraindications: []
 dosing_range: "40 and 80 mg/kg IP (ibogaine in water, 10 mg/ml)"
 route: intraperitoneal
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Effects of Ibogaine on Responding Maintained by Food, Cocaine and Heroin Reinforcement in Rats

@@ -53,6 +53,9 @@ contraindications:
   - "Concurrent use of P-glycoprotein substrates"
 dosing_range: "725 mg ibogaine HCl to 38 g dried root bark across reviewed studies; clinical trials used 20 mg ibogaine or 60–180 mg noribogaine"
 route: oral
+open_access: false
+publisher: "Springer Nature"
+body_format: vault-analytical
 ---
 
 # The Adverse Events of Ibogaine in Humans: An Updated Systematic Review of the Literature (2015–2020)

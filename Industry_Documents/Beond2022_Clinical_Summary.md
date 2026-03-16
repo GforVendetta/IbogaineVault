@@ -23,6 +23,8 @@ contraindications:
   - "Certain cardiovascular conditions (unspecified — refers to clinical guidelines)"
   - "Coincident withdrawal from alcohol or benzodiazepines"
   - "Substances metabolised by CYP450-2D6 (including grapefruit and quinine)"
+open_access: unknown
+body_format: academic-retained
 ---
 
 # Ibogaine: A Clinical Summary

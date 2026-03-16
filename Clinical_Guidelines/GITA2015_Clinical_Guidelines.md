@@ -63,6 +63,8 @@ contraindications:
   - "Antipsychotic medications — haloperidol/chlorpromazine cause prolonged negative reactions with ibogaine; must not be used as intervention"
   - "Corticosteroids (prolong QT interval; caution if required as intervention)"
   - "Calcium channel blockers or beta blockers (lower BP/HR dramatically, alter cardiac conduction — beta blockers must be tapered over 7-14 days, not stopped acutely)"
+open_access: unknown
+body_format: hybrid
 ---
 
 # Clinical Guidelines for Ibogaine-Assisted Detoxification

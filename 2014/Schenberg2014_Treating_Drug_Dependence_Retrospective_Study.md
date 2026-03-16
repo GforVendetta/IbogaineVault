@@ -45,6 +45,9 @@ contraindications:
   - "Active substance use (30–60 day abstinence period required prior to administration)"
 dosing_range: "7.5–20 mg/kg ibogaine HCl (typical 17 mg/kg)"
 route: oral
+open_access: false
+publisher: "SAGE"
+body_format: vault-analytical
 ---
 
 # Treating drug dependence with the aid of ibogaine: A retrospective study

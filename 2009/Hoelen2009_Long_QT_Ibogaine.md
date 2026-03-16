@@ -32,6 +32,9 @@ contraindications:
   - "Electrolyte imbalance (hypomagnesaemia, hypokalaemia)"
 dosing_range: "3.5 g ibogaine 15% preparation (single dose)"
 route: oral
+open_access: false
+publisher: "NEJM Group"
+body_format: vault-analytical
 ---
 
 # Long-QT Syndrome Induced by the Antiaddiction Drug Ibogaine

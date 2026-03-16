@@ -35,6 +35,9 @@ herg_data: false
 dosing_range: "20–40 mg/kg i.p. ibogaine (rat)"
 route: intraperitoneal
 contraindications: []
+open_access: true
+publisher: "Frontiers"
+body_format: academic-retained
 ---
 
 # Ibogaine Acute Administration in Rats Promotes Wakefulness, Long-Lasting REM Sleep Suppression, and a Distinctive Motor Profile

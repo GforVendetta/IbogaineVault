@@ -42,6 +42,9 @@ herg_data: false
 contraindications: []
 dosing_range: "SR morphine 4–5× methadone dose (mean 311 mg/day); clonidine 200 μg/day patch PRN"
 route: oral
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Switching Opioid-Dependent Patients From Methadone to Morphine: Safety, Tolerability, and Methadone Pharmacokinetics

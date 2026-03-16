@@ -29,6 +29,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Akadémiai Kiadó"
+body_format: narrative
 ---
 
 # **Subjective ibogaine experiences across intersecting social-ecological dimensions**

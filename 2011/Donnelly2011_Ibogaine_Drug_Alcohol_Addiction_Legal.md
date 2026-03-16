@@ -37,6 +37,9 @@ contraindications:
   - "Current antipsychotic medication use"
   - "Long-term medication with no prior data on ibogaine interactions"
   - "Narcotic analgesics, cocaine, amphetamines, or alcohol use within 12 hours prior to treatment"
+open_access: false
+publisher: "Taylor & Francis"
+body_format: vault-analytical
 ---
 
 # The Need for Ibogaine in Drug and Alcohol Addiction Treatment

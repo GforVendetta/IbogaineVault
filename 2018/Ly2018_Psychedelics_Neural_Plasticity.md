@@ -43,6 +43,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Psychedelics Promote Structural and Functional Neural Plasticity

@@ -38,6 +38,9 @@ contraindications:
   - "Electrolyte imbalances (hypokalaemia, hypomagnesaemia)"
 dosing_range: "1400 mg oral (repeated doses over 12 hours, internet-sourced capsules)"
 route: oral
+open_access: false
+publisher: "Taylor & Francis"
+body_format: vault-analytical
 ---
 
 # Toxicokinetics of Ibogaine and Noribogaine in a Patient with Prolonged Multiple Cardiac Arrhythmias After Ingestion of Internet Purchased Ibogaine

@@ -26,6 +26,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "Research Square"
+body_format: academic-retained
 ---
 
 # A Thematic Analysis of the Subjective Effects and Phenomenology of Ibogaine Administered in a Clinical Setting

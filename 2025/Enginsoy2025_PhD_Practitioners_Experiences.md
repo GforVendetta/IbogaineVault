@@ -27,6 +27,8 @@ herg_data: false
 contraindications: []
 dosing_range: "not-specified"
 route: not-specified
+open_access: true
+body_format: vault-analytical
 ---
 
 # A Qualitative Inquiry into Practitioners' Experiences of Using Ibogaine and Other Psychoplastogens in the Treatment of Substance Misuse

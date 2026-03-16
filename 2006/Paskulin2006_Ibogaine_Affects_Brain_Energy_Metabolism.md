@@ -29,6 +29,9 @@ dosing_range: "20 mg/kg i.p. (rats)"
 route: intraperitoneal
 contraindications: []
 pmid: "17054944"
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Ibogaine Affects Brain Energy Metabolism

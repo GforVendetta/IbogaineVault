@@ -35,6 +35,8 @@ document_type: clinical-trial
 aliases:
   - "Rocha 2025"
   - "Ibogaine AUD Clinical Trial"
+open_access: unknown
+body_format: hybrid
 ---
 
 # Tolerability and Efficacy of Ibogaine in the Treatment of Alcohol Use Disorder: An Open-Label Dose-Escalation Study

@@ -23,6 +23,8 @@ herg_data: false
 dosing_range: "N/A (IC₅₀ = 520 ± 40 µM for AChE inhibition)"
 route: not-specified
 contraindications: []
+open_access: unknown
+body_format: academic-retained
 ---
 
 # Ibogaine and the inhibition of acetylcholinesterase

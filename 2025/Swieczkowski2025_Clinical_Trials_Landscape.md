@@ -39,6 +39,9 @@ contraindications:
   - "Abnormal baseline ECG findings (QTcF >450 ms in NCT06480981)"
 dosing_range: "Ibogaine: 20–600 mg fixed or 3–12 mg/kg weight-based; Noribogaine: 3–180 mg (across 9 trials)"
 route: oral
+open_access: false
+publisher: "Taylor & Francis"
+body_format: vault-analytical
 ---
 
 # Not Losing Momentum: Cross-Sectional Insights into Ibogaine Clinical Trials

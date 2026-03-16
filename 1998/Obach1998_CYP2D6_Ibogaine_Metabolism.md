@@ -24,6 +24,8 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Cytochrome P4502D6 Catalyzes the O-Demethylation of the Psychoactive Alkaloid Ibogaine to 12-Hydroxyibogamine

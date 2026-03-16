@@ -33,6 +33,8 @@ herg_data: false
 dosing_range: "500–1000 mg oral ibogaine (human)"
 route: oral
 contraindications: []
+open_access: unknown
+body_format: hybrid
 ---
 
 # Ibogaine: Complex Pharmacokinetics, Concerns for Safety, and Preliminary Efficacy Measures

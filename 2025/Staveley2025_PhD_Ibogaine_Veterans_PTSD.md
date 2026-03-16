@@ -29,6 +29,8 @@ aliases:
   - "Staveley PhD"
   - "Veterans PTSD Ibogaine PhD"
 contraindications: []
+open_access: true
+body_format: narrative
 ---
 
 # Exploring Ibogaine/5-MeO-DMT as Treatment for the Relief of PTSD Symptoms in Veterans

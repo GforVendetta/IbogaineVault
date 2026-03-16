@@ -33,6 +33,9 @@ contraindications:
   - "Unknown product purity or dose"
 dosing_range: "2g oral (internet-purchased powder, purity unknown)"
 route: oral
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Ibogaine Consumption with Seizure-Like Episodes, QTc-Prolongation, and Captured Cardiac Dysrhythmias

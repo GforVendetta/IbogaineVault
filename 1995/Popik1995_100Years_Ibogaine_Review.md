@@ -21,6 +21,8 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: unknown
+body_format: academic-retained
 ---
 
 # 100 Years of Ibogaine: Neurochemical and Pharmacological Actions of a Putative Anti-addictive Drug

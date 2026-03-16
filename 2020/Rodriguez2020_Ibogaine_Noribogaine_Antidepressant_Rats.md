@@ -37,6 +37,9 @@ herg_data: false
 contraindications: []
 dosing_range: "20 and 40 mg/kg IP (ibogaine HCl and noribogaine HCl); 1 and 5 mg/kg IV (ibogaine HCl)"
 route: intraperitoneal
+open_access: false
+publisher: "American Chemical Society"
+body_format: vault-analytical
 ---
 
 # A Single Administration of the Atypical Psychedelic Ibogaine or its Metabolite Noribogaine Induces an Antidepressant-like Effect in Rats

@@ -1,7 +1,7 @@
 {
   "vault": "IbogaineVault",
   "version": "1.0.0",
-  "generated_at": "2026-03-15T15:44:19Z",
+  "generated_at": "2026-03-16T13:04:55Z",
   "paper_count": 300,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
@@ -41,6 +41,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1957/Schneider1957_Neuropharmacological_Studies_Ibogaine.md"
     },
     {
@@ -81,6 +85,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs.md"
     },
     {
@@ -126,6 +134,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "1971/Dhahir1971_Ibogaine_Serotonin_Toxicity.md"
     },
     {
@@ -167,6 +179,10 @@
       "source_url": null,
       "pmid": "1868880",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "1991/Glick1991_Ibogaine_Morphine_Self_Administration.md"
     },
     {
@@ -208,6 +224,10 @@
       "source_url": null,
       "pmid": "1893925",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis.md"
     },
     {
@@ -252,6 +272,10 @@
       "source_url": null,
       "pmid": "1377086",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1992/Deecher1992_Radioligand_Binding_Mechanisms.md"
     },
     {
@@ -292,6 +316,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1992/Frances1992_Ibogaine_Morphine_Withdrawal_Mice.md"
     },
     {
@@ -322,7 +350,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "20, 40 and 80 mg/kg IP (ibogaine HCl in saline, 1-4 ml/kg)",
+      "dosing_range": "20, 40 and 80 mg/kg IP (ibogaine HCl in saline, 1–4 ml/kg)",
       "route": "intraperitoneal",
       "source_pdf": "1992/Glick1992_Ibogaine_Morphine_Withdrawal_Rats.pdf",
       "journal": "Neuropharmacology",
@@ -334,6 +362,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "1992/Glick1992_Ibogaine_Morphine_Withdrawal_Rats.md"
     },
     {
@@ -374,6 +406,10 @@
       "source_url": null,
       "pmid": "1556903",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1992/Sershen1992_Ibogaine_Cocaine_Locomotor.md"
     },
     {
@@ -413,6 +449,10 @@
       "source_url": null,
       "pmid": "8243561",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "1993/Cappendijk1993_Ibogaine_Cocaine_Self_Administration.md"
     },
     {
@@ -452,6 +492,10 @@
       "source_url": null,
       "pmid": "8377927",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1993/OHearn1993_Purkinje_Cell_Degeneration.md"
     },
     {
@@ -498,6 +542,10 @@
       "source_url": null,
       "pmid": "7820611",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1994/Glick1994_Iboga_Alkaloids_Self_Administration.md"
     },
     {
@@ -537,6 +585,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1994/Popik1994_Ibogaine_NMDA_MK801_Binding.md"
     },
     {
@@ -565,7 +617,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "2×40 mg/kg IP ibogaine HCl (6 h apart); cocaine 200-400 mg/l oral, 25 mg/kg SC challenge",
+      "dosing_range": "2×40 mg/kg IP ibogaine HCl (6 h apart); cocaine 200–400 mg/l oral, 25 mg/kg SC challenge",
       "route": "intraperitoneal",
       "source_pdf": "1994/Sershen1994_Ibogaine_Cocaine_Preference_Mice.pdf",
       "journal": "Pharmacology Biochemistry and Behavior",
@@ -576,6 +628,10 @@
       "source_url": null,
       "pmid": "8115413",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1994/Sershen1994_Ibogaine_Cocaine_Preference_Mice.md"
     },
     {
@@ -618,6 +674,10 @@
       "source_url": null,
       "pmid": "7966509",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "1994/Sheppard1994_Preliminary_Investigation_Ibogaine.md"
     },
     {
@@ -660,6 +720,10 @@
       "source_url": null,
       "pmid": "7556375",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1995/Bowen1995_Sigma_Receptor_Selectivity.md"
     },
     {
@@ -702,6 +766,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1995/Dworkin1995_Ibogaine_Food_Cocaine_Heroin_Rats.md"
     },
     {
@@ -742,6 +810,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1995/Hearn1995_Noribogaine_Metabolite.md"
     },
     {
@@ -788,6 +860,10 @@
       "source_url": null,
       "pmid": "7596224",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1995/Mash1995_Noribogaine_SERT_Identification.md"
     },
     {
@@ -828,6 +904,10 @@
       "source_url": null,
       "pmid": "7796150",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1995/Pearl1995_Noribogaine_Opioid_Binding.md"
     },
     {
@@ -869,6 +949,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "1995/Popik1995_100Years_Ibogaine_Review.md"
     },
     {
@@ -911,6 +995,10 @@
       "source_url": null,
       "pmid": "8545483",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1995/Rezvani1995_Ibogaine_Alcohol_Preferring_Rats.md"
     },
     {
@@ -955,6 +1043,10 @@
       "source_url": null,
       "pmid": "7568622",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Springer Nature",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "1995/Sweetnam1995_Receptor_Binding_Profile.md"
     },
     {
@@ -998,6 +1090,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "1996/Benwell1996_Ibogaine_Nicotine_Dopamine_Behaviour.md"
     },
     {
@@ -1042,6 +1138,10 @@
       "source_url": null,
       "pmid": "8793904",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1996/Chen1996_Ibogaine_NMDA_Receptor_Block.md"
     },
     {
@@ -1073,7 +1173,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "40-100 mg/kg (rat, i.p.)",
+      "dosing_range": "40–100 mg/kg (rat, i.p.)",
       "route": "intraperitoneal",
       "source_pdf": "1996/Glick1996_18MC_NonToxic.pdf",
       "journal": "Brain Research",
@@ -1085,6 +1185,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "1996/Glick1996_18MC_NonToxic.md"
     },
     {
@@ -1124,6 +1228,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1996/Hough1996_Tissue_Distribution.md"
     },
     {
@@ -1157,7 +1265,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "40-80 mg/kg ibogaine (mouse, i.p.)",
+      "dosing_range": "40–80 mg/kg ibogaine (mouse, i.p.)",
       "route": "intraperitoneal",
       "source_pdf": "1996/Layer1996_IbogaineAnalogs_NMDA.pdf",
       "journal": "European Journal of Pharmacology",
@@ -1168,6 +1276,10 @@
       "source_url": null,
       "pmid": "8874134",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "1996/Layer1996_IbogaineAnalogs_NMDA.md"
     },
     {
@@ -1210,6 +1322,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "1996/Lotsof1996_Trauma_Abreaction.md"
     },
     {
@@ -1248,6 +1364,10 @@
       "source_url": null,
       "pmid": "8930373",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1996/Molinari1996_Ibogaine_Neurotoxicity_Reevaluation.md"
     },
     {
@@ -1289,6 +1409,10 @@
       "source_url": null,
       "pmid": "8959035",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1996/OCallaghan1996_Astrogliosis_Neurotoxicity.md"
     },
     {
@@ -1330,6 +1454,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "1996/Reid1996_Local_Ibogaine_Dopamine.md"
     },
     {
@@ -1370,6 +1498,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1996/Scallet1996_Ibogaine_Neurodegeneration_Rat_Mouse_Cerebellum.md"
     },
     {
@@ -1418,6 +1550,10 @@
       "source_url": null,
       "pmid": "8880938",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1996/Staley1996_Noribogaine_Receptor_Binding.md"
     },
     {
@@ -1461,6 +1597,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine.md"
     },
     {
@@ -1494,7 +1634,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "10-40 mg/kg ibogaine or 18-MC (rat i.p.)",
+      "dosing_range": "10–40 mg/kg ibogaine or 18-MC (rat i.p.)",
       "route": "intraperitoneal",
       "source_pdf": "1998/Glick1998_18MC_Nicotine.pdf",
       "journal": "Psychopharmacology",
@@ -1506,6 +1646,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "1998/Glick1998_18MC_Nicotine.md"
     },
     {
@@ -1553,6 +1697,10 @@
       "source_url": null,
       "pmid": "29090809",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md"
     },
     {
@@ -1581,7 +1729,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "1 mg/kg test dose (day 1); 20-25 mg/kg ibogaine HCl full dose (day 2)",
+      "dosing_range": "1 mg/kg test dose (day 1); 20–25 mg/kg ibogaine HCl full dose (day 2)",
       "route": "oral",
       "source_pdf": "1998/Luciano1998_Observations_Ibogaine_Treatment.pdf",
       "journal": "The American Journal on Addictions",
@@ -1592,6 +1740,10 @@
       "source_url": null,
       "pmid": "9522011",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1998/Luciano1998_Observations_Ibogaine_Treatment.md"
     },
     {
@@ -1617,7 +1769,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "1-100 µM ibogaine (chromaffin cell culture)",
+      "dosing_range": "1–100 µM ibogaine (chromaffin cell culture)",
       "route": "not-specified",
       "source_pdf": "1998/Mah1998_Nicotinic_Receptor_Mechanism.pdf",
       "journal": "Brain Research",
@@ -1628,6 +1780,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "1998/Mah1998_Nicotinic_Receptor_Mechanism.md"
     },
     {
@@ -1676,6 +1832,10 @@
       "source_url": null,
       "pmid": "29090804",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1998/Mash1998_Medication_Development_Ibogaine.md"
     },
     {
@@ -1715,6 +1875,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1998/Obach1998_CYP2D6_Ibogaine_Metabolism.md"
     },
     {
@@ -1754,6 +1918,10 @@
       "source_url": null,
       "pmid": "9592058",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Lippincott Williams & Wilkins",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "1998/Pablo1998_Noribogaine_MuOpioid_Agonist.md"
     },
     {
@@ -1792,6 +1960,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "1998/Wittier1998_Ibogaine_GeneralReview.md"
     },
     {
@@ -1823,7 +1995,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "19.3 ± 6.9 mg/kg (range 6-29 mg/kg)",
+      "dosing_range": "19.3 ± 6.9 mg/kg (range 6–29 mg/kg)",
       "route": "oral",
       "source_pdf": "1999/Alper1999_Acute_Opioid_Withdrawal.pdf",
       "journal": "American Journal on Addictions",
@@ -1836,6 +2008,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "1999/Alper1999_Acute_Opioid_Withdrawal.md"
     },
     {
@@ -1848,7 +2024,7 @@
         "Bandarage, Upul K."
       ],
       "year": 1999,
-      "doi": null,
+      "doi": "10.1111/j.1527-3458.1999.tb00084.x",
       "primary_category": "ORANGE",
       "secondary_categories": [
         "RED"
@@ -1871,7 +2047,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "20-40 mg/kg 18-MC (rat i.p./p.o.)",
+      "dosing_range": "20–40 mg/kg 18-MC (rat i.p./p.o.)",
       "route": "intraperitoneal",
       "source_pdf": "1999/Glick1999_18MC_Review_CNS_Drugs.pdf",
       "journal": "CNS Drug Reviews",
@@ -1883,6 +2059,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": "1080-563X",
       "filepath": "1999/Glick1999_18MC_Review_CNS_Drugs.md"
     },
     {
@@ -1922,6 +2102,10 @@
       "source_url": null,
       "pmid": "10556676",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "1999/Maisonneuve1999_18MC_Morphine_Reinforcement.md"
     },
     {
@@ -1954,7 +2138,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "19.3 ± 6.9 mg/kg (range 6-29 mg/kg)",
+      "dosing_range": "19.3 ± 6.9 mg/kg (range 6–29 mg/kg)",
       "route": "oral",
       "source_pdf": "2000/Alper2000_Ibogaine_Acute_Opioid_Withdrawal.pdf",
       "journal": "Annals of the New York Academy of Sciences",
@@ -1966,6 +2150,10 @@
       "source_url": null,
       "pmid": "10911935",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2000/Alper2000_Ibogaine_Acute_Opioid_Withdrawal.md"
     },
     {
@@ -2009,6 +2197,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2000/Binienda2000_Electrophysiology_IBO_Cocaine.md"
     },
     {
@@ -2040,7 +2232,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "10-40 mg/kg i.p. (rats); ibogaine 40-100 mg/kg",
+      "dosing_range": "10–40 mg/kg i.p. (rats); ibogaine 40–100 mg/kg",
       "route": "intraperitoneal",
       "source_pdf": "2000/Glick2000_18-MC.pdf",
       "journal": "CNS Drug Reviews",
@@ -2053,6 +2245,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2000/Glick2000_18-MC.md"
     },
     {
@@ -2084,7 +2280,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "20-40 mg/kg i.p. (rats); ibogaine 40-100 mg/kg",
+      "dosing_range": "20–40 mg/kg i.p. (rats); ibogaine 40–100 mg/kg",
       "route": "intraperitoneal",
       "source_pdf": "2000/Glick2000_Legacy_African_Shrub.pdf",
       "journal": "Annals of the New York Academy of Sciences",
@@ -2096,6 +2292,10 @@
       "source_url": null,
       "pmid": "10911925",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2000/Glick2000_Legacy_African_Shrub.md"
     },
     {
@@ -2146,6 +2346,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2000/Luciano2000_Neurologic_EEG_Medical_Observations.md"
     },
     {
@@ -2182,7 +2386,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "500-1000 mg oral ibogaine (human)",
+      "dosing_range": "500–1000 mg oral ibogaine (human)",
       "route": "oral",
       "source_pdf": "2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.pdf",
       "journal": "Annals of the New York Academy of Sciences",
@@ -2193,6 +2397,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md"
     },
     {
@@ -2206,7 +2414,7 @@
         "Wilson, V. G."
       ],
       "year": 2000,
-      "doi": null,
+      "doi": "10.1038/sj.bjp.0703227",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
@@ -2224,7 +2432,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "1-30 µM ibogaine or 18-MC (isolated tissue)",
+      "dosing_range": "1–30 µM ibogaine or 18-MC (isolated tissue)",
       "route": "not-specified",
       "source_pdf": "2000/Mundey2000_Ibogaine_18MC_Smooth_Muscle.pdf",
       "journal": "British Journal of Pharmacology",
@@ -2233,8 +2441,12 @@
         "Mundey"
       ],
       "source_url": null,
-      "pmid": null,
-      "pmcid": null,
+      "pmid": 10780959,
+      "pmcid": "PMC1571996",
+      "open_access": true,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2000/Mundey2000_Ibogaine_18MC_Smooth_Muscle.md"
     },
     {
@@ -2280,6 +2492,10 @@
       "source_url": null,
       "pmid": "10966515",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Oxford University Press",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2000/Xu2000_Ibogaine_Neuropathology_Rat_Cerebellum.md"
     },
     {
@@ -2319,6 +2535,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md"
     },
     {
@@ -2363,7 +2583,7 @@
         "Pre-existing cardiac disease",
         "Concomitant opioid use"
       ],
-      "dosing_range": "4.5-29 mg/kg oral",
+      "dosing_range": "4.5–29 mg/kg oral",
       "route": "oral",
       "source_pdf": "2001/Alper2001_Ibogaine_Review.pdf",
       "journal": "The Alkaloids: Chemistry and Biology",
@@ -2374,6 +2594,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2001/Alper2001_Ibogaine_Review.md"
     },
     {
@@ -2417,6 +2641,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2001/Baumann2001_Neurobiological_Effects_Noribogaine.md"
     },
     {
@@ -2455,6 +2683,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.md"
     },
     {
@@ -2496,6 +2728,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2001/Frenken2001_RootsUp_INTASH_SelfHelp.md"
     },
     {
@@ -2545,6 +2781,10 @@
       "source_url": null,
       "pmid": "11705115",
       "pmcid": null,
+      "open_access": true,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2001/Glick2001_Mechanisms_Action_Ibogaine_18MC.md"
     },
     {
@@ -2592,6 +2832,10 @@
       "source_url": null,
       "pmid": "11705114",
       "pmcid": null,
+      "open_access": true,
+      "publisher": "Elsevier",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2001/Lotsof2001_Case_Studies_Patient_Management.md"
     },
     {
@@ -2626,7 +2870,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "8-12 mg/kg oral ibogaine (human)",
+      "dosing_range": "8–12 mg/kg oral ibogaine (human)",
       "route": "oral",
       "source_pdf": "2001/Mash2001_Ibogaine_Heroin_Withdrawal.pdf",
       "journal": "The Alkaloids: Chemistry and Biology",
@@ -2637,6 +2881,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2001/Mash2001_Ibogaine_Heroin_Withdrawal.md"
     },
     {
@@ -2666,7 +2914,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "4-19 mg/kg oral ibogaine (human, reviewed)",
+      "dosing_range": "4–19 mg/kg oral ibogaine (human, reviewed)",
       "route": "oral",
       "source_pdf": "2002/Freelander2002_Comprehensive_Review.pdf",
       "journal": null,
@@ -2678,6 +2926,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2002/Freelander2002_Comprehensive_Review.md"
     },
     {
@@ -2711,7 +2963,7 @@
         "Absence of medical monitoring",
         "Chronic substance abuse history"
       ],
-      "dosing_range": "unknown (ibogaine source and dose not specified; blood level 9225 ng/mL suggests massive exposure, brain/liver concentrations 18137-18563 ng/kg)",
+      "dosing_range": "unknown (ibogaine source and dose not specified; blood level 9225 ng/mL suggests massive exposure, brain/liver concentrations 18137–18563 ng/kg)",
       "route": "not-specified",
       "source_pdf": "2002/Marker2002_Ibogaine_Related_Fatality.pdf",
       "journal": "Annales de Toxicologie Analytique",
@@ -2723,6 +2975,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "EDP Sciences",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2002/Marker2002_Ibogaine_Related_Fatality.md"
     },
     {
@@ -2759,6 +3015,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2003/Hoeck2003_Enantioselective_Synthesis_Iboga_Intermediates.md"
     },
     {
@@ -2797,6 +3057,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2004/Bastiaans2004_Life_After_Ibogaine.md"
     },
     {
@@ -2829,7 +3093,7 @@
       "contraindications": [
         "Active psychosis or psychosis-prone individuals (schizophrenia, bipolar disorder)"
       ],
-      "dosing_range": "700-1800 mg oral ibogaine HCl (11.7-25.0 mg/kg DWR); test dose 100-200 mg; threshold ~16 mg/kg",
+      "dosing_range": "700–1800 mg oral ibogaine HCl (11.7–25.0 mg/kg DWR); test dose 100–200 mg; threshold ~16 mg/kg",
       "route": "oral",
       "source_pdf": "2004/Hittner2004_Ibogaine_Treatment_Recommendations_Model_Fitting.pdf",
       "journal": "Journal of Psychoactive Drugs",
@@ -2841,6 +3105,10 @@
       "source_url": null,
       "pmid": "15369200",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Taylor & Francis",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2004/Hittner2004_Ibogaine_Treatment_Recommendations_Model_Fitting.md"
     },
     {
@@ -2886,6 +3154,10 @@
       "source_url": null,
       "pmid": "15659598",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Society for Neuroscience",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2005/He2005_GDNF_Ibogaine_Alcohol.md"
     },
     {
@@ -2916,7 +3188,7 @@
         "Concurrent opiate/opioid use at higher ibogaine doses — ibogaine potentiates analgesic effect, difference between 50 mg and 500 mg described as 'quite possibly fatal'",
         "Maintenance regimen beyond 20-25 days without break — jitteriness, sleep disturbance, overstimulation"
       ],
-      "dosing_range": "Flood 16-18 mg/kg; boosters/tune-ups 500-800 mg; clean maintenance 50 mg 2x/week + 100 mg every 45 days; dirty maintenance 25-50 mg/day oral",
+      "dosing_range": "Flood 16–18 mg/kg; boosters/tune-ups 500–800 mg; clean maintenance 50 mg 2x/week + 100 mg every 45 days; dirty maintenance 25–50 mg/day oral",
       "route": "oral",
       "source_pdf": "2005/Kroupa2005_Boosters_Maintenance.pdf",
       "journal": "MAPS Bulletin",
@@ -2928,6 +3200,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "2005/Kroupa2005_Boosters_Maintenance.md"
     },
     {
@@ -2973,6 +3249,10 @@
       "source_url": null,
       "pmid": "15831735",
       "pmcid": null,
+      "open_access": true,
+      "publisher": "AAAS",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2005/Vastag2005_Ibogaine_Vast_Uncontrolled_Experiment.md"
     },
     {
@@ -3015,6 +3295,10 @@
       "source_url": null,
       "pmid": "17023388",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "FASEB",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2006/He2006_Ibogaine_and_GDNF.md"
     },
     {
@@ -3059,6 +3343,10 @@
       "source_url": null,
       "pmid": "16798116",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2006/Kontrimaviciute2006_LCMS_Method_Ibogaine_Noribogaine.md"
     },
     {
@@ -3108,6 +3396,10 @@
       "source_url": null,
       "pmid": "16959135",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Oxford University Press",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2006/Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality.md"
     },
     {
@@ -3153,6 +3445,10 @@
       "source_url": null,
       "pmid": "16698188",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md"
     },
     {
@@ -3195,6 +3491,10 @@
       "source_url": null,
       "pmid": "17054944",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2006/Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism.md"
     },
     {
@@ -3224,7 +3524,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "15-25 mg/kg (reviewed protocols)",
+      "dosing_range": "15–25 mg/kg (reviewed protocols)",
       "route": "oral",
       "source_pdf": "2007/Alper2007_Ibogaine_Treatment_Addictions.pdf",
       "journal": null,
@@ -3236,6 +3536,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": "Praeger/Greenwood Publishing Group",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2007/Alper2007_Ibogaine_Treatment_Addictions.md"
     },
     {
@@ -3285,6 +3589,10 @@
       "source_url": null,
       "pmid": "18029124",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2008/Alper2008_Ibogaine_Medical_Subculture.md"
     },
     {
@@ -3334,6 +3642,10 @@
       "source_url": null,
       "pmid": "18024037",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2008/Cheze2008_Ibogaine_Noribogaine_LC-MSMS_Drowning_Death.md"
     },
     {
@@ -3384,6 +3696,10 @@
       "source_url": null,
       "pmid": "18650249",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "SAGE",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2008/Maciulaitis2008_Ibogaine_Pharmacology_Narrative_Review.md"
     },
     {
@@ -3426,6 +3742,10 @@
       "source_url": null,
       "pmid": "19144953",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "NEJM Group",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2009/Hoelen2009_Long_QT_Ibogaine.md"
     },
     {
@@ -3464,6 +3784,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Springer Nature",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2009/Paskulin2009_Translated_French_Iboga_Between_Myth_Reality.md"
     },
     {
@@ -3508,6 +3832,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human.md"
     },
     {
@@ -3540,7 +3868,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "5-50 µM (cell culture); 0.5-4 µg/µl intra-VTA (rats)",
+      "dosing_range": "5–50 µM (cell culture); 0.5–4 µg/µl intra-VTA (rats)",
       "route": "not-specified",
       "source_pdf": "2010/Carnicella2010_Noribogaine_18MC_GDNF.pdf",
       "journal": "Addiction Biology",
@@ -3551,6 +3879,10 @@
       "source_url": null,
       "pmid": "21040239",
       "pmcid": "PMC3783954",
+      "open_access": true,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2010/Carnicella2010_Noribogaine_18MC_GDNF.md"
     },
     {
@@ -3563,7 +3895,7 @@
         "Štrukelj, Borut"
       ],
       "year": 2010,
-      "doi": null,
+      "doi": "10.1016/j.ejphar.2009.10.032",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "preclinical",
@@ -3579,7 +3911,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "1-8 µM in yeast culture",
+      "dosing_range": "1–20 mg/l (≈3–64 µM) in yeast culture",
       "route": "not-specified",
       "source_pdf": "2010/Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP.pdf",
       "journal": "European Journal of Pharmacology",
@@ -3589,8 +3921,12 @@
         "Paškulin ATP 2010"
       ],
       "source_url": null,
-      "pmid": null,
+      "pmid": 19853595,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2010/Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP.md"
     },
     {
@@ -3629,6 +3965,10 @@
       "source_url": null,
       "pmid": "20126400",
       "pmcid": "PMC2814854",
+      "open_access": true,
+      "publisher": "PLoS",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2010/Ray2010_Psychedelics_Human_Receptorome.md"
     },
     {
@@ -3668,6 +4008,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2011/Alper2011_Ibogaine_Inhibition_AChE.md"
     },
     {
@@ -3719,6 +4063,10 @@
       "source_url": null,
       "pmid": "21391058",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Taylor & Francis",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2011/Donnelly2011_Ibogaine_Drug_Alcohol_Addiction_Legal.md"
     },
     {
@@ -3766,6 +4114,10 @@
       "source_url": null,
       "pmid": "21881451",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Lippincott Williams & Wilkins",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2011/Houenou2011_Ibogaine_Psychosis_Schizophrenia.md"
     },
     {
@@ -3805,6 +4157,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Emerald Publishing",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2011/Rodger2011_SocialContext_Subcultural_DrugPolicy.md"
     },
     {
@@ -3846,7 +4202,7 @@
         "hypokalemia",
         "hypomagnesemia"
       ],
-      "dosing_range": "4.5-29 mg/kg (mean 14.3±6.1)",
+      "dosing_range": "4.5–29 mg/kg (mean 14.3±6.1)",
       "route": "oral",
       "source_pdf": "2012/Alper2012_Ibogaine_Fatalities.pdf",
       "journal": "Journal of Forensic Sciences",
@@ -3858,6 +4214,10 @@
       "source_url": null,
       "pmid": "22268458",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2012/Alper2012_Ibogaine_Fatalities.md"
     },
     {
@@ -3903,6 +4263,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2012/Booze2012_MPC_Ibogaine_Toxicity.md"
     },
     {
@@ -3948,6 +4312,10 @@
       "source_url": null,
       "pmid": "22458604",
       "pmcid": "PMC4888945",
+      "open_access": true,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md"
     },
     {
@@ -3998,6 +4366,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2012/Paling2012_Life_Threatening_Complications.md"
     },
     {
@@ -4043,6 +4415,10 @@
       "source_url": null,
       "pmid": "22751004",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2012/Paskulin2012_Metabolic_Plasticity_Ibogaine_Economising_Energy.md"
     },
     {
@@ -4087,6 +4463,10 @@
       "source_url": null,
       "pmid": "22304378",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Informa Healthcare",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.md"
     },
     {
@@ -4138,6 +4518,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Informa Healthcare",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2012/Shawn2012_Ibogaine_TdP_VT.md"
     },
     {
@@ -4174,6 +4558,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "2012/Sisko2012_Vanishing_World_Iboga_Sustainability.md"
     },
     {
@@ -4220,6 +4608,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Informa Healthcare",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2012/Warrick2012_Ibogaine_Fatality.md"
     },
     {
@@ -4257,7 +4649,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "N/A (functional Ki 3-13 µM for MOR)",
+      "dosing_range": "N/A (functional Ki 3–13 µM for MOR)",
       "route": "not-specified",
       "source_pdf": "2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation.pdf",
       "journal": "PLoS ONE",
@@ -4270,6 +4662,10 @@
       "source_url": null,
       "pmid": "24204784",
       "pmcid": "PMC3818563",
+      "open_access": true,
+      "publisher": "PLoS",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation.md"
     },
     {
@@ -4314,6 +4710,10 @@
       "source_url": null,
       "pmid": "24233315",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Oxford University Press",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2013/Asua2013_Ibogaine_Toxicity_UK_Case.md"
     },
     {
@@ -4362,6 +4762,10 @@
       "source_url": null,
       "pmid": "23627782",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Bentham Science",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2013/Brown2013_Ibogaine_Treatment_Substance_Dependence.md"
     },
     {
@@ -4411,6 +4815,10 @@
       "source_url": null,
       "pmid": "22974549",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2013/Cachat2013_Ibogaine_Zebrafish.md"
     },
     {
@@ -4453,6 +4861,10 @@
       "source_url": null,
       "pmid": "23617876",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2013/Jalal2013_Ibogaine_Death_Heroin_Case.md"
     },
     {
@@ -4505,6 +4917,10 @@
       "source_url": null,
       "pmid": "23707769",
       "pmcid": "PMC3853361",
+      "open_access": true,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile.md"
     },
     {
@@ -4555,6 +4971,10 @@
       "source_url": null,
       "pmid": "23919354",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2013/Mazoyer2013_Fatality_Case.md"
     },
     {
@@ -4604,6 +5024,10 @@
       "source_url": null,
       "pmid": "24112325",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2013/Papadodima2013_Ibogaine_Sudden_Death_Case.md"
     },
     {
@@ -4642,6 +5066,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2014/Kingsley-Brown2014_Ibo_Tx_for_Substance_Dependence.md"
     },
     {
@@ -4692,6 +5120,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2014/Prior2014_Ibogaine_Cocaine_Pilot_RCT.md"
     },
     {
@@ -4748,6 +5180,10 @@
       "source_url": null,
       "pmid": "25271214",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "SAGE",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md"
     },
     {
@@ -4801,6 +5237,10 @@
       "source_url": null,
       "pmid": "24307198",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "ASPET",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2014/Thurner2014_hERG_Channel_Block_Ibogaine.md"
     },
     {
@@ -4843,6 +5283,10 @@
       "source_url": null,
       "pmid": "24940646",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Informa Healthcare",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2014/Vlaanderen2014_Cardiac_Arrest_Ibogaine.md"
     },
     {
@@ -4891,6 +5335,10 @@
       "source_url": null,
       "pmid": "26518760",
       "pmcid": "PMC4628299",
+      "open_access": true,
+      "publisher": "BioMed Central",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2015/Breuer2015_Herbal_Seizures_Case_Report.md"
     },
     {
@@ -4937,6 +5385,10 @@
       "source_url": null,
       "pmid": "26517751",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "American Chemical Society",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md"
     },
     {
@@ -4984,6 +5436,10 @@
       "source_url": null,
       "pmid": "25651476",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2015/Glue2015_Ibogaine_CYP2D6_Activity.md"
     },
     {
@@ -5015,7 +5471,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "3-60 mg oral noribogaine (human)",
+      "dosing_range": "3–60 mg oral noribogaine (human)",
       "route": "oral",
       "source_pdf": "2015/Glue2015_Noribogaine_Ascending_Doses.pdf",
       "journal": "Journal of Clinical Pharmacology",
@@ -5028,6 +5484,10 @@
       "source_url": null,
       "pmid": "25279818",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2015/Glue2015_Noribogaine_Ascending_Doses.md"
     },
     {
@@ -5072,6 +5532,10 @@
       "source_url": null,
       "pmid": "26329675",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2015/Hildyard2015_QT_Prolongation_TdP_Ibogaine.md"
     },
     {
@@ -5121,7 +5585,7 @@
         "concurrent QT-prolonging medications",
         "unsupervised or unmonitored administration"
       ],
-      "dosing_range": "4.5-29mg/kg (fatality cases); therapeutic 10-25mg/kg",
+      "dosing_range": "4.5–29mg/kg (fatality cases); therapeutic 10–25mg/kg",
       "route": "oral",
       "source_pdf": "2015/Koenig2015_Cardiac_Mechanisms.pdf",
       "journal": "Molecules",
@@ -5136,6 +5600,10 @@
       "source_url": null,
       "pmid": "25642835",
       "pmcid": "PMC4382526",
+      "open_access": true,
+      "publisher": "MDPI",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2015/Koenig2015_Cardiac_Mechanisms.md"
     },
     {
@@ -5184,6 +5652,10 @@
       "source_url": null,
       "pmid": "25877487",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2015/Marta2015_Ibogaine_Mania_Case_Reports.md"
     },
     {
@@ -5217,7 +5689,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "10-20 µM ibogaine HCl (human erythrocytes ex vivo)",
+      "dosing_range": "10–20 µM ibogaine HCl (human erythrocytes ex vivo)",
       "route": "not-applicable",
       "source_pdf": "2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes.pdf",
       "journal": "Journal of Ethnopharmacology",
@@ -5228,6 +5700,10 @@
       "source_url": null,
       "pmid": "25660330",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes.md"
     },
     {
@@ -5274,6 +5750,10 @@
       "source_url": null,
       "pmid": "25687617",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2015/OConnell2015_Internet_Ibogaine_Toxicity.md"
     },
     {
@@ -5318,7 +5798,7 @@
         "cocaine withdrawal",
         "co-ingestants"
       ],
-      "dosing_range": "10-25 mg/kg (typical clinical range); IC₅₀ overlaps therapeutic plasma concentrations (2.4 μM ibogaine, 3.2 μM noribogaine at 10 mg/kg)",
+      "dosing_range": "10–25 mg/kg (typical clinical range); IC₅₀ overlaps therapeutic plasma concentrations (2.4 μM ibogaine, 3.2 μM noribogaine at 10 mg/kg)",
       "route": "oral",
       "source_pdf": "2016/Alper2016_hERG_Blockade.pdf",
       "journal": "Cardiovascular Toxicology",
@@ -5332,6 +5812,10 @@
       "source_url": null,
       "pmid": "25636206",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2016/Alper2016_hERG_Blockade.md"
     },
     {
@@ -5376,6 +5860,10 @@
       "source_url": null,
       "pmid": "27244235",
       "pmcid": "PMC5545647",
+      "open_access": true,
+      "publisher": "Springer Nature",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md"
     },
     {
@@ -5425,6 +5913,10 @@
       "source_url": null,
       "pmid": "27192438",
       "pmcid": "PMC4993099",
+      "open_access": true,
+      "publisher": "Taylor & Francis",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2016/CloutierGill2016_Ibogaine_OUD_Case_Report.md"
     },
     {
@@ -5472,6 +5964,10 @@
       "source_url": null,
       "pmid": "27180314",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2016/Forsyth2016_Low_Dose_Ibogaine_Mood_State_Psychological_Performance.md"
     },
     {
@@ -5520,7 +6016,7 @@
         "Concurrent QT-prolonging medications",
         "Risk factors for torsades de pointes"
       ],
-      "dosing_range": "60-180 mg single oral dose",
+      "dosing_range": "60–180 mg single oral dose",
       "route": "oral",
       "source_pdf": "2016/Glue2016_Noribogaine_Opioid_Patients_Safety.pdf",
       "journal": "Clinical Pharmacology in Drug Development",
@@ -5532,6 +6028,10 @@
       "source_url": null,
       "pmid": "27870477",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2016/Glue2016_Noribogaine_Opioid_Patients_Safety.md"
     },
     {
@@ -5572,7 +6072,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "SR morphine 4-5× methadone dose (mean 311 mg/day); clonidine 200 μg/day patch PRN",
+      "dosing_range": "SR morphine 4–5× methadone dose (mean 311 mg/day); clonidine 200 μg/day patch PRN",
       "route": "oral",
       "source_pdf": "2016/Glue2016b_Methadone_Morphine_Switch.pdf",
       "journal": "The Journal of Clinical Pharmacology",
@@ -5584,6 +6084,10 @@
       "source_url": null,
       "pmid": "26763764",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2016/Glue2016b_Methadone_Morphine_Switch.md"
     },
     {
@@ -5637,6 +6141,10 @@
       "source_url": null,
       "pmid": "26807959",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Informa Healthcare",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2016/Litjens2016_How_Toxic_Is_Ibogaine.md"
     },
     {
@@ -5670,7 +6178,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "10-100 mg/kg oral noribogaine (mouse/rat)",
+      "dosing_range": "10–100 mg/kg oral noribogaine (mouse/rat)",
       "route": "oral",
       "source_pdf": "2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects.pdf",
       "journal": "Journal of Psychopharmacology",
@@ -5681,6 +6189,10 @@
       "source_url": null,
       "pmid": "27044509",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "SAGE",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects.md"
     },
     {
@@ -5725,6 +6237,10 @@
       "source_url": null,
       "pmid": "27141291",
       "pmcid": "PMC4837967",
+      "open_access": true,
+      "publisher": "SAGE",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2016/Meisner2016_Cardiac_Arrest_Death_Case.md"
     },
     {
@@ -5775,6 +6291,10 @@
       "source_url": null,
       "pmid": "27426011",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2016/Schep2016_Ibogaine_Safe_Dose.md"
     },
     {
@@ -5838,6 +6358,10 @@
       "source_url": null,
       "pmid": "30272050",
       "pmcid": "PMC6157925",
+      "open_access": true,
+      "publisher": "Akadémiai Kiadó",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2017/Davis2017_Ibogaine_Opioid_Outcomes.md"
     },
     {
@@ -5884,6 +6408,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Akadémiai Kiadó",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2017/DosSantos2017_Antiaddictive_Ibogaine_Systematic_Review.md"
     },
     {
@@ -5926,6 +6454,10 @@
       "source_url": null,
       "pmid": "28266890",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Taylor & Francis",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2017/Heink2017_Phenomenology_Ibogaine_ASC.md"
     },
     {
@@ -5975,6 +6507,10 @@
       "source_url": null,
       "pmid": "28489458",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Taylor & Francis",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2017/Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac.md"
     },
     {
@@ -6017,6 +6553,10 @@
       "source_url": null,
       "pmid": "28194562",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2017/Lavaud2017_Iboga_Alkaloids_Chemistry_Review.md"
     },
     {
@@ -6055,7 +6595,7 @@
         "Hepatic impairment",
         "Concomitant CYP2D6 inhibitors"
       ],
-      "dosing_range": "25-55 mg/kg oral",
+      "dosing_range": "25–55 mg/kg oral",
       "route": "oral",
       "source_pdf": "2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.pdf",
       "journal": "The American Journal of Drug and Alcohol Abuse",
@@ -6068,6 +6608,10 @@
       "source_url": null,
       "pmid": "28402682",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Taylor & Francis",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md"
     },
     {
@@ -6110,6 +6654,10 @@
       "source_url": null,
       "pmid": "27020671",
       "pmcid": "PMC5334404",
+      "open_access": true,
+      "publisher": "Springer Nature",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2017/Rubi2017_hERG_iPSC_Cardiomyocytes.md"
     },
     {
@@ -6158,6 +6706,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Akadémiai Kiadó",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2017/Wilkins2017_Methadone_Low_Dose.md"
     },
     {
@@ -6200,6 +6752,10 @@
       "source_url": null,
       "pmid": "30582133",
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": "Food Science Publisher",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2018/Bading-Taika2018_Phytochemicals_Iboga_RB_Effects_Dysfunctional_Metabolism_Cognitive_Performance_Mice.md"
     },
     {
@@ -6246,6 +6802,10 @@
       "source_url": null,
       "pmid": "30471678",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2018/Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder.md"
     },
     {
@@ -6292,6 +6852,10 @@
       "source_url": null,
       "pmid": "28541119",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Taylor & Francis",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2018/Brown2018_OUD_Detoxification_Outcomes.md"
     },
     {
@@ -6328,7 +6892,7 @@
         "Preexisting medical conditions",
         "Opioid use within 72 hours of ibogaine ingestion"
       ],
-      "dosing_range": "15-20 mg/kg therapeutic dose referenced; LD50 264 mg/kg",
+      "dosing_range": "15–20 mg/kg therapeutic dose referenced; LD50 264 mg/kg",
       "route": "oral",
       "source_pdf": "2018/Camlin2018_Phenomenological_Ibogaine_Opioid_Use.pdf",
       "journal": "Journal of Psychedelic Studies",
@@ -6339,6 +6903,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Akadémiai Kiadó",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2018/Camlin2018_Phenomenological_Ibogaine_Opioid_Use.md"
     },
     {
@@ -6396,6 +6964,10 @@
       "source_url": null,
       "pmid": "30471681",
       "pmcid": null,
+      "open_access": true,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md"
     },
     {
@@ -6441,6 +7013,10 @@
       "source_url": null,
       "pmid": "30020025",
       "pmcid": "PMC6247813",
+      "open_access": true,
+      "publisher": "Taylor & Francis",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2018/Davis2018_Mixed_Method_Persisting_Effects.md"
     },
     {
@@ -6475,7 +7051,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "20-40 mg/kg i.p. ibogaine (rat)",
+      "dosing_range": "20–40 mg/kg i.p. ibogaine (rat)",
       "route": "intraperitoneal",
       "source_pdf": "2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression.pdf",
       "journal": "Frontiers in Pharmacology",
@@ -6487,6 +7063,10 @@
       "source_url": null,
       "pmid": "29755349",
       "pmcid": "PMC5934978",
+      "open_access": true,
+      "publisher": "Frontiers",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression.md"
     },
     {
@@ -6532,6 +7112,10 @@
       "source_url": null,
       "pmid": "30300292",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Lippincott Williams & Wilkins",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2018/Knuijver2018_HPPD_Ibogaine_Case_Report.md"
     },
     {
@@ -6586,6 +7170,10 @@
       "source_url": null,
       "pmid": "29898390",
       "pmcid": "PMC6082376",
+      "open_access": true,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2018/Ly2018_Psychedelics_Neural_Plasticity.md"
     },
     {
@@ -6645,6 +7233,10 @@
       "source_url": null,
       "pmid": "29608409",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Taylor & Francis",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2018/Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine.md"
     },
     {
@@ -6683,7 +7275,7 @@
         "Liver pathology",
         "HIV/AIDS"
       ],
-      "dosing_range": "10-25 mg/kg ibogaine HCl",
+      "dosing_range": "10–25 mg/kg ibogaine HCl",
       "route": "oral",
       "source_pdf": "2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.pdf",
       "journal": "Frontiers in Pharmacology",
@@ -6696,6 +7288,10 @@
       "source_url": null,
       "pmid": "29922156",
       "pmcid": "PMC5996271",
+      "open_access": true,
+      "publisher": "Frontiers",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md"
     },
     {
@@ -6740,6 +7336,10 @@
       "source_url": null,
       "pmid": "29599898",
       "pmcid": "PMC5828116",
+      "open_access": true,
+      "publisher": "Hindawi",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2018/Orescanin-Dusic2018_Ibogaine_Uterine_Smooth_Muscle_Contractions_Relation_to_Antioxidant_Enzymes.md"
     },
     {
@@ -6781,6 +7381,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": "1053-4202",
       "filepath": "2018/Rodger2018_Healing_Potential_Ibogaine.md"
     },
     {
@@ -6815,7 +7419,7 @@
         "QT-prolonging co-medications",
         "pre-existing cardiac conditions"
       ],
-      "dosing_range": "65-70mg/kg (5.6g total)",
+      "dosing_range": "65–70mg/kg (5.6g total)",
       "route": "oral",
       "source_pdf": "2018/Steinberg2018_Cardiac_Arrest_Case.pdf",
       "journal": "Journal of Arrhythmia",
@@ -6826,6 +7430,10 @@
       "source_url": null,
       "pmid": "30167018",
       "pmcid": "PMC6111465",
+      "open_access": true,
+      "publisher": "Wiley",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2018/Steinberg2018_Cardiac_Arrest_Case.md"
     },
     {
@@ -6875,6 +7483,10 @@
       "source_url": null,
       "pmid": "30216039",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "American Chemical Society",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience.md"
     },
     {
@@ -6918,6 +7530,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": "SciELO",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2019/Bouso2019_Product_Quality.md"
     },
     {
@@ -6966,6 +7582,10 @@
       "source_url": null,
       "pmid": "30967101",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Taylor & Francis",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2019/Brown2019_Ibogaine_Subjective_Experience_OUD.md"
     },
     {
@@ -7009,6 +7629,10 @@
       "source_url": null,
       "pmid": "31019304",
       "pmcid": "PMC6750207",
+      "open_access": true,
+      "publisher": "Springer Nature",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms.md"
     },
     {
@@ -7055,6 +7679,10 @@
       "source_url": null,
       "pmid": "31630892",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2019/Grogan2019_Seizures_QT_Prolongation_Cardiac.md"
     },
     {
@@ -7097,6 +7725,10 @@
       "source_url": null,
       "pmid": "32794540",
       "pmcid": "PMC7882011",
+      "open_access": true,
+      "publisher": "Royal Society of Chemistry",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md"
     },
     {
@@ -7133,7 +7765,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "20-40 mg/kg i.p. ibogaine (rat)",
+      "dosing_range": "20–40 mg/kg i.p. ibogaine (rat)",
       "route": "intraperitoneal",
       "source_pdf": "2019/Marton2019_Ibogaine_GDNF_BDNF.pdf",
       "journal": "Frontiers in Pharmacology",
@@ -7146,6 +7778,10 @@
       "source_url": null,
       "pmid": "30890941",
       "pmcid": "PMC6411846",
+      "open_access": true,
+      "publisher": "Frontiers",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2019/Marton2019_Ibogaine_GDNF_BDNF.md"
     },
     {
@@ -7186,6 +7822,10 @@
       "source_url": null,
       "pmid": "32693321",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2020/Barber2020_Consumer_Views_Online_Fora.md"
     },
     {
@@ -7217,15 +7857,15 @@
         "topic/mechanism"
       ],
       "clinical_significance": "high",
-      "key_findings": "Tropane-based ibogaine analogue (9c) rescued 6/13 disease-associated DAT mutants causing infantile Parkinsonism/dystonia. Novel pharmacochaperone lead for DTDS with improved therapeutic index.",
+      "key_findings": "Tropane-based ibogaine analogue (9b) rescued 6/13 disease-associated DAT mutants causing infantile Parkinsonism/dystonia. Novel pharmacochaperone lead for DTDS with improved therapeutic index.",
       "sample_size": null,
       "mortality_count": null,
       "qtc_data": false,
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "10 µM tropane-ibogaine analogues (HEK293 cells)",
-      "route": "not-specified",
+      "dosing_range": "0.06–30 µM (in vitro); 10–100 µM (Drosophila feeding)",
+      "route": "not-applicable",
       "source_pdf": "2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT.pdf",
       "journal": "ACS Pharmacology & Translational Science",
       "aliases": [
@@ -7235,6 +7875,10 @@
       "source_url": null,
       "pmid": "33860180",
       "pmcid": "PMC8033614",
+      "open_access": true,
+      "publisher": "American Chemical Society",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT.md"
     },
     {
@@ -7276,6 +7920,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2020/Canessa2020_Ibogaine_Noribogaine_in_Tx_Review_Safety_Efficacy.md"
     },
     {
@@ -7329,6 +7977,10 @@
       "source_url": null,
       "pmid": "32704581",
       "pmcid": "PMC7359647",
+      "open_access": true,
+      "publisher": "SAGE",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2020/Davis2020_SpecialOps_Veterans_Trauma.md"
     },
     {
@@ -7369,6 +8021,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2020/Ekaghba2020_Acute_Toxicity_Aqueous_Iboga_TA.md"
     },
     {
@@ -7410,6 +8066,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine.md"
     },
     {
@@ -7458,6 +8118,10 @@
       "source_url": null,
       "pmid": "32330007",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "American Chemical Society",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2020/Rodriguez2020_Ibogaine_Noribogaine_Antidepressant_Rats.md"
     },
     {
@@ -7481,7 +8145,7 @@
       "key_findings": "Two Canadian OUD cases: Case 1 achieved total opioid abstinence (3yr+) after single treatment. Case 2 used multiple iboga sessions to taper off OAT, maintained 2yr+ abstinence. Demonstrates treatment versatility.",
       "sample_size": 2,
       "mortality_count": null,
-      "qtc_data": false,
+      "qtc_data": true,
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
@@ -7497,6 +8161,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Akadémiai Kiadó",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2020/Wilson2020_Novel_Tx_OUD_Ibogaine_Iboga_Case_Study.md"
     },
     {
@@ -7543,6 +8211,10 @@
       "source_url": null,
       "pmid": "33433774",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2021/Acimovic2021_Ibogaine_Death_Case_Report.md"
     },
     {
@@ -7581,6 +8253,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2021/Bekale2021_Holy_Spirit_Iboga_Bwiti.md"
     },
     {
@@ -7651,6 +8327,10 @@
       "source_url": null,
       "pmid": "33299186",
       "pmcid": "PMC7874389",
+      "open_access": true,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2021/Cameron2021_Tabernanthalog_Non_Hallucinogenic_Analog.md"
     },
     {
@@ -7708,6 +8388,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": "Cold Spring Harbor",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2021/Havel2021_Oxa-Iboga_Opioid_Addiction.md"
     },
     {
@@ -7771,6 +8455,10 @@
       "source_url": null,
       "pmid": "33620733",
       "pmcid": "PMC9292417",
+      "open_access": true,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2021/Knuijver2021_Safety_Opioid_Detox.md"
     },
     {
@@ -7806,6 +8494,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": "Dora Weiner Foundation",
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "2021/Lotsof2021_To_Have_or_Have_Not.md"
     },
     {
@@ -7847,6 +8539,10 @@
       "source_url": null,
       "pmid": "34712118",
       "pmcid": "PMC8545892",
+      "open_access": true,
+      "publisher": "Frontiers",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2021/Lukasiewicz2021_Serotonergic_Psychedelics_Neuroplasticity.md"
     },
     {
@@ -7890,6 +8586,10 @@
       "source_url": null,
       "pmid": "34139922",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Taylor & Francis",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2021/Luz2021_Toxicity_Therapeutic_Potential.md"
     },
     {
@@ -7954,6 +8654,10 @@
       "source_url": null,
       "pmid": "34406452",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md"
     },
     {
@@ -8004,6 +8708,10 @@
       "source_url": null,
       "pmid": "34271588",
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": "Bentham Open",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2021/Shi2021_NAM_Ibogaine_Cardiotoxicity.md"
     },
     {
@@ -8048,6 +8756,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Akadémiai Kiadó",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2021/Underwood2021_Narrative_Review_Ibogaine_Literature.md"
     },
     {
@@ -8089,6 +8801,10 @@
       "source_url": null,
       "pmid": "35896190",
       "pmcid": "PMC9375667",
+      "open_access": true,
+      "publisher": "Brazilian Journal Publisher",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2022/Fernandes-Nascimento2022_Microdosing_Bipolar.md"
     },
     {
@@ -8127,6 +8843,10 @@
       "source_url": null,
       "pmid": "35707155",
       "pmcid": "PMC9190277",
+      "open_access": true,
+      "publisher": "American Chemical Society",
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "2022/Kargbo2022_Ibogaine_and_Analogs_Therapeutics_Neurological_Psychiatric_Disorders.md"
     },
     {
@@ -8170,6 +8890,10 @@
       "source_url": null,
       "pmid": "35012793",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md"
     },
     {
@@ -8236,6 +8960,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2022/Malcolm2022_Addiction_Pharmacology_Ibogaine.md"
     },
     {
@@ -8285,6 +9013,10 @@
       "source_url": null,
       "pmid": "35308219",
       "pmcid": "PMC8931498",
+      "open_access": true,
+      "publisher": "Frontiers",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2022/Martins2022_Drug_Transporters_Ibogaine_PK.md"
     },
     {
@@ -8329,6 +9061,10 @@
       "source_url": null,
       "pmid": "36456173",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2022/Rodriguez-Cano2022_Underground_Ibogaine_Use_for_SUD_Tx_Qualitative_Analysis_Subjective_Experiences.md"
     },
     {
@@ -8367,6 +9103,10 @@
       "source_url": null,
       "pmid": "36440853",
       "pmcid": "PMC10034762",
+      "open_access": true,
+      "publisher": "American Chemical Society",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2022/Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs.md"
     },
     {
@@ -8418,6 +9158,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2023/Alfonso2023_Ibogaine_Atypical_Psychedelic_Review_ES.md"
     },
     {
@@ -8465,6 +9209,10 @@
       "source_url": null,
       "pmid": "36549498",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2023/Arias2023_Catharanthine_18-MC.md"
     },
     {
@@ -8511,6 +9259,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": "2950-1997",
       "filepath": "2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md"
     },
     {
@@ -8558,6 +9310,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Cambridge University Press",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2023/Cherian2023_Ibogaine_Cognitive_Functioning.md"
     },
     {
@@ -8606,6 +9362,10 @@
       "source_url": null,
       "pmid": "37734158",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Taylor & Francis",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS.md"
     },
     {
@@ -8637,7 +9397,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "15 mg/kg flood + 38 mg/kg saturation protocol; outpatient 3-12 mg/kg",
+      "dosing_range": "15 mg/kg flood + 38 mg/kg saturation protocol; outpatient 3–12 mg/kg",
       "route": "oral",
       "source_pdf": "2023/Dickinson2023_Ibogaine_Reduced_Severe_Neuropathic_Pain_Brachial_Plexus_Nerve_Root_Avulsion.pdf",
       "journal": "Frontiers in Pain Research",
@@ -8649,6 +9409,10 @@
       "source_url": null,
       "pmid": "37720911",
       "pmcid": "PMC10502345",
+      "open_access": true,
+      "publisher": "Frontiers",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2023/Dickinson2023_Ibogaine_Reduced_Severe_Neuropathic_Pain_Brachial_Plexus_Nerve_Root_Avulsion.md"
     },
     {
@@ -8684,6 +9448,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences.md"
     },
     {
@@ -8727,6 +9495,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Oxford University Press",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2023/Faerman2023_Ibogaine_Veterans_PTSD.md"
     },
     {
@@ -8767,6 +9539,10 @@
       "source_url": null,
       "pmid": "37927218",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Taylor & Francis",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2023/Fernandes-Nascimento2023_Scientometric_Analysis_Three_Decades_of_Ibogaine_Research.md"
     },
     {
@@ -8804,6 +9580,10 @@
       "source_url": null,
       "pmid": "37734058",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Taylor & Francis",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2023/Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts.md"
     },
     {
@@ -8843,6 +9623,10 @@
       "source_url": null,
       "pmid": "36907284",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md"
     },
     {
@@ -8894,6 +9678,10 @@
       "source_url": null,
       "pmid": "36263479",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Bentham Science",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2023/Mosca2023_Ibogaine_Noribogaine_SUDs_Systematic_Review.md"
     },
     {
@@ -8945,6 +9733,10 @@
       "source_url": null,
       "pmid": "37316665",
       "pmcid": "PMC10284704",
+      "open_access": true,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2023/Nardou2023_Psychedelics_Critical_Period_Reopening.md"
     },
     {
@@ -8995,6 +9787,10 @@
       "source_url": null,
       "pmid": "37937505",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "SAGE",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md"
     },
     {
@@ -9056,6 +9852,10 @@
       "source_url": null,
       "pmid": "36947216",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md"
     },
     {
@@ -9108,6 +9908,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": "MDPI",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2023/Rocha2023_USP_Safety_Protocols.md"
     },
     {
@@ -9146,6 +9950,10 @@
       "source_url": null,
       "pmid": "38242896",
       "pmcid": "PMC10798990",
+      "open_access": true,
+      "publisher": "Springer Nature",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2024/Biosca-Brull2024_Transcriptomic_Analysis_Single_Ibogaine_Dose.md"
     },
     {
@@ -9190,6 +9998,10 @@
       "source_url": null,
       "pmid": "38467891",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2024/Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects.md"
     },
     {
@@ -9255,6 +10067,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": "RIVM",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2024/Chen2024_RIVM_Iboga_Risk_Assessment.md"
     },
     {
@@ -9306,7 +10122,7 @@
         "Multiple concurrent substance addictions (polysubstance use increases fatality risk)",
         "History of mania or psychosis (3 reported cases, all in unregulated settings)"
       ],
-      "dosing_range": "6-30 mg/kg (therapeutic range)",
+      "dosing_range": "6–30 mg/kg (therapeutic range)",
       "route": "oral",
       "source_pdf": "2024/Cherian2024_Ibogaine_Primer_Clinicians.pdf",
       "journal": "American Journal of Therapeutics",
@@ -9317,6 +10133,10 @@
       "source_url": null,
       "pmid": "38518270",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Lippincott Williams & Wilkins",
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "2024/Cherian2024_Ibogaine_Primer_Clinicians.md"
     },
     {
@@ -9366,7 +10186,7 @@
         "QT-prolonging medications",
         "Active substance withdrawal"
       ],
-      "dosing_range": "11.3-14.7 mg/kg ibogaine (mean 12.1 mg/kg)",
+      "dosing_range": "11.3–14.7 mg/kg ibogaine (mean 12.1 mg/kg)",
       "route": "oral",
       "source_pdf": "2024/Cherian2024_Magnesium_Ibogaine_TBI.pdf",
       "journal": "Nature Medicine",
@@ -9378,6 +10198,10 @@
       "source_url": null,
       "pmid": "38182784",
       "pmcid": "PMC10878970",
+      "open_access": true,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2024/Cherian2024_Magnesium_Ibogaine_TBI.md"
     },
     {
@@ -9419,6 +10243,10 @@
       "source_url": null,
       "pmid": "39114487",
       "pmcid": "PMC11303312",
+      "open_access": true,
+      "publisher": "Frontiers",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination.md"
     },
     {
@@ -9466,6 +10294,10 @@
       "source_url": null,
       "pmid": "39304653",
       "pmcid": "PMC11415492",
+      "open_access": true,
+      "publisher": "Springer Nature",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md"
     },
     {
@@ -9508,6 +10340,10 @@
       "source_url": null,
       "pmid": "37360328",
       "pmcid": "PMC10286262",
+      "open_access": true,
+      "publisher": "Mary Ann Liebert",
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "2024/Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol.md"
     },
     {
@@ -9550,6 +10386,10 @@
       "source_url": null,
       "pmid": "40895173",
       "pmcid": "PMC12393092",
+      "open_access": true,
+      "publisher": "Wiley",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2024/Hughes2024_Chemistry_Iboga_Alkaloids.md"
     },
     {
@@ -9596,6 +10436,10 @@
       "source_url": null,
       "pmid": "38298796",
       "pmcid": "PMC10829624",
+      "open_access": true,
+      "publisher": "Elsevier",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2024/Ivan2024_Nonclassic_Psychedelic_Ibogaine_Disrupts_Cognitive_Maps.md"
     },
     {
@@ -9641,6 +10485,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": "Cold Spring Harbor",
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "2024/Kamileen2024_Pachysiphine_Synthase.md"
     },
     {
@@ -9699,6 +10547,10 @@
       "source_url": null,
       "pmid": "38519421",
       "pmcid": "PMC11102648",
+      "open_access": true,
+      "publisher": "SAGE",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md"
     },
     {
@@ -9747,6 +10599,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "2024/Kobr2024_PhD_Ibogaine_Addiction_Treatment_Review.md"
     },
     {
@@ -9788,6 +10644,10 @@
       "source_url": null,
       "pmid": "39081435",
       "pmcid": "PMC11287021",
+      "open_access": true,
+      "publisher": "Cureus",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2024/Mestre2024_Cardiac_Arrest_Case_Report.md"
     },
     {
@@ -9832,6 +10692,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2024/Ona2024_PhD_Thesis_Opioid_Dependence.md"
     },
     {
@@ -9878,6 +10742,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Akadémiai Kiadó",
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "2024/Ozmat2024_Subjective_Ibogaine_Experiences_Intersection_Social-Ecological_Dimensions.md"
     },
     {
@@ -9924,6 +10792,10 @@
       "source_url": null,
       "pmid": "38928231",
       "pmcid": "PMC11203496",
+      "open_access": true,
+      "publisher": "MDPI",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2024/Uzelac2024_Cardiotoxic_Necrosis_Redox.md"
     },
     {
@@ -9967,6 +10839,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": "Research Square",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2025/Acuna2025_Ibogaine_Visual_Cortex_Plasticity.md"
     },
     {
@@ -10011,6 +10887,10 @@
       "source_url": null,
       "pmid": "40994282",
       "pmcid": "PMC12888935",
+      "open_access": true,
+      "publisher": "American Chemical Society",
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "2025/Ali2025_Ibogaine_Analogs_Review.md"
     },
     {
@@ -10063,7 +10943,7 @@
         "Concurrent participation in another clinical trial",
         "Contraindication to MRI"
       ],
-      "dosing_range": "Test dose 2-3 mg/kg, total ≤14 mg/kg oral (ibogaine HCl, 98% pure); 1g IV MgSO₄ pre-dosing",
+      "dosing_range": "Test dose 2–3 mg/kg, total ≤14 mg/kg oral (ibogaine HCl, 98% pure); 1g IV MgSO₄ pre-dosing",
       "route": "oral",
       "source_pdf": "2025/Brown2025_Mystical_Experience_PTSD_Veterans.pdf",
       "journal": "Journal of Affective Disorders",
@@ -10075,6 +10955,10 @@
       "source_url": null,
       "pmid": "41265656",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2025/Brown2025_Mystical_Experience_PTSD_Veterans.md"
     },
     {
@@ -10114,6 +10998,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": "Psilocybin Technology",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2025/Carlucci2025_Microdosing_Bipolar_Depression.md"
     },
     {
@@ -10156,6 +11044,10 @@
       "source_url": null,
       "pmid": "39981248",
       "pmcid": "PMC11839422",
+      "open_access": true,
+      "publisher": "Frontiers",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2025/Chen2025_Multiple_Sclerosis_Neuroimaging.md"
     },
     {
@@ -10205,6 +11097,10 @@
       "source_url": null,
       "pmid": "39882933",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Taylor & Francis",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2025/Edwards2025_UK_NPIS_Ibogaine_Toxicity_Case_Series.md"
     },
     {
@@ -10244,6 +11140,10 @@
       "source_url": null,
       "pmid": "39732157",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2025/Eliasen2025_Ibogaine_DMT_5-HT2A_HEK_Electrophysiology.md"
     },
     {
@@ -10286,6 +11186,10 @@
       "source_url": null,
       "pmid": "41057132",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2025/Eliasen2025_Ibogaine_Sex-Dependent_Firing_Rate.md"
     },
     {
@@ -10325,6 +11229,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2025/Enginsoy2025_PhD_Practitioners_Experiences.md"
     },
     {
@@ -10358,7 +11266,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "25-75 mg/day low-dose for 80 days",
+      "dosing_range": "25–75 mg/day low-dose for 80 days",
       "route": "oral",
       "source_pdf": "2025/Erny2025_Parkinsons_Case_Report.pdf",
       "journal": "Journal of Psychedelic Studies",
@@ -10370,6 +11278,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Akadémiai Kiadó",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2025/Erny2025_Parkinsons_Case_Report.md"
     },
     {
@@ -10415,6 +11327,10 @@
       "source_url": null,
       "pmid": "41082525",
       "pmcid": "PMC12517489",
+      "open_access": true,
+      "publisher": "PLoS",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective.md"
     },
     {
@@ -10462,7 +11378,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "8-12 mg/kg ibogaine HCl",
+      "dosing_range": "8–12 mg/kg ibogaine HCl",
       "route": "oral",
       "source_pdf": "2025/Faerman2025_MISTIC_12Month_Followup.pdf",
       "journal": "Preprint",
@@ -10474,6 +11390,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2025/Faerman2025_MISTIC_12Month_Followup.md"
     },
     {
@@ -10518,7 +11438,7 @@
         "Recent cocaine use (QT prolongation for 7-15 days post-cessation)",
         "Low magnesium (correctable — formal but not definitive)"
       ],
-      "dosing_range": "15-25 mg/kg oral (therapeutic); 4-5 mg/kg (psycholytic, Naranjo)",
+      "dosing_range": "15–25 mg/kg oral (therapeutic); 4–5 mg/kg (psycholytic, Naranjo)",
       "route": "oral",
       "source_pdf": "2025/Gomes2025_Ibogaine_Tool_Substance_Addiction.pdf",
       "journal": "Brill",
@@ -10530,6 +11450,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": "Brill",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2025/Gomes2025_Ibogaine_Tool_Substance_Addiction.md"
     },
     {
@@ -10579,6 +11503,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2025/Gupta2025_Benzofuran_Iboga_Analogues.md"
     },
     {
@@ -10632,6 +11560,10 @@
       "source_url": null,
       "pmid": "39345195",
       "pmcid": "PMC11652822",
+      "open_access": true,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2025/Halman2025_Pharmacogenomics_Psychedelic_Therapy.md"
     },
     {
@@ -10652,7 +11584,9 @@
         "Sun, Steven",
         "Ma, Boxuan",
         "González, Bruno",
+        "Rodriguez, Luisina",
         "Goodman, Hannah J.",
+        "Wu, Hunter",
         "Sonders, Mark S.",
         "Baumann, Michael H.",
         "Carrera, Ignacio",
@@ -10660,7 +11594,7 @@
         "Sames, Dalibor"
       ],
       "year": 2025,
-      "doi": null,
+      "doi": "10.1021/jacs.5c06325",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
@@ -10683,7 +11617,7 @@
       "dosing_range": null,
       "route": null,
       "source_pdf": "2025/Hwu2025_Matrix_Pharmacology_VMAT2_SERT.pdf",
-      "journal": "ACS Chemical Neuroscience",
+      "journal": "Journal of the American Chemical Society",
       "aliases": [
         "Hwu 2025",
         "Matrix Pharmacology",
@@ -10691,8 +11625,12 @@
         "SynRI Paper"
       ],
       "source_url": null,
-      "pmid": null,
+      "pmid": "41452009",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "American Chemical Society",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2025/Hwu2025_Matrix_Pharmacology_VMAT2_SERT.md"
     },
     {
@@ -10717,6 +11655,7 @@
       "tags": [
         "topic/analogues",
         "topic/mechanism",
+        "topic/neuroplasticity",
         "topic/noribogaine",
         "method/in-vitro"
       ],
@@ -10729,7 +11668,7 @@
       "electrolyte_data": false,
       "contraindications": [],
       "dosing_range": null,
-      "route": null,
+      "route": "not-applicable",
       "source_pdf": "2025/Iyer2025_Modular_Synthesis_Nature_Chemistry.pdf",
       "journal": "Nature Chemistry",
       "aliases": [
@@ -10739,6 +11678,10 @@
       "source_url": null,
       "pmid": "39915657",
       "pmcid": "PMC11952118",
+      "open_access": true,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2025/Iyer2025_Modular_Synthesis_Nature_Chemistry.md"
     },
     {
@@ -10779,6 +11722,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": "Research Square",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2025/LaTorre2025_Phenomenology_Thematic_Analysis.md"
     },
     {
@@ -10816,6 +11763,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2025/Lytychevskyi2025_Ibogaine_Synthesis_Development.md"
     },
     {
@@ -10856,6 +11807,10 @@
       "source_url": null,
       "pmid": "41424776",
       "pmcid": "PMC12712375",
+      "open_access": true,
+      "publisher": "Frontiers",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2025/Nicolas2025_Reward_System_Transdiagnostic.md"
     },
     {
@@ -10911,6 +11866,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Brill",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2025/Polanco2025_War_Trauma_Ibogaine_5-MeO.md"
     },
     {
@@ -10953,6 +11912,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2025/QuinnWilliams2025_PhD_Ibogaine_Buproprion_Monoamine_Transporters.md"
     },
     {
@@ -11003,6 +11966,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2025/Rocha2025_PhD_Ibogaine_Alcohol_AUD.md"
     },
     {
@@ -11039,6 +12006,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": "1973-2880",
       "filepath": "2025/Samorini2025_Studies_Iboga_Cults_Ethnobotanical_Complex.md"
     },
     {
@@ -11076,6 +12047,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2025/Sijic2025_Total_Synthesis_Review.md"
     },
     {
@@ -11117,6 +12092,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Palgrave Macmillan",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2025/Soderberg2025_Medical_Subculture_Risk_Management.md"
     },
     {
@@ -11159,6 +12138,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "2025/Staveley2025_PhD_Ibogaine_Veterans_PTSD.md"
     },
     {
@@ -11210,6 +12193,10 @@
       "source_url": null,
       "pmid": "40251723",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Taylor & Francis",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2025/Swieczkowski2025_Clinical_Trials_Landscape.md"
     },
     {
@@ -11253,6 +12240,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2025/Underwood2025_PhD_Experiences_Part_of_Journey.md"
     },
     {
@@ -11308,6 +12299,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2025/Williams2025_Magnesium_Ibogaine_TBI.md"
     },
     {
@@ -11348,6 +12343,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2025/Yockey2025_Reconsidering_Ibogaine.md"
     },
     {
@@ -11384,7 +12383,7 @@
         "Concurrent QT-prolonging medications",
         "Doses exceeding ~0.87 mg/kg without cardiac monitoring"
       ],
-      "dosing_range": "Safe dose ~0.87mg/kg (10× lower than therapeutic 8-20mg/kg)",
+      "dosing_range": "Safe dose ~0.87mg/kg (10× lower than therapeutic 8–20mg/kg)",
       "route": "oral",
       "source_pdf": "2026/Brunt2026_Ibogaine_Cardiovascular_Complications.pdf",
       "journal": "Addiction",
@@ -11395,6 +12394,10 @@
       "source_url": null,
       "pmid": "41560340",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Wiley",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2026/Brunt2026_Cardiovascular_Complications_Review.md"
     },
     {
@@ -11451,6 +12454,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2026/Calvey2026_Neurorestorative_Properties_Ibogaine.md"
     },
     {
@@ -11499,6 +12506,10 @@
       "source_url": null,
       "pmid": "41683522",
       "pmcid": "PMC12899015",
+      "open_access": true,
+      "publisher": "MDPI",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2026/Esperanca2026_Cardiac_Safety_Translational_Perspectives_Scoping_Review.md"
     },
     {
@@ -11564,6 +12575,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "2026/Geoly2026_Cortical_Thickness_Brain_Age_MISTIC.md"
     },
     {
@@ -11604,6 +12619,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": "Preprints.org",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2026/Grundmann2026_Indole_Alkaloids_Biased_Opioid_Receptor_Modulators.md"
     },
     {
@@ -11649,6 +12668,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Elsevier",
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "2026/Koutrouli2026_Psilocybin_Ibogaine_Cocaine_Addiction.md"
     },
     {
@@ -11696,6 +12719,10 @@
       "source_url": null,
       "pmid": "41620509",
       "pmcid": "PMC12860795",
+      "open_access": true,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2026/Olash2026_Subjective_Experience_Magnesium_Ibogaine.md"
     },
     {
@@ -11740,6 +12767,10 @@
       "source_url": null,
       "pmid": "41535993",
       "pmcid": null,
+      "open_access": false,
+      "publisher": "Lippincott Williams & Wilkins",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "2026/Terasaki2026_Ibogaine_OUD_Unrecognised_Risk.md"
     },
     {
@@ -11768,7 +12799,7 @@
         "Concurrent substance use during treatment (document warns this could be fatal)",
         "Reduced post-treatment opioid tolerance (risk of fatal overdose if substances taken during or after therapy)"
       ],
-      "dosing_range": "10-25 mg/kg (weight-based)",
+      "dosing_range": "10–25 mg/kg (weight-based)",
       "route": "oral",
       "source_pdf": "Clinical_Guidelines/Aotearoa2014_Client_Info_Sheet.docx",
       "journal": null,
@@ -11779,6 +12810,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Clinical_Guidelines/Aotearoa2014_Client_Info_Sheet.md"
     },
     {
@@ -11848,7 +12883,7 @@
         "Corticosteroids (prolong QT interval; caution if required as intervention)",
         "Calcium channel blockers or beta blockers (lower BP/HR dramatically, alter cardiac conduction — beta blockers must be tapered over 7-14 days, not stopped acutely)"
       ],
-      "dosing_range": "≤12mg/kg (max 24mg/kg/24h); test dose 2-3mg/kg; boosters 1-5mg/kg",
+      "dosing_range": "≤12mg/kg (max 24mg/kg/24h); test dose 2–3mg/kg; boosters 1–5mg/kg",
       "route": "oral",
       "source_pdf": "Clinical_Guidelines/GITA2015_Clinical_Guidelines.pdf",
       "journal": null,
@@ -11860,6 +12895,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "Clinical_Guidelines/GITA2015_Clinical_Guidelines.md"
     },
     {
@@ -11922,7 +12961,7 @@
         "Pregnancy",
         "Liver enzymes >400% above normal (NIDA threshold)"
       ],
-      "dosing_range": "15-20 mg/kg therapeutic; 2 mg/kg test dose; 25-300 mg/day low-dose",
+      "dosing_range": "15–20 mg/kg therapeutic; 2 mg/kg test dose; 25–300 mg/day low-dose",
       "route": "oral",
       "source_pdf": "Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual.pdf",
       "journal": null,
@@ -11936,6 +12975,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "hybrid",
+      "issn": null,
       "filepath": "Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual.md"
     },
     {
@@ -11980,7 +13023,7 @@
         "Methadone >50mg (must reduce to <50mg; switch to short-acting opioid preferred)",
         "Suboxone/subutex (must switch to short-acting opioid minimum 6 weeks prior)"
       ],
-      "dosing_range": "10-22 mg/kg (treatment range); 200mg test dose; minimum 72h monitoring",
+      "dosing_range": "10–22 mg/kg (treatment range); 200mg test dose; minimum 72h monitoring",
       "route": "oral",
       "source_pdf": "Clinical_Guidelines/IACT2014_Aotearoa_Ibogaine_Guidelines_Integrated_Therapy.pdf",
       "journal": null,
@@ -11994,6 +13037,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Clinical_Guidelines/Patterson2014_IACT_Aotearoa_NZ_Guidelines_Integrated_Therapy.md"
     },
     {
@@ -12033,6 +13080,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "Clinical_Guidelines/Pangea/Pangea_Emergency_Equipment.md"
     },
     {
@@ -12072,7 +13123,7 @@
         "Unsupervised administration outside medical settings",
         "Unknown source material (purity/identity of ibogaine unverifiable outside clinical supply)"
       ],
-      "dosing_range": "2 mg/kg increments in dose-escalation design up to 14-15 mg/kg target; Mash states underground doses 'way too high' and could be cut by half",
+      "dosing_range": "2 mg/kg increments in dose-escalation design up to 14–15 mg/kg target; Mash states underground doses 'way too high' and could be cut by half",
       "route": "oral",
       "source_pdf": "Primary_Sources/1996_WBAI_Mash_FDA_Trials_Ibogaine.pdf",
       "journal": null,
@@ -12085,6 +13136,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "Primary_Sources/1996_WBAI_Mash_FDA_Trials_Ibogaine.md"
     },
     {
@@ -12128,6 +13183,10 @@
       "source_url": "http://www.youtube.com/watch?v=lysh-XDZQfE (Part 1), http://www.youtube.com/watch?v=Z20bmnuvoHc (Part 2)",
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "Primary_Sources/2010_Horizons_Clare_Wilkins_400_Sessions.md"
     },
     {
@@ -12171,6 +13230,10 @@
       "source_url": "http://www.youtube.com/watch?v=lysh-XDZQfE (Part 1), http://www.youtube.com/watch?v=Z20bmnuvoHc (Part 2)",
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Primary_Sources/2010_MAPS_Clare_Wilkins_Evolution.md"
     },
     {
@@ -12215,6 +13278,10 @@
       "source_url": "https://www.youtube.com/watch?v=Y_ttCNEKf8E",
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "Primary_Sources/2014_11_MAPS_Clare_Wilkins_Architecture_of_Emergency.md"
     },
     {
@@ -12258,6 +13325,10 @@
       "source_url": "http://www.youtube.com/watch?v=UIX1SXLJjSI",
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Primary_Sources/2017_BC_Clare_Wilkins_Methadone_Detox.md"
     },
     {
@@ -12299,6 +13370,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics.md"
     },
     {
@@ -12342,6 +13417,10 @@
       "source_url": "https://www.youtube.com/watch?v=Tg0U0cm4NHg",
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "Primary_Sources/2017_PS_Clare_Wilkins_Methadone_Detox.md"
     },
     {
@@ -12386,6 +13465,10 @@
       "source_url": "https://www.listennotes.com/podcasts/myeboga/myeboga-conversations-ep-3-Apfe320mOPj/",
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Primary_Sources/2020_MYEBOGA_Clare_Wilkins_Interview.md"
     },
     {
@@ -12426,6 +13509,10 @@
       "source_url": "http://www.youtube.com/watch?v=xKAD0Rd7HA",
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "Primary_Sources/2021_Microdose_Clare_Wilkins_Holotropic_Perspective.md"
     },
     {
@@ -12467,6 +13554,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "Primary_Sources/Wachtel2025_Bastiaans_Ibogaine_Historical_Account.md"
     },
     {
@@ -12509,6 +13600,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "Other/Albert2008_MyEboga_Experience_Reports.md"
     },
     {
@@ -12553,6 +13648,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "Other/Alper2023_Expert_Testimony_KY.md"
     },
     {
@@ -12591,6 +13690,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Other/Busby2024_Beond_Death_Investigation.md"
     },
     {
@@ -12631,6 +13734,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch1.md"
     },
     {
@@ -12675,6 +13782,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch10.md"
     },
     {
@@ -12724,6 +13835,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch11.md"
     },
     {
@@ -12772,6 +13887,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch12.md"
     },
     {
@@ -12820,6 +13939,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch13.md"
     },
     {
@@ -12873,6 +13996,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch14.md"
     },
     {
@@ -12912,7 +14039,7 @@
         "Trunkal ataxia during treatment (vestibular disruption via vermis excitation)",
         "Potential thalamic and locus coeruleus secondary excitotoxicity at high doses"
       ],
-      "dosing_range": "100 mg/kg sub-lethal in rats (~80% LD50); 25 mg/kg minimal toxicity in rats; 16-18 mg/kg estimated standard human dose; FDA-approved trial doses 1, 2, and 5 mg/kg",
+      "dosing_range": "100 mg/kg sub-lethal in rats (~80% LD50); 25 mg/kg minimal toxicity in rats; 16–18 mg/kg estimated standard human dose; FDA-approved trial doses 1, 2, and 5 mg/kg",
       "route": "oral",
       "source_pdf": "1995/DeRienzo1995_Ibogaine_Story_Ch15.pdf",
       "journal": null,
@@ -12925,6 +14052,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch15.md"
     },
     {
@@ -12976,6 +14107,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch16.md"
     },
     {
@@ -13029,6 +14164,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch17.md"
     },
     {
@@ -13069,7 +14208,7 @@
         "CYP2D6 slow metaboliser status (prolonged noribogaine exposure implicated in Nicola K. death)",
         "Female sensitivity — lower dosing recommended (split dosing used for Nancy's third treatment)"
       ],
-      "dosing_range": "8-31 mg/kg oral (range across Panama treatments); FDA approved Miami protocol at 8 mg/kg; Baumann used ~half recommended dose; Nancy received 25, 29-31, and split 10+20 mg/kg across three treatments",
+      "dosing_range": "8–31 mg/kg oral (range across Panama treatments); FDA approved Miami protocol at 8 mg/kg; Baumann used ~half recommended dose; Nancy received 25, 29–31, and split 10+20 mg/kg across three treatments",
       "route": "oral",
       "source_pdf": "1995/DeRienzo1995_Ibogaine_Story_Ch18.pdf",
       "journal": null,
@@ -13082,6 +14221,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch18.md"
     },
     {
@@ -13126,6 +14269,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch2.md"
     },
     {
@@ -13167,6 +14314,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch3.md"
     },
     {
@@ -13210,6 +14361,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch4.md"
     },
     {
@@ -13254,6 +14409,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch5.md"
     },
     {
@@ -13306,6 +14465,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch6.md"
     },
     {
@@ -13355,6 +14518,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch7.md"
     },
     {
@@ -13400,6 +14567,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch8.md"
     },
     {
@@ -13445,6 +14616,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "Other/Evans2024_Soneira_Ibogaine_Scramble.md"
     },
     {
@@ -13485,6 +14660,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "Other/Evans2026_Ibogaine_Fatalities_Cover_Ups.md"
     },
     {
@@ -13529,6 +14708,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "Other/Strategic_Implementation_Benzodiazepines_CBD.md"
     },
     {
@@ -13569,6 +14752,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": "Global Initiative Against Transnational Organised Crime / Clingendael Institute",
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "Other/deLugo2025_Kush_Sierra_Leone_Synthetics.md"
     },
     {
@@ -13608,6 +14795,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "academic-retained",
+      "issn": null,
       "filepath": "Industry_Documents/Beond2022_Clinical_Summary.md"
     },
     {
@@ -13645,6 +14836,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "narrative",
+      "issn": null,
       "filepath": "Industry_Documents/ICEERS2019_Report_Phase1.md"
     },
     {
@@ -13689,6 +14884,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "Industry_Documents/ICEERS2020_Future_Iboga_Gabon.md"
     },
     {
@@ -13728,6 +14927,10 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
+      "open_access": "unknown",
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
       "filepath": "Industry_Documents/LAPPA2025_Ibogaine_Legislative_Analysis.md"
     }
   ]

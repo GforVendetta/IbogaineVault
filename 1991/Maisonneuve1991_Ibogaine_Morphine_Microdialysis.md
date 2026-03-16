@@ -30,6 +30,9 @@ herg_data: false
 dosing_range: "40 mg/kg (rat, i.p.)"
 route: intraperitoneal
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: hybrid
 ---
 
 # Interactions between ibogaine, a potential anti-addictive agent, and morphine: an in vivo microdialysis study

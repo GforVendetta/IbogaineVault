@@ -34,6 +34,9 @@ herg_data: false
 dosing_range: "3–60 mg oral noribogaine (human)"
 route: oral
 contraindications: []
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Ascending-Dose Study of Noribogaine in Healthy Volunteers: Pharmacokinetics, Pharmacodynamics, Safety, and Tolerability

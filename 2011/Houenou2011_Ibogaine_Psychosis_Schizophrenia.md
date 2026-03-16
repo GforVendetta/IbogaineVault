@@ -36,6 +36,9 @@ contraindications:
   - "Daily or chronic ibogaine use"
 dosing_range: "unquantified (Iboga powder, small amounts escalating to daily use over 2 months)"
 route: oral
+open_access: false
+publisher: "Lippincott Williams & Wilkins"
+body_format: vault-analytical
 ---
 
 # Ibogaine-Associated Psychosis in Schizophrenia: A Case Report

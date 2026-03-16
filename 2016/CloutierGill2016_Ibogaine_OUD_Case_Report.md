@@ -35,6 +35,9 @@ contraindications:
   - "Pre-existing cardiovascular disease"
   - "Concurrent QTc-prolonging substances"
   - "Electrolyte imbalances (hypokalemia)"
+open_access: true
+publisher: "Taylor & Francis"
+body_format: vault-analytical
 ---
 
 # Remission of Severe Opioid Use Disorder with Ibogaine: A Case Report

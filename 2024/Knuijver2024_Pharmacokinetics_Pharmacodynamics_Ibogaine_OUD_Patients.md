@@ -41,6 +41,9 @@ contraindications:
   - "Severe hepatic or renal dysfunction (eGFR <30)"
   - "Concurrent QTc-prolonging or CYP2D6-affecting medications"
   - "Major depressive or psychotic symptoms"
+open_access: true
+publisher: "SAGE"
+body_format: vault-analytical
 ---
 
 # The pharmacokinetics and pharmacodynamics of ibogaine in opioid use disorder patients

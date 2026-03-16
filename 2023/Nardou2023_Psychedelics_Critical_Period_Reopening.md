@@ -43,6 +43,9 @@ herg_data: false
 contraindications: []
 dosing_range:
 route: intraperitoneal
+open_access: true
+publisher: "Springer Nature"
+body_format: vault-analytical
 ---
 
 # Psychedelics Reopen the Social Reward Learning Critical Period

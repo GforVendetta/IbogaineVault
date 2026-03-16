@@ -34,6 +34,9 @@ contraindications:
   - "Pre-existing cardiac arrhythmias"
 dosing_range: "2.5 g oral over 3 hours"
 route: oral
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # A Case of Death Due to Ibogaine Use for Heroin Addiction

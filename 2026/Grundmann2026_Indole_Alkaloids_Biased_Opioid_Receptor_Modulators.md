@@ -28,6 +28,9 @@ aliases:
   - "Grundmann 2026"
   - "Biased Opioid Review"
 contraindications: []
+open_access: true
+publisher: "Preprints.org"
+body_format: vault-analytical
 ---
 
 # Indole Alkaloids as Biased Opioid Receptor Modulators

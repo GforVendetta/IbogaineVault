@@ -34,6 +34,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "Taylor & Francis"
+body_format: vault-analytical
 ---
 
 # A Mixed-Method Analysis of Persisting Effects Associated with Positive Outcomes Following Ibogaine Detoxification

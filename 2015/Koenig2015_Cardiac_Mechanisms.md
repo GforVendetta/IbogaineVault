@@ -54,6 +54,9 @@ contraindications:
   - "unsupervised or unmonitored administration"
 dosing_range: "4.5–29mg/kg (fatality cases); therapeutic 10–25mg/kg"
 route: oral
+open_access: true
+publisher: "MDPI"
+body_format: hybrid
 ---
 
 <!-- image -->

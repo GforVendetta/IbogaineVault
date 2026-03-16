@@ -29,6 +29,8 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+body_format: hybrid
 ---
 
 # The Use of Ibogaine in the Treatment of Substance Use Disorders: Integrating Psychoactive Experiences as Part of the Recovery Journey

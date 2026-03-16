@@ -40,6 +40,9 @@ contraindications:
   - "Low magnesium (correctable — formal but not definitive)"
 dosing_range: "15–25 mg/kg oral (therapeutic); 4–5 mg/kg (psycholytic, Naranjo)"
 route: oral
+open_access: true
+publisher: "Brill"
+body_format: hybrid
 ---
 
 # Ibogaine as a Tool in the Process of Overcoming Drug Addiction

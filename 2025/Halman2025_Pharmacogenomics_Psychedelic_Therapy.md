@@ -41,6 +41,9 @@ contraindications:
   - "Comorbidities affecting hepatic function (cancer, liver disease — can cause phenoconversion)"
 dosing_range: "Standard ibogaine dosing discussed in context of CYP2D6-dependent metabolism; PMs recommended ~50% dose reduction; 20 mg single dose used in referenced Glue et al. 2015 PK study"
 route: oral
+open_access: true
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Harnessing Pharmacogenomics in Clinical Research on Psychedelic-Assisted Therapy

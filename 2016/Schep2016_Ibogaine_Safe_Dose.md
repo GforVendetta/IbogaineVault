@@ -38,6 +38,9 @@ contraindications:
   - "Medical comorbidities associated with long-term drug use"
 dosing_range: "0.87 mg/kg theoretical safe oral dose; clinical use 6–30 mg/kg oral"
 route: oral
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 # Ibogaine for treating drug dependence. What is a safe dose?
 

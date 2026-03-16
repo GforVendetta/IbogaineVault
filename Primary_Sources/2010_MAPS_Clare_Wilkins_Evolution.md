@@ -28,6 +28,8 @@ herg_data: false
 contraindications: []
 source_pdf: "not-applicable"
 source_url: "http://www.youtube.com/watch?v=lysh-XDZQfE (Part 1), http://www.youtube.com/watch?v=Z20bmnuvoHc (Part 2)"
+open_access: unknown
+body_format: narrative
 ---
 
 # Clare Wilkins at MAPS 2010: Evolution of Ibogaine Treatment

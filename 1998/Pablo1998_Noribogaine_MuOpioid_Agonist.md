@@ -27,6 +27,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Lippincott Williams & Wilkins"
+body_format: vault-analytical
 ---
 
 # Noribogaine stimulates naloxone-sensitive [³⁵S]GTPγS binding

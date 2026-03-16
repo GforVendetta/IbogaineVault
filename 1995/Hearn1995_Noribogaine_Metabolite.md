@@ -24,6 +24,8 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Identification and Quantitation of Ibogaine and an *o*-Demethylated Metabolite in Brain and Biological Fluids Using Gas Chromatography–Mass Spectrometry

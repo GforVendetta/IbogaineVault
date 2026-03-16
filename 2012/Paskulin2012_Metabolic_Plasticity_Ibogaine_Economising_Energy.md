@@ -32,6 +32,9 @@ dosing_range: "1–20 mg/l in yeast culture"
 route: not-applicable
 contraindications: []
 pmid: "22751004"
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Metabolic plasticity and the energy economizing effect of ibogaine, the principal alkaloid of *Tabernanthe iboga*

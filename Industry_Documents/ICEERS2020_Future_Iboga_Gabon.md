@@ -27,6 +27,8 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # The Future of Iboga: Perspectives from Central Africa — Phase II Report

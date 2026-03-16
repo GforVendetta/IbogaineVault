@@ -26,6 +26,8 @@ herg_data: false
 dosing_range: "40–100 mg/kg (rat, i.p.)"
 route: intraperitoneal
 contraindications: []
+open_access: unknown
+body_format: academic-retained
 ---
 
 <!-- image -->

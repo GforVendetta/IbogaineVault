@@ -41,6 +41,9 @@ contraindications:
   - "Conditions favouring intracellular acidosis (increases ibogaine trapping and hERG block)"
 dosing_range: "IC₅₀ ~1–4 μM (hERG wild-type); standard test concentration 3 μM — in vitro"
 route: not-applicable
+open_access: false
+publisher: "ASPET"
+body_format: vault-analytical
 ---
 
 # Mechanism of hERG Channel Block by the Psychoactive Indole Alkaloid Ibogaine

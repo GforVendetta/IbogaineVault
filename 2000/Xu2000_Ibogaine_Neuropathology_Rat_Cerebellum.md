@@ -35,6 +35,9 @@ contraindications:
   - "Pre-existing cerebellar pathology"
 dosing_range:
 route: intraperitoneal
+open_access: false
+publisher: "Oxford University Press"
+body_format: vault-analytical
 ---
 
 # A Dose-Response Study of Ibogaine-Induced Neuropathology in the Rat Cerebellum

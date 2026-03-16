@@ -33,6 +33,9 @@ qtc_data: true
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Lippincott Williams & Wilkins"
+body_format: vault-analytical
 ---
 # Hallucinogen Persisting Perception Disorder After Ibogaine Treatment for Opioid Dependence
 

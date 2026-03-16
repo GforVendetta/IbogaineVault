@@ -28,6 +28,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "Frontiers"
+body_format: academic-retained
 ---
 
 *Frontiers in Neuroscience* 18:1378841 (2024) 1111

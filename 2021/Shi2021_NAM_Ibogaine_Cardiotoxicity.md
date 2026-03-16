@@ -38,6 +38,9 @@ contraindications:
   - "Clinical doses (420–2100 mg) are 4–21-fold above predicted BMDL₁₀ for QTc prolongation"
 dosing_range: "BMDL₁₀: 97 mg ibogaine / 70 kg (QTc onset); clinical range discussed: 420–2100 mg (6–30 mg/kg)"
 route: oral
+open_access: unknown
+publisher: "Bentham Open"
+body_format: vault-analytical
 ---
 
 # A New Approach Methodology (NAM) for the Prediction of (Nor)Ibogaine-Induced Cardiotoxicity in Humans

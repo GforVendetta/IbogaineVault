@@ -38,6 +38,8 @@ contraindications:
   - "Alcohol (minimum 7-day abstinence prior to treatment)"
   - "Methadone >50mg (must reduce to <50mg; switch to short-acting opioid preferred)"
   - "Suboxone/subutex (must switch to short-acting opioid minimum 6 weeks prior)"
+open_access: unknown
+body_format: narrative
 ---
 
 # IBOGAINE: INFORMATION AND GUIDE LINES FOR INTEGRATED THERAPY

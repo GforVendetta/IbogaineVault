@@ -28,6 +28,8 @@ electrolyte_data: false
 herg_data: false
 contraindications: []
 organisation: "MindVox"
+open_access: true
+body_format: narrative
 ---
 
 # The Ibogaine Story — Chapter 10: Carlo Contoreggi

@@ -38,6 +38,9 @@ contraindications:
   - "Symptoms of impaired reality testing"
   - "Contraindicated medications without proper taper"
   - "Cardiac abnormalities on ECG screening"
+open_access: true
+publisher: "SAGE"
+body_format: academic-retained
 ---
 
 # Psychedelic Treatment for Trauma-Related Psychological and Cognitive Impairment Among US Special Operations Forces Veterans

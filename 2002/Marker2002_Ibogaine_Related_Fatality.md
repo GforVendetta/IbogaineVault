@@ -34,6 +34,9 @@ contraindications:
   - "Chronic substance abuse history"
 dosing_range: "unknown (ibogaine source and dose not specified; blood level 9225 ng/mL suggests massive exposure, brain/liver concentrations 18137–18563 ng/kg)"
 route: not-specified
+open_access: false
+publisher: "EDP Sciences"
+body_format: vault-analytical
 ---
 
 # Ibogaine Related Fatality

@@ -39,6 +39,9 @@ herg_data: false
 dosing_range: "0.06–30 µM (in vitro); 10–100 µM (Drosophila feeding)"
 route: not-applicable
 contraindications: []
+open_access: true
+publisher: "American Chemical Society"
+body_format: vault-analytical
 ---
 
 # Tropane-Based Ibogaine Analog Rescues Folding-Deficient Serotonin and Dopamine Transporters

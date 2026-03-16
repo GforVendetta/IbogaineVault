@@ -25,6 +25,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Palgrave Macmillan"
+body_format: academic-retained
 ---
 
 # Risk management in a global market of alternative addiction care: a case study of the ibogaine medical subculture

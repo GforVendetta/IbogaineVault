@@ -25,6 +25,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Emerald Publishing"
+body_format: vault-analytical
 ---
 # The Visionary Cure of the Addiction War? Ibogaine: Social Context, Subcultural Identity, and Implications for Drug Policy
 

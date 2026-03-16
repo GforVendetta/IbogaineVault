@@ -30,6 +30,8 @@ herg_data: false
 dosing_range: "10–40 mg/kg ibogaine or 18-MC (rat i.p.)"
 route: intraperitoneal
 contraindications: []
+open_access: unknown
+body_format: academic-retained
 ---
 
 ## ORIGINAL INVESTIGATION

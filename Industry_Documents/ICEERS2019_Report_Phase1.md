@@ -20,6 +20,8 @@ electrolyte_data: false
 herg_data: false
 contraindications: []
 dosing_range: "not-specified"
+open_access: unknown
+body_format: narrative
 ---
 
 # Iboga Community Engagement Initiative — Phase 1 Report

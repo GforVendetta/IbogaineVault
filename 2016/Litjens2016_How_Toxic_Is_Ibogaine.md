@@ -43,6 +43,9 @@ contraindications:
 mortality_count: 27
 dosing_range: "10–25 mg/kg therapeutic; toxicity cases typically >2g; Lambarène 8mg/tablet historical"
 route: oral
+open_access: false
+publisher: "Informa Healthcare"
+body_format: vault-analytical
 ---
 
 # How toxic is ibogaine?

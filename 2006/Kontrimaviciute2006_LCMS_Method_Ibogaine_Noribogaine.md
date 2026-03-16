@@ -32,6 +32,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Simultaneous Quantification of Ibogaine and Noribogaine in Human Plasma and Whole Blood by LC-ESI-MS

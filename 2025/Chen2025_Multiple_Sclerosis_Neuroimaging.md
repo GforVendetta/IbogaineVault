@@ -30,6 +30,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "Frontiers"
+body_format: academic-retained
 ---
 
 # Case report: Significant lesion reduction and neural structural changes following ibogaine treatments for multiple sclerosis

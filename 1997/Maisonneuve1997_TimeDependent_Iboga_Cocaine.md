@@ -30,6 +30,8 @@ herg_data: false
 dosing_range: "40 mg/kg ibogaine, noribogaine, or 18-MC (rat i.p.)"
 route: intraperitoneal
 contraindications: []
+open_access: unknown
+body_format: hybrid
 ---
 
 # Time-dependent interactions between iboga agents and cocaine

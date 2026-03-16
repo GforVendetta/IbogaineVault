@@ -21,6 +21,8 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+body_format: vault-analytical
 ---
 
 # New Approaches to Old Targets: Re-envisioning the Synthesis of Ibogaine and Immunogenic Glycolipids

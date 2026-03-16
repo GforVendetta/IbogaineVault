@@ -34,6 +34,9 @@ herg_data: false
 electrolyte_data: false
 contraindications: []
 route: not-applicable
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Mechanisms of action of ibogaine and harmaline congeners based on radioligand binding studies

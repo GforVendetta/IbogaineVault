@@ -29,6 +29,8 @@ herg_data: false
 contraindications: []
 dosing_range: "40 mg/kg IP (ibogaine in 25% ethanol/sterile water, 1.0 ml/kg)"
 route: intraperitoneal
+open_access: unknown
+body_format: hybrid
 ---
 # Neurochemical and Behavioural Interactions Between Ibogaine and Nicotine in the Rat
 

@@ -31,6 +31,9 @@ herg_data: false
 dosing_range: "8 mg/day microdose for 60 days"
 route: oral
 contraindications: []
+open_access: true
+publisher: "Brazilian Journal Publisher"
+body_format: academic-retained
 ---
 
 # Ibogaine microdosing in a patient with bipolar depression: a case report

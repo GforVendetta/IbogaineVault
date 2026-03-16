@@ -33,6 +33,9 @@ aliases:
   - "JMC 2025 Editorial"
   - "Ibogaine Analogues Review"
 contraindications: []
+open_access: true
+publisher: "American Chemical Society"
+body_format: narrative
 ---
 
 # Old Dog, New Tricks: Ibogaine and Its Analogs as Potential Neurotherapeutics

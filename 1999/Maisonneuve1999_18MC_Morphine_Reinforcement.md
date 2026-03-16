@@ -29,6 +29,9 @@ herg_data: false
 dosing_range: "40 mg/kg 18-MC (rat i.p./p.o.)"
 route: intraperitoneal
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: hybrid
 ---
 
 # Attenuation of the Reinforcing Efficacy of Morphine by 18-Methoxycoronaridine

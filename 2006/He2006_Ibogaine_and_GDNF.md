@@ -30,6 +30,9 @@ herg_data: false
 dosing_range: "10 µM ibogaine HCl in cell culture"
 route: not-applicable
 contraindications: []
+open_access: false
+publisher: "FASEB"
+body_format: vault-analytical
 ---
 
 # Autoregulation of glial cell line-derived neurotrophic factor expression: implications for the long-lasting actions of the anti-addiction drug, Ibogaine

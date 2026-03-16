@@ -31,6 +31,8 @@ herg_data: false
 contraindications: []
 dosing_range:
 route:
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # The Putative Anti-Addictive Drug Ibogaine Is a Competitive Inhibitor of [³H]MK-801 Binding to the NMDA Receptor Complex

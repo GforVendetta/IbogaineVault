@@ -48,6 +48,8 @@ contraindications:
   - "Concurrent opioid, cocaine, or other drug use (re-sensitisation risk)"
   - "Acute alcohol or benzodiazepine withdrawal (seizure risk)"
 route: not-applicable
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Addiction Pharmacology and Ibogaine

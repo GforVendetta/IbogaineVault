@@ -32,6 +32,8 @@ contraindications:
 dosing_range: "not specified (administered as ibogaine HCl 95–98% pure, ibogaine extracts, or dried root bark containing 15–50% iboga alkaloids)"
 route: oral
 organisation: "Maryland Poison Center"
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Ibogaine

@@ -37,6 +37,9 @@ electrolyte_data: false
 herg_data: false
 contraindications: []
 pmid: "27180314"
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Effects of Low Dose Ibogaine on Subjective Mood State and Psychological Performance

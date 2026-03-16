@@ -42,6 +42,9 @@ contraindications:
   - "Concurrent psychiatric medications (required discontinuation prior to treatment)"
   - "Concurrent benzodiazepine use (required discontinuation prior to treatment)"
   - "Medications with potential drug–drug interactions"
+open_access: false
+publisher: "Springer Nature"
+body_format: vault-analytical
 ---
 
 # Magnesium–ibogaine therapy effects on cortical oscillations and neural complexity in veterans with traumatic brain injury

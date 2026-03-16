@@ -52,6 +52,9 @@ contraindications:
   - "Current eating disorders"
   - "Alcohol/amphetamines/cocaine use within 1 week"
   - "Long-acting opioids (buprenorphine, methadone) within 4 weeks"
+open_access: true
+publisher: "Akadémiai Kiadó"
+body_format: vault-analytical
 ---
 
 # Subjective Effectiveness of Ibogaine Treatment for Problematic Opioid Consumption: Short- and Long-Term Outcomes and Current Psychological Functioning

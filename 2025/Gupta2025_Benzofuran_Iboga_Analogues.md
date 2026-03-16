@@ -31,6 +31,8 @@ qtc_data: true
 electrolyte_data: false
 herg_data: true
 contraindications: []
+open_access: true
+body_format: academic-retained
 ---
 
 # Development of Bioisosteric *Iboga*-alkaloids as Antinociceptive and Anxiolytic Agents with Neuroprotective Effects

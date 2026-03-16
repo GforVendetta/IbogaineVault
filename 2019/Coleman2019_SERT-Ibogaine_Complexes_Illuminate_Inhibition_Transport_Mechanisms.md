@@ -29,6 +29,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "Springer Nature"
+body_format: academic-retained
 ---
 
 # Serotonin transporter–ibogaine complexes illuminate mechanisms of inhibition and transport

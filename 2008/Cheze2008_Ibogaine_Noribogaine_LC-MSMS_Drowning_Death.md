@@ -39,6 +39,9 @@ contraindications:
   - "Use in uncontrolled settings (Bwiti ceremony context)"
 dosing_range: "unknown (iboga root bark; blood levels elevated relative to published therapeutic range — femoral ibogaine 3.3 µg/mL, noribogaine 4.6 µg/mL)"
 route: oral
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Determination of ibogaine and noribogaine in biological fluids and hair by LC–MS/MS after *Tabernanthe iboga* abuse: Iboga alkaloids distribution in a drowning death case

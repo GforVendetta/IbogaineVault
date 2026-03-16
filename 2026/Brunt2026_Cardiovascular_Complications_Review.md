@@ -36,6 +36,9 @@ contraindications:
   - "Doses exceeding ~0.87 mg/kg without cardiac monitoring"
 dosing_range: "Safe dose ~0.87mg/kg (10× lower than therapeutic 8–20mg/kg)"
 route: oral
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Rare but relevant: Ibogaine and cardiovascular complications—prolonged QT interval and ventricular arrhythmias

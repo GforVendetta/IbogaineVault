@@ -34,6 +34,9 @@ herg_data: false
 contraindications: []
 dosing_range: "1mg/kg (low dose) and 20mg/kg (high dose)"
 route: oral
+open_access: true
+publisher: "MDPI"
+body_format: academic-retained
 ---
 
 <!-- image -->

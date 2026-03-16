@@ -31,6 +31,9 @@ herg_data: false
 contraindications: []
 route: oral
 dosing_range: "6–28 mg/kg oral (i-HCl, TA, root bark, or combinations; see dosing table)"
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # The Ibogaine Experience: A Qualitative Study on the Acute Subjective Effects of Ibogaine

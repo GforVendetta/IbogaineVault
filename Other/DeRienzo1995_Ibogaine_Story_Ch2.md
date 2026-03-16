@@ -29,6 +29,8 @@ contraindications: []
 dosing_range: "~1 g oral for 150 lb person (threshold ~6 mg/kg); Isbell used sub-therapeutic 250 mg"
 route: oral
 organisation: "Autonomedia"
+open_access: true
+body_format: narrative
 ---
 
 # The Ibogaine Story — Chapter 2: Howard Lotsof

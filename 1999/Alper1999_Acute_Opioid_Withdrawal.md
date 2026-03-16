@@ -28,6 +28,8 @@ herg_data: false
 dosing_range: "19.3 ± 6.9 mg/kg (range 6–29 mg/kg)"
 route: oral
 contraindications: []
+open_access: unknown
+body_format: academic-retained
 ---
 
 ## Treatment of Acute Opioid Withdrawal with Ibogaine

@@ -31,6 +31,9 @@ aliases:
   - "Acuña 2025"
   - "Visual Cortex Plasticity Study"
 contraindications: []
+open_access: true
+publisher: "Research Square"
+body_format: academic-retained
 ---
 # Ibogaine induces juvenile-like plasticity and modulates functional and structural regulators of plasticity in the adult mouse visual cortex
 

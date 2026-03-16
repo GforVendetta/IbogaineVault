@@ -30,6 +30,8 @@ herg_data: false
 dosing_range: "1–10 mg/kg i.v.; 40 mg/kg i.p. (rat)"
 route: intravenous
 contraindications: []
+open_access: unknown
+body_format: hybrid
 ---
 
 # In Vivo Neurobiological Effects of Ibogaine and Its O-Desmethyl Metabolite, 12-Hydroxyibogamine (Noribogaine), in Rats

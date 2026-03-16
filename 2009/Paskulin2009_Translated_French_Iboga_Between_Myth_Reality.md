@@ -21,6 +21,9 @@ herg_data: false
 contraindications: []
 clinical_significance: low
 route: not-applicable
+open_access: false
+publisher: "Springer Nature"
+body_format: academic-retained
 ---
 
 # Iboga: Between Myth and Reality

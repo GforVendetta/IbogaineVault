@@ -34,6 +34,9 @@ herg_data: false
 dosing_range: "17.9 mg/kg ibogaine HCl (1550 mg total, split dose); 50 mg bufotoxin (~5–7 mg 5-MeO-DMT, vaporised)"
 route: oral
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # A Case Report SPECT Study and Theoretical Rationale for the Sequential Administration of Ibogaine and 5-MeO-DMT in the Treatment of Alcohol Use Disorder

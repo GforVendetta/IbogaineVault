@@ -34,6 +34,9 @@ herg_data: false
 dosing_range: "20–40 mg/kg 18-MC (rat i.p./p.o.)"
 route: intraperitoneal
 contraindications: []
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # (±)-18-Methoxycoronaridine: A Novel Iboga Alkaloid Congener Having Potential Anti-Addictive Efficacy

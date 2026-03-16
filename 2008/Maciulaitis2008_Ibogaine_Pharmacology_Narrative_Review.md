@@ -37,6 +37,9 @@ contraindications:
   - "Concomitant hepatically-metabolised drugs (CYP2D6 pathway)"
 dosing_range:
 route:
+open_access: false
+publisher: "SAGE"
+body_format: vault-analytical
 ---
 
 # Ibogaine, an Anti-Addictive Drug: Pharmacology and Time to Go Further in Development

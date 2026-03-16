@@ -36,6 +36,8 @@ contraindications:
 dosing_range: "100 mg/kg sub-lethal in rats (~80% LD50); 25 mg/kg minimal toxicity in rats; 16–18 mg/kg estimated standard human dose; FDA-approved trial doses 1, 2, and 5 mg/kg"
 route: oral
 organisation: "MindVox"
+open_access: true
+body_format: vault-analytical
 ---
 
 # The Ibogaine Story — Chapter 15: Molliver's Travels

@@ -33,6 +33,8 @@ contraindications: []
 dosing_range: "35mg methadone detox (Lamontia); 125mg methadone detox (unnamed); 80mg methadone + $250 heroin/day (Baker) — describes addiction burden treated, not ibogaine dose"
 route: oral
 organisation: "MindVox"
+open_access: true
+body_format: academic-retained
 ---
 
 # The Ibogaine Story — Chapter 12: VALIS

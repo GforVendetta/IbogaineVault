@@ -26,6 +26,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "American Chemical Society"
+body_format: narrative
 ---
 
 # Ibogaine and Their Analogs as Therapeutics for Neurological and Psychiatric Disorders

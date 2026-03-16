@@ -29,6 +29,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Wiley"
+body_format: academic-retained
 ---
 
 # Underground Ibogaine Use for the Treatment of Substance Use Disorders: A Qualitative Analysis of Subjective Experiences

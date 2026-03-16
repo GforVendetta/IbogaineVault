@@ -36,6 +36,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Mechanisms of Action of Ibogaine: Relevance to Putative Therapeutic Effects and Development of a Safer Iboga Alkaloid Congener

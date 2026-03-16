@@ -30,6 +30,9 @@ herg_data: false
 dosing_range: "T. iboga root bark extract (mouse, oral gavage)"
 route: oral
 contraindications: []
+open_access: unknown
+publisher: "Food Science Publisher"
+body_format: academic-retained
 ---
 
 # Phytochemical characterization of *Tabernanthe iboga* root bark and its effects on dysfunctional metabolism and cognitive performance in high-fat-fed C57BL/6J mice

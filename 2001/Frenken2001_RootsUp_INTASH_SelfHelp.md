@@ -28,6 +28,8 @@ herg_data: false
 contraindications: []
 dosing_range: "20 mg/kg ibogaine HCl oral (capsules, single dose) for addiction interruption; 10 mg/kg for initiatory sessions"
 route: oral
+open_access: true
+body_format: vault-analytical
 ---
 
 # From the Roots Up: Ibogaine and Addict Self-Help

@@ -35,6 +35,9 @@ contraindications:
   - "Concurrent opioid use"
 dosing_range: "~3.8 g oral (8 capsules × 479 mg, over <6 hours)"
 route: oral
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Internet-purchased ibogaine toxicity confirmed with serum, urine, and product content levels

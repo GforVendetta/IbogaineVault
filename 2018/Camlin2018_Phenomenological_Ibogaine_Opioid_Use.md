@@ -35,6 +35,9 @@ contraindications:
   - "Opioid use within 72 hours of ibogaine ingestion"
 dosing_range: "15–20 mg/kg therapeutic dose referenced; LD50 264 mg/kg"
 route: oral
+open_access: false
+publisher: "Akadémiai Kiadó"
+body_format: hybrid
 ---
 # A phenomenological investigation into the lived experience of ibogaine and its potential to treat opioid use disorders
 

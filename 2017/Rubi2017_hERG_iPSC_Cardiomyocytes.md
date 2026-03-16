@@ -31,6 +31,9 @@ herg_data: true
 contraindications: []
 dosing_range: "3µM test concentration (therapeutic range)"
 route: not-specified
+open_access: true
+publisher: "Springer Nature"
+body_format: academic-retained
 ---
 
 # **Anti-addiction Drug Ibogaine Prolongs the Action Potential in Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes**

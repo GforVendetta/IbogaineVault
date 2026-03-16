@@ -30,6 +30,9 @@ contraindications:
   - "Psychiatric conditions with autonomic dysregulation (schizophrenia, PTSD, depression)"
 dosing_range: "variable — fatalities after doses from sub-therapeutic (<10 mg/kg) to standard therapeutic (20–30 mg/kg); exact doses often unknown in retrospective cases"
 route: oral
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Fatalities after taking ibogaine in addiction treatment could be related to sudden cardiac death caused by autonomic dysfunction

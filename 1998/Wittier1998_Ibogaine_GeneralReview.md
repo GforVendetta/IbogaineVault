@@ -22,6 +22,8 @@ herg_data: false
 contraindications: []
 clinical_significance: low
 route: not-applicable
+open_access: true
+body_format: narrative
 ---
 
 ## IBOGAINE

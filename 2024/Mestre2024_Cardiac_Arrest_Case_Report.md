@@ -31,6 +31,9 @@ herg_data: false
 contraindications: []
 dosing_range: "200mg (2.6mg/kg test dose)"
 route: oral
+open_access: true
+publisher: "Cureus"
+body_format: academic-retained
 ---
 
 # **Multiple Episodes of Cardiac Arrest Induced by Treatment With Ibogaine: A Case Report**

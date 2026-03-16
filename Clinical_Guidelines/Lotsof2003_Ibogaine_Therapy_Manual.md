@@ -57,6 +57,8 @@ contraindications:
   - "Active tuberculosis"
   - "Pregnancy"
   - "Liver enzymes >400% above normal (NIDA threshold)"
+open_access: unknown
+body_format: hybrid
 ---
 # Manual for Ibogaine Therapy
 ## Screening, Safety, Monitoring & Aftercare

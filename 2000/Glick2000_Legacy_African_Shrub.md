@@ -32,6 +32,9 @@ herg_data: false
 dosing_range: "20–40 mg/kg i.p. (rats); ibogaine 40–100 mg/kg"
 route: intraperitoneal
 contraindications: []
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Development of Novel Medications for Drug Addiction: The Legacy of an African Shrub

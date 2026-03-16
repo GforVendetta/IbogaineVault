@@ -28,6 +28,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: hybrid
 ---
 
 # Ibogaine and the Inhibition of Morphine Self-Administration: Aftereffects of Ibogaine on Morphine Self-Administration in Rats

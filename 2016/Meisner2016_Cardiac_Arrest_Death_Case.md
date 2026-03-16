@@ -34,6 +34,9 @@ contraindications:
   - "Liver enzyme abnormalities"
   - "Unregulated/unsupervised administration"
   - "Unknown dose or purity of ibogaine"
+open_access: true
+publisher: "SAGE"
+body_format: academic-retained
 ---
 
 # Ibogaine-associated cardiac arrest and death: case report and review of the literature

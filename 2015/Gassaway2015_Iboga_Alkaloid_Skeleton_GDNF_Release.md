@@ -32,6 +32,9 @@ contraindications: []
 route: not-applicable
 publication_date: "2015-10-30"
 pmid: "26517751"
+open_access: false
+publisher: "American Chemical Society"
+body_format: vault-analytical
 ---
 
 # Deconstructing the Iboga Alkaloid Skeleton: Potentiation of FGF2-induced Glial Cell Line-Derived Neurotrophic Factor Release by a Novel Compound

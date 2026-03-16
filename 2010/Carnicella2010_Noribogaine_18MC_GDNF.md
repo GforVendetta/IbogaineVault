@@ -32,6 +32,9 @@ herg_data: false
 dosing_range: "5–50 µM (cell culture); 0.5–4 µg/µl intra-VTA (rats)"
 route: not-specified
 contraindications: []
+open_access: true
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Noribogaine, but not 18-MC, exhibits similar actions as ibogaine on GDNF expression and ethanol self-administration

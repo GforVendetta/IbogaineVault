@@ -33,6 +33,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Society for Neuroscience"
+body_format: hybrid
 ---
 # Glial Cell Line-Derived Neurotrophic Factor Mediates the Desirable Actions of the Anti-addiction Drug Ibogaine against Alcohol Consumption
 

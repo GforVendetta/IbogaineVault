@@ -35,6 +35,9 @@ contraindications:
   - "Pregnancy or lactation"
   - "Concurrent psychotropic medication use (especially uncontrolled)"
 route: oral
+open_access: true
+publisher: "MDPI"
+body_format: academic-retained
 ---
 
 # Guidelines for Establishing Safety in Ayahuasca and Ibogaine Administration in Clinical Settings

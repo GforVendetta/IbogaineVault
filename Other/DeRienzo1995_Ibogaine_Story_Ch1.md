@@ -25,6 +25,8 @@ electrolyte_data: false
 herg_data: false
 contraindications: []
 organisation: "Autonomedia"
+open_access: true
+body_format: narrative
 ---
 
 # The Ibogaine Story — Chapter 1: The War With the Junkies

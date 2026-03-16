@@ -23,6 +23,8 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Neuropharmacological Studies on Ibogaine, an Indole Alkaloid with Central-Stimulant Properties

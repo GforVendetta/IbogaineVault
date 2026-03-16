@@ -47,6 +47,9 @@ contraindications:
   - "Active substance withdrawal"
 dosing_range: "11.3–14.7 mg/kg ibogaine (mean 12.1 mg/kg)"
 route: oral
+open_access: true
+publisher: "Springer Nature"
+body_format: vault-analytical
 ---
 
 # Magnesium–ibogaine therapy in veterans with traumatic brain injuries

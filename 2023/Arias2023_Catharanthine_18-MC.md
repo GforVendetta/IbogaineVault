@@ -31,6 +31,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # (+)-Catharanthine and (-)-18-methoxycoronaridine induce antidepressant-like activity in mice by differently recruiting serotonergic and norepinephrinergic neurotransmission

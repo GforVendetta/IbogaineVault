@@ -48,6 +48,9 @@ contraindications:
   - "Risk factors for torsades de pointes"
 dosing_range: "60–180 mg single oral dose"
 route: oral
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Ascending Single-Dose, Double-Blind, Placebo-Controlled Safety Study of Noribogaine in Opioid-Dependent Patients

@@ -34,6 +34,9 @@ route: oral
 contraindications:
   - "Seizure disorders or epilepsy"
   - "High-dose iboga root bark ingestion (proconvulsive at high doses)"
+open_access: true
+publisher: "BioMed Central"
+body_format: academic-retained
 ---
 
 # “Herbal seizures” – atypical symptoms after ibogaine intoxication: a case report

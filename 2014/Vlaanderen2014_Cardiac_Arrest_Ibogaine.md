@@ -34,6 +34,9 @@ herg_data: false
 contraindications: []
 dosing_range: "2400 mg oral (single dose, ~32.4 mg/kg)"
 route: oral
+open_access: false
+publisher: "Informa Healthcare"
+body_format: vault-analytical
 ---
 # Cardiac Arrest After Ibogaine Ingestion
 

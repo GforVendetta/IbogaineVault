@@ -27,6 +27,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "Frontiers"
+body_format: academic-retained
 ---
 
 # Ibogaine's potential role in supporting reward system recovery across diagnostic boundaries

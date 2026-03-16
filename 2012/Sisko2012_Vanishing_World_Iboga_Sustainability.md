@@ -19,6 +19,8 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: unknown
+body_format: narrative
 ---
 
 # THE VANISHING WORLD OF IBOGA

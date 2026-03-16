@@ -34,6 +34,9 @@ contraindications:
   - "History of seizures"
 dosing_range: "7 g oral (single dose, internet-sourced)"
 route: oral
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # A Case of QT Prolongation and Torsades de Pointes Caused by Ibogaine Toxicity

@@ -37,6 +37,8 @@ contraindications:
   - "Current prescription for psychotropic medication"
 dosing_range: "1800 mg single dose (dried ibogaine extract, 75% purity, encapsulated with excipients)"
 route: oral
+open_access: unknown
+body_format: vault-analytical
 ---
 # Ibogaine Effect on Cocaine Craving and Use in Dependent Patients - A Double-Blind, Placebo-Controlled Pilot Study
 

@@ -44,6 +44,8 @@ herg_data: false
 dosing_range: "8–12 mg/kg ibogaine HCl"
 route: oral
 contraindications: []
+open_access: true
+body_format: academic-retained
 ---
 
 # Is ibogaine treatment durable? 12-month follow-up of magnesium-ibogaine therapy (MISTIC) in Special Operations Veterans with traumatic brain injuries

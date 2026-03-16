@@ -27,6 +27,9 @@ aliases:
   - "5-HT2A HEK Electrophysiology"
 source_pdf: "2025/Eliasen2025_Ibogaine_Sex-Dependent_Firing_Rate.pdf"
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: hybrid
 ---
 
 # Dimethyltryptamine (DMT) and ibogaine elicit membrane effects in HEK cells transiently transfected with the human 5-HT2A receptor

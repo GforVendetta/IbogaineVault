@@ -31,6 +31,8 @@ route: oral
 contraindications: []
 source_pdf: "not-applicable"
 source_url: "https://www.youtube.com/watch?v=Tg0U0cm4NHg"
+open_access: unknown
+body_format: academic-retained
 ---
 
 # Clare Wilkins at Psychedelic Science 2017: Novel Approach to Methadone Detox

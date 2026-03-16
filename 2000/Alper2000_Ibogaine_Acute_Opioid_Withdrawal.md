@@ -34,6 +34,9 @@ herg_data: false
 contraindications: []
 dosing_range: "19.3 ± 6.9 mg/kg (range 6–29 mg/kg)"
 route: oral
+open_access: false
+publisher: "Wiley"
+body_format: hybrid
 ---
 
 # Ibogaine in Acute Opioid Withdrawal: An Open Label Case Series

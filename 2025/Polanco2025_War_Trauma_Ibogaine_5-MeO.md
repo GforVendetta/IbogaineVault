@@ -42,6 +42,9 @@ contraindications:
   - "Concurrent antibiotics/antifungals (certain QT-prolonging types)"
   - "Concurrent antiarrhythmics"
   - "Certain supplements (e.g. milk thistle — CYP2D6 inhibitor)"
+open_access: false
+publisher: "Brill"
+body_format: hybrid
 ---
 
 # Treating War Trauma with Ibogaine and 5-MeO-DMT

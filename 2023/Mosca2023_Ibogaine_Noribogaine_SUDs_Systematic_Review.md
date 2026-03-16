@@ -37,6 +37,9 @@ qtc_data: true
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Bentham Science"
+body_format: academic-retained
 ---
 
 # Ibogaine/Noribogaine in the Treatment of Substance Use Disorders: A Systematic Review of the Current Literature

@@ -33,6 +33,9 @@ contraindications:
   - "Unsupervised self-administration"
 dosing_range: "7 g oral (single dose, ~100 mg/kg estimated)"
 route: oral
+open_access: false
+publisher: "Oxford University Press"
+body_format: vault-analytical
 ---
 
 # Growing Menace of Ibogaine Toxicity

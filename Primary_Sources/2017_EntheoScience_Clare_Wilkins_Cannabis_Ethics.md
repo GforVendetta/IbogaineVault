@@ -26,6 +26,8 @@ electrolyte_data: false
 herg_data: false
 contraindications: []
 source_pdf: "not-applicable"
+open_access: unknown
+body_format: narrative
 ---
 
 # Clare Wilkins at EntheoScience 2017: Iboga, Cannabis, Ethics and Alliance

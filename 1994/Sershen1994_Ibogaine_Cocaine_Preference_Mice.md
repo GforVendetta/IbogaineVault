@@ -29,6 +29,9 @@ herg_data: false
 contraindications: []
 dosing_range: "2×40 mg/kg IP ibogaine HCl (6 h apart); cocaine 200–400 mg/l oral, 25 mg/kg SC challenge"
 route: intraperitoneal
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Ibogaine Reduces Preference for Cocaine Consumption in C57BL/6By Mice

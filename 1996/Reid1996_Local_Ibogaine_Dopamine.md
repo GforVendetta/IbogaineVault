@@ -25,6 +25,8 @@ electrolyte_data: false
 herg_data: false
 dosing_range: "10⁻⁶M-10⁻³M (local perfusion, rat)"
 contraindications: []
+open_access: unknown
+body_format: academic-retained
 ---
 
 J Neural Transm (1996) 103:967-985

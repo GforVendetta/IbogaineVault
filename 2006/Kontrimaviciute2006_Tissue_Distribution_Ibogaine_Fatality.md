@@ -39,6 +39,9 @@ contraindications:
   - "Absence of medical monitoring"
 dosing_range: "unknown (root bark, ~18 spoonfuls over ~10 hours, blood levels 5–20× therapeutic)"
 route: oral
+open_access: false
+publisher: "Oxford University Press"
+body_format: vault-analytical
 ---
 # Distribution of Ibogaine and Noribogaine in a Man Following a Poisoning Involving Root Bark of the *Tabernanthe iboga* Shrub
 

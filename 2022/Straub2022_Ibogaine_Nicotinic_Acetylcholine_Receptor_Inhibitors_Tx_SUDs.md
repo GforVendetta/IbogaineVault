@@ -26,6 +26,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "American Chemical Society"
+body_format: academic-retained
 ---
 
 # What We Have Gained from Ibogaine:  Nicotinic Acetylcholine Receptor Inhibitors as Treatments for Substance Use Disorders

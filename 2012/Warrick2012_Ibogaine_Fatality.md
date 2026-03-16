@@ -35,6 +35,9 @@ contraindications:
   - "Internet-sourced ibogaine of unverified composition"
 dosing_range: "2 grams ibogaine (self-administered, unmonitored, capsule form)"
 route: oral
+open_access: false
+publisher: "Informa Healthcare"
+body_format: vault-analytical
 ---
 # Ibogaine for opioid addiction: A Deadly treatment
 

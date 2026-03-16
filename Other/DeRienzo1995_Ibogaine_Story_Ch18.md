@@ -37,6 +37,8 @@ contraindications:
 dosing_range: "8–31 mg/kg oral (range across Panama treatments); FDA approved Miami protocol at 8 mg/kg; Baumann used ~half recommended dose; Nancy received 25, 29–31, and split 10+20 mg/kg across three treatments"
 route: oral
 organisation: "MindVox"
+open_access: true
+body_format: vault-analytical
 ---
 
 # The Ibogaine Story — Chapter 18: Deborah Mash's Brain

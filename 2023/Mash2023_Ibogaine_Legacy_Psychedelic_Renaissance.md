@@ -22,6 +22,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: academic-retained
 ---
 
 # Ibogaine – A legacy within the current renaissance of psychedelic therapy

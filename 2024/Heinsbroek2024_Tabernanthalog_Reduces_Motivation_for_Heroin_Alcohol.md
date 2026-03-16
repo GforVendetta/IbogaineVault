@@ -28,6 +28,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "Mary Ann Liebert"
+body_format: narrative
 ---
 
 # **Tabernanthalog Reduces Motivation for Heroin and Alcohol in a Polydrug Use Model**

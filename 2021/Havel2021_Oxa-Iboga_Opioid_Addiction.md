@@ -41,6 +41,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: true
 contraindications: []
+open_access: true
+publisher: "Cold Spring Harbor"
+body_format: academic-retained
 ---
 
 # Novel Class of Psychedelic Iboga Alkaloids Disrupts Opioid Addiction States

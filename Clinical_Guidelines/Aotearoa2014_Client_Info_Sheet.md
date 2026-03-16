@@ -23,6 +23,8 @@ contraindications:
   - "Undisclosed medical history (full disclosure required for safety screening)"
   - "Concurrent substance use during treatment (document warns this could be fatal)"
   - "Reduced post-treatment opioid tolerance (risk of fatal overdose if substances taken during or after therapy)"
+open_access: true
+body_format: narrative
 ---
 
 # 2014 Ibogaine Client Information Sheet

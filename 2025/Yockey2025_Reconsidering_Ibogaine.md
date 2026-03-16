@@ -27,6 +27,9 @@ contraindications: []
 aliases:
   - "Yockey 2025"
   - "Reconsidering Ibogaine"
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Reconsidering Ibogaine for the treatment of severe mental illness and substance use disorders

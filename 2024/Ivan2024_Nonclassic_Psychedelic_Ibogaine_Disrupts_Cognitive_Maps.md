@@ -31,6 +31,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "Elsevier"
+body_format: academic-retained
 ---
 
 # **The Nonclassic Psychedelic Ibogaine Disrupts Cognitive Maps**

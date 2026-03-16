@@ -25,6 +25,8 @@ route: oral
 contraindications:
   - "Concurrent opiate/opioid use at higher ibogaine doses — ibogaine potentiates analgesic effect, difference between 50 mg and 500 mg described as 'quite possibly fatal'"
   - "Maintenance regimen beyond 20-25 days without break — jitteriness, sleep disturbance, overstimulation"
+open_access: unknown
+body_format: narrative
 ---
 
 ## Ibogaine in the 21st Century: Boosters, Tune-ups and Maintenance

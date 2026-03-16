@@ -36,6 +36,8 @@ aliases:
   - "Kobr PhD 2024"
   - "Kobr thesis (Czech)"
 contraindications: []
+open_access: true
+body_format: narrative
 ---
 
 # Ibogaine and its Potential Use in the Treatment of Drug Addiction

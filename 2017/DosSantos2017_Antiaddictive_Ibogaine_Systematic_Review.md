@@ -33,6 +33,9 @@ contraindications:
   - "Pre-existing cardiovascular disease"
   - "Concomitant opiate/opioid use during or immediately after ibogaine"
   - "Use of drugs of unknown purity in uncontrolled settings"
+open_access: false
+publisher: "Akadémiai Kiadó"
+body_format: vault-analytical
 ---
 
 # The antiaddictive effects of ibogaine: A systematic literature review of human studies

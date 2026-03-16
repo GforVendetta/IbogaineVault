@@ -32,6 +32,8 @@ herg_data: false
 dosing_range: "8–12 mg/kg oral ibogaine (human)"
 route: oral
 contraindications: []
+open_access: true
+body_format: academic-retained
 ---
 
 # Ibogaine in the Treatment of Heroin Withdrawal

@@ -37,6 +37,8 @@ contraindications:
 dosing_range: "1800mg initial + 600mg booster (German case, Bastiaans protocol)"
 route: oral
 organisation: "MindVox"
+open_access: true
+body_format: narrative
 ---
 
 # The Ibogaine Story — Chapter 14: Time Is a Child at Play

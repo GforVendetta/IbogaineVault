@@ -28,6 +28,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "Royal Society of Chemistry"
+body_format: vault-analytical
 ---
 
 # The Iboga Enigma: The Chemistry and Neuropharmacology of Iboga Alkaloids and Related Analogs

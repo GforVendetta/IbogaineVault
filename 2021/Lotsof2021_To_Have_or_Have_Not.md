@@ -22,6 +22,8 @@ herg_data: false
 contraindications: []
 clinical_significance: moderate
 route: not-applicable
+open_access: true
+body_format: narrative
 ---
 
 ## Ibogaine: To Have or Have Not. A review of the historical, legal and ethical implications of returning control of ibogaine to drug users.

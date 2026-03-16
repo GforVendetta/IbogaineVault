@@ -27,6 +27,8 @@ pages: "43-66"
 publisher: "Praeger/Greenwood Publishing Group"
 volume: 2
 contraindications: []
+open_access: true
+body_format: academic-retained
 ---
 
 # THE USE OF IBOGAINE IN THE TREATMENT OF ADDICTIONS

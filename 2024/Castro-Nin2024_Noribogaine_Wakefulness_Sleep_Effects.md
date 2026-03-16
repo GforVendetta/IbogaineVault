@@ -34,6 +34,9 @@ contraindications: []
 dosing_range: "20 and 40 mg/kg IP (noribogaine·HCl in warm degassed saline)"
 route: intraperitoneal
 pmid: "38467891"
+open_access: false
+publisher: "Springer Nature"
+body_format: vault-analytical
 ---
 
 # Noribogaine acute administration in rats promotes wakefulness and suppresses REM sleep

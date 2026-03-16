@@ -34,6 +34,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Wiley"
+body_format: hybrid
 ---
 
 # Mechanisms of Antiaddictive Actions of Ibogaine

@@ -32,6 +32,9 @@ aliases:
   - "Kamileen 2024"
   - "Pachysiphine Synthase Discovery"
 contraindications: []
+open_access: true
+publisher: "Cold Spring Harbor"
+body_format: narrative
 ---
 
 # Streamlined screening platforms lead to the discovery of pachysiphine synthase from *Tabernanthe iboga*

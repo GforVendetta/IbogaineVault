@@ -30,6 +30,8 @@ contraindications: []
 dosing_range: "6–19 mg/kg oral (from original patent #4,499,096)"
 route: oral
 organisation: "MindVox"
+open_access: true
+body_format: narrative
 ---
 
 # The Ibogaine Story — Chapter 5: The Staten Island Project

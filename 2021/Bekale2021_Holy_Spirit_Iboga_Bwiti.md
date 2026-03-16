@@ -24,6 +24,8 @@ contraindications: []
 aliases:
   - "Bekale 2021"
   - "Bwiti Spiritual Renaissance"
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # The Holy Spirit of Iboga and a Contemporary Perspective on Africa's Spiritual Renaissance: Focus on Gabonese Bwiti Tradition

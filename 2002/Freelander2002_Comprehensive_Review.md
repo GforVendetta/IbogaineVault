@@ -26,6 +26,8 @@ herg_data: false
 dosing_range: "4–19 mg/kg oral ibogaine (human, reviewed)"
 route: oral
 contraindications: []
+open_access: true
+body_format: academic-retained
 ---
 
 ## Ibogaine: A Novel Anti-Addictive Compound A Comprehensive Literature Review

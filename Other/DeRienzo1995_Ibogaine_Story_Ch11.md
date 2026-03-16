@@ -34,6 +34,8 @@ contraindications:
 dosing_range: "Weight-adjusted oral ibogaine HCl; allergy dose then full dose"
 route: oral
 organisation: "MindVox"
+open_access: true
+body_format: narrative
 ---
 
 # The Ibogaine Story — Chapter 11: Geerte F.

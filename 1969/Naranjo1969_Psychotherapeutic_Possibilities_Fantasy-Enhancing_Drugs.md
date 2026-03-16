@@ -22,6 +22,8 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: unknown
+body_format: narrative
 ---
 
 # Psychotherapeutic Possibilities of New Fantasy-Enhancing Drugs

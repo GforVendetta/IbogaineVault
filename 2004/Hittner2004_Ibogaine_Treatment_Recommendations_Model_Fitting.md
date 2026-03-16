@@ -32,6 +32,9 @@ contraindications:
   - "Active psychosis or psychosis-prone individuals (schizophrenia, bipolar disorder)"
 dosing_range: "700–1800 mg oral ibogaine HCl (11.7–25.0 mg/kg DWR); test dose 100–200 mg; threshold ~16 mg/kg"
 route: oral
+open_access: false
+publisher: "Taylor & Francis"
+body_format: hybrid
 ---
 
 # Combating Substance Abuse with Ibogaine: Pre- and Posttreatment Recommendations and an Example of Successive Model Fitting Analyses

@@ -27,6 +27,9 @@ route: oral
 contraindications:
   - "Unverified ibogaine product purity (0-73% range found across vendors)"
 dosing_range: "not-specified"
+open_access: true
+publisher: "SciELO"
+body_format: academic-retained
 ---
 
 # CRITICAL SAFETY ALERT: Product Quality Crisis

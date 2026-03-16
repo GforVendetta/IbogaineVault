@@ -25,6 +25,9 @@ herg_data: false
 dosing_range: "variable - flood dose protocol over 6 days"
 route: oral
 contraindications: []
+open_access: false
+publisher: "Akadémiai Kiadó"
+body_format: vault-analytical
 ---
 
 # Novel treatment of opioid use disorder using ibogaine and iboga in two adults

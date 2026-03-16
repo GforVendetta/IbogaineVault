@@ -33,6 +33,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 # Effects of Iboga Alkaloids on Morphine and Cocaine Self-Administration in Rats: Relationship to Tremorigenic Effects and to Effects on Dopamine Release in Nucleus Accumbens and Striatum
 

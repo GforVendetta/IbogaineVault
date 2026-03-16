@@ -24,6 +24,8 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+body_format: vault-analytical
 ---
 
 # Professor Jan Bastiaans and the Ibogaine Saga

@@ -53,6 +53,9 @@ contraindications:
   - "Contraindication to MRI"
 dosing_range: "Test dose 2–3 mg/kg, total ≤14 mg/kg oral (ibogaine HCl, 98% pure); 1g IV MgSO₄ pre-dosing"
 route: oral
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Mystical experiences during magnesium-Ibogaine are associated with improvements in PTSD symptoms in veterans

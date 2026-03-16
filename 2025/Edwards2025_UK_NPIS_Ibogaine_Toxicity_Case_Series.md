@@ -39,6 +39,9 @@ contraindications:
   - "CYP2D6 poor metaboliser status (flagged as variable susceptibility factor, not assessed in any case)"
 dosing_range: "Acute: 5–34 g root bark (where reported); chronic: 0.5–0.7 g root bark 5/7 days for 2 months (Patient 6); mixed preparations (root bark, ibogaine HCl tablets, capsules); dose unknown in majority of cases"
 route: oral
+open_access: false
+publisher: "Taylor & Francis"
+body_format: vault-analytical
 ---
 
 # A Case Series of Ibogaine Toxicity Reported to the United Kingdom National Poisons Information Service (NPIS) Over a 10-Year Period

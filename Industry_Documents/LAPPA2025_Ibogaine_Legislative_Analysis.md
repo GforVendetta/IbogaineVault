@@ -26,6 +26,8 @@ herg_data: false
 route: not-applicable
 dosing_range: "not-applicable"
 contraindications: []
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Ibogaine

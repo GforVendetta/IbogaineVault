@@ -35,6 +35,9 @@ secondary_categories: [ORANGE]
 aliases:
   - "Cherian 2023 Cognitive"
   - "MISTIC Cognitive Outcomes"
+open_access: false
+publisher: "Cambridge University Press"
+body_format: hybrid
 ---
 
 # The Effect of Ibogaine on Cognitive Functioning

@@ -49,6 +49,9 @@ contraindications:
   - "QTc prolongation >500ms (emergency magnesium protocol threshold per Knuijver)"
 dosing_range: "Ibogaine HCl 20–800 mg or 8–12 mg/kg; noribogaine HCl 3–180 mg; one study used 1800 mg encapsulated extract (75% purity) — all oral, across 12 reviewed clinical studies"
 route: oral
+open_access: false
+publisher: "Springer Nature"
+body_format: vault-analytical
 ---
 
 # Identifying Setting Factors Associated with Improved Ibogaine Safety: A Systematic Review of Clinical Studies

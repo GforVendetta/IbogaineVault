@@ -30,6 +30,8 @@ aliases:
   - "Quinn Williams 2025"
   - "Quinn Williams PhD"
 contraindications: []
+open_access: true
+body_format: hybrid
 ---
 
 # A Study of the Inhibitory and Pharmacological Chaperone Effects of Bupropion and Ibogaine on Monoamine Transporters

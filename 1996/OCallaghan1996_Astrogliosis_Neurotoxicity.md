@@ -28,6 +28,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Acute and Chronic Administration of Ibogaine to the Rat Results in Astrogliosis That Is Not Confined to the Cerebellar Vermis

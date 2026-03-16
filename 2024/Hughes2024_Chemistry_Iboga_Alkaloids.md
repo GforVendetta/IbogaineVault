@@ -30,6 +30,9 @@ aliases:
   - "Hughes 2024"
   - "Iboga Alkaloid Synthesis Review"
 contraindications: []
+open_access: true
+publisher: "Wiley"
+body_format: hybrid
 ---
 
 # Disrupting Substance Use Disorder: The Chemistry of Iboga Alkaloids

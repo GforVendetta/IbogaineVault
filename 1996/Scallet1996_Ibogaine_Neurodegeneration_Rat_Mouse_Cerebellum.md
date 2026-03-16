@@ -28,6 +28,8 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Ibogaine Produces Neurodegeneration in Rat, but Not Mouse, Cerebellum: Neurohistological Biomarkers of Purkinje Cell Loss

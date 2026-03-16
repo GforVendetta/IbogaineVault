@@ -25,6 +25,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "Springer Nature"
+body_format: academic-retained
 ---
 
 # A transcriptomic analysis in mice following a single dose of ibogaine identifies new potential therapeutic targets

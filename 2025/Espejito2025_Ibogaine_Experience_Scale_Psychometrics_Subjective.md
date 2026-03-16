@@ -31,6 +31,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: true
+publisher: "PLoS"
+body_format: academic-retained
 ---
 
 # The Ibogaine Experience Scale (IES): Development and psychometric properties of a multidimensional measure of ibogaine's subjective effects

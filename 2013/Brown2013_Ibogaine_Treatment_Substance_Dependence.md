@@ -33,6 +33,9 @@ qtc_data: true
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Bentham Science"
+body_format: vault-analytical
 ---
 
 # Ibogaine in the Treatment of Substance Dependence

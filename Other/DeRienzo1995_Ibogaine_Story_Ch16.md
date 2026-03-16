@@ -35,6 +35,8 @@ contraindications:
 dosing_range: "150 mg/kg oral (no toxicity in primates); 50 mg/kg i.p. required to duplicate ataxia in primates"
 route: oral
 organisation: "MindVox"
+open_access: true
+body_format: vault-analytical
 ---
 
 # The Ibogaine Story — Chapter 16: The Passover Plot

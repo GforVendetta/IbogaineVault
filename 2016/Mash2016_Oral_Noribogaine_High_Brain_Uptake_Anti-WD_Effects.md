@@ -32,6 +32,9 @@ herg_data: false
 dosing_range: "10–100 mg/kg oral noribogaine (mouse/rat)"
 route: oral
 contraindications: []
+open_access: false
+publisher: "SAGE"
+body_format: hybrid
 ---
 
 # Oral noribogaine shows high brain uptake and anti-withdrawal effects not associated with place preference in rodents

@@ -22,6 +22,8 @@ electrolyte_data: false
 herg_data: false
 contraindications: []
 route: not-applicable
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Enantioselective Synthesis of Key Intermediates in a Novel Approach towards the Iboga-Alkaloid Family

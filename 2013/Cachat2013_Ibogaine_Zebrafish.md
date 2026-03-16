@@ -38,6 +38,9 @@ electrolyte_data: false
 herg_data: false
 dosing_range: "10–20 mg/L aquatic immersion (20 min pre-treatment)"
 contraindications: []
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Unique and potent effects of acute ibogaine on zebrafish: The developing utility of novel aquatic models for hallucinogenic drug research

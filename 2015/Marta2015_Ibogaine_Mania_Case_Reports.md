@@ -37,6 +37,9 @@ contraindications:
   - "Unregulated treatment setting without psychiatric monitoring or follow-up"
 dosing_range: "Unknown in all three cases (unregulated settings; doses not reported or verified)"
 route: oral
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Mania Following Use of Ibogaine: A Case Series

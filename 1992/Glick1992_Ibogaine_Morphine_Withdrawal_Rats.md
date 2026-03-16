@@ -29,6 +29,8 @@ herg_data: false
 contraindications: []
 dosing_range: "20, 40 and 80 mg/kg IP (ibogaine HCl in saline, 1–4 ml/kg)"
 route: intraperitoneal
+open_access: unknown
+body_format: hybrid
 ---
 
 # Effects of Ibogaine on Acute Signs of Morphine Withdrawal in Rats: Independence from Tremor

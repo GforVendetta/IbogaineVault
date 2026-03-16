@@ -26,6 +26,9 @@ herg_data: false
 dosing_range: "N/A (receptor binding Ki values)"
 route: not-specified
 contraindications: []
+open_access: true
+publisher: "PLoS"
+body_format: academic-retained
 ---
 
 # Psychedelics and the Human Receptorome

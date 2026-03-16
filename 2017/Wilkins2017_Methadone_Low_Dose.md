@@ -33,6 +33,9 @@ route: oral
 contraindications:
   - "QTc prolongation risk even at low doses — medical supervision required"
   - "Bradycardia risk — HR dropped from 85 to 53 bpm at 400-500 mg doses"
+open_access: false
+publisher: "Akadémiai Kiadó"
+body_format: academic-retained
 ---
 
 ## Detoxification from methadone using low, repeated, and increasing doses of ibogaine: A case report

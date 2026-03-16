@@ -39,6 +39,9 @@ contraindications:
   - "Hypomagnesemia"
 dosing_range: "unknown (blood ibogaine 2 mg/L; internet-sourced product)"
 route: oral
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 # Ibogaine Related Sudden Death: A Case Report
 

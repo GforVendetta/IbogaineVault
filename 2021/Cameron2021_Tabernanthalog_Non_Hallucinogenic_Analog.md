@@ -57,6 +57,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: true
 contraindications: []
+open_access: true
+publisher: "Springer Nature"
+body_format: vault-analytical
 ---
 
 # A Non-Hallucinogenic Psychedelic Analog with Therapeutic Potential

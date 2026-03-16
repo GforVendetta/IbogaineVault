@@ -39,6 +39,9 @@ aliases:
   - "Martins 2022"
   - "ABCB1 OATP Ibogaine Pharmacokinetics"
   - "Schinkel Ibogaine Transporters"
+open_access: true
+publisher: "Frontiers"
+body_format: vault-analytical
 ---
 
 # Drug Transporters ABCB1 (P-gp) and OATP, but not Drug-Metabolizing Enzyme CYP3A4, Affect the Pharmacokinetics of the Psychoactive Alkaloid Ibogaine and its Metabolites

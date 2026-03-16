@@ -35,6 +35,9 @@ herg_data: false
 contraindications: []
 dosing_range:
 route:
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 # Ibogaine Block of the NMDA Receptor: In Vitro and In Vivo Studies
 

@@ -26,6 +26,8 @@ herg_data: false
 dosing_range: "10–40 mg/kg i.p. (rats); ibogaine 40–100 mg/kg"
 route: intraperitoneal
 contraindications: []
+open_access: unknown
+body_format: academic-retained
 ---
 
 18-Methoxycoronaridine (18-MC) and Ibogaine: Comparison of Antiaddictive Efficacy, Toxicity, and Mechanisms of Action

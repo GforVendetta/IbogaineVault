@@ -25,6 +25,8 @@ qtc_data: true
 electrolyte_data: false
 herg_data: true
 contraindications: []
+open_access: unknown
+body_format: academic-retained
 ---
 
 # UNIVERSITAT ROVIRA I VIRGILI

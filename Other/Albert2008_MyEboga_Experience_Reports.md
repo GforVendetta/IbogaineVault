@@ -25,6 +25,8 @@ electrolyte_data: false
 herg_data: false
 contraindications: []
 secondary_categories: [WHITE]
+open_access: true
+body_format: vault-analytical
 ---
 
 # Ibogaine & Eboga Experiences: First-Person Accounts from the MyEboga Community

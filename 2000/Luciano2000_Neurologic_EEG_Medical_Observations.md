@@ -36,6 +36,8 @@ contraindications:
   - "DSM-4 Axis 1 diagnoses"
 dosing_range: "1 mg/kg test dose + 0.5 mg/kg sensitivity test + ~25 mg/kg treatment dose oral (ibogaine HCl); additional 5 mg/kg oral if early vomiting; rectal re-administration used in 1 subject with persistent vomiting"
 route: oral
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Neurologic, Electroencephalographic and General Medical Observations in Subjects Administered Ibogaine

@@ -49,6 +49,9 @@ contraindications:
   - "Concurrent medications without proper washout"
   - "Multiple concurrent substance addictions (polysubstance use increases fatality risk)"
   - "History of mania or psychosis (3 reported cases, all in unregulated settings)"
+open_access: false
+publisher: "Lippincott Williams & Wilkins"
+body_format: narrative
 ---
 
 # Psychedelic Therapy: A Primer for Primary Care Clinicians—Ibogaine

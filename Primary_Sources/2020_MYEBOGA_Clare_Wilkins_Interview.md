@@ -30,6 +30,8 @@ electrolyte_data: false
 herg_data: false
 contraindications: []
 source_pdf: "not-applicable"
+open_access: unknown
+body_format: narrative
 ---
 
 # Clare Wilkins on MYEBOGA Podcast (2020): 800+ Treatments and Community Reflections

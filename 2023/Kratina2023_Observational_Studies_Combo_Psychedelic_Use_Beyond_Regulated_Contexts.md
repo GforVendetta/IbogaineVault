@@ -22,6 +22,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Taylor & Francis"
+body_format: academic-retained
 ---
 
 Tripping Outside the Lines: Lessons from Observational Studies of Combination Psychedelic Use Beyond Regulated Clinical Contexts

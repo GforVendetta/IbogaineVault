@@ -38,6 +38,9 @@ herg_data: false
 dosing_range: "20–40 mg/kg i.p. ibogaine (rat)"
 route: intraperitoneal
 contraindications: []
+open_access: true
+publisher: "Frontiers"
+body_format: academic-retained
 ---
 
 # Ibogaine Administration Modifies GDNF and BDNF Expression in Brain Regions Involved in Mesocorticolimbic and Nigral Dopaminergic Circuits

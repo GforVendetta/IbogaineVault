@@ -28,6 +28,8 @@ herg_data: false
 dosing_range: "N/A (receptor binding Ki 0.57 µM)"
 route: not-specified
 contraindications: []
+open_access: unknown
+body_format: vault-analytical
 ---
 
 # Interaction of ibogaine with human α3β4-nicotinic acetylcholine receptors in different conformational states

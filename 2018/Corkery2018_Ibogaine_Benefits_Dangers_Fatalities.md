@@ -45,6 +45,9 @@ contraindications:
   - "Alcohol withdrawal seizure risk"
 dosing_range: "variable/unknown — retrospective review of 33 fatalities; therapeutic range 500–1000 mg (10–25 mg/kg); post-mortem blood levels 0.24–9.3 mg/L"
 route: oral
+open_access: true
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # Ibogaine as a Treatment for Substance Misuse: Potential Benefits and Practical Dangers

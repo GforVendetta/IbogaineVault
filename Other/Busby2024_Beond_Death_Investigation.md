@@ -25,6 +25,8 @@ herg_data: false
 contraindications: []
 dosing_range: "undisclosed (ibogaine flood dose + booster)"
 route: oral
+open_access: true
+body_format: narrative
 ---
 
 ## He Took a Psychedelic to Cure His Addiction. It Was His Last Trip

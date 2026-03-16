@@ -37,6 +37,9 @@ contraindications:
   - "Online-purchased unverified product"
 dosing_range: "unknown (iboga root bark powder, blood ibogaine 3.26 mg/L)"
 route: oral
+open_access: false
+publisher: "Springer Nature"
+body_format: vault-analytical
 ---
 
 # Death Due to Consumption of Ibogaine: Case Report

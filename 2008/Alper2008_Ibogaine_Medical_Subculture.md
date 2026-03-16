@@ -35,6 +35,9 @@ contraindications:
   - "Cardiac disease (prior MI, cardiomyopathy, valvular disease)"
   - "Acute hepatitis"
   - "Psychotic disorders"
+open_access: false
+publisher: "Elsevier"
+body_format: vault-analytical
 ---
 
 # The Ibogaine Medical Subculture

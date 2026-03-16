@@ -29,6 +29,8 @@ electrolyte_data: false
 herg_data: false
 contraindications: []
 source_pdf: "not-applicable"
+open_access: unknown
+body_format: academic-retained
 ---
 
 # Clare Wilkins at MAPS 2014: Architecture of Emergency Using Psychedelics During the Anthropocene Era

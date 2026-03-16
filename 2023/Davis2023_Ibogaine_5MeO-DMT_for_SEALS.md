@@ -32,6 +32,9 @@ route: oral
 contraindications:
   - "Cardiac abnormalities on ECG screening"
   - "Contraindicated medications without proper taper"
+open_access: false
+publisher: "Taylor & Francis"
+body_format: vault-analytical
 ---
 
 # Open-label study of consecutive ibogaine and 5-MeO-DMT assisted-therapy for trauma-exposed male Special Operations Forces Veterans

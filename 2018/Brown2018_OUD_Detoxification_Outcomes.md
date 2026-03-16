@@ -35,6 +35,9 @@ herg_data: false
 dosing_range: "mean 1540 ± 920 mg ibogaine HCl (N=30)"
 route: oral
 contraindications: []
+open_access: false
+publisher: "Taylor & Francis"
+body_format: vault-analytical
 ---
 
 # Treatment of Opioid Use Disorder with Ibogaine: Detoxification and Drug Use Outcomes

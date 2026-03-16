@@ -29,6 +29,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: true
 contraindications: []
+open_access: false
+publisher: "Taylor & Francis"
+body_format: academic-retained
 ---
 
 # Expert Opinion on Drug Metabolism & Toxicology: Evaluating the toxicity and therapeutic potential of ibogaine in the treatment of chronic opioid abuse

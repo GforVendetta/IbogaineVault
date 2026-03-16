@@ -23,6 +23,8 @@ herg_data: false
 dosing_range: "1–100 µM ibogaine (chromaffin cell culture)"
 route: not-specified
 contraindications: []
+open_access: unknown
+body_format: academic-retained
 ---
 
 <!-- image -->

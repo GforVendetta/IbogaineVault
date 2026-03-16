@@ -35,6 +35,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Springer Nature"
+body_format: vault-analytical
 ---
 # Pharmacological Screen for Activities of 12-Hydroxyibogamine: A Primary Metabolite of the Indole Alkaloid Ibogaine
 

@@ -29,6 +29,9 @@ herg_data: false
 contraindications: []
 clinical_significance: low
 route: not-applicable
+open_access: false
+publisher: "Taylor & Francis"
+body_format: vault-analytical
 ---
 
 # Three Decades of Research on the Development of Ibogaine Treatment of Substance Use Disorders: A Scientometric Analysis

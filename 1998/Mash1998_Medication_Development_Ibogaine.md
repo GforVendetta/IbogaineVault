@@ -35,6 +35,9 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
+open_access: false
+publisher: "Wiley"
+body_format: vault-analytical
 ---
 
 # Medication Development of Ibogaine as a Pharmacotherapy for Drug Dependence
