@@ -17,13 +17,13 @@ document_type: administrative
 
 *Rewritten in-place after every session. This is the single point of orientation.*
 
-**Current phase:** Tier 1 pre-ship remediation — executing 6-prompt plan (2 of 6 done)
-**Batch progress:** Audit ✅ | Prompt 1 (schema) ✅ | Prompt 2 (metadata pop) ✅ | **Prompt 3 (ID lookup) ⬜** | Prompt 4 (sync v2) ⬜ | Prompt 5 (reconversions) ⬜ | Prompt 6 (ship gate) ⬜
-**Metadata population:** open_access 300/300, publisher 198/300, body_format 300/300; 21 copyright risk papers identified
+**Current phase:** Tier 1 pre-ship remediation — executing 6-prompt plan (3 of 6 done)
+**Batch progress:** Audit ✅ | Prompt 1 (schema) ✅ | Prompt 2 (metadata pop) ✅ | Prompt 3 (ID lookup) ✅ | **Prompt 4 (sync v2) ⬜** | Prompt 5 (reconversions) ⬜ | Prompt 6 (ship gate) ⬜
+**Identifiers:** DOI 222/300, PMID 167/300, PMCID 56/300, ISSN 211/300; OA: 110 true / 126 false / 64 unknown; copyright risk: 24 papers
 **Validation baseline:** 300 papers, 0 errors, 100% compliance
-**Blocking:** Prompt 3 (PMCID/ISSN enrichment) will upgrade some open_access:false→true; Prompt 4 (sync v2) must precede final validation
-**Next session:** Execute Prompt 3 (CrossRef/NCBI API lookups for PMCID and ISSN) from `_meta/_tier1_overrides/VAULT_REMEDIATION_PROMPTS.md`
-**Reconversion plan:** 21 copyright risk papers identified by metadata_report.csv — queue for Prompt 5
+**Blocking:** Prompt 4 (sync_tier1.sh v2 with override mechanism) is linchpin — must precede Prompt 5 reconversions
+**Next session:** Execute Prompt 4 (sync script v2) from `_meta/_tier1_overrides/VAULT_REMEDIATION_PROMPTS.md`
+**Reconversion plan:** 24 copyright risk papers (academic-retained + OA false/unknown + >200 lines) — queue for Prompt 5
 **Last updated:** 2026-03-16
 
 ---
@@ -56,6 +56,11 @@ document_type: administrative
 ## Session Log
 
 *Append-only. Newest at top. Maximum 5 lines per entry.*
+
+## 2026-03-16-j — Prompt 3 COMPLETE: identifier lookup — DOIs, PMIDs, PMCIDs, ISSNs populated via CrossRef/NCBI APIs
+Wrote and ran lookup_identifiers.py — 5-phase pipeline (NCBI ID Converter, CrossRef title matching, PubMed ESearch, PubMed EFetch, OA upgrade cascade) across 300 papers with 549 API calls in 7.4 minutes. All matches above 90% confidence; zero pending review.
+Results: +27 DOIs (222/300), +7 PMIDs (167/300), +5 PMCIDs (56/300), +207 ISSNs (211/300), +25 publishers. 5 open_access upgrades (false/unknown→true via PMCID). 2 PubMed false positives caught by validator duplicate-DOI check and corrected (Malcolm2022, Canessa2020). 74 papers genuinely without DOI (book chapters, theses, grey literature). Copyright risk list: 24 papers.
+Next: Execute Prompt 4 (sync_tier1.sh v2 with override mechanism) from VAULT_REMEDIATION_PROMPTS.md.
 
 ## 2026-03-16-i — Prompt 2 COMPLETE: open_access, publisher, body_format populated across 300 papers
 Wrote and ran populate_metadata.py — string-surgery insertion of 3 fields into all 300 papers without YAML re-serialisation. Fixed critical f-string regex bug (`{2,3}` interpreted as tuple inside rf-string, producing `^#(2, 3)` instead of `^#{2,3}`). Expanded DOI publisher map from 27→49 prefixes to cover all vault DOI ranges.
