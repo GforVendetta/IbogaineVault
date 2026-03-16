@@ -17,6 +17,7 @@ key_findings: "FATALITY CASE: 27yo male died ~12h after iboga root ingestion dur
 doi: "10.1111/1556-4029.12250"
 pmid: "23919354"
 journal: "Journal of Forensic Sciences"
+issn: "1556-4029"
 publication_date: 2013-11-01
 document_type: case-report
 clinical_significance: high

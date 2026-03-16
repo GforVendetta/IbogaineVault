@@ -17,6 +17,7 @@ source_pdf: "1995/Pearl1995_Noribogaine_Opioid_Binding.pdf"
 doi: "10.1016/0006-8993(95)00123-8"
 pmid: "7796150"
 journal: "Brain Research"
+issn: "0006-8993"
 publication_date: "1995-03-27"
 document_type: brief-communication
 clinical_significance: moderate

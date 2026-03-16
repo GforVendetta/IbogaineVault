@@ -19,6 +19,7 @@ doi: "10.1186/s13256-015-0731-4"
 pmid: "26518760"
 pmcid: "PMC4628299"
 journal: "Journal of Medical Case Reports"
+issn: "1752-1947"
 document_type: case-report
 clinical_significance: high
 aliases: ["Breuer 2015", "Breuer", "Breuer Seizures 2015"]

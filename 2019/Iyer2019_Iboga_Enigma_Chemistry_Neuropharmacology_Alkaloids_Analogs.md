@@ -16,6 +16,7 @@ doi: "10.1039/d0np00033g"
 pmid: "32794540"
 pmcid: "PMC7882011"
 journal: "Natural Product Reports"
+issn: "1460-4752"
 publication_date: "2021-03-04"
 document_type: review
 secondary_categories: [WHITE]

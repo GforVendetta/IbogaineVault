@@ -17,6 +17,7 @@ source_pdf: "2017/Heink2017_Phenomenology_Ibogaine_ASC.pdf"
 doi: "10.1080/02791072.2017.1290855"
 pmid: "28266890"
 journal: "Journal of Psychoactive Drugs"
+issn: "2159-9777"
 document_type: qualitative
 secondary_categories: [BLUE]
 clinical_significance: moderate

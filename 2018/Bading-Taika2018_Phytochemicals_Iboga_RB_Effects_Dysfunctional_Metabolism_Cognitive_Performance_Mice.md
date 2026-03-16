@@ -16,7 +16,9 @@ tags:
 key_findings: "T.iboga root bark phytochemistry + metabolic/cognitive effects in high-fat diet mice. IPHAMETRA Gabon + Oregon State collaboration. Characterises alkaloid profile and metabolic effects."
 doi: "10.31665/JFB.2018.3154"
 pmid: "30582133"
+pmcid: "PMC6301038"
 journal: "Journal of Food Bioactives"
+issn: "2637-8779"
 document_type: preclinical
 clinical_significance: moderate
 aliases: ["Bading-Taika 2018", "Bading-Taika", "Bading-Taika Phytochemistry 2018"]
@@ -30,7 +32,7 @@ herg_data: false
 dosing_range: "T. iboga root bark extract (mouse, oral gavage)"
 route: oral
 contraindications: []
-open_access: unknown
+open_access: true
 publisher: "Food Science Publisher"
 body_format: academic-retained
 ---

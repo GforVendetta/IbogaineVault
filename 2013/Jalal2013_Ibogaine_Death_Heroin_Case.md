@@ -16,6 +16,7 @@ source_pdf: "2013/Jalal2013_Ibogaine_Death_Heroin_Case.pdf"
 doi: "10.1111/j.1521-0391.2012.00330.x"
 pmid: "23617876"
 journal: "The American Journal on Addictions"
+issn: "1521-0391"
 publication_date: "2013-01-01"
 document_type: case-report
 secondary_categories: []

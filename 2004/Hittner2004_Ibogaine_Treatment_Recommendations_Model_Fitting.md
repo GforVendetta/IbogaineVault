@@ -17,6 +17,7 @@ source_pdf: "2004/Hittner2004_Ibogaine_Treatment_Recommendations_Model_Fitting.p
 doi: "10.1080/02791072.2004.10399729"
 pmid: "15369200"
 journal: "Journal of Psychoactive Drugs"
+issn: "2159-9777"
 publication_date: "2004-06-01"
 document_type: review
 clinical_significance: moderate

@@ -5,6 +5,7 @@ authors:
   - "Pearl, Sandra M."
   - "Glick, Stanley D."
 year: 1996
+doi: "10.1016/0024-3205(95)02322-4"
 category: ORANGE
 tags:
   - topic/pharmacokinetics
@@ -14,6 +15,8 @@ tags:
 key_findings: "Ibogaine accumulates 100-fold in fat vs plasma after 40 mg/kg in rats; sc route yields higher levels than ip (first-pass effect); adipose reservoir may explain prolonged duration of action"
 source_pdf: "1996/Hough1996_.pdf"
 journal: "Life Sciences"
+publisher: "Elsevier BV"
+issn: "0024-3205"
 publication_date: "1996-01-01"
 document_type: brief-communication
 clinical_significance: moderate

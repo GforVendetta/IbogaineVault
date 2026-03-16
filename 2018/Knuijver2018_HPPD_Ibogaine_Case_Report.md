@@ -20,6 +20,7 @@ source_pdf: "2018/Knuijver2018_HPPD_Ibogaine_Case_Report.pdf"
 doi: "10.1097/JCP.0000000000000966"
 pmid: "30300292"
 journal: "Journal of Clinical Psychopharmacology"
+issn: "1533-712X"
 publication_date: "2018-12-01"
 document_type: case-report
 clinical_significance: moderate

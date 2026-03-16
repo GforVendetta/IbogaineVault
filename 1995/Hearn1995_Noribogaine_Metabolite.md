@@ -6,6 +6,7 @@ authors:
   - "Hime, George W."
   - "Mash, Deborah C."
 year: 1995
+doi: "10.1093/jat/19.6.427"
 category: ORANGE
 tags:
   - topic/pharmacokinetics
@@ -14,6 +15,8 @@ tags:
   - method/in-vitro
 key_findings: "First validated GC-MS method for ibogaine and noribogaine (12-OH-ibogamine) in biological fluids/brain. LOD 5ng/mL. Identified noribogaine as major metabolite. Foundation for pharmacokinetic research."
 journal: "Journal of Analytical Toxicology"
+publisher: "Oxford University Press (OUP)"
+issn: "1945-2403"
 publication_date: "1995-10-01"
 document_type: in-vitro
 clinical_significance: moderate

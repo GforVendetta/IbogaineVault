@@ -19,6 +19,7 @@ doi: "10.1177/2470547020939564"
 pmid: "32704581"
 pmcid: "PMC7359647"
 journal: "Chronic Stress"
+issn: "2470-5470"
 document_type: observational
 secondary_categories: [RED, GREEN]
 clinical_significance: high

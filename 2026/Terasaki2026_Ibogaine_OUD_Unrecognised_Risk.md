@@ -18,6 +18,7 @@ source_pdf: "2026/Terasaki2026_Ibogaine_OUD_Unrecognised_Risk.pdf"
 doi: "10.1097/ADM.0000000000001645"
 pmid: "41535993"
 journal: "Journal of Addiction Medicine"
+issn: "1935-3227"
 document_type: commentary
 clinical_significance: high
 aliases:

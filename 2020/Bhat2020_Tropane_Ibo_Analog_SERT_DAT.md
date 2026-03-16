@@ -24,6 +24,7 @@ doi: "10.1021/acsptsci.0c00102"
 pmid: "33860180"
 pmcid: "PMC8033614"
 journal: "ACS Pharmacology & Translational Science"
+issn: "2575-9108"
 publication_date: "2020-08-28"
 document_type: in-vitro
 secondary_categories: [BLUE]

@@ -23,6 +23,7 @@ source_pdf: ".local/pdfs/2001/Glick2001_Mechanisms_Action_Ibogaine_18MC.pdf"
 doi: "10.1016/S0099-9598(01)56006-X"
 pmid: "11705115"
 journal: "The Alkaloids: Chemistry and Biology"
+issn: "1099-4831"
 publication_date: "2001-01-01"
 document_type: book-chapter
 secondary_categories: [BLUE]

@@ -19,6 +19,7 @@ doi: "10.1002/ejoc.202400432"
 pmid: "40895173"
 pmcid: "PMC12393092"
 journal: "European Journal of Organic Chemistry"
+issn: "1099-0690"
 document_type: review
 clinical_significance: moderate
 evidence_level: review

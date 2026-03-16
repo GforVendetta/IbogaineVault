@@ -17,6 +17,7 @@ doi: "10.1038/tp.2016.71"
 pmid: "27244235"
 pmcid: "PMC5545647"
 journal: "Translational Psychiatry"
+issn: "2158-3188"
 document_type: systematic-review
 secondary_categories: [RED]
 clinical_significance: high

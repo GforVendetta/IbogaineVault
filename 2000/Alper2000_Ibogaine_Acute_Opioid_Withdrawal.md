@@ -18,6 +18,7 @@ source_pdf: "2000/Alper2000_Ibogaine_Acute_Opioid_Withdrawal.pdf"
 doi: "10.1111/j.1749-6632.2000.tb06687.x"
 pmid: "10911935"
 journal: "Annals of the New York Academy of Sciences"
+issn: "1749-6632"
 document_type: case-series
 secondary_categories: [RED]
 clinical_significance: moderate

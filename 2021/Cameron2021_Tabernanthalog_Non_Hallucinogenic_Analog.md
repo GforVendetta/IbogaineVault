@@ -44,6 +44,7 @@ doi: "10.1038/s41586-020-3008-z"
 pmid: "33299186"
 pmcid: "PMC7874389"
 journal: "Nature"
+issn: "1476-4687"
 publication_date: "2021-01-21"
 document_type: preclinical
 secondary_categories: [RED, BLUE]

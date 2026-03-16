@@ -30,6 +30,7 @@ doi: "10.1038/s41591-023-02705-w"
 pmid: "38182784"
 pmcid: "PMC10878970"
 journal: "Nature Medicine"
+issn: "1546-170X"
 publication_date: "2024-01-05"
 document_type: clinical-trial
 secondary_categories: [RED, GREEN]

@@ -21,6 +21,7 @@ doi: "10.1155/2018/5969486"
 pmid: "29599898"
 pmcid: "PMC5828116"
 journal: "Oxidative Medicine and Cellular Longevity"
+issn: "1942-0994"
 document_type: in-vitro
 aliases: ["Orescanin-Dusic 2018", "Orescanin-Dusic"]
 source_pdf: "2018/Orescanin-Dusic2018_Ibogaine_Uterine_Smooth_Muscle_Contractions_Relation_to_Antioxidant_Enzymes.pdf"

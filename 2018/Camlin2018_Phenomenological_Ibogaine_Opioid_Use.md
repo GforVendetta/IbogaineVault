@@ -18,6 +18,7 @@ key_findings: "10 opioid-dependent participants reported ibogaine attenuated wit
 source_pdf: "2018/Camlin2018_Phenomenological_Ibogaine_Opioid_Use.pdf"
 doi: "10.1556/2054.2018.004"
 journal: "Journal of Psychedelic Studies"
+issn: "2559-9283"
 publication_date: "2018-06-05"
 document_type: qualitative
 secondary_categories: [BLUE]

@@ -3,6 +3,7 @@ title: "From the Roots Up: Ibogaine and Addict Self-Help"
 authors:
   - "Frenken, Geerte"
 year: 2001
+doi: "10.1016/s0099-9598(01)56019-8"
 category: WHITE
 tags:
   - topic/history
@@ -30,6 +31,7 @@ dosing_range: "20 mg/kg ibogaine HCl oral (capsules, single dose) for addiction 
 route: oral
 open_access: true
 body_format: vault-analytical
+pmid: "11705113"
 ---
 
 # From the Roots Up: Ibogaine and Addict Self-Help

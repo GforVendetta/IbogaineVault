@@ -21,6 +21,7 @@ doi: "10.1371/journal.pone.0333296"
 pmid: "41082525"
 pmcid: "PMC12517489"
 journal: "PLoS ONE"
+issn: "1932-6203"
 document_type: observational
 clinical_significance: high
 aliases: ["Espejito 2025", "Espejito", "The Ibogaine Experience Scale"]

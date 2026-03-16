@@ -20,6 +20,7 @@ doi: "10.1038/s41467-024-51856-y"
 pmid: "39304653"
 pmcid: "PMC11415492"
 journal: "Nature Communications"
+issn: "2041-1723"
 publication_date: "2024-09-20"
 document_type: preclinical
 secondary_categories: [RED, BLUE]

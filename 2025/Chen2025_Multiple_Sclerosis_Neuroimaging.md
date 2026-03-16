@@ -19,6 +19,7 @@ doi: "10.3389/fimmu.2025.1535782"
 pmid: "39981248"
 pmcid: "PMC11839422"
 journal: "Frontiers in Immunology"
+issn: "1664-3224"
 publication_date: "2025-02-06"
 document_type: case-report
 clinical_significance: high

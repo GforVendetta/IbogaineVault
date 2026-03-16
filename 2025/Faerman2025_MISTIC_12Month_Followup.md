@@ -21,6 +21,7 @@ authors:
   - "Rolle, Camarin E."
   - "Williams, Nolan R."
 year: 2025
+doi: "10.21203/rs.3.rs-6909189/v1"
 category: BLUE
 tags:
   - topic/ptsd
@@ -30,6 +31,7 @@ tags:
   - method/observational
 key_findings: "12-month follow-up of MISTIC trial (n=25). Sustained large effect sizes (d>0.8) for disability, PTSD, depression, anxiety. 84% PTSD remission at 12 months. Dedicated to Nolan Williams (posthumous)."
 journal: "Preprint"
+publisher: "Springer Science and Business Media LLC"
 publication_date: "2025-01-01"
 document_type: observational
 secondary_categories: [GREEN]

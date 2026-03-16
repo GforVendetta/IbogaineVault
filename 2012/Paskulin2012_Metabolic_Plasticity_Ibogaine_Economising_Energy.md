@@ -19,6 +19,7 @@ tags:
 key_findings: "Ibogaine triggers dose-dependent biphasic CO₂ elevation in yeast (peak +142% at 20 mg/l), reduces oxidative load 24–57% via pro-antioxidant mechanism, and establishes lower-energy metabolic equilibrium."
 doi: "10.1016/j.jep.2012.06.039"
 journal: "Journal of Ethnopharmacology"
+issn: "0378-8741"
 publication_date: "2012-08-30"
 document_type: in-vitro
 aliases: ["Paskulin 2012", "Paskulin", "Paškulin Metabolic 2012"]

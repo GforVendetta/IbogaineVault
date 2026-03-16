@@ -14,6 +14,7 @@ tags:
 key_findings: "7-year ethnographic study of ibogaine subculture risk management. Documents bottom-up governance without state regulation. Analyzes medicalization, market-based healthcare, knowledge production by drug users and harm reduction activists."
 doi: "10.1057/s41285-025-00220-1"
 journal: "Social Theory & Health"
+issn: "1477-822X"
 publication_date: "2025-06-27"
 document_type: qualitative
 secondary_categories: [GREEN]

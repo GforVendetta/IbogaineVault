@@ -18,6 +18,7 @@ source_pdf: "2026/Brunt2026_Ibogaine_Cardiovascular_Complications.pdf"
 doi: "10.1111/add.70319"
 pmid: "41560340"
 journal: "Addiction"
+issn: "1360-0443"
 publication_date: "2026-01-01"
 document_type: review
 evidence_level: review

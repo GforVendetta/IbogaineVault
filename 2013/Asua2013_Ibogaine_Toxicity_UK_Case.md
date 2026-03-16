@@ -14,6 +14,7 @@ source_pdf: "2013/Asua2013_Ibogaine_Toxicity_UK_Case.pdf"
 doi: "10.1093/bja/aet396"
 pmid: "24233315"
 journal: "British Journal of Anaesthesia"
+issn: "0007-0912"
 publication_date: "2013-12-01"
 document_type: case-report
 secondary_categories: [GREEN]

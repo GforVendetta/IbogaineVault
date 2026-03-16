@@ -5,6 +5,7 @@ authors:
   - "Layer, Richard T."
   - "Skolnick, Phil"
 year: 1995
+doi: "10.1016/s0031-6997(25)06842-5"
 category: ORANGE
 tags:
   - topic/mechanism
@@ -12,6 +13,8 @@ tags:
   - topic/history
 key_findings: "LANDMARK REVIEW: Comprehensive 100-year overview of ibogaine pharmacology from NIH team. Covers NMDA antagonism, sigma receptor binding, dopamine modulation. Essential reference for mechanism understanding."
 journal: "Pharmacological Reviews"
+publisher: "Elsevier BV"
+issn: "0031-6997"
 document_type: review
 clinical_significance: high
 aliases: ["Popik 1995", "Popik", "100 Years of Ibogaine", "Popik1995_100Years_Ibogaine_COMPLETE", "Popik1995_100_Years_Ibogaine"]

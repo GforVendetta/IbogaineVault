@@ -18,6 +18,7 @@ source_pdf: "2008/Maciulaitis2008_Ibogaine_Pharmacology_Narrative_Review.pdf"
 doi: "10.1177/0960327107087802"
 pmid: "18650249"
 journal: "Human & Experimental Toxicology"
+issn: "1477-0903"
 publication_date: "2008-03-01"
 document_type: review
 secondary_categories: [GREEN, BLUE, RED, WHITE]

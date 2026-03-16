@@ -20,6 +20,7 @@ source_pdf: "2001/Lotsof2001_Case_Studies_Patient_Management.pdf"
 doi: "10.1016/s0099-9598(01)56020-4"
 pmid: "11705114"
 journal: "The Alkaloids: Chemistry and Biology"
+issn: "1099-4831"
 document_type: book-chapter
 clinical_significance: high
 aliases:

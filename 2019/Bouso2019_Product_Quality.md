@@ -13,6 +13,7 @@ tags:
 key_findings: "CRITICAL: n=16 products from 5 vendors - purity ranged 0-73.4% ibogaine. One sample contained ZERO ibogaine. Extreme variability makes dose calculation impossible without analysis."
 doi: "10.1590/0101-60830000000231"
 journal: "Archives of Clinical Psychiatry"
+issn: "1806-938X"
 document_type: observational
 secondary_categories: [RED]
 clinical_significance: high

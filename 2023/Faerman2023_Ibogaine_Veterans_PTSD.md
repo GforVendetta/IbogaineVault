@@ -18,6 +18,7 @@ tags:
 key_findings: "n=30 SOF Veterans with TBI. Ibogaine improved PTSD, depression, anxiety, disability, cognition. Effect sizes d=1.4-4.78. No serious adverse events."
 doi: "10.1093/sleep/zsad077.0665"
 journal: "SLEEP"
+issn: "1550-9109"
 publication_date: "2023-04-01"
 document_type: commentary
 clinical_significance: high

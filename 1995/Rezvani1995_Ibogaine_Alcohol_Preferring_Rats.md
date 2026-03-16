@@ -17,6 +17,7 @@ source_pdf: "1995/Rezvani1995_Ibogaine_Alcohol_Preferring_Rats.pdf"
 doi: "10.1016/0091-3057(95)00152-m"
 pmid: "8545483"
 journal: "Pharmacology Biochemistry and Behavior"
+issn: "0091-3057"
 publication_date: "1995-01-01"
 document_type: preclinical
 secondary_categories: [ORANGE]

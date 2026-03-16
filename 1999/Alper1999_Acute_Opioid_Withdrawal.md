@@ -7,6 +7,7 @@ authors:
   - "Luciano, Daniel J."
   - "Bastiaans, Jan"
 year: 1999
+doi: "10.1080/105504999305848"
 category: BLUE
 tags:
   - topic/opioid
@@ -14,6 +15,8 @@ tags:
   - topic/efficacy
 key_findings: "LANDMARK CASE SERIES: n=33 opioid-dependent patients (avg 0.64g heroin/day IV). 76% (25/33) achieved complete withdrawal resolution within 24h sustained 72h. One fatality (possible surreptitious heroin use)."
 journal: "American Journal on Addictions"
+publisher: "Wiley"
+issn: "1521-0391"
 document_type: case-series
 secondary_categories: [RED]
 clinical_significance: high

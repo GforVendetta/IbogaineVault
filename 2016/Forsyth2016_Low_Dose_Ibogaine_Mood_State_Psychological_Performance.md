@@ -20,6 +20,7 @@ tags:
 key_findings: "Single 20 mg ibogaine had no effect on mood or most cognitive functions in 21 healthy males; only Simon Congruent RT showed concentration-response association with active moiety (adjusted p=0.016)."
 doi: "10.1016/j.jep.2016.05.022"
 journal: "Journal of Ethnopharmacology"
+issn: "0378-8741"
 publication_date: "2016-05-11"
 document_type: clinical-trial
 clinical_significance: low

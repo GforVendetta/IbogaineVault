@@ -26,6 +26,7 @@ doi: "10.1038/s41586-023-06204-3"
 pmid: "37316665"
 pmcid: "PMC10284704"
 journal: "Nature"
+issn: "1476-4687"
 publication_date: "2023-06-14"
 document_type: preclinical
 secondary_categories: [BLUE]

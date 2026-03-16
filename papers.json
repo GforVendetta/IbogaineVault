@@ -1,7 +1,7 @@
 {
   "vault": "IbogaineVault",
   "version": "1.0.0",
-  "generated_at": "2026-03-16T13:04:55Z",
+  "generated_at": "2026-03-16T13:50:50Z",
   "paper_count": 300,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
@@ -12,7 +12,7 @@
         "Sigg, E. B."
       ],
       "year": 1957,
-      "doi": null,
+      "doi": "10.1111/j.1749-6632.1957.tb40765.x",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "preclinical",
@@ -42,9 +42,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1749-6632",
       "filepath": "1957/Schneider1957_Neuropharmacological_Studies_Ibogaine.md"
     },
     {
@@ -53,7 +53,7 @@
         "Naranjo, Claudio"
       ],
       "year": 1969,
-      "doi": null,
+      "doi": "10.3109/15563656908990930",
       "primary_category": "PURPLE",
       "secondary_categories": [
         "WHITE",
@@ -86,9 +86,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Informa UK Limited",
       "body_format": "narrative",
-      "issn": null,
+      "issn": "0009-9309",
       "filepath": "1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs.md"
     },
     {
@@ -182,7 +182,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "0014-2999",
       "filepath": "1991/Glick1991_Ibogaine_Morphine_Self_Administration.md"
     },
     {
@@ -227,7 +227,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "0014-2999",
       "filepath": "1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis.md"
     },
     {
@@ -275,7 +275,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0006-8993",
       "filepath": "1992/Deecher1992_Radioligand_Binding_Mechanisms.md"
     },
     {
@@ -287,7 +287,7 @@
         "Zajac, Jean-Marie"
       ],
       "year": 1992,
-      "doi": null,
+      "doi": "10.1111/j.1472-8206.1992.tb00127.x",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "preclinical",
@@ -317,9 +317,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1472-8206",
       "filepath": "1992/Frances1992_Ibogaine_Morphine_Withdrawal_Mice.md"
     },
     {
@@ -332,7 +332,7 @@
         "Carlson, J. Neil"
       ],
       "year": 1992,
-      "doi": null,
+      "doi": "10.1016/0028-3908(92)90089-8",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "preclinical",
@@ -363,9 +363,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Elsevier BV",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "0028-3908",
       "filepath": "1992/Glick1992_Ibogaine_Morphine_Withdrawal_Rats.md"
     },
     {
@@ -409,7 +409,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0024-3205",
       "filepath": "1992/Sershen1992_Ibogaine_Cocaine_Locomotor.md"
     },
     {
@@ -452,7 +452,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "0014-2999",
       "filepath": "1993/Cappendijk1993_Ibogaine_Cocaine_Self_Administration.md"
     },
     {
@@ -495,7 +495,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0306-4522",
       "filepath": "1993/OHearn1993_Purkinje_Cell_Degeneration.md"
     },
     {
@@ -545,7 +545,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0006-8993",
       "filepath": "1994/Glick1994_Iboga_Alkaloids_Self_Administration.md"
     },
     {
@@ -586,9 +586,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Springer Science and Business Media LLC",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1432-2072",
       "filepath": "1994/Popik1994_Ibogaine_NMDA_MK801_Binding.md"
     },
     {
@@ -631,7 +631,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0091-3057",
       "filepath": "1994/Sershen1994_Ibogaine_Cocaine_Preference_Mice.md"
     },
     {
@@ -677,7 +677,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "0740-5472",
       "filepath": "1994/Sheppard1994_Preliminary_Investigation_Ibogaine.md"
     },
     {
@@ -723,7 +723,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0014-2999",
       "filepath": "1995/Bowen1995_Sigma_Receptor_Selectivity.md"
     },
     {
@@ -736,7 +736,7 @@
         "Martin, Thomas J."
       ],
       "year": 1995,
-      "doi": null,
+      "doi": "10.1007/bf02246099",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "preclinical",
@@ -767,9 +767,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Springer Science and Business Media LLC",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1432-2072",
       "filepath": "1995/Dworkin1995_Ibogaine_Food_Cocaine_Heroin_Rats.md"
     },
     {
@@ -781,7 +781,7 @@
         "Mash, Deborah C."
       ],
       "year": 1995,
-      "doi": null,
+      "doi": "10.1093/jat/19.6.427",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
@@ -811,9 +811,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Oxford University Press (OUP)",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1945-2403",
       "filepath": "1995/Hearn1995_Noribogaine_Metabolite.md"
     },
     {
@@ -863,7 +863,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0024-3205",
       "filepath": "1995/Mash1995_Noribogaine_SERT_Identification.md"
     },
     {
@@ -907,7 +907,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0006-8993",
       "filepath": "1995/Pearl1995_Noribogaine_Opioid_Binding.md"
     },
     {
@@ -918,7 +918,7 @@
         "Skolnick, Phil"
       ],
       "year": 1995,
-      "doi": null,
+      "doi": "10.1016/s0031-6997(25)06842-5",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "review",
@@ -950,9 +950,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Elsevier BV",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "0031-6997",
       "filepath": "1995/Popik1995_100Years_Ibogaine_Review.md"
     },
     {
@@ -998,7 +998,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0091-3057",
       "filepath": "1995/Rezvani1995_Ibogaine_Alcohol_Preferring_Rats.md"
     },
     {
@@ -1046,7 +1046,7 @@
       "open_access": false,
       "publisher": "Springer Nature",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "1432-2072",
       "filepath": "1995/Sweetnam1995_Receptor_Binding_Profile.md"
     },
     {
@@ -1058,7 +1058,7 @@
         "Balfour, David J.K."
       ],
       "year": 1996,
-      "doi": null,
+      "doi": "10.1111/j.1476-5381.1996.tb15253.x",
       "primary_category": "ORANGE",
       "secondary_categories": [
         "BLUE"
@@ -1088,12 +1088,12 @@
         "Ibogaine nicotine dopamine microdialysis"
       ],
       "source_url": null,
-      "pmid": null,
-      "pmcid": null,
-      "open_access": "unknown",
-      "publisher": null,
+      "pmid": "8646423",
+      "pmcid": "PMC1909352",
+      "open_access": true,
+      "publisher": "Wiley",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "1476-5381",
       "filepath": "1996/Benwell1996_Ibogaine_Nicotine_Dopamine_Behaviour.md"
     },
     {
@@ -1141,7 +1141,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0028-3908",
       "filepath": "1996/Chen1996_Ibogaine_NMDA_Receptor_Block.md"
     },
     {
@@ -1152,7 +1152,7 @@
         "Szumlinski, Karen K."
       ],
       "year": 1996,
-      "doi": null,
+      "doi": "10.1016/0006-8993(96)00056-x",
       "primary_category": "ORANGE",
       "secondary_categories": [
         "RED"
@@ -1186,9 +1186,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Elsevier BV",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "0006-8993",
       "filepath": "1996/Glick1996_18MC_NonToxic.md"
     },
     {
@@ -1199,7 +1199,7 @@
         "Glick, Stanley D."
       ],
       "year": 1996,
-      "doi": null,
+      "doi": "10.1016/0024-3205(95)02322-4",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "preclinical",
@@ -1229,9 +1229,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Elsevier BV",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0024-3205",
       "filepath": "1996/Hough1996_Tissue_Distribution.md"
     },
     {
@@ -1279,7 +1279,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "0014-2999",
       "filepath": "1996/Layer1996_IbogaineAnalogs_NMDA.md"
     },
     {
@@ -1367,7 +1367,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0006-8993",
       "filepath": "1996/Molinari1996_Ibogaine_Neurotoxicity_Reevaluation.md"
     },
     {
@@ -1412,7 +1412,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1749-6632",
       "filepath": "1996/OCallaghan1996_Astrogliosis_Neurotoxicity.md"
     },
     {
@@ -1425,7 +1425,7 @@
         "Berger, S. P."
       ],
       "year": 1996,
-      "doi": null,
+      "doi": "10.1007/bf01291787",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "preclinical",
@@ -1455,9 +1455,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Springer Science and Business Media LLC",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1435-1463",
       "filepath": "1996/Reid1996_Local_Ibogaine_Dopamine.md"
     },
     {
@@ -1496,7 +1496,7 @@
         "Ibogaine Purkinje Cell Neurodegeneration"
       ],
       "source_url": null,
-      "pmid": null,
+      "pmid": "8959036",
       "pmcid": null,
       "open_access": "unknown",
       "publisher": null,
@@ -1553,7 +1553,7 @@
       "open_access": false,
       "publisher": "Springer Nature",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1432-2072",
       "filepath": "1996/Staley1996_Noribogaine_Receptor_Binding.md"
     },
     {
@@ -1567,7 +1567,7 @@
         "Glick, Stanley D."
       ],
       "year": 1997,
-      "doi": null,
+      "doi": "10.1016/s0014-2999(97)01231-4",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "preclinical",
@@ -1598,9 +1598,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Elsevier BV",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "0014-2999",
       "filepath": "1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine.md"
     },
     {
@@ -1614,7 +1614,7 @@
         "Kuehne, Martin E."
       ],
       "year": 1998,
-      "doi": null,
+      "doi": "10.1007/s002130050716",
       "primary_category": "ORANGE",
       "secondary_categories": [
         "BLUE"
@@ -1647,9 +1647,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Springer Science and Business Media LLC",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1432-2072",
       "filepath": "1998/Glick1998_18MC_Nicotine.md"
     },
     {
@@ -1700,7 +1700,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "1749-6632",
       "filepath": "1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md"
     },
     {
@@ -1743,7 +1743,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1521-0391",
       "filepath": "1998/Luciano1998_Observations_Ibogaine_Treatment.md"
     },
     {
@@ -1752,7 +1752,7 @@
         "Mah, S. J."
       ],
       "year": 1998,
-      "doi": null,
+      "doi": "10.1016/s0006-8993(98)00207-8",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
@@ -1778,7 +1778,7 @@
         "Mah"
       ],
       "source_url": null,
-      "pmid": null,
+      "pmid": "9630615",
       "pmcid": null,
       "open_access": "unknown",
       "publisher": null,
@@ -1835,7 +1835,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1749-6632",
       "filepath": "1998/Mash1998_Medication_Development_Ibogaine.md"
     },
     {
@@ -1921,7 +1921,7 @@
       "open_access": false,
       "publisher": "Lippincott Williams & Wilkins",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0959-4965",
       "filepath": "1998/Pablo1998_Noribogaine_MuOpioid_Agonist.md"
     },
     {
@@ -1976,7 +1976,7 @@
         "Bastiaans, Jan"
       ],
       "year": 1999,
-      "doi": null,
+      "doi": "10.1080/105504999305848",
       "primary_category": "BLUE",
       "secondary_categories": [
         "RED"
@@ -2009,9 +2009,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Wiley",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1521-0391",
       "filepath": "1999/Alper1999_Acute_Opioid_Withdrawal.md"
     },
     {
@@ -2105,7 +2105,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "0014-2999",
       "filepath": "1999/Maisonneuve1999_18MC_Morphine_Reinforcement.md"
     },
     {
@@ -2153,7 +2153,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "1749-6632",
       "filepath": "2000/Alper2000_Ibogaine_Acute_Opioid_Withdrawal.md"
     },
     {
@@ -2168,7 +2168,7 @@
         "Ali, Syed F."
       ],
       "year": 2000,
-      "doi": null,
+      "doi": "10.1111/j.1749-6632.2000.tb05212.x",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "preclinical",
@@ -2198,9 +2198,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Wiley",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1749-6632",
       "filepath": "2000/Binienda2000_Electrophysiology_IBO_Cocaine.md"
     },
     {
@@ -2211,7 +2211,7 @@
         "Szumlinski, Karen K."
       ],
       "year": 2000,
-      "doi": null,
+      "doi": "10.1111/j.1749-6632.2000.tb05211.x",
       "primary_category": "ORANGE",
       "secondary_categories": [
         "RED"
@@ -2246,9 +2246,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Wiley",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1749-6632",
       "filepath": "2000/Glick2000_18-MC.md"
     },
     {
@@ -2295,7 +2295,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1749-6632",
       "filepath": "2000/Glick2000_Legacy_African_Shrub.md"
     },
     {
@@ -2365,7 +2365,7 @@
         "Mayor, Martin"
       ],
       "year": 2000,
-      "doi": null,
+      "doi": "10.1111/j.1749-6632.2000.tb05213.x",
       "primary_category": "ORANGE",
       "secondary_categories": [
         "RED",
@@ -2398,9 +2398,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Wiley",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "1749-6632",
       "filepath": "2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md"
     },
     {
@@ -2446,7 +2446,7 @@
       "open_access": true,
       "publisher": "Springer Nature",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1476-5381",
       "filepath": "2000/Mundey2000_Ibogaine_18MC_Smooth_Muscle.md"
     },
     {
@@ -2495,7 +2495,7 @@
       "open_access": false,
       "publisher": "Oxford University Press",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1096-0929",
       "filepath": "2000/Xu2000_Ibogaine_Neuropathology_Rat_Cerebellum.md"
     },
     {
@@ -2506,7 +2506,7 @@
         "Kaplan, Charles D."
       ],
       "year": 2001,
-      "doi": null,
+      "doi": "10.1016/s0099-9598(01)56018-6",
       "primary_category": "WHITE",
       "secondary_categories": null,
       "evidence_level": "review",
@@ -2533,7 +2533,7 @@
         "Contemporary History of Ibogaine"
       ],
       "source_url": null,
-      "pmid": null,
+      "pmid": "11705112",
       "pmcid": null,
       "open_access": "unknown",
       "publisher": null,
@@ -2609,7 +2609,7 @@
         "Mash, Deborah C."
       ],
       "year": 2001,
-      "doi": null,
+      "doi": "10.1016/s0022-3565(24)29567-7",
       "primary_category": "ORANGE",
       "secondary_categories": [
         "RED"
@@ -2642,9 +2642,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Elsevier BV",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "0022-3565",
       "filepath": "2001/Baumann2001_Neurobiological_Effects_Noribogaine.md"
     },
     {
@@ -2695,7 +2695,7 @@
         "Frenken, Geerte"
       ],
       "year": 2001,
-      "doi": null,
+      "doi": "10.1016/s0099-9598(01)56019-8",
       "primary_category": "WHITE",
       "secondary_categories": null,
       "evidence_level": "qualitative",
@@ -2726,7 +2726,7 @@
         "From the Roots Up"
       ],
       "source_url": null,
-      "pmid": null,
+      "pmid": "11705113",
       "pmcid": null,
       "open_access": true,
       "publisher": null,
@@ -2784,7 +2784,7 @@
       "open_access": true,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1099-4831",
       "filepath": "2001/Glick2001_Mechanisms_Action_Ibogaine_18MC.md"
     },
     {
@@ -2835,7 +2835,7 @@
       "open_access": true,
       "publisher": "Elsevier",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "1099-4831",
       "filepath": "2001/Lotsof2001_Case_Studies_Patient_Management.md"
     },
     {
@@ -2978,7 +2978,7 @@
       "open_access": false,
       "publisher": "EDP Sciences",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0768-598X",
       "filepath": "2002/Marker2002_Ibogaine_Related_Fatality.md"
     },
     {
@@ -2988,7 +2988,7 @@
         "Borschberg, Hans-Jürg"
       ],
       "year": 2003,
-      "doi": null,
+      "doi": "10.1002/hlca.200390125",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
@@ -3016,9 +3016,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1522-2675",
       "filepath": "2003/Hoeck2003_Enantioselective_Synthesis_Iboga_Intermediates.md"
     },
     {
@@ -3108,7 +3108,7 @@
       "open_access": false,
       "publisher": "Taylor & Francis",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "2159-9777",
       "filepath": "2004/Hittner2004_Ibogaine_Treatment_Recommendations_Model_Fitting.md"
     },
     {
@@ -3153,11 +3153,11 @@
       ],
       "source_url": null,
       "pmid": "15659598",
-      "pmcid": null,
-      "open_access": false,
+      "pmcid": "PMC1193648",
+      "open_access": true,
       "publisher": "Society for Neuroscience",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "1529-2401",
       "filepath": "2005/He2005_GDNF_Ibogaine_Alcohol.md"
     },
     {
@@ -3252,7 +3252,7 @@
       "open_access": true,
       "publisher": "AAAS",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1095-9203",
       "filepath": "2005/Vastag2005_Ibogaine_Vast_Uncontrolled_Experiment.md"
     },
     {
@@ -3298,7 +3298,7 @@
       "open_access": false,
       "publisher": "FASEB",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1530-6860",
       "filepath": "2006/He2006_Ibogaine_and_GDNF.md"
     },
     {
@@ -3346,7 +3346,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1570-0232",
       "filepath": "2006/Kontrimaviciute2006_LCMS_Method_Ibogaine_Noribogaine.md"
     },
     {
@@ -3399,7 +3399,7 @@
       "open_access": false,
       "publisher": "Oxford University Press",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1945-2403",
       "filepath": "2006/Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality.md"
     },
     {
@@ -3448,7 +3448,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0306-9877",
       "filepath": "2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md"
     },
     {
@@ -3494,7 +3494,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0014-2999",
       "filepath": "2006/Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism.md"
     },
     {
@@ -3592,7 +3592,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0378-8741",
       "filepath": "2008/Alper2008_Ibogaine_Medical_Subculture.md"
     },
     {
@@ -3645,7 +3645,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0379-0738",
       "filepath": "2008/Cheze2008_Ibogaine_Noribogaine_LC-MSMS_Drowning_Death.md"
     },
     {
@@ -3699,7 +3699,7 @@
       "open_access": false,
       "publisher": "SAGE",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1477-0903",
       "filepath": "2008/Maciulaitis2008_Ibogaine_Pharmacology_Narrative_Review.md"
     },
     {
@@ -3745,7 +3745,7 @@
       "open_access": false,
       "publisher": "NEJM Group",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1533-4406",
       "filepath": "2009/Hoelen2009_Long_QT_Ibogaine.md"
     },
     {
@@ -3787,7 +3787,7 @@
       "open_access": false,
       "publisher": "Springer Nature",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1765-2847",
       "filepath": "2009/Paskulin2009_Translated_French_Iboga_Between_Myth_Reality.md"
     },
     {
@@ -3803,7 +3803,7 @@
         "Wainer, Irving W."
       ],
       "year": 2010,
-      "doi": null,
+      "doi": "10.1016/j.biocel.2010.05.011",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
@@ -3830,12 +3830,12 @@
         "Arias nAChR 2010"
       ],
       "source_url": null,
-      "pmid": null,
-      "pmcid": null,
-      "open_access": "unknown",
-      "publisher": null,
+      "pmid": "20684041",
+      "pmcid": "PMC4609575",
+      "open_access": true,
+      "publisher": "Elsevier BV",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1357-2725",
       "filepath": "2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human.md"
     },
     {
@@ -3882,7 +3882,7 @@
       "open_access": true,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1369-1600",
       "filepath": "2010/Carnicella2010_Noribogaine_18MC_GDNF.md"
     },
     {
@@ -3926,7 +3926,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0014-2999",
       "filepath": "2010/Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP.md"
     },
     {
@@ -3968,7 +3968,7 @@
       "open_access": true,
       "publisher": "PLoS",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1932-6203",
       "filepath": "2010/Ray2010_Psychedelics_Human_Receptorome.md"
     },
     {
@@ -3979,7 +3979,7 @@
         "Sershen, Henry"
       ],
       "year": 2011,
-      "doi": null,
+      "doi": "10.1016/j.jep.2011.12.006",
       "primary_category": "ORANGE",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
@@ -4009,9 +4009,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Elsevier BV",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "0378-8741",
       "filepath": "2011/Alper2011_Ibogaine_Inhibition_AChE.md"
     },
     {
@@ -4066,7 +4066,7 @@
       "open_access": false,
       "publisher": "Taylor & Francis",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1521-057X",
       "filepath": "2011/Donnelly2011_Ibogaine_Drug_Alcohol_Addiction_Legal.md"
     },
     {
@@ -4117,7 +4117,7 @@
       "open_access": false,
       "publisher": "Lippincott Williams & Wilkins",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0271-0749",
       "filepath": "2011/Houenou2011_Ibogaine_Psychosis_Schizophrenia.md"
     },
     {
@@ -4160,7 +4160,7 @@
       "open_access": false,
       "publisher": "Emerald Publishing",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1745-9265",
       "filepath": "2011/Rodger2011_SocialContext_Subcultural_DrugPolicy.md"
     },
     {
@@ -4217,7 +4217,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1556-4029",
       "filepath": "2012/Alper2012_Ibogaine_Fatalities.md"
     },
     {
@@ -4315,7 +4315,7 @@
       "open_access": true,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1369-1600",
       "filepath": "2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md"
     },
     {
@@ -4364,7 +4364,7 @@
         "Dutch Case Reports 2012"
       ],
       "source_url": null,
-      "pmid": null,
+      "pmid": "23123541",
       "pmcid": null,
       "open_access": "unknown",
       "publisher": null,
@@ -4418,7 +4418,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0378-8741",
       "filepath": "2012/Paskulin2012_Metabolic_Plasticity_Ibogaine_Economising_Energy.md"
     },
     {
@@ -4466,7 +4466,7 @@
       "open_access": false,
       "publisher": "Informa Healthcare",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1556-9519",
       "filepath": "2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.md"
     },
     {
@@ -4521,7 +4521,7 @@
       "open_access": false,
       "publisher": "Informa Healthcare",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1556-9519",
       "filepath": "2012/Shawn2012_Ibogaine_TdP_VT.md"
     },
     {
@@ -4611,7 +4611,7 @@
       "open_access": false,
       "publisher": "Informa Healthcare",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1556-9519",
       "filepath": "2012/Warrick2012_Ibogaine_Fatality.md"
     },
     {
@@ -4665,7 +4665,7 @@
       "open_access": true,
       "publisher": "PLoS",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1932-6203",
       "filepath": "2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation.md"
     },
     {
@@ -4713,7 +4713,7 @@
       "open_access": false,
       "publisher": "Oxford University Press",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0007-0912",
       "filepath": "2013/Asua2013_Ibogaine_Toxicity_UK_Case.md"
     },
     {
@@ -4765,7 +4765,7 @@
       "open_access": false,
       "publisher": "Bentham Science",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1874-4737",
       "filepath": "2013/Brown2013_Ibogaine_Treatment_Substance_Dependence.md"
     },
     {
@@ -4818,7 +4818,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0166-4328",
       "filepath": "2013/Cachat2013_Ibogaine_Zebrafish.md"
     },
     {
@@ -4864,7 +4864,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1521-0391",
       "filepath": "2013/Jalal2013_Ibogaine_Death_Heroin_Case.md"
     },
     {
@@ -4920,7 +4920,7 @@
       "open_access": true,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0041-008X",
       "filepath": "2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile.md"
     },
     {
@@ -4974,7 +4974,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1556-4029",
       "filepath": "2013/Mazoyer2013_Fatality_Case.md"
     },
     {
@@ -5027,7 +5027,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1752-928X",
       "filepath": "2013/Papadodima2013_Ibogaine_Sudden_Death_Case.md"
     },
     {
@@ -5183,7 +5183,7 @@
       "open_access": false,
       "publisher": "SAGE",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1461-7285",
       "filepath": "2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md"
     },
     {
@@ -5240,7 +5240,7 @@
       "open_access": false,
       "publisher": "ASPET",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0022-3565",
       "filepath": "2014/Thurner2014_hERG_Channel_Block_Ibogaine.md"
     },
     {
@@ -5286,7 +5286,7 @@
       "open_access": false,
       "publisher": "Informa Healthcare",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1556-9519",
       "filepath": "2014/Vlaanderen2014_Cardiac_Arrest_Ibogaine.md"
     },
     {
@@ -5338,7 +5338,7 @@
       "open_access": true,
       "publisher": "BioMed Central",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1752-1947",
       "filepath": "2015/Breuer2015_Herbal_Seizures_Case_Report.md"
     },
     {
@@ -5388,7 +5388,7 @@
       "open_access": false,
       "publisher": "American Chemical Society",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1554-8937",
       "filepath": "2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md"
     },
     {
@@ -5439,7 +5439,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0091-2700",
       "filepath": "2015/Glue2015_Ibogaine_CYP2D6_Activity.md"
     },
     {
@@ -5487,7 +5487,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0091-2700",
       "filepath": "2015/Glue2015_Noribogaine_Ascending_Doses.md"
     },
     {
@@ -5535,7 +5535,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0736-4679",
       "filepath": "2015/Hildyard2015_QT_Prolongation_TdP_Ibogaine.md"
     },
     {
@@ -5603,7 +5603,7 @@
       "open_access": true,
       "publisher": "MDPI",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "1420-3049",
       "filepath": "2015/Koenig2015_Cardiac_Mechanisms.md"
     },
     {
@@ -5655,7 +5655,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1521-0391",
       "filepath": "2015/Marta2015_Ibogaine_Mania_Case_Reports.md"
     },
     {
@@ -5703,7 +5703,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0378-8741",
       "filepath": "2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes.md"
     },
     {
@@ -5753,7 +5753,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0735-6757",
       "filepath": "2015/OConnell2015_Internet_Ibogaine_Toxicity.md"
     },
     {
@@ -5815,7 +5815,7 @@
       "open_access": false,
       "publisher": "Springer Nature",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1559-0259",
       "filepath": "2016/Alper2016_hERG_Blockade.md"
     },
     {
@@ -5863,7 +5863,7 @@
       "open_access": true,
       "publisher": "Springer Nature",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "2158-3188",
       "filepath": "2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md"
     },
     {
@@ -5916,7 +5916,7 @@
       "open_access": true,
       "publisher": "Taylor & Francis",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2159-9777",
       "filepath": "2016/CloutierGill2016_Ibogaine_OUD_Case_Report.md"
     },
     {
@@ -5967,7 +5967,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0378-8741",
       "filepath": "2016/Forsyth2016_Low_Dose_Ibogaine_Mood_State_Psychological_Performance.md"
     },
     {
@@ -6031,7 +6031,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2160-7648",
       "filepath": "2016/Glue2016_Noribogaine_Opioid_Patients_Safety.md"
     },
     {
@@ -6087,7 +6087,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1552-4604",
       "filepath": "2016/Glue2016b_Methadone_Morphine_Switch.md"
     },
     {
@@ -6144,7 +6144,7 @@
       "open_access": false,
       "publisher": "Informa Healthcare",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1556-9519",
       "filepath": "2016/Litjens2016_How_Toxic_Is_Ibogaine.md"
     },
     {
@@ -6192,7 +6192,7 @@
       "open_access": false,
       "publisher": "SAGE",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "1461-7285",
       "filepath": "2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects.md"
     },
     {
@@ -6240,7 +6240,7 @@
       "open_access": true,
       "publisher": "SAGE",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "2045-1261",
       "filepath": "2016/Meisner2016_Cardiac_Arrest_Death_Case.md"
     },
     {
@@ -6294,7 +6294,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0376-8716",
       "filepath": "2016/Schep2016_Ibogaine_Safe_Dose.md"
     },
     {
@@ -6361,7 +6361,7 @@
       "open_access": true,
       "publisher": "Akadémiai Kiadó",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2559-9283",
       "filepath": "2017/Davis2017_Ibogaine_Opioid_Outcomes.md"
     },
     {
@@ -6411,7 +6411,7 @@
       "open_access": false,
       "publisher": "Akadémiai Kiadó",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2559-9283",
       "filepath": "2017/DosSantos2017_Antiaddictive_Ibogaine_Systematic_Review.md"
     },
     {
@@ -6457,7 +6457,7 @@
       "open_access": false,
       "publisher": "Taylor & Francis",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2159-9777",
       "filepath": "2017/Heink2017_Phenomenology_Ibogaine_ASC.md"
     },
     {
@@ -6510,7 +6510,7 @@
       "open_access": false,
       "publisher": "Taylor & Francis",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1556-9519",
       "filepath": "2017/Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac.md"
     },
     {
@@ -6556,7 +6556,7 @@
       "open_access": false,
       "publisher": "Springer Nature",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2192-4309",
       "filepath": "2017/Lavaud2017_Iboga_Alkaloids_Chemistry_Review.md"
     },
     {
@@ -6611,7 +6611,7 @@
       "open_access": false,
       "publisher": "Taylor & Francis",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1097-9891",
       "filepath": "2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md"
     },
     {
@@ -6657,7 +6657,7 @@
       "open_access": true,
       "publisher": "Springer Nature",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1559-0259",
       "filepath": "2017/Rubi2017_hERG_iPSC_Cardiomyocytes.md"
     },
     {
@@ -6709,7 +6709,7 @@
       "open_access": false,
       "publisher": "Akadémiai Kiadó",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "2559-9283",
       "filepath": "2017/Wilkins2017_Methadone_Low_Dose.md"
     },
     {
@@ -6751,11 +6751,11 @@
       ],
       "source_url": null,
       "pmid": "30582133",
-      "pmcid": null,
-      "open_access": "unknown",
+      "pmcid": "PMC6301038",
+      "open_access": true,
       "publisher": "Food Science Publisher",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "2637-8779",
       "filepath": "2018/Bading-Taika2018_Phytochemicals_Iboga_RB_Effects_Dysfunctional_Metabolism_Cognitive_Performance_Mice.md"
     },
     {
@@ -6805,7 +6805,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0079-6123",
       "filepath": "2018/Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder.md"
     },
     {
@@ -6855,7 +6855,7 @@
       "open_access": false,
       "publisher": "Taylor & Francis",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1097-9891",
       "filepath": "2018/Brown2018_OUD_Detoxification_Outcomes.md"
     },
     {
@@ -6906,7 +6906,7 @@
       "open_access": false,
       "publisher": "Akadémiai Kiadó",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "2559-9283",
       "filepath": "2018/Camlin2018_Phenomenological_Ibogaine_Opioid_Use.md"
     },
     {
@@ -6967,7 +6967,7 @@
       "open_access": true,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0079-6123",
       "filepath": "2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md"
     },
     {
@@ -7016,7 +7016,7 @@
       "open_access": true,
       "publisher": "Taylor & Francis",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2159-9777",
       "filepath": "2018/Davis2018_Mixed_Method_Persisting_Effects.md"
     },
     {
@@ -7066,7 +7066,7 @@
       "open_access": true,
       "publisher": "Frontiers",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1663-9812",
       "filepath": "2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression.md"
     },
     {
@@ -7115,7 +7115,7 @@
       "open_access": false,
       "publisher": "Lippincott Williams & Wilkins",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1533-712X",
       "filepath": "2018/Knuijver2018_HPPD_Ibogaine_Case_Report.md"
     },
     {
@@ -7173,7 +7173,7 @@
       "open_access": true,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2211-1247",
       "filepath": "2018/Ly2018_Psychedelics_Neural_Plasticity.md"
     },
     {
@@ -7236,7 +7236,7 @@
       "open_access": false,
       "publisher": "Taylor & Francis",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2159-9777",
       "filepath": "2018/Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine.md"
     },
     {
@@ -7291,7 +7291,7 @@
       "open_access": true,
       "publisher": "Frontiers",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1663-9812",
       "filepath": "2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md"
     },
     {
@@ -7339,7 +7339,7 @@
       "open_access": true,
       "publisher": "Hindawi",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1942-0994",
       "filepath": "2018/Orescanin-Dusic2018_Ibogaine_Uterine_Smooth_Muscle_Contractions_Relation_to_Antioxidant_Enzymes.md"
     },
     {
@@ -7433,7 +7433,7 @@
       "open_access": true,
       "publisher": "Wiley",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1883-2148",
       "filepath": "2018/Steinberg2018_Cardiac_Arrest_Case.md"
     },
     {
@@ -7486,7 +7486,7 @@
       "open_access": false,
       "publisher": "American Chemical Society",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1948-7193",
       "filepath": "2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience.md"
     },
     {
@@ -7533,7 +7533,7 @@
       "open_access": true,
       "publisher": "SciELO",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1806-938X",
       "filepath": "2019/Bouso2019_Product_Quality.md"
     },
     {
@@ -7585,7 +7585,7 @@
       "open_access": false,
       "publisher": "Taylor & Francis",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "2159-9777",
       "filepath": "2019/Brown2019_Ibogaine_Subjective_Experience_OUD.md"
     },
     {
@@ -7632,7 +7632,7 @@
       "open_access": true,
       "publisher": "Springer Nature",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1476-4687",
       "filepath": "2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms.md"
     },
     {
@@ -7682,7 +7682,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0736-4679",
       "filepath": "2019/Grogan2019_Seizures_QT_Prolongation_Cardiac.md"
     },
     {
@@ -7728,7 +7728,7 @@
       "open_access": true,
       "publisher": "Royal Society of Chemistry",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1460-4752",
       "filepath": "2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md"
     },
     {
@@ -7781,7 +7781,7 @@
       "open_access": true,
       "publisher": "Frontiers",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1663-9812",
       "filepath": "2019/Marton2019_Ibogaine_GDNF_BDNF.md"
     },
     {
@@ -7825,7 +7825,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0955-3959",
       "filepath": "2020/Barber2020_Consumer_Views_Online_Fora.md"
     },
     {
@@ -7878,7 +7878,7 @@
       "open_access": true,
       "publisher": "American Chemical Society",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2575-9108",
       "filepath": "2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT.md"
     },
     {
@@ -7980,7 +7980,7 @@
       "open_access": true,
       "publisher": "SAGE",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "2470-5470",
       "filepath": "2020/Davis2020_SpecialOps_Veterans_Trauma.md"
     },
     {
@@ -8069,7 +8069,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1556-3537",
       "filepath": "2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine.md"
     },
     {
@@ -8121,7 +8121,7 @@
       "open_access": false,
       "publisher": "American Chemical Society",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1948-7193",
       "filepath": "2020/Rodriguez2020_Ibogaine_Noribogaine_Antidepressant_Rats.md"
     },
     {
@@ -8164,7 +8164,7 @@
       "open_access": false,
       "publisher": "Akadémiai Kiadó",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2060-5587",
       "filepath": "2020/Wilson2020_Novel_Tx_OUD_Ibogaine_Iboga_Case_Study.md"
     },
     {
@@ -8214,7 +8214,7 @@
       "open_access": false,
       "publisher": "Springer Nature",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1556-2891",
       "filepath": "2021/Acimovic2021_Ibogaine_Death_Case_Report.md"
     },
     {
@@ -8330,7 +8330,7 @@
       "open_access": true,
       "publisher": "Springer Nature",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1476-4687",
       "filepath": "2021/Cameron2021_Tabernanthalog_Non_Hallucinogenic_Analog.md"
     },
     {
@@ -8458,7 +8458,7 @@
       "open_access": true,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1360-0443",
       "filepath": "2021/Knuijver2021_Safety_Opioid_Detox.md"
     },
     {
@@ -8542,7 +8542,7 @@
       "open_access": true,
       "publisher": "Frontiers",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1662-5099",
       "filepath": "2021/Lukasiewicz2021_Serotonergic_Psychedelics_Neuroplasticity.md"
     },
     {
@@ -8589,7 +8589,7 @@
       "open_access": false,
       "publisher": "Taylor & Francis",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1744-7607",
       "filepath": "2021/Luz2021_Toxicity_Therapeutic_Potential.md"
     },
     {
@@ -8657,7 +8657,7 @@
       "open_access": false,
       "publisher": "Springer Nature",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1432-2072",
       "filepath": "2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md"
     },
     {
@@ -8711,7 +8711,7 @@
       "open_access": "unknown",
       "publisher": "Bentham Open",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1868-596X",
       "filepath": "2021/Shi2021_NAM_Ibogaine_Cardiotoxicity.md"
     },
     {
@@ -8759,7 +8759,7 @@
       "open_access": false,
       "publisher": "Akadémiai Kiadó",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "2559-9283",
       "filepath": "2021/Underwood2021_Narrative_Review_Ibogaine_Literature.md"
     },
     {
@@ -8804,7 +8804,7 @@
       "open_access": true,
       "publisher": "Brazilian Journal Publisher",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1809-452X",
       "filepath": "2022/Fernandes-Nascimento2022_Microdosing_Bipolar.md"
     },
     {
@@ -8846,7 +8846,7 @@
       "open_access": true,
       "publisher": "American Chemical Society",
       "body_format": "narrative",
-      "issn": null,
+      "issn": "1948-5875",
       "filepath": "2022/Kargbo2022_Ibogaine_and_Analogs_Therapeutics_Neurological_Psychiatric_Disorders.md"
     },
     {
@@ -8893,7 +8893,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "0740-5472",
       "filepath": "2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md"
     },
     {
@@ -9016,7 +9016,7 @@
       "open_access": true,
       "publisher": "Frontiers",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1663-9812",
       "filepath": "2022/Martins2022_Drug_Transporters_Ibogaine_PK.md"
     },
     {
@@ -9064,7 +9064,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1465-3362",
       "filepath": "2022/Rodriguez-Cano2022_Underground_Ibogaine_Use_for_SUD_Tx_Qualitative_Analysis_Subjective_Experiences.md"
     },
     {
@@ -9106,7 +9106,7 @@
       "open_access": true,
       "publisher": "American Chemical Society",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1520-4804",
       "filepath": "2022/Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs.md"
     },
     {
@@ -9212,7 +9212,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0014-2999",
       "filepath": "2023/Arias2023_Catharanthine_18-MC.md"
     },
     {
@@ -9313,7 +9313,7 @@
       "open_access": false,
       "publisher": "Cambridge University Press",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "1469-7661",
       "filepath": "2023/Cherian2023_Ibogaine_Cognitive_Functioning.md"
     },
     {
@@ -9365,7 +9365,7 @@
       "open_access": false,
       "publisher": "Taylor & Francis",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1097-9891",
       "filepath": "2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS.md"
     },
     {
@@ -9412,7 +9412,7 @@
       "open_access": true,
       "publisher": "Frontiers",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "2673-561X",
       "filepath": "2023/Dickinson2023_Ibogaine_Reduced_Severe_Neuropathic_Pain_Brachial_Plexus_Nerve_Root_Avulsion.md"
     },
     {
@@ -9451,7 +9451,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1556-3537",
       "filepath": "2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences.md"
     },
     {
@@ -9498,7 +9498,7 @@
       "open_access": false,
       "publisher": "Oxford University Press",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1550-9109",
       "filepath": "2023/Faerman2023_Ibogaine_Veterans_PTSD.md"
     },
     {
@@ -9542,7 +9542,7 @@
       "open_access": false,
       "publisher": "Taylor & Francis",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2159-9777",
       "filepath": "2023/Fernandes-Nascimento2023_Scientometric_Analysis_Three_Decades_of_Ibogaine_Research.md"
     },
     {
@@ -9583,7 +9583,7 @@
       "open_access": false,
       "publisher": "Taylor & Francis",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1097-9891",
       "filepath": "2023/Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts.md"
     },
     {
@@ -9626,7 +9626,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1043-6618",
       "filepath": "2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md"
     },
     {
@@ -9677,11 +9677,11 @@
       ],
       "source_url": null,
       "pmid": "36263479",
-      "pmcid": null,
-      "open_access": false,
+      "pmcid": "PMC10556383",
+      "open_access": true,
       "publisher": "Bentham Science",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1570-159X",
       "filepath": "2023/Mosca2023_Ibogaine_Noribogaine_SUDs_Systematic_Review.md"
     },
     {
@@ -9736,7 +9736,7 @@
       "open_access": true,
       "publisher": "Springer Nature",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1476-4687",
       "filepath": "2023/Nardou2023_Psychedelics_Critical_Period_Reopening.md"
     },
     {
@@ -9790,7 +9790,7 @@
       "open_access": false,
       "publisher": "SAGE",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1461-7285",
       "filepath": "2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md"
     },
     {
@@ -9855,7 +9855,7 @@
       "open_access": false,
       "publisher": "Springer Nature",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1433-8491",
       "filepath": "2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md"
     },
     {
@@ -9911,7 +9911,7 @@
       "open_access": true,
       "publisher": "MDPI",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "2813-1851",
       "filepath": "2023/Rocha2023_USP_Safety_Protocols.md"
     },
     {
@@ -9953,7 +9953,7 @@
       "open_access": true,
       "publisher": "Springer Nature",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "2158-3188",
       "filepath": "2024/Biosca-Brull2024_Transcriptomic_Analysis_Single_Ibogaine_Dose.md"
     },
     {
@@ -10001,7 +10001,7 @@
       "open_access": false,
       "publisher": "Springer Nature",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1432-2072",
       "filepath": "2024/Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects.md"
     },
     {
@@ -10136,7 +10136,7 @@
       "open_access": false,
       "publisher": "Lippincott Williams & Wilkins",
       "body_format": "narrative",
-      "issn": null,
+      "issn": "1075-2765",
       "filepath": "2024/Cherian2024_Ibogaine_Primer_Clinicians.md"
     },
     {
@@ -10201,7 +10201,7 @@
       "open_access": true,
       "publisher": "Springer Nature",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1546-170X",
       "filepath": "2024/Cherian2024_Magnesium_Ibogaine_TBI.md"
     },
     {
@@ -10246,7 +10246,7 @@
       "open_access": true,
       "publisher": "Frontiers",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1662-453X",
       "filepath": "2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination.md"
     },
     {
@@ -10297,7 +10297,7 @@
       "open_access": true,
       "publisher": "Springer Nature",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "2041-1723",
       "filepath": "2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md"
     },
     {
@@ -10343,7 +10343,7 @@
       "open_access": true,
       "publisher": "Mary Ann Liebert",
       "body_format": "narrative",
-      "issn": null,
+      "issn": "2831-4433",
       "filepath": "2024/Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol.md"
     },
     {
@@ -10389,7 +10389,7 @@
       "open_access": true,
       "publisher": "Wiley",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "1099-0690",
       "filepath": "2024/Hughes2024_Chemistry_Iboga_Alkaloids.md"
     },
     {
@@ -10439,7 +10439,7 @@
       "open_access": true,
       "publisher": "Elsevier",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "2667-1743",
       "filepath": "2024/Ivan2024_Nonclassic_Psychedelic_Ibogaine_Disrupts_Cognitive_Maps.md"
     },
     {
@@ -10550,7 +10550,7 @@
       "open_access": true,
       "publisher": "SAGE",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1461-7285",
       "filepath": "2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md"
     },
     {
@@ -10647,7 +10647,7 @@
       "open_access": true,
       "publisher": "Cureus",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "2168-8184",
       "filepath": "2024/Mestre2024_Cardiac_Arrest_Case_Report.md"
     },
     {
@@ -10745,7 +10745,7 @@
       "open_access": false,
       "publisher": "Akadémiai Kiadó",
       "body_format": "narrative",
-      "issn": null,
+      "issn": "2559-9283",
       "filepath": "2024/Ozmat2024_Subjective_Ibogaine_Experiences_Intersection_Social-Ecological_Dimensions.md"
     },
     {
@@ -10795,7 +10795,7 @@
       "open_access": true,
       "publisher": "MDPI",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1422-0067",
       "filepath": "2024/Uzelac2024_Cardiotoxic_Necrosis_Redox.md"
     },
     {
@@ -10890,7 +10890,7 @@
       "open_access": true,
       "publisher": "American Chemical Society",
       "body_format": "narrative",
-      "issn": null,
+      "issn": "1520-4804",
       "filepath": "2025/Ali2025_Ibogaine_Analogs_Review.md"
     },
     {
@@ -10958,7 +10958,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "0165-0327",
       "filepath": "2025/Brown2025_Mystical_Experience_PTSD_Veterans.md"
     },
     {
@@ -11001,7 +11001,7 @@
       "open_access": "unknown",
       "publisher": "Psilocybin Technology",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "2675-4711",
       "filepath": "2025/Carlucci2025_Microdosing_Bipolar_Depression.md"
     },
     {
@@ -11047,7 +11047,7 @@
       "open_access": true,
       "publisher": "Frontiers",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1664-3224",
       "filepath": "2025/Chen2025_Multiple_Sclerosis_Neuroimaging.md"
     },
     {
@@ -11100,7 +11100,7 @@
       "open_access": false,
       "publisher": "Taylor & Francis",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1556-9519",
       "filepath": "2025/Edwards2025_UK_NPIS_Ibogaine_Toxicity_Case_Series.md"
     },
     {
@@ -11143,7 +11143,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "0006-8993",
       "filepath": "2025/Eliasen2025_Ibogaine_DMT_5-HT2A_HEK_Electrophysiology.md"
     },
     {
@@ -11189,7 +11189,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "0306-4522",
       "filepath": "2025/Eliasen2025_Ibogaine_Sex-Dependent_Firing_Rate.md"
     },
     {
@@ -11281,7 +11281,7 @@
       "open_access": false,
       "publisher": "Akadémiai Kiadó",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "2559-9283",
       "filepath": "2025/Erny2025_Parkinsons_Case_Report.md"
     },
     {
@@ -11330,7 +11330,7 @@
       "open_access": true,
       "publisher": "PLoS",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1932-6203",
       "filepath": "2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective.md"
     },
     {
@@ -11357,7 +11357,7 @@
         "Williams, Nolan R."
       ],
       "year": 2025,
-      "doi": null,
+      "doi": "10.21203/rs.3.rs-6909189/v1",
       "primary_category": "BLUE",
       "secondary_categories": [
         "GREEN"
@@ -11391,7 +11391,7 @@
       "pmid": null,
       "pmcid": null,
       "open_access": true,
-      "publisher": null,
+      "publisher": "Springer Science and Business Media LLC",
       "body_format": "academic-retained",
       "issn": null,
       "filepath": "2025/Faerman2025_MISTIC_12Month_Followup.md"
@@ -11563,7 +11563,7 @@
       "open_access": true,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1532-6535",
       "filepath": "2025/Halman2025_Pharmacogenomics_Psychedelic_Therapy.md"
     },
     {
@@ -11630,7 +11630,7 @@
       "open_access": false,
       "publisher": "American Chemical Society",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1520-5126",
       "filepath": "2025/Hwu2025_Matrix_Pharmacology_VMAT2_SERT.md"
     },
     {
@@ -11681,7 +11681,7 @@
       "open_access": true,
       "publisher": "Springer Nature",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1755-4349",
       "filepath": "2025/Iyer2025_Modular_Synthesis_Nature_Chemistry.md"
     },
     {
@@ -11810,7 +11810,7 @@
       "open_access": true,
       "publisher": "Frontiers",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1663-9812",
       "filepath": "2025/Nicolas2025_Reward_System_Transdiagnostic.md"
     },
     {
@@ -11926,7 +11926,7 @@
         "dos Santos, Rafael Guimarães"
       ],
       "year": 2025,
-      "doi": null,
+      "doi": "10.11606/t.17.2025.tde-14072025-135706",
       "primary_category": "BLUE",
       "secondary_categories": [
         "RED"
@@ -11967,7 +11967,7 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Universidade de São Paulo. Agência de Bibliotecas e Coleções Digitais",
       "body_format": "hybrid",
       "issn": null,
       "filepath": "2025/Rocha2025_PhD_Ibogaine_Alcohol_AUD.md"
@@ -12095,7 +12095,7 @@
       "open_access": false,
       "publisher": "Palgrave Macmillan",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "1477-822X",
       "filepath": "2025/Soderberg2025_Medical_Subculture_Risk_Management.md"
     },
     {
@@ -12196,7 +12196,7 @@
       "open_access": false,
       "publisher": "Taylor & Francis",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2159-9777",
       "filepath": "2025/Swieczkowski2025_Clinical_Trials_Landscape.md"
     },
     {
@@ -12302,7 +12302,7 @@
       "open_access": false,
       "publisher": "Springer Nature",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2731-6076",
       "filepath": "2025/Williams2025_Magnesium_Ibogaine_TBI.md"
     },
     {
@@ -12346,7 +12346,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2949-916X",
       "filepath": "2025/Yockey2025_Reconsidering_Ibogaine.md"
     },
     {
@@ -12397,7 +12397,7 @@
       "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1360-0443",
       "filepath": "2026/Brunt2026_Cardiovascular_Complications_Review.md"
     },
     {
@@ -12413,7 +12413,7 @@
         "Shoptaw, Steven"
       ],
       "year": 2026,
-      "doi": null,
+      "doi": "10.1017/neu.2026.10059",
       "primary_category": "ORANGE",
       "secondary_categories": [
         "RED",
@@ -12455,9 +12455,9 @@
       "pmid": null,
       "pmcid": null,
       "open_access": "unknown",
-      "publisher": null,
+      "publisher": "Cambridge University Press (CUP)",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1601-5215",
       "filepath": "2026/Calvey2026_Neurorestorative_Properties_Ibogaine.md"
     },
     {
@@ -12509,7 +12509,7 @@
       "open_access": true,
       "publisher": "MDPI",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1420-3049",
       "filepath": "2026/Esperanca2026_Cardiac_Safety_Translational_Perspectives_Scoping_Review.md"
     },
     {
@@ -12578,7 +12578,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "hybrid",
-      "issn": null,
+      "issn": "2589-0042",
       "filepath": "2026/Geoly2026_Cortical_Thickness_Brain_Age_MISTIC.md"
     },
     {
@@ -12671,7 +12671,7 @@
       "open_access": false,
       "publisher": "Elsevier",
       "body_format": "academic-retained",
-      "issn": null,
+      "issn": "2772-4085",
       "filepath": "2026/Koutrouli2026_Psilocybin_Ibogaine_Cocaine_Addiction.md"
     },
     {
@@ -12722,7 +12722,7 @@
       "open_access": true,
       "publisher": "Springer Nature",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "2731-4251",
       "filepath": "2026/Olash2026_Subjective_Experience_Magnesium_Ibogaine.md"
     },
     {
@@ -12770,7 +12770,7 @@
       "open_access": false,
       "publisher": "Lippincott Williams & Wilkins",
       "body_format": "vault-analytical",
-      "issn": null,
+      "issn": "1935-3227",
       "filepath": "2026/Terasaki2026_Ibogaine_OUD_Unrecognised_Risk.md"
     },
     {

@@ -7,6 +7,7 @@ authors:
   - "Broderick, P. A."
   - "Berger, S. P."
 year: 1996
+doi: "10.1007/bf01291787"
 category: ORANGE
 tags:
   - topic/dopamine
@@ -15,6 +16,8 @@ tags:
   - mechanism/kappa-opioid
 key_findings: "BIPHASIC MECHANISM: Local ibogaine shows dose-dependent dual effects - low doses (10⁻⁶-10⁻⁴M) decrease dopamine via kappa receptors, high doses (10⁻³M) increase dopamine via DAT interaction."
 journal: "Journal of Neural Transmission"
+publisher: "Springer Science and Business Media LLC"
+issn: "1435-1463"
 document_type: preclinical
 clinical_significance: moderate
 aliases: ["Reid 1996", "Reid"]

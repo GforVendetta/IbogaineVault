@@ -15,6 +15,7 @@ doi: "10.1038/s41398-024-02773-7"
 pmid: "38242896"
 pmcid: "PMC10798990"
 journal: "Translational Psychiatry"
+issn: "2158-3188"
 document_type: preclinical
 clinical_significance: high
 aliases: ["Biosca-Brull 2024", "Transcriptomics Ibogaine"]

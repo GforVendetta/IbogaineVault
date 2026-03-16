@@ -21,6 +21,7 @@ source_pdf: "1998/Mash1998_Medication_Development_Ibogaine.pdf"
 doi: "10.1111/j.1749-6632.1998.tb08242.x"
 pmid: "29090804"
 journal: "Annals of the New York Academy of Sciences"
+issn: "1749-6632"
 publication_date: "1998-05-01"
 document_type: review
 secondary_categories: [BLUE, GREEN]

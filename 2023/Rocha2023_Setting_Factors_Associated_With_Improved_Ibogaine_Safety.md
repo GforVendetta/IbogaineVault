@@ -18,6 +18,7 @@ tags:
 key_findings: "Systematic review of 12 clinical studies (163 completed participants): zero serious adverse events in controlled settings; all reported fatalities occurred in uncontrolled settings without medical oversight."
 doi: "10.1007/s00406-023-01590-1"
 journal: "European Archives of Psychiatry and Clinical Neuroscience"
+issn: "1433-8491"
 publication_date: "2023-03-22"
 document_type: systematic-review
 secondary_categories: [RED]

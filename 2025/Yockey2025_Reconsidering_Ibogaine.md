@@ -16,6 +16,7 @@ key_findings: "Editorial calling for ibogaine RCTs with CYP2D6 pharmacogenomics,
 source_pdf: "2025/Yockey2025_Reconsidering_Ibogaine.pdf"
 doi: "10.1016/j.glmedi.2025.100213"
 journal: "Journal of Medicine, Surgery, and Public Health"
+issn: "2949-916X"
 publication_date: "2025-08-25"
 document_type: review
 evidence_level: review

@@ -18,6 +18,7 @@ key_findings: "First-in-human noribogaine Phase I: 3-60mg doses safe, well-toler
 doi: "10.1002/jcph.404"
 pmid: "25279818"
 journal: "Journal of Clinical Pharmacology"
+issn: "0091-2700"
 document_type: clinical-trial
 clinical_significance: high
 aliases:

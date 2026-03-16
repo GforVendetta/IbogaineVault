@@ -23,6 +23,7 @@ key_findings: "PRISMA systematic review of 18 studies (2015–2020): QTc prolong
 doi: "10.1007/s00213-021-05964-y"
 pmid: "34406452"
 journal: "Psychopharmacology"
+issn: "1432-2072"
 document_type: systematic-review
 clinical_significance: high
 aliases:

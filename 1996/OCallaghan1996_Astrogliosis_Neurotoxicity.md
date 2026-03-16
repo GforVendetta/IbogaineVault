@@ -17,6 +17,7 @@ source_pdf: "1996/OCallaghan1996_Astrogliosis_Neurotoxicity.pdf"
 doi: "10.1111/j.1749-6632.1996.tb17443.x"
 pmid: "8959035"
 journal: "Annals of the New York Academy of Sciences"
+issn: "1749-6632"
 publication_date: "1996-10-31"
 document_type: preclinical
 clinical_significance: high

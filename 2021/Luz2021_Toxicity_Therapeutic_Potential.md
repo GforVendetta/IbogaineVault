@@ -17,6 +17,7 @@ key_findings: "DemeRx expert opinion review. CYP2D6 metabolism, noribogaine half
 doi: "10.1080/17425255.2021.1944099"
 pmid: "34139922"
 journal: "Expert Opinion on Drug Metabolism & Toxicology"
+issn: "1744-7607"
 publication_date: "2021-06-14"
 document_type: review
 secondary_categories: [RED]

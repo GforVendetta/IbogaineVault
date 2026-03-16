@@ -7,6 +7,7 @@ authors:
   - "Koves, Timothy R."
   - "Martin, Thomas J."
 year: 1995
+doi: "10.1007/bf02246099"
 category: ORANGE
 tags:
   - topic/opioid
@@ -17,6 +18,8 @@ tags:
 key_findings: "Ibogaine (80 mg/kg IP) suppressed food, cocaine, and heroin self-administration in rats; heroin responding most sensitive. Effects not drug-specific — motor impairment may contribute."
 source_pdf: "1995/Dworkin1995_Ibogaine_Food_Cocaine_Heroin_Rats.pdf"
 journal: "Psychopharmacology"
+publisher: "Springer Science and Business Media LLC"
+issn: "1432-2072"
 document_type: preclinical
 clinical_significance: moderate
 aliases:

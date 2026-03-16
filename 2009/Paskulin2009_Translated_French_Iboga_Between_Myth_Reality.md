@@ -10,6 +10,7 @@ tags:
 key_findings: "COMPREHENSIVE REVIEW: French-language synthesis of iboga's dual identity - traditional Bwiti medicine (convalescence, fatigue, spiritual ritual) and modern anti-addiction research. Bridges cultural and scientific perspectives."
 doi: "10.1007/s10298-009-0366-y"
 journal: "Phytothérapie"
+issn: "1765-2847"
 document_type: review
 secondary_categories: [ORANGE]
 aliases: ["Paskulin 2009", "Paskulin", "Paškulin 2009"]

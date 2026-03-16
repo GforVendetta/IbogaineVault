@@ -4,6 +4,7 @@ authors:
   - "Höck, Stefan"
   - "Borschberg, Hans-Jürg"
 year: 2003
+doi: "10.1002/hlca.200390125"
 category: ORANGE
 tags:
   - topic/analogues
@@ -11,6 +12,8 @@ tags:
 key_findings: "Improved enantioselective synthesis of isoquinuclidine intermediates for iboga alkaloids from L-glutamic acid via intramolecular 1,3-dipolar cycloaddition; both antipodal series accessible."
 source_pdf: "2003/Hoeck2003_Enantioselective_Synthesis_Iboga_Intermediates.pdf"
 journal: "Helvetica Chimica Acta"
+publisher: "Wiley"
+issn: "1522-2675"
 document_type: research-article
 clinical_significance: low
 aliases:

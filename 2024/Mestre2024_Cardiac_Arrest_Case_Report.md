@@ -18,6 +18,7 @@ doi: "10.7759/cureus.63487"
 pmid: "39081435"
 pmcid: "PMC11287021"
 journal: "Cureus"
+issn: "2168-8184"
 publication_date: "2024-06-29"
 document_type: case-report
 clinical_significance: high

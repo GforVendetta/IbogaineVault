@@ -15,6 +15,7 @@ tags:
   - method/preclinical
   - method/in-vitro
 journal: "Neuroscience"
+issn: "0306-4522"
 doi: "10.1016/j.neuroscience.2025.10.001"
 pmid: "41057132"
 publication_date: "2025-10-05"

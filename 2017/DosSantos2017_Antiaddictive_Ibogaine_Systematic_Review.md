@@ -16,6 +16,7 @@ key_findings: "Systematic review of 8 human studies: 7 open-label case series su
 source_pdf: "2017/DosSantos2017_Antiaddictive_Ibogaine_Systematic_Review.pdf"
 doi: "10.1556/2054.01.2016.001"
 journal: "Journal of Psychedelic Studies"
+issn: "2559-9283"
 publication_date: "2017-01-01"
 document_type: systematic-review
 secondary_categories: [RED]

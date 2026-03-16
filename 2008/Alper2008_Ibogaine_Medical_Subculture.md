@@ -17,6 +17,7 @@ source_pdf: "2008/Alper2008_Ibogaine_Medical_Subculture.pdf"
 doi: "10.1016/j.jep.2007.08.034"
 pmid: "18029124"
 journal: "Journal of Ethnopharmacology"
+issn: "0378-8741"
 publication_date: "2008-01-21"
 document_type: observational
 secondary_categories: [RED, BLUE, GREEN]

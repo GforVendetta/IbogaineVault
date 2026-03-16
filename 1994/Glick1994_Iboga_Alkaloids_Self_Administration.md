@@ -21,6 +21,7 @@ source_pdf: "1994/Glick1994_Iboga_Alkaloids_Self_Administration.pdf"
 doi: "10.1016/0006-8993(94)90948-2"
 pmid: "7820611"
 journal: "Brain Research"
+issn: "0006-8993"
 publication_date: "1994-06-07"
 document_type: preclinical
 secondary_categories: [BLUE]

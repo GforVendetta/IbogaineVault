@@ -17,6 +17,7 @@ source_pdf: "2020/Barber2020_Consumer_Views_Online_Fora.pdf"
 doi: "10.1016/j.drugpo.2020.102857"
 pmid: "32693321"
 journal: "International Journal of Drug Policy"
+issn: "0955-3959"
 publication_date: "2020-09-01"
 document_type: qualitative
 evidence_level: qualitative

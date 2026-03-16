@@ -18,6 +18,7 @@ key_findings: "SPECT case: Sequential ibogaine (17.9 mg/kg) + 5-MeO-DMT in veter
 doi: "10.1016/bs.pbr.2018.08.002"
 pmid: "30471678"
 journal: "Progress in Brain Research"
+issn: "0079-6123"
 document_type: case-report
 secondary_categories: [ORANGE, PURPLE]
 clinical_significance: high

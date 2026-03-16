@@ -20,6 +20,7 @@ key_findings: "Ex vivo ibogaine (10-20μM) elevates SOD1 and GR in human erythro
 source_pdf: "2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes.pdf"
 doi: "10.1016/j.jep.2015.01.037"
 journal: "Journal of Ethnopharmacology"
+issn: "0378-8741"
 publication_date: "2015-02-07"
 document_type: in-vitro
 clinical_significance: moderate

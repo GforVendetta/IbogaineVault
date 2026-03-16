@@ -20,6 +20,7 @@ key_findings: "First documented case of pause-dependent VT and TdP after ibogain
 source_pdf: "2012/Shawn2012_.pdf"
 doi: "10.3109/15563650.2012.700015"
 journal: "Clinical Toxicology"
+issn: "1556-9519"
 document_type: case-report
 clinical_significance: high
 aliases:

@@ -18,6 +18,7 @@ source_pdf: "2000/Xu2000_Ibogaine_Neuropathology_Rat_Cerebellum.pdf"
 doi: "10.1093/toxsci/57.1.95"
 pmid: "10966515"
 journal: "Toxicological Sciences"
+issn: "1096-0929"
 publication_date: "2000-09-01"
 document_type: preclinical
 secondary_categories: [GREEN]

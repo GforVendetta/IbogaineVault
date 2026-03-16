@@ -17,6 +17,7 @@ key_findings: "SOFV prospective n=86: Ibogaine 10mg/kg + 5-MeO-DMT 50mg over 3 d
 doi: "10.1080/00952990.2023.2220874"
 pmid: "37734158"
 journal: "American Journal of Drug and Alcohol Abuse"
+issn: "1097-9891"
 document_type: observational
 secondary_categories: [RED, GREEN]
 clinical_significance: high

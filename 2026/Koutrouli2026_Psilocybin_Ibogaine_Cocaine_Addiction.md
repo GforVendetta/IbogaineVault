@@ -20,6 +20,7 @@ tags:
 key_findings: "Rat IVSA: ibogaine (10+40mg/kg) and psilocybin reduced cocaine-seeking and facilitated extinction. Novel two-dose protocol. No reinstatement effects."
 doi: "10.1016/j.nsa.2025.106393"
 journal: "Neuroscience Applied"
+issn: "2772-4085"
 document_type: preclinical
 clinical_significance: moderate
 aliases:

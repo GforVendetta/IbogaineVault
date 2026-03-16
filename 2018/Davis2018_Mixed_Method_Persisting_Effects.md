@@ -20,6 +20,7 @@ doi: "10.1080/02791072.2018.1487607"
 pmid: "30020025"
 pmcid: "PMC6247813"
 journal: "Journal of Psychoactive Drugs"
+issn: "2159-9777"
 publication_date: "2018-07-18"
 document_type: observational
 secondary_categories: [PURPLE]

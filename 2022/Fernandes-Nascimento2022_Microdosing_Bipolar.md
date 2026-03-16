@@ -18,6 +18,7 @@ doi: "10.47626/1516-4446-2021-2359"
 pmid: "35896190"
 pmcid: "PMC9375667"
 journal: "Brazilian Journal of Psychiatry"
+issn: "1809-452X"
 publication_date: "2022-01-01"
 document_type: case-report
 clinical_significance: moderate

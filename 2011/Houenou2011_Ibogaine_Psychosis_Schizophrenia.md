@@ -17,6 +17,7 @@ source_pdf: "2011/Houenou2011_Ibogaine_Psychosis_Schizophrenia.pdf"
 doi: "10.1097/JCP.0b013e31822c6509"
 pmid: "21881451"
 journal: "Journal of Clinical Psychopharmacology"
+issn: "0271-0749"
 publication_date: "2011-10-01"
 document_type: case-report
 clinical_significance: moderate

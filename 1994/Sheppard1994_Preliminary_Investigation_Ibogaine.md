@@ -14,6 +14,7 @@ source_pdf: "1994/Sheppard1994_Preliminary_Investigation_Ibogaine.pdf"
 doi: "10.1016/0740-5472(94)90049-3"
 pmid: "7966509"
 journal: "Journal of Substance Abuse Treatment"
+issn: "0740-5472"
 publication_date: "1994-07-01"
 document_type: case-series
 secondary_categories: [WHITE, PURPLE]

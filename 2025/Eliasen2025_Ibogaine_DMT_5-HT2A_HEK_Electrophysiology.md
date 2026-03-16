@@ -15,6 +15,7 @@ key_findings: "Ibogaine (30-100μM) activates membrane currents in 5-HT2AR-trans
 doi: "10.1016/j.brainres.2024.149425"
 pmid: "39732157"
 journal: "Brain Research"
+issn: "0006-8993"
 publication_date: "2024-12-26"
 document_type: in-vitro
 evidence_level: in-vitro

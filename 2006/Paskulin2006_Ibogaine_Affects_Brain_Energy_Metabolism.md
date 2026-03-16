@@ -16,6 +16,7 @@ tags:
 key_findings: "NOVEL MECHANISM: Ibogaine induces glycolysis/TCA cycle enzymes (GAPDH, aldolase A, pyruvate kinase, malate dehydrogenase) at 24-72h. Anti-addiction effect may be mediated by enhanced energy availability for neuroplasticity."
 doi: "10.1016/j.ejphar.2006.09.008"
 journal: "European Journal of Pharmacology"
+issn: "0014-2999"
 publication_date: "2006-09-16"
 document_type: preclinical
 clinical_significance: moderate

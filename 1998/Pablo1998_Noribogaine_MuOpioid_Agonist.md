@@ -16,6 +16,7 @@ source_pdf: "1998/Pablo1998_Noribogaine_MuOpioid_Agonist.pdf"
 doi: "10.1097/00001756-199801050-00022"
 pmid: "9592058"
 journal: "NeuroReport"
+issn: "0959-4965"
 publication_date: "1998-01-05"
 document_type: in-vitro
 clinical_significance: high

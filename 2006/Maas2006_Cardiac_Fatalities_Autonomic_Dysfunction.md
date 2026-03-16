@@ -16,6 +16,7 @@ source_pdf: "2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.doc"
 doi: "10.1016/j.mehy.2006.02.050"
 pmid: "16698188"
 journal: "Medical Hypotheses"
+issn: "0306-9877"
 document_type: commentary
 clinical_significance: high
 aliases: ["Maas 2006", "Maas & Strubelt 2006", "Autonomic Dysfunction Hypothesis"]

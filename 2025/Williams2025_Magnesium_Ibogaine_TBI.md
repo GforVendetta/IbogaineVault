@@ -23,6 +23,7 @@ tags:
 key_findings: "EEG shows theta-alpha power increase (d=0.45–0.61), beta-gamma decrease (d=0.50–0.73), reduced neural complexity and PAF (d=1.05) post-MISTIC; PAF and LZc reductions persist at 1 month; theta/beta ratio correlates with cognitive inhibition gains."
 doi: "10.1038/s44220-025-00463-x"
 journal: "Nature Mental Health"
+issn: "2731-6076"
 document_type: observational
 secondary_categories: [RED]
 aliases:

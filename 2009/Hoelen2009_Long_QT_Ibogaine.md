@@ -16,6 +16,7 @@ source_pdf: "2009/Hoelen2009_Long_QT_Ibogaine.pdf"
 doi: "10.1056/NEJMc0804248"
 pmid: "19144953"
 journal: "New England Journal of Medicine"
+issn: "1533-4406"
 publication_date: "2009-01-15"
 document_type: case-report
 clinical_significance: landmark

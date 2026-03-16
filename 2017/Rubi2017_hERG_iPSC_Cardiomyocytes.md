@@ -19,6 +19,7 @@ doi: "10.1007/s12012-016-9366-y"
 pmid: "27020671"
 pmcid: "PMC5334404"
 journal: "Cardiovascular Toxicology"
+issn: "1559-0259"
 publication_date: "2017-04-01"
 document_type: in-vitro
 clinical_significance: high

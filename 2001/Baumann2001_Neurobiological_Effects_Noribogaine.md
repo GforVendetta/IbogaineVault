@@ -6,6 +6,7 @@ authors:
   - "Pablo, John P."
   - "Mash, Deborah C."
 year: 2001
+doi: "10.1016/s0022-3565(24)29567-7"
 category: ORANGE
 tags:
   - topic/noribogaine
@@ -15,6 +16,8 @@ tags:
   - method/preclinical
 key_findings: "Noribogaine is ~10× more potent than ibogaine as indirect 5-HT agonist via SERT inhibition. Ibogaine causes tremors/ataxia; noribogaine does not. Neither drug alters accumbens DA. Noribogaine may be safer alternative."
 journal: "Journal of Pharmacology and Experimental Therapeutics"
+publisher: "Elsevier BV"
+issn: "0022-3565"
 publication_date: "2001-05-01"
 document_type: preclinical
 secondary_categories: [RED]

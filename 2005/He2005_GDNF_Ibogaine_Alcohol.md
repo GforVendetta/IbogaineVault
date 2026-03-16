@@ -21,7 +21,9 @@ key_findings: "Ibogaine reduces ethanol self-admin via VTA GDNF upregulation. In
 source_pdf: "2005/He2005_GDNF_Ibogaine_Alcohol.pdf"
 doi: "10.1523/JNEUROSCI.3959-04.2005"
 pmid: "15659598"
+pmcid: "PMC1193648"
 journal: "The Journal of Neuroscience"
+issn: "1529-2401"
 publication_date: "2005-01-19"
 document_type: preclinical
 clinical_significance: high
@@ -33,7 +35,7 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
-open_access: false
+open_access: true
 publisher: "Society for Neuroscience"
 body_format: hybrid
 ---

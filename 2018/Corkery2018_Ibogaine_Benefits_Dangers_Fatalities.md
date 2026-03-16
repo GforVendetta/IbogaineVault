@@ -19,6 +19,7 @@ source_pdf: "2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.pdf"
 doi: "10.1016/bs.pbr.2018.08.005"
 pmid: "30471681"
 journal: "Progress in Brain Research"
+issn: "0079-6123"
 publication_date: "2018-01-01"
 document_type: book-chapter
 secondary_categories: [ORANGE, GREEN]

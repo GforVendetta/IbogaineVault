@@ -5,6 +5,7 @@ authors:
   - "Beal, Dana"
   - "Kaplan, Charles D."
 year: 2001
+doi: "10.1016/s0099-9598(01)56018-6"
 category: WHITE
 tags:
   - topic/history
@@ -29,6 +30,7 @@ aliases:
   - "Contemporary History of Ibogaine"
 open_access: unknown
 body_format: academic-retained
+pmid: "11705112"
 ---
 
 # A Contemporary History of Ibogaine in the United States and Europe

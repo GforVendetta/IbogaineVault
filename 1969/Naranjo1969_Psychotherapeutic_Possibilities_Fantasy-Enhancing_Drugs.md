@@ -3,6 +3,7 @@ title: "Psychotherapeutic Possibilities of New Fantasy-Enhancing Drugs"
 authors:
   - "Naranjo, Claudio"
 year: 1969
+doi: "10.3109/15563656908990930"
 category: PURPLE
 tags:
   - topic/phenomenology
@@ -11,6 +12,8 @@ tags:
   - method/case-series
 key_findings: "FOUNDATIONAL: First systematic phenomenological description of ibogaine/harmaline as 'oneirophrenics' - dream-like fantasy enhancement without psychosis. Coined term for ibogaine's unique mental state distinct from psychotomimetics."
 journal: "Clinical Toxicology"
+publisher: "Informa UK Limited"
+issn: "0009-9309"
 publication_date: "1969-06"
 document_type: case-series
 secondary_categories: [WHITE, ORANGE]

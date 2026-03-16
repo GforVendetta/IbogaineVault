@@ -17,6 +17,7 @@ source_pdf: "2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.pdf"
 doi: "10.3109/15563650.2011.647031"
 pmid: "22304378"
 journal: "Clinical Toxicology"
+issn: "1556-9519"
 publication_date: "2012-02-03"
 document_type: case-report
 clinical_significance: high

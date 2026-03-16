@@ -16,6 +16,7 @@ tags:
 key_findings: "Grounded-theory study (n=20) identified 8 categories and 10 subcategories of acute ibogaine effects; observer quality and self-psychoanalysis enhancement distinguish ibogaine from classical serotonergic psychedelics."
 doi: "10.1111/anoc.12119"
 journal: "Anthropology of Consciousness"
+issn: "1556-3537"
 publication_date: "2020-03-18"
 document_type: qualitative
 clinical_significance: moderate

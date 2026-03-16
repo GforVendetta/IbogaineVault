@@ -18,6 +18,7 @@ doi: "10.3389/fnins.2024.1378841"
 pmid: "39114487"
 pmcid: "PMC11303312"
 journal: "Frontiers in Neuroscience"
+issn: "1662-453X"
 document_type: preclinical
 clinical_significance: moderate
 aliases: ["Govender 2024", "Govender"]

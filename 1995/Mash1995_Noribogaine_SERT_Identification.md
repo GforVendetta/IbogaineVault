@@ -19,6 +19,7 @@ source_pdf: "1995/Mash1995_Noribogaine_SERT_Identification.pdf"
 doi: "10.1016/0024-3205(95)00273-9"
 pmid: "7596224"
 journal: "Life Sciences"
+issn: "0024-3205"
 publication_date: "1995-06-09"
 document_type: brief-communication
 secondary_categories: [BLUE]

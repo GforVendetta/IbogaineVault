@@ -6,6 +6,7 @@ authors:
   - "Cros, J."
   - "Zajac, Jean-Marie"
 year: 1992
+doi: "10.1111/j.1472-8206.1992.tb00127.x"
 category: ORANGE
 tags:
   - topic/opioid
@@ -15,6 +16,8 @@ tags:
 key_findings: "Ibogaine (30 mg/kg IP) failed to attenuate morphine withdrawal in mice and significantly potentiated naloxone-precipitated jumping (~9-fold), suggesting amplification of opioid-mediated responses rather than anti-withdrawal activity."
 source_pdf: "1992/Frances1992_Ibogaine_Morphine_Withdrawal_Mice.pdf"
 journal: "Fundamental & Clinical Pharmacology"
+publisher: "Wiley"
+issn: "1472-8206"
 document_type: preclinical
 clinical_significance: moderate
 aliases:

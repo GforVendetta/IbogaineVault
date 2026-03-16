@@ -13,6 +13,7 @@ tags:
 key_findings: "Two Canadian OUD cases: Case 1 achieved total opioid abstinence (3yr+) after single treatment. Case 2 used multiple iboga sessions to taper off OAT, maintained 2yr+ abstinence. Demonstrates treatment versatility."
 doi: "10.1556/2054.2020.00133"
 journal: "Journal of Psychoactive Drugs"
+issn: "2060-5587"
 document_type: case-report
 clinical_significance: moderate
 aliases: ["Wilson 2020", "Wilson", "Novel treatment of opioid"]

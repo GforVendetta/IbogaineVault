@@ -15,6 +15,7 @@ tags:
 key_findings: "Ibogaine 100 mg/kg i.p. causes parasagittal Purkinje cell degeneration in rat cerebellum (silver stain, calbindin loss, GFAP astrocytosis) but no neurotoxicity in mice at same dose. H&E staining insufficient—risks false negatives."
 source_pdf: "1996/Scallet1996_Ibogaine_Neurodegeneration_Rat_Mouse_Cerebellum.pdf"
 doi:
+pmid: "8959036"
 journal: "Annals of the New York Academy of Sciences"
 publication_date: "1996-01-01"
 document_type: preclinical

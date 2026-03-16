@@ -18,6 +18,7 @@ doi: "10.1089/psymed.2023.0009"
 pmid: "37360328"
 pmcid: "PMC10286262"
 journal: "Psychedelic Medicine"
+issn: "2831-4433"
 document_type: preclinical
 clinical_significance: moderate
 aliases: ["Heinsbroek 2024", "Heinsbroek", "TBG Polydrug Model"]

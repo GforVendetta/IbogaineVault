@@ -18,6 +18,7 @@ tags:
 key_findings: "First qualitative study of ibogaine experiences across social-ecological dimensions (individual, interpersonal, systems). Consensual Qualitative Research method reveals multi-level impacts on recovery."
 doi: "10.1556/2054.2024.00322"
 journal: "Journal of Psychedelic Studies"
+issn: "2559-9283"
 document_type: qualitative
 secondary_categories: [BLUE]
 clinical_significance: moderate

@@ -3,6 +3,7 @@ title: "Ibogaine acts at the nicotinic acetylcholine receptor cation channel to 
 authors:
   - "Mah, S. J."
 year: 1998
+doi: "10.1016/s0006-8993(98)00207-8"
 category: ORANGE
 tags:
   - mechanism/nicotinic-receptor
@@ -25,6 +26,7 @@ route: not-specified
 contraindications: []
 open_access: unknown
 body_format: academic-retained
+pmid: "9630615"
 ---
 
 <!-- image -->

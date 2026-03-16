@@ -9,6 +9,7 @@ authors:
   - "Slikker, William Jr."
   - "Ali, Syed F."
 year: 2000
+doi: "10.1111/j.1749-6632.2000.tb05212.x"
 category: ORANGE
 tags:
   - topic/stimulant
@@ -17,6 +18,8 @@ tags:
   - topic/serotonin
 key_findings: "ELECTROPHYSIOLOGY: IBO pretreatment (50mg/kg, 1h prior) dramatically altered cocaine ECoG response - increased delta/theta/alpha1 power vs cocaine alone. DA levels decreased further with IBO/COC combination. Suggests decreased cocaine response."
 journal: "Annals of the New York Academy of Sciences"
+publisher: "Wiley"
+issn: "1749-6632"
 document_type: preclinical
 aliases: ["Binienda 2000", "Binienda"]
 source_pdf: "2000/Binienda2000_Electrophysiology_IBO_Cocaine.pdf"

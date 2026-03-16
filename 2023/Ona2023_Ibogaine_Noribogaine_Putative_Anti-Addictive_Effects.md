@@ -25,6 +25,7 @@ key_findings: "Updates Popik 1995 review. IBO/NOR modulate ≥8 targets (MOR, KO
 source_pdf: "2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.pdf"
 doi: "10.1177/02698811231200882"
 journal: "Journal of Psychopharmacology"
+issn: "1461-7285"
 publication_date: "2023-11-08"
 document_type: review
 clinical_significance: high

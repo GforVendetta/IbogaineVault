@@ -15,6 +15,7 @@ doi: "10.1021/acsmedchemlett.2c00214"
 pmid: "35707155"
 pmcid: "PMC9190277"
 journal: "ACS Medicinal Chemistry Letters"
+issn: "1948-5875"
 publication_date: "2022-05-26"
 document_type: review
 aliases: ["Kargbo 2022", "Kargbo"]

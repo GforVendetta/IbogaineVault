@@ -21,6 +21,7 @@ source_pdf: ".local/pdfs/1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogain
 doi: "10.1111/j.1749-6632.1998.tb08237.x"
 pmid: "29090809"
 journal: "Annals of the New York Academy of Sciences"
+issn: "1749-6632"
 publication_date: "1998-06-30"
 document_type: review
 secondary_categories: [BLUE]

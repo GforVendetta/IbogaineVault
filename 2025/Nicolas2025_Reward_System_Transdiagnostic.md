@@ -17,6 +17,7 @@ doi: "10.3389/fphar.2025.1744383"
 pmid: "41424776"
 pmcid: "PMC12712375"
 journal: "Frontiers in Pharmacology"
+issn: "1663-9812"
 publication_date: "2025-12-04"
 document_type: review
 clinical_significance: moderate

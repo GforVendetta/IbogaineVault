@@ -15,6 +15,7 @@ doi: "10.1002/joa3.12061"
 pmid: "30167018"
 pmcid: "PMC6111465"
 journal: "Journal of Arrhythmia"
+issn: "1883-2148"
 document_type: case-report
 clinical_significance: high
 aliases: ["Steinberg 2018", "Steinberg"]

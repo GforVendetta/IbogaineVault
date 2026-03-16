@@ -24,6 +24,7 @@ doi: "10.1038/s41557-024-01714-7"
 pmid: "39915657"
 pmcid: "PMC11952118"
 journal: "Nature Chemistry"
+issn: "1755-4349"
 publication_date: "2025-02-06"
 document_type: in-vitro
 clinical_significance: high

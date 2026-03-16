@@ -25,6 +25,7 @@ source_pdf: "2014/Thurner2014_hERG_Channel_Block_Ibogaine.pdf"
 doi: "10.1124/jpet.113.209643"
 pmid: "24307198"
 journal: "Journal of Pharmacology and Experimental Therapeutics"
+issn: "0022-3565"
 publication_date: "2014-02-01"
 document_type: in-vitro
 clinical_significance: landmark

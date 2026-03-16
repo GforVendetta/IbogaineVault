@@ -18,6 +18,7 @@ key_findings: "LANDMARK hERG DATA: Whole-cell patch clamp IC₅₀ values - ibog
 doi: "10.1007/s12012-015-9311-5"
 pmid: "25636206"
 journal: "Cardiovascular Toxicology"
+issn: "1559-0259"
 document_type: in-vitro
 clinical_significance: high
 aliases: ["Alper 2016", "Alper", "Alper hERG 2016", "Alper2016_hERG_Blockade_Iboga_Alkaloids", "Alper2016_hERG_Ibogaine"]

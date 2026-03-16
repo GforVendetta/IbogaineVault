@@ -7,6 +7,7 @@ authors:
   - "Maisonneuve, Isabelle M."
   - "Carlson, J. Neil"
 year: 1992
+doi: "10.1016/0028-3908(92)90089-8"
 category: ORANGE
 tags:
   - topic/opioid
@@ -16,6 +17,8 @@ tags:
 key_findings: "Ibogaine (40-80 mg/kg IP) significantly reduced 4 of 7 morphine withdrawal signs in rats; effects persisted 4 hr post-dose when tremors had fully dissipated, confirming independence from motor confounds."
 source_pdf: "1992/Glick1992_Ibogaine_Morphine_Withdrawal_Rats.pdf"
 journal: "Neuropharmacology"
+publisher: "Elsevier BV"
+issn: "0028-3908"
 document_type: preclinical
 clinical_significance: high
 aliases:

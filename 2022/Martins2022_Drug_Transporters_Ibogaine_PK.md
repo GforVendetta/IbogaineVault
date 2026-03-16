@@ -25,6 +25,7 @@ doi: "10.3389/fphar.2022.855000"
 pmid: "35308219"
 pmcid: "PMC8931498"
 journal: "Frontiers in Pharmacology"
+issn: "1663-9812"
 publication_date: "2022-03-04"
 document_type: preclinical
 clinical_significance: moderate

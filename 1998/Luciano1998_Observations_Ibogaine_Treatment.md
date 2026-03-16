@@ -14,6 +14,7 @@ source_pdf: "1998/Luciano1998_Observations_Ibogaine_Treatment.pdf"
 doi: "10.1111/j.1521-0391.1998.tb00472.x"
 pmid: "9522011"
 journal: "The American Journal on Addictions"
+issn: "1521-0391"
 document_type: brief-communication
 secondary_categories: [BLUE]
 clinical_significance: moderate

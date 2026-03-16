@@ -18,6 +18,7 @@ doi: "10.3390/molecules31030545"
 pmid: "41683522"
 pmcid: "PMC12899015"
 journal: "Molecules"
+issn: "1420-3049"
 publication_date: "2026-02-04"
 document_type: systematic-review
 clinical_significance: high

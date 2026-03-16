@@ -15,6 +15,8 @@ key_findings: "Ibogaine competitively inhibits [³H]MK-801 binding at NMDA recep
 source_pdf: "1994/Popik1994_Ibogaine_NMDA_MK801_Binding.pdf"
 doi:
 journal: "Psychopharmacology"
+publisher: "Springer Science and Business Media LLC"
+issn: "1432-2072"
 publication_date: "1994-02-10"
 document_type: brief-communication
 secondary_categories: []

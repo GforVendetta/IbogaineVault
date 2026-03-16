@@ -21,6 +21,7 @@ doi: "10.3390/ijms25126527"
 pmid: "38928231"
 pmcid: "PMC11203496"
 journal: "International Journal of Molecular Sciences"
+issn: "1422-0067"
 publication_date: "2024-06-13"
 document_type: preclinical
 secondary_categories: [ORANGE]

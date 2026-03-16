@@ -19,6 +19,7 @@ doi: "10.1021/acs.jmedchem.5c02510"
 pmid: "40994282"
 pmcid: "PMC12888935"
 journal: "Journal of Medicinal Chemistry"
+issn: "1520-4804"
 publication_date: "2025-09-25"
 document_type: review
 evidence_level: review

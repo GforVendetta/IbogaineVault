@@ -18,6 +18,7 @@ source_pdf: "2016/Schep2016_Ibogaine_Safe_Dose.pdf"
 doi: "10.1016/j.drugalcdep.2016.07.005"
 pmid: "27426011"
 journal: "Drug and Alcohol Dependence"
+issn: "0376-8716"
 publication_date: "2016-09-01"
 document_type: review
 secondary_categories: [ORANGE, GREEN]

@@ -20,6 +20,7 @@ tags:
 key_findings: "First prospective study of ibogaine (~20mg/kg) on neuropsychological performance in SOV with TBI; significant improvements in processing speed, cognitive inhibition, and verbal memory at 1-month follow-up"
 source_pdf: "2023/Cherian2023_Ibogaine_Cognitive_Functioning.pdf"
 journal: "Journal of the International Neuropsychological Society"
+issn: "1469-7661"
 volume: 29
 doi: "10.1017/S1355617723011049"
 publication_date: "2023-12"

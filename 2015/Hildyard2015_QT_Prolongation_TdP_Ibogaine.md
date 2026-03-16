@@ -17,6 +17,7 @@ source_pdf: "2015/Hildyard2015_QT_Prolongation_TdP_Ibogaine.pdf"
 doi: "10.1016/j.jemermed.2015.06.051"
 pmid: "26329675"
 journal: "The Journal of Emergency Medicine"
+issn: "0736-4679"
 publication_date: "2015-06-23"
 document_type: case-report
 clinical_significance: high

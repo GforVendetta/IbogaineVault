@@ -18,6 +18,7 @@ key_findings: "Ibogaine most potent NMDA antagonist in series (Kᵢ = 1.1 μM); 
 doi: "10.1016/0014-2999(96)00304-4"
 pmid: "8874134"
 journal: "European Journal of Pharmacology"
+issn: "0014-2999"
 publication_date: "1996-08-08"
 document_type: preclinical
 secondary_categories: [BLUE]

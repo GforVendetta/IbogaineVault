@@ -18,6 +18,7 @@ key_findings: "Drug & Alcohol Review qualitative study: underground ibogaine use
 doi: "10.1111/dar.13587"
 pmid: "36456173"
 journal: "Drug and Alcohol Review"
+issn: "1465-3362"
 document_type: qualitative
 secondary_categories: [BLUE]
 aliases: ["Rodriguez-Cano 2022", "Rodríguez-Cano 2022"]

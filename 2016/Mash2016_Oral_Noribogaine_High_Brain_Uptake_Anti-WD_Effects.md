@@ -18,6 +18,7 @@ key_findings: "Oral noribogaine reduced morphine withdrawal 88% (ED50=13mg/kg), 
 doi: "10.1177/0269881116641331"
 pmid: "27044509"
 journal: "Journal of Psychopharmacology"
+issn: "1461-7285"
 document_type: preclinical
 secondary_categories: [BLUE]
 clinical_significance: high

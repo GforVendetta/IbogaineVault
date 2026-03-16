@@ -20,6 +20,7 @@ source_pdf: "2017/Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac.pdf"
 doi: "10.1080/15563650.2017.1287372"
 pmid: "28489458"
 journal: "Clinical Toxicology"
+issn: "1556-9519"
 publication_date: "2017-02-09"
 document_type: case-report
 secondary_categories: [ORANGE]

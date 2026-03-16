@@ -19,6 +19,7 @@ source_pdf: "2006/Kontrimaviciute2006_.pdf"
 doi: "10.1016/j.jchromb.2006.05.035"
 pmid: "16798116"
 journal: "Journal of Chromatography B"
+issn: "1570-0232"
 publication_date: "2006-06-23"
 document_type: in-vitro
 secondary_categories: [RED]

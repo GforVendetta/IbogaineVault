@@ -14,6 +14,7 @@ tags:
 key_findings: "Microdosing (3mg/72h, 12 weeks) in treatment-resistant bipolar II: 60% HAM-D improvement, no hypomania, stable cardiovascular. Single case, Brazilian regulatory context."
 doi: "10.46919/archv6n4espec-16449"
 journal: "Archives of Health"
+issn: "2675-4711"
 publication_date: "2025-01-01"
 document_type: case-report
 evidence_level: case-report

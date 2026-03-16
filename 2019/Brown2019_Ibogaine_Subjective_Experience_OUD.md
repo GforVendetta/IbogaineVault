@@ -19,6 +19,7 @@ source_pdf: "2019/Brown2019_Ibogaine_Subjective_Experience_OUD.pdf"
 doi: "10.1080/02791072.2019.1598603"
 pmid: "30967101"
 journal: "Journal of Psychoactive Drugs"
+issn: "2159-9777"
 document_type: observational
 clinical_significance: high
 aliases:

@@ -30,6 +30,7 @@ key_findings: "n=30 veterans with TBI; higher MEQ30 predicted larger PTSD reduct
 doi: "10.1016/j.jad.2025.120722"
 pmid: "41265656"
 journal: "Journal of Affective Disorders"
+issn: "0165-0327"
 publication_date: "2025-11-15"
 document_type: observational
 secondary_categories: [BLUE]

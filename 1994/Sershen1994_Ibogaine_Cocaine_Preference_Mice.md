@@ -16,6 +16,7 @@ source_pdf: "1994/Sershen1994_Ibogaine_Cocaine_Preference_Mice.pdf"
 doi: "10.1016/0091-3057(94)90105-8"
 pmid: "8115413"
 journal: "Pharmacology Biochemistry and Behavior"
+issn: "0091-3057"
 publication_date: "1994-01-01"
 document_type: preclinical
 clinical_significance: moderate

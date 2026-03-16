@@ -15,6 +15,7 @@ tags:
 key_findings: "USP/LEAPS clinical protocols: 72h cardiac monitoring, electrolyte targets K+ 4.5-5.5/Mg 1.5-2.5, medication tapering schedules, 3-person minimum team, trauma-informed approach framework."
 doi: "10.3390/psychoactives2040024"
 journal: "Psychoactives"
+issn: "2813-1851"
 document_type: guideline
 secondary_categories: [RED]
 clinical_significance: high

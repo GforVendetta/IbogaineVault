@@ -15,6 +15,7 @@ key_findings: "SAFETY ALERT: 3 cases de novo mania post-ibogaine in patients wit
 doi: "10.1111/ajad.12209"
 pmid: "25877487"
 journal: "American Journal on Addictions"
+issn: "1521-0391"
 document_type: case-series
 clinical_significance: high
 aliases:

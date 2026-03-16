@@ -20,6 +20,7 @@ source_pdf: "2021/Shi2021_NAM_Ibogaine_Cardiotoxicity.pdf"
 doi: "10.14573/altex.2103311"
 pmid: "34271588"
 journal: "ALTEX - Alternatives to Animal Experimentation"
+issn: "1868-596X"
 publication_date: "2021-07-16"
 document_type: in-vitro
 clinical_significance: high

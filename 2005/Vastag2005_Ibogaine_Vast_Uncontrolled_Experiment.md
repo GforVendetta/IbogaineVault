@@ -17,6 +17,7 @@ source_pdf: "2005/Vastag2005_Ibogaine_Vast_Uncontrolled_Experiment.pdf"
 doi: "10.1126/science.308.5720.345"
 pmid: "15831735"
 journal: "Science"
+issn: "1095-9203"
 publication_date: "2005-04-15"
 document_type: journalism
 secondary_categories: [ORANGE, BLUE]

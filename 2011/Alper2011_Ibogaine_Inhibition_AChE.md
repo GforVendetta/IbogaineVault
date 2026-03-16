@@ -5,6 +5,7 @@ authors:
   - "Reith, Maarten E. A."
   - "Sershen, Henry"
 year: 2011
+doi: "10.1016/j.jep.2011.12.006"
 category: ORANGE
 tags:
   - mechanism/nicotinic-receptor
@@ -12,6 +13,8 @@ tags:
   - topic/cyp2d6
 key_findings: "NOVEL MECHANISM: Ibogaine inhibits acetylcholinesterase, contributing to muscarinic cholinergic effects. Adds to multi-receptor profile and may explain some pharmacological/toxicological properties."
 journal: "Journal of Ethnopharmacology"
+publisher: "Elsevier BV"
+issn: "0378-8741"
 document_type: in-vitro
 aliases: ["Alper 2011", "Alper", "Alper AChE 2011"]
 source_pdf: "2011/Alper2011_Ibogaine_Inhibition_AChE.pdf"

@@ -26,6 +26,7 @@ source_pdf: "2016/Glue2016b_Methadone_Morphine_Switch.pdf"
 doi: "10.1002/jcph.704"
 pmid: "26763764"
 journal: "The Journal of Clinical Pharmacology"
+issn: "1552-4604"
 publication_date: "2016-01-01"
 document_type: clinical-trial
 secondary_categories: [ORANGE]

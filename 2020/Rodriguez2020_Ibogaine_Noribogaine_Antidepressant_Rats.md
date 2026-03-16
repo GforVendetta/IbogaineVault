@@ -25,6 +25,7 @@ source_pdf: "2020/Rodriguez2020_Ibogaine_Noribogaine_Antidepressant_Rats.pdf"
 doi: "10.1021/acschemneuro.0c00152"
 pmid: "32330007"
 journal: "ACS Chemical Neuroscience"
+issn: "1948-7193"
 document_type: preclinical
 clinical_significance: high
 aliases:

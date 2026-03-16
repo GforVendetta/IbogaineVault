@@ -15,6 +15,7 @@ key_findings: "Fatal ibogaine case in 25-year-old with pre-existing cardiac dysr
 source_pdf: "2012/Warrick2012_.pdf"
 doi: "10.3109/15563650.2012.700015"
 journal: "Clinical Toxicology"
+issn: "1556-9519"
 document_type: case-report
 clinical_significance: high
 aliases:

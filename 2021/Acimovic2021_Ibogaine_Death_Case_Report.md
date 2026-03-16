@@ -19,6 +19,7 @@ source_pdf: "2021/Acimovic2021_Ibogaine_Death_Case_Report.pdf"
 doi: "10.1007/s12024-020-00342-0"
 pmid: "33433774"
 journal: "Forensic Science, Medicine, and Pathology"
+issn: "1556-2891"
 publication_date: "2021-01-12"
 document_type: case-report
 clinical_significance: moderate

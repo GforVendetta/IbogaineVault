@@ -16,6 +16,7 @@ key_findings: "Scientometric analysis of 1,523 ibogaine publications (1993–202
 doi: "10.1080/02791072.2023.2276230"
 pmid: "37927218"
 journal: "Journal of Psychoactive Drugs"
+issn: "2159-9777"
 publication_date: "2023-10-06"
 document_type: review
 aliases:

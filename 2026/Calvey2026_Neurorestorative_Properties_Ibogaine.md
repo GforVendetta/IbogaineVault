@@ -10,6 +10,7 @@ authors:
   - "Stein, Dan J"
   - "Shoptaw, Steven"
 year: 2026
+doi: "10.1017/neu.2026.10059"
 category: ORANGE
 tags:
   - topic/mechanism
@@ -20,6 +21,8 @@ tags:
 key_findings: "Proposes ibogaine's multi-receptor affinities (kappa opioid, NMDA, sigma-2) facilitate remyelination and metabolic restoration, providing mechanistic rationale for treating OUD, MS, and TBI via white matter repair"
 source_pdf: "2026/Calvey2026_Neurorestorative_Properties_Ibogaine.pdf"
 journal: "Acta Neuropsychiatrica"
+publisher: "Cambridge University Press (CUP)"
+issn: "1601-5215"
 document_type: review
 secondary_categories: [RED, BLUE]
 clinical_significance: high

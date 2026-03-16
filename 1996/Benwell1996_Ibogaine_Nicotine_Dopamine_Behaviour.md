@@ -6,6 +6,9 @@ authors:
   - "Moran, Robert J."
   - "Balfour, David J.K."
 year: 1996
+doi: "10.1111/j.1476-5381.1996.tb15253.x"
+pmid: "8646423"
+pmcid: "PMC1909352"
 category: ORANGE
 tags:
   - topic/dopamine
@@ -17,6 +20,8 @@ secondary_categories: [BLUE]
 key_findings: "Ibogaine (40 mg/kg IP) attenuated nicotine-induced NAc dopamine overflow 22h post-treatment but not locomotion; produced long-lasting anxiogenesis and mPFC neurochemical changes persisting ≥7 days"
 source_pdf: "1996/Benwell1996_Ibogaine_Nicotine_Dopamine_Behaviour.pdf"
 journal: "British Journal of Pharmacology"
+publisher: "Wiley"
+issn: "1476-5381"
 document_type: preclinical
 clinical_significance: moderate
 aliases:
@@ -29,7 +34,7 @@ herg_data: false
 contraindications: []
 dosing_range: "40 mg/kg IP (ibogaine in 25% ethanol/sterile water, 1.0 ml/kg)"
 route: intraperitoneal
-open_access: unknown
+open_access: true
 body_format: hybrid
 ---
 # Neurochemical and Behavioural Interactions Between Ibogaine and Nicotine in the Rat

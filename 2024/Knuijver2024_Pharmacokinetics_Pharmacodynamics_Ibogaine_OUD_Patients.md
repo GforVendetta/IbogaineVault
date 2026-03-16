@@ -24,6 +24,7 @@ doi: "10.1177/02698811241237873"
 pmid: "38519421"
 pmcid: "PMC11102648"
 journal: "Journal of Psychopharmacology"
+issn: "1461-7285"
 document_type: clinical-trial
 secondary_categories: [BLUE, RED]
 clinical_significance: high

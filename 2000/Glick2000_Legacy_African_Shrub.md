@@ -17,6 +17,7 @@ source_pdf: "2000/Glick2000_Legacy_African_Shrub.pdf"
 doi: "10.1111/j.1749-6632.2000.tb06677.x"
 pmid: "10911925"
 journal: "Annals of the New York Academy of Sciences"
+issn: "1749-6632"
 publication_date: "2000-01-01"
 document_type: review
 secondary_categories: [RED]

@@ -15,6 +15,7 @@ key_findings: "Ibogaine treatment attracts addicts through subcultural identity 
 source_pdf: "2011/Rodger2011_SocialContext_Subcultural_DrugPolicy.pdf"
 doi: "10.1108/17459261111174037"
 journal: "Drugs and Alcohol Today"
+issn: "1745-9265"
 document_type: commentary
 clinical_significance: moderate
 aliases:

@@ -17,6 +17,7 @@ source_pdf: "2015/OConnell2015_Internet_Ibogaine_Toxicity.pdf"
 doi: "10.1016/j.ajem.2014.12.023"
 pmid: "25687617"
 journal: "American Journal of Emergency Medicine"
+issn: "0735-6757"
 publication_date: "2015-07-01"
 document_type: case-report
 secondary_categories: [ORANGE]

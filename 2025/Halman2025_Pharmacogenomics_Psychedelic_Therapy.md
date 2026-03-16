@@ -22,6 +22,7 @@ doi: "10.1002/cpt.3459"
 pmid: "39345195"
 pmcid: "PMC11652822"
 journal: "Clinical Pharmacology & Therapeutics"
+issn: "1532-6535"
 document_type: review
 clinical_significance: high
 aliases:

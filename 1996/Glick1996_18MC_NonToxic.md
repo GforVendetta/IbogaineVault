@@ -5,6 +5,7 @@ authors:
   - "Maisonneuve, Isabelle M."
   - "Szumlinski, Karen K."
 year: 1996
+doi: "10.1016/0006-8993(96)00056-x"
 category: ORANGE
 tags:
   - topic/18-mc
@@ -14,6 +15,8 @@ tags:
   - topic/harm-reduction
 key_findings: "BREAKTHROUGH: First demonstration that 18-MC provides equivalent anti-addictive efficacy to ibogaine (decreases morphine/cocaine self-admin) without tremors or cerebellar toxicity. Safer ibogaine analogue."
 journal: "Brain Research"
+publisher: "Elsevier BV"
+issn: "0006-8993"
 document_type: preclinical
 secondary_categories: [RED]
 clinical_significance: high

@@ -19,6 +19,7 @@ doi: "10.1111/j.1369-1600.2012.00447.x"
 pmid: "22458604"
 pmcid: "PMC4888945"
 journal: "Addiction Biology"
+issn: "1369-1600"
 document_type: brief-communication
 clinical_significance: landmark
 aliases:

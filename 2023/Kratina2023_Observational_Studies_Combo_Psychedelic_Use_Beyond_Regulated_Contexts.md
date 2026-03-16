@@ -13,6 +13,7 @@ key_findings: "Analysis of combination psychedelic use (including ibogaine+5-MeO
 doi: "10.1080/00952990.2023.2246637"
 pmid: "37734058"
 journal: "American Journal of Drug and Alcohol Abuse"
+issn: "1097-9891"
 document_type: commentary
 aliases: ["Kratina 2023", "Kratina"]
 source_pdf: "2023/Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts.pdf"

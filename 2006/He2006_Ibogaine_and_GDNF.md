@@ -14,6 +14,7 @@ tags:
 key_findings: "FOUNDATIONAL: First demonstration that ibogaine upregulates GDNF via autoregulatory feedback loop. 10µM ibogaine induces sustained GDNF mRNA increase (48h+). GDNF positively regulates own expression - mechanism for long-term anti-addiction effects."
 doi: "10.1096/fj.06-6394fje"
 journal: "FASEB Journal"
+issn: "1530-6860"
 document_type: in-vitro
 secondary_categories: [BLUE]
 clinical_significance: high

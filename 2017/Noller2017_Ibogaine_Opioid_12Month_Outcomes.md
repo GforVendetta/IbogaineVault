@@ -17,6 +17,7 @@ source_pdf: "2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.pdf"
 doi: "10.1080/00952990.2017.1310218"
 pmid: "28402682"
 journal: "The American Journal of Drug and Alcohol Abuse"
+issn: "1097-9891"
 publication_date: "2017-04-12"
 document_type: observational
 secondary_categories: [RED, GREEN]

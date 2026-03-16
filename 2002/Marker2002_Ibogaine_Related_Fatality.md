@@ -14,6 +14,7 @@ key_findings: "Ibogaine fatality in 36yo male polydrug user; tissue concentratio
 source_pdf: "2002/Marker2002_Ibogaine_Related_Fatality.pdf"
 doi: "10.1051/ata/2002012"
 journal: "Annales de Toxicologie Analytique"
+issn: "0768-598X"
 document_type: brief-communication
 clinical_significance: high
 aliases:

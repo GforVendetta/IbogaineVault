@@ -37,6 +37,7 @@ dosing_range: "3.5g ibogaine 15% (case 2)"
 route: oral
 open_access: unknown
 body_format: academic-retained
+pmid: "23123541"
 ---
 
 # Life-threatening complications of ibogaine: three case reports

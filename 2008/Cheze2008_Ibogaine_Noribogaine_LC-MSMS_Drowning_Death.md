@@ -18,6 +18,7 @@ source_pdf: "2008/Cheze2008_.pdf"
 doi: "10.1016/j.forsciint.2007.08.013"
 pmid: "18024037"
 journal: "Forensic Science International"
+issn: "0379-0738"
 publication_date: "2008-03-18"
 document_type: case-report
 secondary_categories: [ORANGE]

@@ -24,6 +24,7 @@ doi: "10.3389/fphar.2019.00193"
 pmid: "30890941"
 pmcid: "PMC6411846"
 journal: "Frontiers in Pharmacology"
+issn: "1663-9812"
 publication_date: "2019-03-05"
 document_type: preclinical
 clinical_significance: high

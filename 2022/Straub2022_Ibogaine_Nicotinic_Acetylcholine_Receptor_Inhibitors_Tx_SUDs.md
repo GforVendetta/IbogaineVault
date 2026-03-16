@@ -15,6 +15,7 @@ doi: "10.1021/acs.jmedchem.2c01562"
 pmid: "36440853"
 pmcid: "PMC10034762"
 journal: "Journal of Medicinal Chemistry"
+issn: "1520-4804"
 publication_date: "2022-09-23"
 document_type: review
 aliases: ["Straub 2022", "Straub"]

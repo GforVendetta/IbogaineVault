@@ -19,6 +19,7 @@ source_pdf: "1996/Chen1996_Ibogaine_NMDA_Receptor_Block.pdf"
 doi: "10.1016/0028-3908(96)84107-4"
 pmid: "8793904"
 journal: "Neuropharmacology"
+issn: "0028-3908"
 publication_date: "1996-01-01"
 document_type: in-vitro
 secondary_categories: [RED]

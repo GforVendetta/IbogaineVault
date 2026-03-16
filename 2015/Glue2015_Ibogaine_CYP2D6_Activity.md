@@ -19,6 +19,7 @@ key_findings: "CYP2D6 CRITICAL: Paroxetine pretreatment (CYP2D6 inhibition) doub
 doi: "10.1002/jcph.471"
 pmid: "25651476"
 journal: "The Journal of Clinical Pharmacology"
+issn: "0091-2700"
 document_type: clinical-trial
 secondary_categories: [GREEN]
 clinical_significance: high

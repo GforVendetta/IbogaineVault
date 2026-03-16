@@ -24,7 +24,9 @@ tags:
 key_findings: "Systematic review of 31 studies. Meta-analysis shows efficacy for SUD but significant cardiotoxicity. Most deaths in uncontrolled settings. Headache only significant adverse effect vs placebo."
 doi: "10.2174/1570159X21666221017085612"
 pmid: "36263479"
+pmcid: "PMC10556383"
 journal: "Current Neuropharmacology"
+issn: "1570-159X"
 publication_date: "2023-01-01"
 document_type: systematic-review
 secondary_categories: [RED]
@@ -37,7 +39,7 @@ qtc_data: true
 electrolyte_data: false
 herg_data: false
 contraindications: []
-open_access: false
+open_access: true
 publisher: "Bentham Science"
 body_format: academic-retained
 ---

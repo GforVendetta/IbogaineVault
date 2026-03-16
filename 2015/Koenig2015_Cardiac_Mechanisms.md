@@ -20,6 +20,7 @@ doi: "10.3390/molecules20022208"
 pmid: "25642835"
 pmcid: "PMC4382526"
 journal: "Molecules"
+issn: "1420-3049"
 publication_date: "2015-01-28"
 document_type: review
 clinical_significance: high

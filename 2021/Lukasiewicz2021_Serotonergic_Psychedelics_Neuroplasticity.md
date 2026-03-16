@@ -19,6 +19,7 @@ doi: "10.3389/fnmol.2021.748359"
 pmid: "34712118"
 pmcid: "PMC8545892"
 journal: "Frontiers in Molecular Neuroscience"
+issn: "1662-5099"
 publication_date: "2021-10-12"
 document_type: review
 clinical_significance: moderate

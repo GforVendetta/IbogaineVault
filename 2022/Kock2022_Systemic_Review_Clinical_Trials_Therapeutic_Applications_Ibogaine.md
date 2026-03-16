@@ -16,6 +16,7 @@ key_findings: "Basel systematic review (n=705 across 24 studies): efficacy for S
 doi: "10.1016/j.jsat.2021.108717"
 pmid: "35012793"
 journal: "Journal of Substance Abuse Treatment"
+issn: "0740-5472"
 document_type: systematic-review
 secondary_categories: [RED, ORANGE]
 clinical_significance: high

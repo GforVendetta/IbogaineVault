@@ -18,6 +18,7 @@ source_pdf: "2013/Papadodima2013_Ibogaine_Sudden_Death_Case.pdf"
 doi: "10.1016/j.jflm.2013.06.032"
 pmid: "24112325"
 journal: "Journal of Forensic and Legal Medicine"
+issn: "1752-928X"
 publication_date: "2013-08-05"
 document_type: case-report
 secondary_categories: [GREEN]

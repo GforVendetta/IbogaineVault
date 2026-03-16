@@ -17,6 +17,7 @@ source_pdf: "1992/Sershen1992_Ibogaine_Cocaine_Locomotor.pdf"
 doi: "10.1016/0024-3205(92)90344-O"
 pmid: "1556903"
 journal: "Life Sciences"
+issn: "0024-3205"
 publication_date: "1992-01-30"
 document_type: preclinical
 clinical_significance: moderate

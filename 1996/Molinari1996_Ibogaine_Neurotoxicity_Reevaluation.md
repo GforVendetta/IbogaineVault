@@ -15,6 +15,7 @@ source_pdf: "1996/Molinari1996_Ibogaine_Neurotoxicity_Reevaluation.pdf"
 doi: "10.1016/0006-8993(96)00739-1"
 pmid: "8930373"
 journal: "Brain Research"
+issn: "0006-8993"
 publication_date: "1996-11-04"
 document_type: preclinical
 clinical_significance: moderate

@@ -26,6 +26,7 @@ pmcid: "PMC12860795"
 document_type: qualitative
 publication_date: "2026-01-01"
 journal: "npj Mental Health Research"
+issn: "2731-4251"
 clinical_significance: high
 evidence_level: qualitative
 sample_size: 30

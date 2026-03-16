@@ -19,6 +19,7 @@ source_pdf: "2014/Vlaanderen2014_Cardiac_Arrest_Ibogaine.pdf"
 doi: "10.3109/15563650.2014.927477"
 pmid: "24940646"
 journal: "Clinical Toxicology"
+issn: "1556-9519"
 publication_date: "2014-06-18"
 document_type: case-report
 secondary_categories: []

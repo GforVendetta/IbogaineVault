@@ -12,6 +12,7 @@ key_findings: "Comprehensive historical review by Deborah Mash covering 100+ yea
 doi: "10.1016/j.phrs.2022.106620"
 pmid: "36907284"
 journal: "Pharmacological Research"
+issn: "1043-6618"
 document_type: review
 secondary_categories: [GREEN, ORANGE]
 clinical_significance: high

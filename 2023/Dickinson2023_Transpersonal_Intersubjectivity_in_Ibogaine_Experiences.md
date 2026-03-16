@@ -10,6 +10,7 @@ tags:
 key_findings: "Qualitative phenomenological study (n=3 case reports) examining transpersonal intersubjectivity in ibogaine experiences - sense of communication with ibogaine itself or entities."
 doi: "10.1111/anoc.12172"
 journal: "Anthropology of Consciousness"
+issn: "1556-3537"
 document_type: case-report
 clinical_significance: moderate
 aliases: ["Dickinson 2023", "Dickinson Transpersonal"]

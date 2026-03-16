@@ -16,6 +16,7 @@ source_pdf: "1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis.pdf"
 doi: "10.1016/0014-2999(91)90634-3"
 pmid: "1893925"
 journal: "European Journal of Pharmacology"
+issn: "0014-2999"
 publication_date: "1991-06-18"
 document_type: preclinical
 secondary_categories: [BLUE]

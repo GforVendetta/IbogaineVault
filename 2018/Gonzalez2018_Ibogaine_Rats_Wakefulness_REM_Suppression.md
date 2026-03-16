@@ -22,6 +22,7 @@ doi: "10.3389/fphar.2018.00374"
 pmid: "29755349"
 pmcid: "PMC5934978"
 journal: "Frontiers in Pharmacology"
+issn: "1663-9812"
 document_type: preclinical
 clinical_significance: moderate
 aliases: ["Gonzalez 2018", "Gonzalez", "Gonzalez Sleep 2018"]

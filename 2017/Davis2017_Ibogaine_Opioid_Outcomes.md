@@ -19,6 +19,7 @@ doi: "10.1556/2054.01.2017.009"
 pmid: "30272050"
 pmcid: "PMC6157925"
 journal: "Journal of Psychedelic Studies"
+issn: "2559-9283"
 publication_date: "2017-09-14"
 document_type: observational
 clinical_significance: moderate

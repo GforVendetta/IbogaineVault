@@ -19,6 +19,7 @@ source_pdf: "1995/Bowen1995_Sigma_Receptor_Selectivity.pdf"
 doi: "10.1016/0014-2999(95)00247-I"
 pmid: "7556375"
 journal: "European Journal of Pharmacology"
+issn: "0014-2999"
 publication_date: "1995-04-28"
 document_type: brief-communication
 clinical_significance: moderate

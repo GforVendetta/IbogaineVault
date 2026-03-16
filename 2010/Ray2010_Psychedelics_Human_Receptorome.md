@@ -14,6 +14,7 @@ doi: "10.1371/journal.pone.0009019"
 pmid: "20126400"
 pmcid: "PMC2814854"
 journal: "PLoS ONE"
+issn: "1932-6203"
 publication_date: "2010-02-03"
 document_type: in-vitro
 clinical_significance: high

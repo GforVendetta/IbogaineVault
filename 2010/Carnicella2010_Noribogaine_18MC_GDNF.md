@@ -20,6 +20,7 @@ doi: "10.1111/j.1369-1600.2010.00251.x"
 pmid: "21040239"
 pmcid: "PMC3783954"
 journal: "Addiction Biology"
+issn: "1369-1600"
 publication_date: "2010-01-01"
 document_type: preclinical
 clinical_significance: high

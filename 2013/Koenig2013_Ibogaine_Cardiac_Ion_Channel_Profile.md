@@ -24,6 +24,7 @@ doi: "10.1016/j.taap.2013.05.012"
 pmid: "23707769"
 pmcid: "PMC3853361"
 journal: "Toxicology and Applied Pharmacology"
+issn: "0041-008X"
 publication_date: "2013-05-04"
 document_type: in-vitro
 secondary_categories: [ORANGE]

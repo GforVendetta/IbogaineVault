@@ -20,6 +20,7 @@ tags:
 key_findings: "ACS DARK Classics review covering ibogaine chemistry, pharmacology, and 18-MC development. α3β4 nAChR proposed as primary anti-addiction target. Comprehensive receptor binding table across 20+ targets."
 doi: "10.1021/acschemneuro.8b00294"
 journal: "ACS Chemical Neuroscience"
+issn: "1948-7193"
 publication_date: "2018-09-14"
 document_type: review
 secondary_categories: [WHITE, RED]

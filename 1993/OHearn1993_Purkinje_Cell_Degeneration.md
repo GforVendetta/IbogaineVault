@@ -15,6 +15,7 @@ source_pdf: "1993/OHearn1993_Purkinje_Cell_Degeneration.pdf"
 doi: "10.1016/0306-4522(93)90500-f"
 pmid: "8377927"
 journal: "Neuroscience"
+issn: "0306-4522"
 publication_date: "1993-07-01"
 document_type: brief-communication
 clinical_significance: moderate

@@ -17,6 +17,7 @@ source_pdf: "2011/Donnelly2011_Ibogaine_Drug_Alcohol_Addiction_Legal.pdf"
 doi: "10.1080/01947648.2011.550832"
 pmid: "21391058"
 journal: "Journal of Legal Medicine"
+issn: "1521-057X"
 publication_date: "2011-03-04"
 document_type: commentary
 clinical_significance: moderate

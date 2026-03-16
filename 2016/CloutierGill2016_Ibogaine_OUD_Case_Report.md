@@ -19,6 +19,7 @@ doi: "10.1080/02791072.2016.1180467"
 pmid: "27192438"
 pmcid: "PMC4993099"
 journal: "Journal of Psychoactive Drugs"
+issn: "2159-9777"
 publication_date: "2016-05-18"
 document_type: case-report
 secondary_categories: [RED, GREEN, PURPLE]

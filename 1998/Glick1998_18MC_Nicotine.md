@@ -8,6 +8,7 @@ authors:
   - "Bandarage, Upul K."
   - "Kuehne, Martin E."
 year: 1998
+doi: "10.1007/s002130050716"
 category: ORANGE
 tags:
   - topic/18-mc
@@ -16,6 +17,8 @@ tags:
   - method/preclinical
 key_findings: "THERAPEUTIC EXPANSION: 18-MC extends to nicotine addiction - attenuates nicotine-induced NAc dopamine release (19h pretreatment) and abolishes nicotine preference 24h+. Reduces nicotine without affecting water intake."
 journal: "Psychopharmacology"
+publisher: "Springer Science and Business Media LLC"
+issn: "1432-2072"
 document_type: preclinical
 secondary_categories: [BLUE]
 clinical_significance: moderate

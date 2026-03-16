@@ -8,6 +8,7 @@ authors:
   - "Kuehne, Martin E."
   - "Glick, Stanley D."
 year: 1997
+doi: "10.1016/s0014-2999(97)01231-4"
 category: ORANGE
 tags:
   - topic/stimulant
@@ -17,6 +18,8 @@ tags:
   - topic/pharmacokinetics
 key_findings: "BIPHASIC TIMING: All iboga agents (ibogaine, noribogaine, 18-MC) inhibit cocaine hyperactivity at 1h but potentiate it at 19h post-administration. Explains divergent literature findings."
 journal: "European Journal of Pharmacology"
+publisher: "Elsevier BV"
+issn: "0014-2999"
 document_type: preclinical
 aliases: ["Maisonneuve 1997", "Maisonneuve"]
 source_pdf: "1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine.pdf"

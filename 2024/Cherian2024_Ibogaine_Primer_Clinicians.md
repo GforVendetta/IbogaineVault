@@ -26,6 +26,7 @@ key_findings: "Clinician primer covering safety (33 deaths, cardiotoxicity, Mg p
 doi: "10.1097/MJT.0000000000001723"
 pmid: "38518270"
 journal: "American Journal of Therapeutics"
+issn: "1075-2765"
 publication_date: "2024-03-04"
 document_type: review
 evidence_level: review

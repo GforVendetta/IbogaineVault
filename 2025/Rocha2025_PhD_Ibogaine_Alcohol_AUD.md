@@ -5,6 +5,7 @@ authors:
   - "Hallak, Jaime Eduardo Cecílio"
   - "dos Santos, Rafael Guimarães"
 year: 2025
+doi: "10.11606/t.17.2025.tde-14072025-135706"
 category: BLUE
 secondary_categories: [RED]
 tags:
@@ -37,6 +38,7 @@ aliases:
   - "Ibogaine AUD Clinical Trial"
 open_access: unknown
 body_format: hybrid
+publisher: "Universidade de São Paulo. Agência de Bibliotecas e Coleções Digitais"
 ---
 
 # Tolerability and Efficacy of Ibogaine in the Treatment of Alcohol Use Disorder: An Open-Label Dose-Escalation Study

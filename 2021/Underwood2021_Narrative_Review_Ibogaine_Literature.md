@@ -14,6 +14,7 @@ tags:
 key_findings: "COMPREHENSIVE: Narrative review covering pharmacological (NMDA antagonist), cultural (Bwiti worldview), psychological (holotropic consciousness theory) aspects. Questions oneirophrenic classification; proposes ibogaine experience as holotropic state."
 doi: "10.1556/2054.2021.00152"
 journal: "Journal of Psychedelic Studies"
+issn: "2559-9283"
 document_type: review
 secondary_categories: [ORANGE, WHITE, PURPLE]
 clinical_significance: high

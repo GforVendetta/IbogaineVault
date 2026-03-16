@@ -20,6 +20,7 @@ doi: "10.1016/j.bpsgos.2023.07.008"
 pmid: "38298796"
 pmcid: "PMC10829624"
 journal: "Biological Psychiatry: Global Open Science"
+issn: "2667-1743"
 document_type: preclinical
 secondary_categories: [PURPLE]
 clinical_significance: moderate

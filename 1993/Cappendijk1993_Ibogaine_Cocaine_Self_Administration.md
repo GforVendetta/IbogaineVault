@@ -14,6 +14,7 @@ source_pdf: "1993/Cappendijk1993_Ibogaine_Cocaine_Self_Administration.pdf"
 doi: "10.1016/0014-2999(93)90212-Z"
 pmid: "8243561"
 journal: "European Journal of Pharmacology"
+issn: "0014-2999"
 publication_date: "1993-07-14"
 document_type: preclinical
 secondary_categories: [ORANGE]

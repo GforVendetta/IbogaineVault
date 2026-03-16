@@ -23,6 +23,7 @@ tags:
 key_findings: "Zebrafish ibogaine exposure (10–20 mg/L) reverses geotaxis and scototaxis, disrupts shoaling, evokes melanophore darkening, and validates aquatic 3D phenotyping for hallucinogen research."
 doi: "10.1016/j.bbr.2012.08.041"
 journal: "Behavioural Brain Research"
+issn: "0166-4328"
 publication_date: "2012-09-04"
 document_type: preclinical
 clinical_significance: moderate

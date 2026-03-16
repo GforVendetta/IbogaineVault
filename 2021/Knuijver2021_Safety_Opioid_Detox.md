@@ -22,6 +22,7 @@ doi: "10.1111/add.15448"
 pmid: "33620733"
 pmcid: "PMC9292417"
 journal: "Addiction"
+issn: "1360-0443"
 publication_date: "2021-01-01"
 document_type: clinical-trial
 secondary_categories: [GREEN, BLUE]

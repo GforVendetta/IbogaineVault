@@ -17,6 +17,7 @@ doi: "10.3389/fphar.2018.00529"
 pmid: "29922156"
 pmcid: "PMC5996271"
 journal: "Frontiers in Pharmacology"
+issn: "1663-9812"
 publication_date: "2018-06-05"
 document_type: observational
 secondary_categories: [GREEN]

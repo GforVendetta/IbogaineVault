@@ -16,6 +16,7 @@ tags:
   - topic/mechanism
 key_findings: "PERIPHERAL: No evidence for µ-opioid receptor activity - naloxone-insensitive inhibition of ileum contractions. Novel finding: both agents enhance purinergic contractions 3-5 fold. Ibogaine enhances portal vein contractions; 18-MC does not."
 journal: "British Journal of Pharmacology"
+issn: "1476-5381"
 document_type: in-vitro
 aliases: ["Mundey 2000", "Mundey"]
 source_pdf: "2000/Mundey2000_Ibogaine_18MC_Smooth_Muscle.pdf"

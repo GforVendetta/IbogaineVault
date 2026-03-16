@@ -21,6 +21,7 @@ source_pdf: "1995/Sweetnam1995_Receptor_Binding_Profile.pdf"
 doi: "10.1007/BF02245936"
 pmid: "7568622"
 journal: "Psychopharmacology"
+issn: "1432-2072"
 publication_date: "1995-01-01"
 document_type: in-vitro
 clinical_significance: moderate

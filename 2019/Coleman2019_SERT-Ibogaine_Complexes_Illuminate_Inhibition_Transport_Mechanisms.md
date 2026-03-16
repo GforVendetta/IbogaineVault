@@ -19,6 +19,7 @@ doi: "10.1038/s41586-019-1135-1"
 pmid: "31019304"
 pmcid: "PMC6750207"
 journal: "Nature"
+issn: "1476-4687"
 document_type: in-vitro
 clinical_significance: high
 aliases: ["Coleman 2019", "Coleman", "Coleman SERT 2019"]

@@ -35,6 +35,7 @@ tags:
   - method/in-vitro
 key_findings: "Defines 'matrix pharmacology' - ibogaine/noribogaine modulate VMAT2 (sub-µM), SERT, OCT2 simultaneously. Dual VMAT2+SERT inhibition explains neurochemical effects. Not substrate-type releasers. No catalepsy unlike other VMAT2 inhibitors."
 journal: "Journal of the American Chemical Society"
+issn: "1520-5126"
 publication_date: "2025-12-26"
 doi: "10.1021/jacs.5c06325"
 pmid: "41452009"

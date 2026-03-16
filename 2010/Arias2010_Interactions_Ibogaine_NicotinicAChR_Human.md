@@ -10,6 +10,9 @@ authors:
   - "Moaddel, Ruin"
   - "Wainer, Irving W."
 year: 2010
+doi: "10.1016/j.biocel.2010.05.011"
+pmid: "20684041"
+pmcid: "PMC4609575"
 category: ORANGE
 tags:
   - mechanism/nicotinic-receptor
@@ -17,6 +20,8 @@ tags:
   - topic/receptor
 key_findings: "RECEPTOR MECHANISM: Ibogaine inhibits human α3β4 nAChRs with state-dependent binding - higher affinity for desensitised states. Noncompetitive mechanism supports nicotinic modulation as key anti-addiction pathway."
 journal: "International Journal of Biochemistry & Cell Biology"
+publisher: "Elsevier BV"
+issn: "1357-2725"
 document_type: in-vitro
 clinical_significance: moderate
 aliases: ["Arias 2010", "Arias", "Arias nAChR 2010"]
@@ -28,7 +33,7 @@ herg_data: false
 dosing_range: "N/A (receptor binding Ki 0.57 µM)"
 route: not-specified
 contraindications: []
-open_access: unknown
+open_access: true
 body_format: vault-analytical
 ---
 

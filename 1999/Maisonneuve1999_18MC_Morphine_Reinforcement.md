@@ -13,6 +13,7 @@ tags:
   - mechanism/dopamine-modulation
 key_findings: "18-MC (40 mg/kg, 19 h pre) inhibits morphine-induced NAc dopamine release while enhancing metabolites. Downward shift in morphine dose–response — reduces reinforcing efficacy without altering potency."
 journal: "European Journal of Pharmacology"
+issn: "0014-2999"
 publication_date: "1999-10-29"
 document_type: preclinical
 aliases:

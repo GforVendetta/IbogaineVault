@@ -19,6 +19,7 @@ tags:
 key_findings: "Noribogaine promotes wakefulness, reduces SWS, and profoundly suppresses REM sleep in rats (20 and 40 mg/kg IP). Effects stronger than ibogaine, implicating SERT blockade as the shared mechanism."
 doi: "10.1007/s00213-024-06572-2"
 journal: "Psychopharmacology"
+issn: "1432-2072"
 publication_date: "2024-03-12"
 document_type: preclinical
 clinical_significance: low

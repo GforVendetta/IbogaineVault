@@ -10,6 +10,7 @@ authors:
   - "Singleton, Edward F."
   - "Mayor, Martin"
 year: 2000
+doi: "10.1111/j.1749-6632.2000.tb05213.x"
 category: ORANGE
 tags:
   - topic/pharmacokinetics
@@ -18,6 +19,8 @@ tags:
   - method/clinical-trial
 key_findings: "FOUNDATIONAL PK STUDY: n=33 Phase I trials establishing ibogaine→noribogaine metabolism. Ibogaine T1/2 4-7h, noribogaine accumulates with long elimination. Cardiovascular effects including bradycardia and QT prolongation observed."
 journal: "Annals of the New York Academy of Sciences"
+publisher: "Wiley"
+issn: "1749-6632"
 document_type: clinical-trial
 secondary_categories: [RED, BLUE]
 clinical_significance: high

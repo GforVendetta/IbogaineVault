@@ -18,6 +18,7 @@ source_pdf: "2019/Grogan2019_Seizures_QT_Prolongation_Cardiac.pdf"
 doi: "10.1016/j.jemermed.2019.06.052"
 pmid: "31630892"
 journal: "The Journal of Emergency Medicine"
+issn: "0736-4679"
 document_type: case-report
 clinical_significance: high
 aliases: ["Grogan 2019", "Grogan TdP case"]

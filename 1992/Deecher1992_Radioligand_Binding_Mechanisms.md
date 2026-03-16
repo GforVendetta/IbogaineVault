@@ -9,6 +9,7 @@ authors:
   - "Stanley D. Glick"
 year: 1992
 journal: "Brain Research"
+issn: "0006-8993"
 volume: "571"
 pages: "242-247"
 doi: "10.1016/0006-8993(92)90661-R"

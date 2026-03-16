@@ -31,6 +31,7 @@ doi: "10.1016/j.celrep.2018.05.022"
 pmid: "29898390"
 pmcid: "PMC6082376"
 journal: "Cell Reports"
+issn: "2211-1247"
 publication_date: "2018-06-12"
 document_type: in-vitro
 clinical_significance: landmark

@@ -18,6 +18,7 @@ source_pdf: "1991/Glick1991_Ibogaine_Morphine_Self_Administration.pdf"
 doi: "10.1016/0014-2999(91)90474-5"
 pmid: "1868880"
 journal: "European Journal of Pharmacology"
+issn: "0014-2999"
 document_type: preclinical
 clinical_significance: moderate
 aliases:

@@ -20,6 +20,7 @@ source_pdf: "2013/Brown2013_Ibogaine_Treatment_Substance_Dependence.pdf"
 doi: "10.2174/15672050113109990001"
 pmid: "23627782"
 journal: "Current Drug Abuse Reviews"
+issn: "1874-4737"
 publication_date: "2013-01-01"
 document_type: review
 secondary_categories: [RED, WHITE, ORANGE]

@@ -4,6 +4,7 @@ authors:
   - "Schneider, J. A."
   - "Sigg, E. B."
 year: 1957
+doi: "10.1111/j.1749-6632.1957.tb40765.x"
 category: ORANGE
 tags:
   - topic/mechanism
@@ -12,6 +13,8 @@ tags:
 key_findings: "Ibogaine produces EEG arousal via ascending reticular formation; effect blocked by atropine implicating cholinergic mechanism; paradoxical anticonvulsant properties despite central stimulation"
 source_pdf: "1957/Schneider1957_.pdf"
 journal: "Annals of the New York Academy of Sciences"
+publisher: "Wiley"
+issn: "1749-6632"
 document_type: preclinical
 clinical_significance: high
 aliases:

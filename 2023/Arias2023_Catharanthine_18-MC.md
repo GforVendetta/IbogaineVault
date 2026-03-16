@@ -21,6 +21,7 @@ key_findings: "Eur J Pharmacol: (+)-catharanthine and (-)-18-MC antidepressant-l
 doi: "10.1016/j.ejphar.2022.175454"
 pmid: "36549498"
 journal: "European Journal of Pharmacology"
+issn: "0014-2999"
 document_type: preclinical
 secondary_categories: [BLUE]
 aliases: ["Arias 2023", "Arias Catharanthine"]

@@ -19,6 +19,7 @@ tags:
 key_findings: "PROTOCOL INNOVATION: First documented low, multiple, ascending dose approach (150-600mg) alternating with tapering methadone. 47yo female, 17yr MMT successfully detoxified. No serious AEs, QTc within limits."
 doi: "10.1556/2054.01.2017.005"
 journal: "Journal of Psychedelic Studies"
+issn: "2559-9283"
 document_type: case-report
 clinical_significance: high
 aliases: ["Wilkins 2017", "Wilkins", "Wilkins Methadone 2017"]

@@ -17,6 +17,7 @@ source_pdf: "2018/Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine.pdf"
 doi: "10.1080/02791072.2018.1447175"
 pmid: "29608409"
 journal: "Journal of Psychoactive Drugs"
+issn: "2159-9777"
 publication_date: "2018-04-02"
 document_type: observational
 secondary_categories: [GREEN]

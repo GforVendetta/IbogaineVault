@@ -20,6 +20,7 @@ tags:
 key_findings: "Novel acyclic iboga analogue XL-008 potentiates FGF2-induced GDNF release >2-fold potency and >3-fold efficacy in C6 glioma cells via MEK/PI3K pathways. Sames lab, Columbia."
 doi: "10.1021/acschembio.5b00678"
 journal: "ACS Chemical Biology"
+issn: "1554-8937"
 document_type: in-vitro
 clinical_significance: moderate
 aliases: ["Gassaway 2015", "Gassaway", "Gassaway GDNF 2015"]

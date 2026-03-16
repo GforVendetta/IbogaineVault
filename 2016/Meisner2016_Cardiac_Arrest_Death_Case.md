@@ -16,6 +16,7 @@ doi: "10.1177/2045125315626073"
 pmid: "27141291"
 pmcid: "PMC4837967"
 journal: "Therapeutic Advances in Psychopharmacology"
+issn: "2045-1261"
 publication_date: "2016-01-01"
 document_type: case-report
 clinical_significance: high

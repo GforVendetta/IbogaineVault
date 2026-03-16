@@ -20,6 +20,7 @@ source_pdf: "2025/Edwards2025_UK_NPIS_Ibogaine_Toxicity_Case_Series.pdf"
 doi: "10.1080/15563650.2024.2447500"
 pmid: "39882933"
 journal: "Clinical Toxicology"
+issn: "1556-9519"
 publication_date: "2025-01-30"
 document_type: case-series
 clinical_significance: high

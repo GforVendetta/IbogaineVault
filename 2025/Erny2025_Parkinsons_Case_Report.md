@@ -17,6 +17,7 @@ tags:
 key_findings: "First validated-instrument case study of ibogaine for Parkinson's; 80-day low-dose treatment (25-75mg/day) showed improvements in UPDRS, PDQ-39, fatigue, depression; patient reported reduced freezing episodes and enhanced mobility"
 doi: "10.1556/2054.2025.00478"
 journal: "Journal of Psychedelic Studies"
+issn: "2559-9283"
 publication_date: "2025-11-14"
 document_type: case-report
 secondary_categories: [ORANGE]

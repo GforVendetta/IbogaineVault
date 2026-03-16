@@ -13,6 +13,7 @@ tags:
   - method/preclinical
 key_findings: "MECHANISM CONFIRMATION: Yeast model shows ibogaine causes acute ATP decrease triggering compensatory enzyme induction. Supports energy metabolism hypothesis - neuroplasticity may require enhanced metabolic capacity."
 journal: "European Journal of Pharmacology"
+issn: "0014-2999"
 document_type: in-vitro
 aliases: ["Paskulin 2010", "Paskulin", "Paškulin ATP 2010"]
 source_pdf: "2010/Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP.pdf"

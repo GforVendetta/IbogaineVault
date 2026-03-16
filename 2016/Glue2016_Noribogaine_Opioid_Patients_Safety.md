@@ -29,6 +29,7 @@ source_pdf: "2016/Glue2016_Noribogaine_Opioid_Patients_Safety.pdf"
 doi: "10.1002/cpdd.254"
 pmid: "27870477"
 journal: "Clinical Pharmacology in Drug Development"
+issn: "2160-7648"
 publication_date: "2016-02-04"
 document_type: clinical-trial
 secondary_categories: [BLUE, ORANGE]

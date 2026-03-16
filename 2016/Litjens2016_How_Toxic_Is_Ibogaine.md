@@ -17,6 +17,7 @@ key_findings: "Reviews 27 ibogaine fatalities and 8 cardiac case reports (QTc 46
 doi: "10.3109/15563650.2016.1138226"
 pmid: "26807959"
 journal: "Clinical Toxicology"
+issn: "1556-9519"
 publication_date: 2016-01-25
 document_type: review
 clinical_significance: high

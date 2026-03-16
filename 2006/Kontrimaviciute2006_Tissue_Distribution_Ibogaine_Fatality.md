@@ -20,6 +20,7 @@ source_pdf: "2006/Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality.pdf"
 doi: "10.1093/jat/30.7.434"
 pmid: "16959135"
 journal: "Journal of Analytical Toxicology"
+issn: "1945-2403"
 publication_date: "2006-09-01"
 document_type: case-report
 secondary_categories: [ORANGE]

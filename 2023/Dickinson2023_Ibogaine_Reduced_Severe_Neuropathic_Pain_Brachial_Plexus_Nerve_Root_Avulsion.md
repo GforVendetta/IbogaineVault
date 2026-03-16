@@ -17,6 +17,7 @@ doi: "10.3389/fpain.2023.1256396"
 pmid: "37720911"
 pmcid: "PMC10502345"
 journal: "Frontiers in Pain Research"
+issn: "2673-561X"
 publication_date: "2023-09-01"
 document_type: case-report
 secondary_categories: [ORANGE]

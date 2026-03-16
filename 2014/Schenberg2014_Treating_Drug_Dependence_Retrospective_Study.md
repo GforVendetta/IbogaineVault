@@ -16,6 +16,7 @@ tags:
 key_findings: "Brazilian retrospective (n=75, 134 sessions): 61% abstinent, median 5.5mo (single) vs 8.4mo (multiple tx, p<0.001). Zero serious AEs or fatalities. First systematic non-opioid dependence data."
 doi: "10.1177/0269881114552713"
 journal: "Journal of Psychopharmacology"
+issn: "1461-7285"
 publication_date: "2014-09-29"
 document_type: observational
 secondary_categories: [RED]

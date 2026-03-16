@@ -18,6 +18,7 @@ tags:
 key_findings: "Cross-sectional analysis of 9 ibogaine/noribogaine clinical trials from global registries. Documents methodological heterogeneity, early-phase dominance, and variable cardiac safety protocols. Calls for standardised framework."
 doi: "10.1080/02791072.2025.2491385"
 journal: "Journal of Psychoactive Drugs"
+issn: "2159-9777"
 publication_date: "2025-04-18"
 document_type: systematic-review
 secondary_categories: [GREEN]

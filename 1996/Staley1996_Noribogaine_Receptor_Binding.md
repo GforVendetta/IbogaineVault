@@ -22,6 +22,7 @@ source_pdf: "1996/Staley1996_Noribogaine_Receptor_Binding.pdf"
 doi: "10.1007/BF02805969"
 pmid: "8880938"
 journal: "Psychopharmacology"
+issn: "1432-2072"
 publication_date: "1996-01-01"
 document_type: in-vitro
 secondary_categories: [BLUE]

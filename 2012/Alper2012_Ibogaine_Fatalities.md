@@ -14,6 +14,7 @@ key_findings: "FOUNDATIONAL: Systematic review of all 19 ibogaine fatalities (19
 doi: "10.1111/j.1556-4029.2011.02008.x"
 pmid: "22268458"
 journal: "Journal of Forensic Sciences"
+issn: "1556-4029"
 publication_date: "2012-03"
 document_type: systematic-review
 clinical_significance: landmark

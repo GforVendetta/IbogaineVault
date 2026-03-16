@@ -5,6 +5,7 @@ authors:
   - "Maisonneuve, Isabelle M."
   - "Szumlinski, Karen K."
 year: 2000
+doi: "10.1111/j.1749-6632.2000.tb05211.x"
 category: ORANGE
 tags:
   - topic/18-mc
@@ -14,6 +15,8 @@ tags:
   - topic/mechanism
 key_findings: "18-MC vs ibogaine comparison: equal anti-addictive efficacy for morphine, cocaine, alcohol, nicotine. 18-MC lacks tremor, cerebellar damage, bradycardia. Lower NMDA/sigma-2 affinity. Greater therapeutic index than ibogaine."
 journal: "CNS Drug Reviews"
+publisher: "Wiley"
+issn: "1749-6632"
 document_type: review
 secondary_categories: [RED]
 clinical_significance: high
