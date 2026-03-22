@@ -34,6 +34,8 @@ contraindications: []
 open_access: false
 publisher: "FASEB"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Autoregulation of glial cell line-derived neurotrophic factor expression: implications for the long-lasting actions of the anti-addiction drug, Ibogaine
@@ -197,11 +199,11 @@ The MEK/ERK dependence of the loop (Tables 9–10) identifies a specific signall
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2005/He2005_GDNF_Ibogaine_Alcohol]] — Predecessor paper establishing GDNF upregulation in VTA as mechanism for ibogaine's ethanol reduction (He et al. 2005, *J. Neurosci.*)
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — In-vivo confirmation showing dose-dependent GDNF upregulation in rat VTA (40 mg/kg IP) and extension to BDNF/NGF across brain regions
-- [[2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release]] — Structure-activity analysis of iboga skeleton for GDNF release, directly building on this autoregulatory framework
-- [[2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination]] — Recent myelination evidence extending the neuroplasticity dimension of GDNF-mediated mechanisms
-- [[2025/Williams2025_Magnesium_Ibogaine_TBI]] — Clinical EEG changes potentially reflecting GDNF-mediated neuroplasticity in human subjects
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Mechanism synthesis incorporating GDNF autoregulation hypothesis within broader pharmacological framework
+- [He2005_GDNF_Ibogaine_Alcohol](../2005/He2005_GDNF_Ibogaine_Alcohol.md) — Predecessor paper establishing GDNF upregulation in VTA as mechanism for ibogaine's ethanol reduction (He et al. 2005, *J. Neurosci.*)
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — In-vivo confirmation showing dose-dependent GDNF upregulation in rat VTA (40 mg/kg IP) and extension to BDNF/NGF across brain regions
+- [Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release](../2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md) — Structure-activity analysis of iboga skeleton for GDNF release, directly building on this autoregulatory framework
+- [Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination](../2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination.md) — Recent myelination evidence extending the neuroplasticity dimension of GDNF-mediated mechanisms
+- [Williams2025_Magnesium_Ibogaine_TBI](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — Clinical EEG changes potentially reflecting GDNF-mediated neuroplasticity in human subjects
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Mechanism synthesis incorporating GDNF autoregulation hypothesis within broader pharmacological framework

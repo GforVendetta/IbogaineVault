@@ -43,6 +43,8 @@ route: oral
 open_access: false
 publisher: "Taylor & Francis"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Not Losing Momentum: Cross-Sectional Insights into Ibogaine Clinical Trials
@@ -55,12 +57,12 @@ Ibogaine, a non-classical psychedelic, has gained increasing attention as a pote
 
 ## Key Findings
 
-- Only 9 interventional clinical trials with defined regulatory status were identified globally from four major registry platforms (ClinicalTrials.gov, EU Clinical Trials Register, EU Clinical Trials, WHO ICTRP), with a data cutoff of November 2024. This contrasts with the 24 studies reported in [[Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine|Köck et al. (2022)]], which included case studies and observational research alongside interventional designs.
+- Only 9 interventional clinical trials with defined regulatory status were identified globally from four major registry platforms (ClinicalTrials.gov, EU Clinical Trials Register, EU Clinical Trials, WHO ICTRP), with a data cutoff of November 2024. This contrasts with the 24 studies reported in [Köck et al. (2022)](../2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md), which included case studies and observational research alongside interventional designs.
 - Early-phase trials dominate: the landscape is concentrated at Phase I–II, with no completed large-scale Phase III RCTs for SUD indications. The sole Phase III entry (RBR-9zpc27, Brazil) targets cardiac safety of ibogaine combined with psychotherapy for cocaine/crack use disorder.
 - Dosing strategies vary substantially: fixed-dose designs (100 mg in NCT04003948), ascending-dose designs (3–12 mg/kg in NCT05029401), and weight-based protocols (15 mg/kg men / 12 mg/kg women in RBR-9zpc27) co-exist without cross-trial standardisation.
 - Two of nine trials (ACTRN12612000821897, ACTRN12613001064796) investigate noribogaine rather than ibogaine, at doses of 3–60 mg and 60–180 mg respectively, reflecting commercial interest in the active metabolite's therapeutic potential despite dose-dependent QTc prolongation concerns.
 - Cardiovascular safety monitoring is inconsistent: only some trials specify QTc thresholds in exclusion criteria (e.g., QTcF ≤450 ms in NCT06480981), while others address cardiac risk through post-dose monitoring (48-hour Holter in RBR-9zpc27).
-- CYP2D6 genotype-guided dosing is addressed in only one trial (ACTRN12613000324718, New Zealand), despite [[Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients|Knuijver et al. (2024)]] demonstrating that PK variability driven by CYP2D6 polymorphism may necessitate >10-fold dose reductions to mitigate QTc risk.
+- CYP2D6 genotype-guided dosing is addressed in only one trial (ACTRN12613000324718, New Zealand), despite [Knuijver et al. (2024)](../2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md) demonstrating that PK variability driven by CYP2D6 polymorphism may necessitate >10-fold dose reductions to mitigate QTc risk.
 - The MISTIC TBI trial (NCT04313712) was excluded from this analysis because its indication (head injury/blast exposure) did not meet the SUD inclusion criteria — a notable omission given it represents the highest-profile ibogaine clinical programme globally.
 - Blinding challenges remain unresolved: placebo details are sparse across trials, with only microcrystalline cellulose documented. The authors recommend active placebos (e.g., niacin, sub-therapeutic doses) consistent with FDA guidance on psychedelic trial design.
 
@@ -111,7 +113,7 @@ Cross-sectional study design with systematic registry search. Four platforms sea
 
 This registry analysis exposes a structural gap in ibogaine's clinical evidence base that is directly relevant to treatment providers. The 9-trial landscape is dominated by Phase I–II studies with small sample sizes, meaning that clinical programmes are operating with dosing and safety protocols derived from observational evidence and case series rather than controlled trial data. The absence of standardised cardiac monitoring across trials — ranging from no specified QTc thresholds to 48-hour Holter monitoring — mirrors the field-wide inconsistency that has historically contributed to preventable fatalities.
 
-The CYP2D6 pharmacogenomic dimension is critically underrepresented. Only one trial (ACTRN12613000324718) directly investigated CYP2D6-mediated PK variability, yet [[Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients|Knuijver et al. (2024)]] demonstrated that genotype-driven variability may require >10-fold dose adjustments. For clinical settings, this reinforces the necessity of pre-treatment CYP2D6 phenotyping as a safety-critical protocol element — a practice already integrated into clinical screening but absent from most registered trial designs.
+The CYP2D6 pharmacogenomic dimension is critically underrepresented. Only one trial (ACTRN12613000324718) directly investigated CYP2D6-mediated PK variability, yet [Knuijver et al. (2024)](../2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md) demonstrated that genotype-driven variability may require >10-fold dose adjustments. For clinical settings, this reinforces the necessity of pre-treatment CYP2D6 phenotyping as a safety-critical protocol element — a practice already integrated into clinical screening but absent from most registered trial designs.
 
 The exclusion of the MISTIC/Stanford TBI trial (NCT04313712) from this SUD-focused analysis is methodologically sound but creates a blind spot. That programme represents the most rigorously monitored ibogaine administration to date, with magnesium co-administration protocols and comprehensive cardiac screening that could inform SUD trial design. The separation of ibogaine research by indication risks fragmenting safety evidence that should be synthesised across all clinical contexts.
 
@@ -130,17 +132,17 @@ The weight-based dosing divergence (fixed mg vs mg/kg) across trials, combined w
 
 ## See Also
 
-- [[Mosca2023_Ibogaine_Noribogaine_SUDs_Systematic_Review]] — Systematic review of ibogaine/noribogaine for SUDs; flags cardiotoxicity concerns
-- [[Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine]] — Earlier systematic review including 24 studies (broader inclusion criteria than this registry-only analysis)
-- [[Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes]] — Open-label case series discussed in this paper; classification as "clinical trial" vs "case series" is debated
-- [[Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients]] — CYP2D6-driven PK variability; dose-reduction implications central to this paper's discussion
-- [[Alper2012_Ibogaine_Fatalities]] — Postmortem analysis of fatalities; comorbid CV disease as primary cause of death
-- [[Mestre2024_Cardiac_Arrest_Case_Report]] — Case report of QTc prolongation and cardiac arrest after 2.6 mg/kg ibogaine
-- [[Schep2016_Ibogaine_Safe_Dose]] — Dose-safety analysis; adverse event profile including coma, seizures, respiratory compromise
-- [[Litjens2016_How_Toxic_Is_Ibogaine]] — Toxicity review documenting 8 cases of life-threatening ventricular arrhythmia
-- [[Glue2015_Noribogaine_Ascending_Doses]] — Phase I noribogaine safety/PK in healthy volunteers (trial ACTRN12612000821897 in this analysis)
-- [[Glue2015_Ibogaine_CYP2D6_Activity]] — Noribogaine safety in opioid-dependent patients (trial ACTRN12613001064796 in this analysis)
-- [[Halman2025_Pharmacogenomics_Psychedelic_Therapy]] — Pharmacogenomic considerations; ultra-rapid metabolisers may need higher doses
-- [[Brown2019_Ibogaine_Subjective_Experience_OUD]] — Subjective experience characterisation relevant to blinding challenges
-- [[Davis2023_Ibogaine_5MeO-DMT_for_SEALS]] — Integration framework for ibogaine-assisted therapy; preparatory session model
-- [[Brunt2026_Cardiovascular_Complications_Review]] — Most current cardiovascular complications review
+- [Mosca2023_Ibogaine_Noribogaine_SUDs_Systematic_Review](../2023/Mosca2023_Ibogaine_Noribogaine_SUDs_Systematic_Review.md) — Systematic review of ibogaine/noribogaine for SUDs; flags cardiotoxicity concerns
+- [Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine](../2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md) — Earlier systematic review including 24 studies (broader inclusion criteria than this registry-only analysis)
+- [Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md) — Open-label case series discussed in this paper; classification as "clinical trial" vs "case series" is debated
+- [Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients](../2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md) — CYP2D6-driven PK variability; dose-reduction implications central to this paper's discussion
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Postmortem analysis of fatalities; comorbid CV disease as primary cause of death
+- [Mestre2024_Cardiac_Arrest_Case_Report](../2024/Mestre2024_Cardiac_Arrest_Case_Report.md) — Case report of QTc prolongation and cardiac arrest after 2.6 mg/kg ibogaine
+- [Schep2016_Ibogaine_Safe_Dose](../2016/Schep2016_Ibogaine_Safe_Dose.md) — Dose-safety analysis; adverse event profile including coma, seizures, respiratory compromise
+- [Litjens2016_How_Toxic_Is_Ibogaine](../2016/Litjens2016_How_Toxic_Is_Ibogaine.md) — Toxicity review documenting 8 cases of life-threatening ventricular arrhythmia
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Phase I noribogaine safety/PK in healthy volunteers (trial ACTRN12612000821897 in this analysis)
+- [Glue2015_Ibogaine_CYP2D6_Activity](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) — Noribogaine safety in opioid-dependent patients (trial ACTRN12613001064796 in this analysis)
+- [Halman2025_Pharmacogenomics_Psychedelic_Therapy](Halman2025_Pharmacogenomics_Psychedelic_Therapy.md) — Pharmacogenomic considerations; ultra-rapid metabolisers may need higher doses
+- [Brown2019_Ibogaine_Subjective_Experience_OUD](../2019/Brown2019_Ibogaine_Subjective_Experience_OUD.md) — Subjective experience characterisation relevant to blinding challenges
+- [Davis2023_Ibogaine_5MeO-DMT_for_SEALS](../2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS.md) — Integration framework for ibogaine-assisted therapy; preparatory session model
+- [Brunt2026_Cardiovascular_Complications_Review](../2026/Brunt2026_Cardiovascular_Complications_Review.md) — Most current cardiovascular complications review

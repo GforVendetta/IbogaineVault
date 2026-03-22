@@ -26,6 +26,8 @@ herg_data: false
 contraindications: []
 open_access: true
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Professor Jan Bastiaans and the Ibogaine Saga
@@ -108,10 +110,10 @@ This account provides essential historical context for understanding the evoluti
 ---
 
 ## See Also
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]] — Alper, Beal & Kaplan's published historical account covering the same period with academic rigour
-- [[1999/Alper1999_Acute_Opioid_Withdrawal]] — Alper, Lotsof, Frenken, Luciano & Bastiaans' clinical report on the treatments described in this account
-- [[Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual]] — the manual co-authored by Lotsof and Wachtel that formalised early protocols
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — the Williams et al. Nature Medicine study that validated Bastiaans' trauma-addiction thesis
-- [[1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs]] — Naranjo's prior work using ibogaine as psychotherapeutic adjunct, referenced in this account
-- [[2012/Alper2012_Ibogaine_Fatalities]] — systematic analysis of fatalities including the Nicola case discussed here
-- [[WHITE_Historical_Hub]]
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — Alper, Beal & Kaplan's published historical account covering the same period with academic rigour
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — Alper, Lotsof, Frenken, Luciano & Bastiaans' clinical report on the treatments described in this account
+- [Lotsof2003_Ibogaine_Therapy_Manual](../Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual.md) — the manual co-authored by Lotsof and Wachtel that formalised early protocols
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — the Williams et al. Nature Medicine study that validated Bastiaans' trauma-addiction thesis
+- [Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs](../1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs.md) — Naranjo's prior work using ibogaine as psychotherapeutic adjunct, referenced in this account
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — systematic analysis of fatalities including the Nicola case discussed here
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)

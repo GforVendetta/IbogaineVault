@@ -45,6 +45,8 @@ contraindications:
 open_access: false
 publisher: "Brill"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Treating War Trauma with Ibogaine and 5-MeO-DMT
@@ -165,7 +167,7 @@ The chapter emphasises that therapists working with veterans should:
 
 ### Relationship to MISTIC Protocol
 
-This protocol predates and differs from the Stanford MISTIC protocol ([[2024/Cherian2024_Magnesium_Ibogaine_TBI]]):
+This protocol predates and differs from the Stanford MISTIC protocol ([Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md)):
 
 | Aspect | Mission Within | MISTIC |
 |--------|----------------|--------|
@@ -186,11 +188,11 @@ The chapter provides valuable first-person accounts from both authors:
 
 ## See Also
 
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol: complementary safety approach using magnesium
-- [[2026/Olash2026_Subjective_Experience_Magnesium_Ibogaine]] — MISTIC phenomenology study
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Earlier safety guidelines
-- [[RED_Cardiac_Safety_Hub]] — Cardiac safety evidence
-- [[BLUE_Outcomes_Hub]] — Veterans/TBI outcomes research
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol: complementary safety approach using magnesium
+- [Olash2026_Subjective_Experience_Magnesium_Ibogaine](../2026/Olash2026_Subjective_Experience_Magnesium_Ibogaine.md) — MISTIC phenomenology study
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Earlier safety guidelines
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Cardiac safety evidence
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Veterans/TBI outcomes research
 
 ---
 

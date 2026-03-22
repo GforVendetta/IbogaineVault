@@ -34,9 +34,11 @@ contraindications:
   - "Pre-existing cardiovascular disease"
   - "Concomitant opiate/opioid use during or immediately after ibogaine"
   - "Use of drugs of unknown purity in uncontrolled settings"
-open_access: false
+open_access: true
 publisher: "Akadémiai Kiadó"
 body_format: vault-analytical
+licence_type: cc-by-nc
+licence_verified: false
 ---
 
 # The antiaddictive effects of ibogaine: A systematic literature review of human studies
@@ -123,11 +125,11 @@ This review provides the most comprehensive synthesis of ibogaine efficacy data 
 ---
 
 ## See Also
-- [[2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study]]
-- [[2001/Mash2001_Ibogaine_Heroin_Withdrawal]]
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]]
-- [[2016/Glue2016_Noribogaine_Opioid_Patients_Safety]]
-- [[2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis]]
-- [[1999/Alper1999_Acute_Opioid_Withdrawal]]
-- [[2013/Brown2013_Ibogaine_Treatment_Substance_Dependence]]
-- [[BLUE_Outcomes_Hub]]
+- [Schenberg2014_Treating_Drug_Dependence_Retrospective_Study](../2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md)
+- [Mash2001_Ibogaine_Heroin_Withdrawal](../2001/Mash2001_Ibogaine_Heroin_Withdrawal.md)
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md)
+- [Glue2016_Noribogaine_Opioid_Patients_Safety](../2016/Glue2016_Noribogaine_Opioid_Patients_Safety.md)
+- [Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis](../2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md)
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md)
+- [Brown2013_Ibogaine_Treatment_Substance_Dependence](../2013/Brown2013_Ibogaine_Treatment_Substance_Dependence.md)
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)

@@ -35,9 +35,14 @@ route: not-specified
 open_access: true
 publisher: "Springer Nature"
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # **Anti-addiction Drug Ibogaine Prolongs the Action Potential in Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes**
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Authors:** Lena Rubi, Daniel Eckert, Stefan Boehm, Karlheinz Hilber, Xaver Koenig
 **Affiliation:** Department of Neurophysiology and Pharmacology, Center for Physiology and Pharmacology, Medical University of Vienna, Schwarzspanierstrasse 17, 1090 Vienna, Austria
@@ -208,7 +213,7 @@ This work was funded by the Austrian Science Fund (FWF, P23060 to K.H.). Ibogain
 
 ## See Also
 
-- [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — Same Vienna group; Koenig showed hERG blockade, Rubi extends to human cardiomyocyte action potentials
-- [[2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile]] — Broader ion channel profiling contextualising the AP prolongation findings here
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]] — Clinical PK data explaining why Rubi's finding matters: therapeutic noribogaine concentrations persist for days
-- [[RED_Cardiac_Safety_Hub]]
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — Same Vienna group; Koenig showed hERG blockade, Rubi extends to human cardiomyocyte action potentials
+- [Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile](../2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile.md) — Broader ion channel profiling contextualising the AP prolongation findings here
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Clinical PK data explaining why Rubi's finding matters: therapeutic noribogaine concentrations persist for days
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

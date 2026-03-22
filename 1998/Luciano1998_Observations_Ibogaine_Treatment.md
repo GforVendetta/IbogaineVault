@@ -32,6 +32,8 @@ route: oral
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Observations on Treatment with Ibogaine
@@ -113,9 +115,9 @@ This letter provides early first-hand neurological documentation of ibogaine's a
 ---
 
 ## See Also
-- [[1994/Sheppard1994_Preliminary_Investigation_Ibogaine]] — directly cited; earlier preliminary case reports and recommendations
-- [[1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs]] — directly cited (via Naranjo 1973 *Healing Journey*); ibogaine's abreactive properties that Luciano references
-- [[1998/Mash1998_Medication_Development_Ibogaine]] — concurrent medication development context for ibogaine
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]] — later formalisation of the patient management approach observed here
-- [[Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual]] — treatment manual building on clinical observations like these
-- [[GREEN_Clinical_Protocols_Hub]]
+- [Sheppard1994_Preliminary_Investigation_Ibogaine](../1994/Sheppard1994_Preliminary_Investigation_Ibogaine.md) — directly cited; earlier preliminary case reports and recommendations
+- [Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs](../1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs.md) — directly cited (via Naranjo 1973 *Healing Journey*); ibogaine's abreactive properties that Luciano references
+- [Mash1998_Medication_Development_Ibogaine](Mash1998_Medication_Development_Ibogaine.md) — concurrent medication development context for ibogaine
+- [Lotsof2001_Case_Studies_Patient_Management](../2001/Lotsof2001_Case_Studies_Patient_Management.md) — later formalisation of the patient management approach observed here
+- [Lotsof2003_Ibogaine_Therapy_Manual](../Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual.md) — treatment manual building on clinical observations like these
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)

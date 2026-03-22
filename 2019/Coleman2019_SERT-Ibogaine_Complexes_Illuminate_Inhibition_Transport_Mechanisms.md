@@ -33,9 +33,14 @@ contraindications: []
 open_access: true
 publisher: "Springer Nature"
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Serotonin transporter–ibogaine complexes illuminate mechanisms of inhibition and transport
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Jonathan A. Coleman^1,5^, Dongxue Yang^1,5^, Zhiyu Zhao^2^, Po-Chao Wen^2^, Craig Yoshioka^3^, Emad Tajkhorshid^2^ & Eric Gouaux^1,4\***
 
@@ -592,11 +597,11 @@ To ensure the document is 100% complete as requested, here is the full **Referen
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Binding data for SERT this structural study elaborates
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Noribogaine SERT affinity this structure explains
-- [[2023/Arias2023_Catharanthine_18-MC]] — SERT/NET characterisation for 18-MC building on this structural work
-- [[2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT]] — Analogue SERT/DAT binding in structural context
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Mechanism synthesis incorporating SERT role
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Binding data for SERT this structural study elaborates
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Noribogaine SERT affinity this structure explains
+- [Arias2023_Catharanthine_18-MC](../2023/Arias2023_Catharanthine_18-MC.md) — SERT/NET characterisation for 18-MC building on this structural work
+- [Bhat2020_Tropane_Ibo_Analog_SERT_DAT](../2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT.md) — Analogue SERT/DAT binding in structural context
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Mechanism synthesis incorporating SERT role
 

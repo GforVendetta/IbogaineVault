@@ -26,6 +26,7 @@ aliases:
   - "Staten Island Project"
 evidence_level: qualitative
 mortality_count: 3
+mortality_scope: incidental
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -39,6 +40,8 @@ route: oral
 organisation: "MindVox"
 open_access: true
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # The Ibogaine Story — Chapter 18: Deborah Mash's Brain

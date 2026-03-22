@@ -29,9 +29,14 @@ source_pdf: "not-applicable"
 source_url: "http://www.youtube.com/watch?v=xKAD0Rd7HA"
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Clare Wilkins at Microdose 2021: A Holotropic Perspective on Networks, Fissures, and Reciprocity
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 > **Source:** Microdose Masterclass 2021
 > **Speaker:** Clare Wilkins, Director, Pangea Biomedics
@@ -140,10 +145,10 @@ As Dennis McKenna says, we're made up of drugs. We use drugs. Food is drug.
 
 ## See Also
 
-**Parent hub:** [[WHITE_Historical_Hub]]
+**Parent hub:** [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)
 
-- [[Clare_Wilkins_MOC]] — Complete index of Clare Wilkins materials
-- [[1996/Lotsof1996_Trauma_Abreaction]] — Howard Lotsoff's foundational work
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Guidelines Clare co-authored
-- [[Primary_Sources/2020_MYEBOGA_Clare_Wilkins_Interview]] — Previous year's interview
-- [[Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics]] — Earlier talk on community issues
+- [Clare_Wilkins_MOC](../MOCs/Clare_Wilkins_MOC.md) — Complete index of Clare Wilkins materials
+- [Lotsof1996_Trauma_Abreaction](../1996/Lotsof1996_Trauma_Abreaction.md) — Howard Lotsoff's foundational work
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Guidelines Clare co-authored
+- [2020_MYEBOGA_Clare_Wilkins_Interview](2020_MYEBOGA_Clare_Wilkins_Interview.md) — Previous year's interview
+- [2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics](2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics.md) — Earlier talk on community issues

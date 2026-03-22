@@ -31,6 +31,8 @@ aliases:
 contraindications: []
 open_access: true
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # Exploring Ibogaine/5-MeO-DMT as Treatment for the Relief of PTSD Symptoms in Veterans
@@ -425,12 +427,12 @@ Staveley documents her own journey:
 
 ## See Also
 
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol for veterans with TBI
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol for veterans with TBI
 - Davis et al. (2017) 5-MeO-DMT psychopharmacology (not in vault - different compound)
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — Observational methodology for ibogaine outcomes
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — Observational methodology for ibogaine outcomes
 - Barsuglia et al. (2024) Ibogaine/5-MeO veterans research (not in vault)
-- [[RED_Cardiac_Safety_Hub]] — Safety protocols for ibogaine treatment
-- [[BLUE_Outcomes_Hub]] — Clinical outcomes literature
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Safety protocols for ibogaine treatment
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Clinical outcomes literature
 
 ---
 

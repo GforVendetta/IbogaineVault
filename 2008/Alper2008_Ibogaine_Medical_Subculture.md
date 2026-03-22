@@ -29,6 +29,7 @@ aliases:
 evidence_level: observational
 sample_size: 3414
 mortality_count: 11
+mortality_scope: cumulative-review
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -39,6 +40,8 @@ contraindications:
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # The Ibogaine Medical Subculture
@@ -137,9 +140,9 @@ This paper is foundational for understanding the context in which ibogaine treat
 ---
 
 ## See Also
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]] — Predecessor study with data from early 2001
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Subsequent comprehensive analysis of ibogaine-related fatalities
-- [[1999/Alper1999_Acute_Opioid_Withdrawal]] — The 33-patient opioid withdrawal case series referenced in this paper
-- [[Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual]] — The treatment manual referenced as reflecting collective lay provider views
-- [[WHITE_Historical_Hub]]
-- [[Kenneth_Alper_MOC]]
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — Predecessor study with data from early 2001
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Subsequent comprehensive analysis of ibogaine-related fatalities
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — The 33-patient opioid withdrawal case series referenced in this paper
+- [Lotsof2003_Ibogaine_Therapy_Manual](../Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual.md) — The treatment manual referenced as reflecting collective lay provider views
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)
+- [Kenneth_Alper_MOC](../MOCs/Kenneth_Alper_MOC.md)

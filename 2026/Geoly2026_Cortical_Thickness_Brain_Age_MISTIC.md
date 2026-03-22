@@ -55,6 +55,8 @@ route: oral
 open_access: false
 publisher: "Elsevier"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Increased cortical thickness and decreased brain age among special operations veterans with blast TBI after a magnesium-ibogaine protocol
@@ -167,7 +169,7 @@ All participants experienced transient cerebellar signs (mild ataxia, intention 
 
 This study provides the first group-level assessment of MISTIC's effects on gross brain morphometry in humans. Key clinical implications include:
 
-1. **Structural neuroplasticity evidence:** The cortical thickening and subcortical expansion patterns are consistent with neural repair processes, complementing the clinical and cognitive improvements reported in [[2024/Cherian2024_Magnesium_Ibogaine_TBI]]
+1. **Structural neuroplasticity evidence:** The cortical thickening and subcortical expansion patterns are consistent with neural repair processes, complementing the clinical and cognitive improvements reported in [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md)
 2. **Brain age as outcome metric:** The significant pBA reduction demonstrates a potentially useful biomarker for tracking ibogaine treatment response, analogous to how pBA has been used in TBI populations to chart dementia risk
 3. **MISTIC safety signal:** Cerebellar white matter expansion without grey matter contraction provides reassurance against concerns from historical rat neurotoxicity studies
 4. **Reversal of TBI pathology:** The cortical thickening in regions specifically documented to show thinning in blast TBI (bilateral lateral orbitofrontal, right pars orbitalis, right pars triangularis) is suggestive of targeted repair
@@ -206,10 +208,10 @@ As noted by the authors:
 ---
 
 ## See Also
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — Precursor study: clinical outcomes of the same MISTIC cohort (Nature Medicine)
-- [[2025/Faerman2025_MISTIC_12Month_Followup]] — 12-month follow-up of MISTIC outcomes
-- [[2025/Chen2025_Multiple_Sclerosis_Neuroimaging]] — Case series of ibogaine neuroimaging in SOF veterans with MS
-- [[2025/Brown2025_Mystical_Experience_PTSD_Veterans]] — Mystical experience and PTSD outcomes in the MISTIC cohort
-- [[2026/Olash2026_Subjective_Experience_Magnesium_Ibogaine]] — Subjective experience during MISTIC treatment
-- [[2025/Acuna2025_Ibogaine_Visual_Cortex_Plasticity]] — Ibogaine-induced visual cortex plasticity
-- [[BLUE_Outcomes_Hub]]
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — Precursor study: clinical outcomes of the same MISTIC cohort (Nature Medicine)
+- [Faerman2025_MISTIC_12Month_Followup](../2025/Faerman2025_MISTIC_12Month_Followup.md) — 12-month follow-up of MISTIC outcomes
+- [Chen2025_Multiple_Sclerosis_Neuroimaging](../2025/Chen2025_Multiple_Sclerosis_Neuroimaging.md) — Case series of ibogaine neuroimaging in SOF veterans with MS
+- [Brown2025_Mystical_Experience_PTSD_Veterans](../2025/Brown2025_Mystical_Experience_PTSD_Veterans.md) — Mystical experience and PTSD outcomes in the MISTIC cohort
+- [Olash2026_Subjective_Experience_Magnesium_Ibogaine](Olash2026_Subjective_Experience_Magnesium_Ibogaine.md) — Subjective experience during MISTIC treatment
+- [Acuna2025_Ibogaine_Visual_Cortex_Plasticity](../2025/Acuna2025_Ibogaine_Visual_Cortex_Plasticity.md) — Ibogaine-induced visual cortex plasticity
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)

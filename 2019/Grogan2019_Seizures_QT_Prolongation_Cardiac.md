@@ -37,6 +37,8 @@ route: oral
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine Consumption with Seizure-Like Episodes, QTc-Prolongation, and Captured Cardiac Dysrhythmias
@@ -119,9 +121,9 @@ This case is significant for clinical practice in several ways:
 
 ## See Also
 
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Fatality series establishing cardiovascular aetiology as primary cause of ibogaine-associated deaths
-- [[2016/Alper2016_hERG_Blockade]] — hERG channel blockade mechanism underlying QTc prolongation
-- [[2016/Litjens2016_How_Toxic_Is_Ibogaine]] — Comprehensive toxicity review including cardiac risks
-- [[2016/Schep2016_Ibogaine_Safe_Dose]] — Safe dose review; NOAEL and cardiac risk analysis
-- [[2026/Brunt2026_Cardiovascular_Complications_Review]] — Most comprehensive cardiovascular review; contextualises this case within broader AE literature
-- [[RED_Cardiac_Safety_Hub]] — Hub for all cardiac safety evidence
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Fatality series establishing cardiovascular aetiology as primary cause of ibogaine-associated deaths
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG channel blockade mechanism underlying QTc prolongation
+- [Litjens2016_How_Toxic_Is_Ibogaine](../2016/Litjens2016_How_Toxic_Is_Ibogaine.md) — Comprehensive toxicity review including cardiac risks
+- [Schep2016_Ibogaine_Safe_Dose](../2016/Schep2016_Ibogaine_Safe_Dose.md) — Safe dose review; NOAEL and cardiac risk analysis
+- [Brunt2026_Cardiovascular_Complications_Review](../2026/Brunt2026_Cardiovascular_Complications_Review.md) — Most comprehensive cardiovascular review; contextualises this case within broader AE literature
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Hub for all cardiac safety evidence

@@ -40,6 +40,8 @@ route: oral
 open_access: false
 publisher: "Taylor & Francis"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine and Subjective Experience: Transformative States and Psychopharmacotherapy in the Treatment of Opioid Use Disorder
@@ -239,13 +241,13 @@ The authors note fundamental safety concerns, referencing a death reported in th
 ---
 
 ## See Also
-- [[2018/Brown2018_OUD_Detoxification_Outcomes]] — Parent study (Mexico arm): ibogaine treatment outcomes for opioid dependence, same cohort
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — Parent study (NZ arm): 12-month follow-up observational study, same cohort
-- [[2017/Heink2017_Phenomenology_Ibogaine_ASC]] — Complementary phenomenological study using 5d-ASC; 89% buzzing, 85% guilt relief
-- [[2017/Davis2017_Ibogaine_Opioid_Outcomes]] — Subjective effectiveness of ibogaine treatment for problematic opioid consumption
-- [[2018/Davis2018_Mixed_Method_Persisting_Effects]] — Mixed-method analysis of persisting effects from ibogaine detoxification
-- [[2001/Alper2001_Ibogaine_Review]] — Foundational review referenced throughout; "oneirophrenic" characterisation
-- [[2015/Glue2015_Ibogaine_CYP2D6_Activity]] — CYP2D6 influence on ibogaine PK/PD, relevant to experience variability
-- [[2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study]] — Retrospective study showing ibogaine efficacy with increased abstinence
-- [[PURPLE_Phenomenology_Hub]]
-- [[BLUE_Outcomes_Hub]]
+- [Brown2018_OUD_Detoxification_Outcomes](../2018/Brown2018_OUD_Detoxification_Outcomes.md) — Parent study (Mexico arm): ibogaine treatment outcomes for opioid dependence, same cohort
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — Parent study (NZ arm): 12-month follow-up observational study, same cohort
+- [Heink2017_Phenomenology_Ibogaine_ASC](../2017/Heink2017_Phenomenology_Ibogaine_ASC.md) — Complementary phenomenological study using 5d-ASC; 89% buzzing, 85% guilt relief
+- [Davis2017_Ibogaine_Opioid_Outcomes](../2017/Davis2017_Ibogaine_Opioid_Outcomes.md) — Subjective effectiveness of ibogaine treatment for problematic opioid consumption
+- [Davis2018_Mixed_Method_Persisting_Effects](../2018/Davis2018_Mixed_Method_Persisting_Effects.md) — Mixed-method analysis of persisting effects from ibogaine detoxification
+- [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md) — Foundational review referenced throughout; "oneirophrenic" characterisation
+- [Glue2015_Ibogaine_CYP2D6_Activity](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) — CYP2D6 influence on ibogaine PK/PD, relevant to experience variability
+- [Schenberg2014_Treating_Drug_Dependence_Retrospective_Study](../2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md) — Retrospective study showing ibogaine efficacy with increased abstinence
+- [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md)
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)

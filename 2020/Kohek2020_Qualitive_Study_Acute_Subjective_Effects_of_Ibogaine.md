@@ -35,6 +35,8 @@ dosing_range: "6–28 mg/kg oral (i-HCl, TA, root bark, or combinations; see dos
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # The Ibogaine Experience: A Qualitative Study on the Acute Subjective Effects of Ibogaine
@@ -130,10 +132,10 @@ This study's phenomenological taxonomy provides a structured framework for clini
 
 ## See Also
 
-**Parent hub:** [[PURPLE_Phenomenology_Hub]]
+**Parent hub:** [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md)
 
-- [[2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective]] — IES psychometric scale; builds directly on Kohek's qualitative categories to develop quantitative measurement
-- [[2018/Rodger2018_Healing_Potential_Ibogaine]] — Phenomenological healing analysis using IPA methodology
-- [[2024/Ozmat2024_Subjective_Ibogaine_Experiences_Intersection_Social-Ecological_Dimensions]] — Extends phenomenological analysis to social-ecological dimensions
-- [[2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences]] — Transpersonal phenomenology; complementary methodology
-- [[1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs]] — Earliest phenomenological characterisation of ibogaine's psychoanalytical properties
+- [Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective](../2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective.md) — IES psychometric scale; builds directly on Kohek's qualitative categories to develop quantitative measurement
+- [Rodger2018_Healing_Potential_Ibogaine](../2018/Rodger2018_Healing_Potential_Ibogaine.md) — Phenomenological healing analysis using IPA methodology
+- [Ozmat2024_Subjective_Ibogaine_Experiences_Intersection_Social-Ecological_Dimensions](../2024/Ozmat2024_Subjective_Ibogaine_Experiences_Intersection_Social-Ecological_Dimensions.md) — Extends phenomenological analysis to social-ecological dimensions
+- [Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences](../2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences.md) — Transpersonal phenomenology; complementary methodology
+- [Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs](../1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs.md) — Earliest phenomenological characterisation of ibogaine's psychoanalytical properties

@@ -31,6 +31,8 @@ contraindications: []
 open_access: false
 publisher: "Lippincott Williams & Wilkins"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Noribogaine stimulates naloxone-sensitive [³⁵S]GTPγS binding
@@ -120,9 +122,9 @@ This paper provides the foundational mechanistic explanation for ibogaine's abil
 ---
 
 ## See Also
-- [[1995/Mash1995_Noribogaine_SERT_Identification]] — Same lab: noribogaine identified as serotonin transporter-active metabolite with elevated 5-HT via microdialysis
-- [[1996/Staley1996_Noribogaine_Receptor_Binding]] — Same lab: noribogaine multi-receptor binding profile across opioid, SERT, and NMDA targets (cited as Ref. 4)
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Follow-up: in-vivo neurobiological effects of noribogaine in rodents
-- [[2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects]] — Later Mash lab work on oral noribogaine pharmacokinetics and anti-withdrawal effects
-- [[2017/Lavaud2017_Iboga_Alkaloids_Chemistry_Review]] — Reviews this finding in its pharmacology section on iboga alkaloid metabolites
-- [[ORANGE_Mechanisms_Hub]]
+- [Mash1995_Noribogaine_SERT_Identification](../1995/Mash1995_Noribogaine_SERT_Identification.md) — Same lab: noribogaine identified as serotonin transporter-active metabolite with elevated 5-HT via microdialysis
+- [Staley1996_Noribogaine_Receptor_Binding](../1996/Staley1996_Noribogaine_Receptor_Binding.md) — Same lab: noribogaine multi-receptor binding profile across opioid, SERT, and NMDA targets (cited as Ref. 4)
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Follow-up: in-vivo neurobiological effects of noribogaine in rodents
+- [Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects](../2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects.md) — Later Mash lab work on oral noribogaine pharmacokinetics and anti-withdrawal effects
+- [Lavaud2017_Iboga_Alkaloids_Chemistry_Review](../2017/Lavaud2017_Iboga_Alkaloids_Chemistry_Review.md) — Reviews this finding in its pharmacology section on iboga alkaloid metabolites
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

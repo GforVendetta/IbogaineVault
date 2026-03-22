@@ -181,6 +181,7 @@ INDEX_FIELDS = [
     ("key_findings",         "key_findings",         None),
     ("sample_size",          "sample_size",          None),
     ("mortality_count",      "mortality_count",      None),
+    ("mortality_scope",      "mortality_scope",       None),
     ("qtc_data",             "qtc_data",             None),   # Missing → null, NOT false
     ("herg_data",            "herg_data",            None),   # Missing → null, NOT false
     ("electrolyte_data",     "electrolyte_data",     None),   # Missing → null, NOT false
@@ -197,6 +198,8 @@ INDEX_FIELDS = [
     ("publisher",            "publisher",             None),
     ("body_format",          "body_format",           None),
     ("issn",                 "issn",                  None),
+    ("licence_type",         "licence_type",          None),
+    ("licence_verified",     "licence_verified",      None),
 ]
 
 

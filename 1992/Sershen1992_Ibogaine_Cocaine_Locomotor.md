@@ -32,6 +32,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine Antagonizes Cocaine-Induced Locomotor Stimulation in Mice
@@ -102,8 +104,8 @@ This is a preclinical study with no direct human application, but several findin
 ---
 
 ## See Also
-- [[2026/Koutrouli2026_Psilocybin_Ibogaine_Cocaine_Addiction]] — modern preclinical cocaine self-administration study comparing ibogaine and psilocybin
-- [[1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine]] — mechanistic review incorporating dopamine modulation findings
-- [[2001/Glick2001_Mechanisms_Action_Ibogaine_18MC]] — expanded mechanistic model including σ, NMDA, and κ pathways
-- [[1995/Bowen1995_Sigma_Receptor_Selectivity]] — σ₂ binding data relevant to ibogaine's multi-target profile
-- [[ORANGE_Mechanisms_Hub]]
+- [Koutrouli2026_Psilocybin_Ibogaine_Cocaine_Addiction](../2026/Koutrouli2026_Psilocybin_Ibogaine_Cocaine_Addiction.md) — modern preclinical cocaine self-administration study comparing ibogaine and psilocybin
+- [Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine](../1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md) — mechanistic review incorporating dopamine modulation findings
+- [Glick2001_Mechanisms_Action_Ibogaine_18MC](../2001/Glick2001_Mechanisms_Action_Ibogaine_18MC.md) — expanded mechanistic model including σ, NMDA, and κ pathways
+- [Bowen1995_Sigma_Receptor_Selectivity](../1995/Bowen1995_Sigma_Receptor_Selectivity.md) — σ₂ binding data relevant to ibogaine's multi-target profile
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

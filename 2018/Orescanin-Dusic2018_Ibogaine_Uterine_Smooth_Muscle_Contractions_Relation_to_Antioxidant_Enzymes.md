@@ -38,9 +38,14 @@ contraindications: []
 open_access: true
 publisher: "Hindawi"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
 
 # The Effects of Ibogaine on Uterine Smooth Muscle Contractions: Relation to the Activity of Antioxidant Enzymes
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Publication:** *Oxidative Medicine and Cellular Longevity*, Volume 2018, Article ID 5969486, 10 pages **DOI:** [https://doi.org/10.1155/2018/5969486](https://doi.org/10.1155/2018/5969486)
 **Copyright:** © 2018 Zorana Oreščanin-Dušić et al. (Open Access / CC BY)
@@ -365,10 +370,10 @@ Supported by the Ministry of Education, Science and Technological Development of
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes]] — Related antioxidant work
-- [[2000/Mundey2000_Ibogaine_18MC_Smooth_Muscle]] — Earlier smooth muscle study
-- [[2024/Uzelac2024_Cardiotoxic_Necrosis_Redox]] — Redox mechanisms
-- [[2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids]] — Neuroprotection mechanisms
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Cardiac smooth muscle context
+- [Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes](../2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes.md) — Related antioxidant work
+- [Mundey2000_Ibogaine_18MC_Smooth_Muscle](../2000/Mundey2000_Ibogaine_18MC_Smooth_Muscle.md) — Earlier smooth muscle study
+- [Uzelac2024_Cardiotoxic_Necrosis_Redox](../2024/Uzelac2024_Cardiotoxic_Necrosis_Redox.md) — Redox mechanisms
+- [Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids](../2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md) — Neuroprotection mechanisms
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Cardiac smooth muscle context

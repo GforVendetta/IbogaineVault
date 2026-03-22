@@ -26,6 +26,8 @@ herg_data: false
 contraindications: []
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Cytochrome P4502D6 Catalyzes the O-Demethylation of the Psychoactive Alkaloid Ibogaine to 12-Hydroxyibogamine
@@ -148,8 +150,8 @@ This paper provides the foundational enzymatic evidence underlying all subsequen
 ---
 
 ## See Also
-- [[1998/Mash1998_Medication_Development_Ibogaine]] — Companion paper from same group; first human PK data for ibogaine and noribogaine, providing the clinical context for Obach's enzymatic findings
-- [[1996/Staley1996_Noribogaine_Receptor_Binding]] — Receptor binding profile of 12-hydroxyibogamine referenced extensively in this paper's Discussion
-- [[1996/Hough1996_Tissue_Distribution]] — Ibogaine tissue distribution in rats, including discussion of CYP2D6 role in metabolism
-- [[1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine]] — Mechanistic review contextualising the parent/metabolite pharmacological distinction
-- [[ORANGE_Mechanisms_Hub]]
+- [Mash1998_Medication_Development_Ibogaine](Mash1998_Medication_Development_Ibogaine.md) — Companion paper from same group; first human PK data for ibogaine and noribogaine, providing the clinical context for Obach's enzymatic findings
+- [Staley1996_Noribogaine_Receptor_Binding](../1996/Staley1996_Noribogaine_Receptor_Binding.md) — Receptor binding profile of 12-hydroxyibogamine referenced extensively in this paper's Discussion
+- [Hough1996_Tissue_Distribution](../1996/Hough1996_Tissue_Distribution.md) — Ibogaine tissue distribution in rats, including discussion of CYP2D6 role in metabolism
+- [Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine](Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md) — Mechanistic review contextualising the parent/metabolite pharmacological distinction
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

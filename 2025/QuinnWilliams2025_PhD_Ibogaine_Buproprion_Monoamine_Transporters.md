@@ -32,6 +32,8 @@ aliases:
 contraindications: []
 open_access: true
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 
 # A Study of the Inhibitory and Pharmacological Chaperone Effects of Bupropion and Ibogaine on Monoamine Transporters
@@ -255,10 +257,10 @@ The thesis reveals distinct differences between SERT and DAT allosteric sites, w
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
 ### Receptor/Transporter Pharmacology
-- [[2016/Alper2016_hERG_Blockade]] — hERG channel interactions (different target, same drug)
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG channel interactions (different target, same drug)
 - Bhowmik et al. (2024) Broader receptor pharmacology (not in vault)
 - Bulling et al. (2008) SERT inhibition mechanism (not in vault)
 
@@ -266,7 +268,7 @@ The thesis reveals distinct differences between SERT and DAT allosteric sites, w
 - Maillet et al. (2015) Active metabolite pharmacology (not in vault)
 
 ### Analogues
-- [[2025/Ali2025_Ibogaine_Analogs_Review]] — Comprehensive analogues review including pharmacological chaperone considerations
+- [Ali2025_Ibogaine_Analogs_Review](Ali2025_Ibogaine_Analogs_Review.md) — Comprehensive analogues review including pharmacological chaperone considerations
 
 ### Pharmacological Chaperone Work
 - Prior DTDS studies (Kasture, Sucic, Freissmuth group) referenced in thesis

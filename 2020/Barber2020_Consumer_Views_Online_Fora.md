@@ -33,6 +33,8 @@ aliases:
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine therapy for addiction: Consumer views from online fora
@@ -151,7 +153,7 @@ Forums provided community support and accountability for treatment progress.
 
 ## See Also
 
-- [[PURPLE_Phenomenology_Hub]] — Subjective experience research
-- [[GREEN_Clinical_Protocols_Hub]] — Clinical protocols and guidelines
-- [[RED_Cardiac_Safety_Hub]] — Safety concerns discussed by forum users
+- [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md) — Subjective experience research
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md) — Clinical protocols and guidelines
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Safety concerns discussed by forum users
 - Brown & Alper (2019) — Transformative states in OUD treatment (not in vault)

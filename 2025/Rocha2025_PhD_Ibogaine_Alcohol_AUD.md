@@ -38,6 +38,8 @@ aliases:
   - "Ibogaine AUD Clinical Trial"
 open_access: unknown
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 publisher: "Universidade de São Paulo. Agência de Bibliotecas e Coleções Digitais"
 ---
 
@@ -119,7 +121,7 @@ The study protocol was substantially altered mid-study due to the pandemic:
 - QTc prolongation was **dose-dependent** and observed across all dose levels
 - Multiple subjects approached or reached the 500 ms threshold associated with increased arrhythmia risk
 - Prolongation persisted at 12 hours post-dose, consistent with ibogaine's long half-life and noribogaine accumulation
-- **No magnesium cardioprotection protocol** was used — contrast with [[2024/Cherian2024_Magnesium_Ibogaine_TBI|MISTIC protocol]] which achieved zero QTc events
+- **No magnesium cardioprotection protocol** was used — contrast with [MISTIC protocol](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) which achieved zero QTc events
 
 ### Serious Cardiac Adverse Events
 
@@ -137,7 +139,7 @@ The study protocol was substantially altered mid-study due to the pandemic:
 
 ### Electrolyte Data
 
-Laboratory values (Na, K, Ca, Mg) were measured at admission and discharge for all participants. No clinically significant electrolyte derangements were reported, though notably **no pre-treatment electrolyte optimisation protocol** was employed — a significant gap given current best practice (cf. [[2024/Cherian2024_Magnesium_Ibogaine_TBI|MISTIC protocol]]).
+Laboratory values (Na, K, Ca, Mg) were measured at admission and discharge for all participants. No clinically significant electrolyte derangements were reported, though notably **no pre-treatment electrolyte optimisation protocol** was employed — a significant gap given current best practice (cf. [MISTIC protocol](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md)).
 
 ## Adverse Events
 
@@ -207,10 +209,10 @@ Despite its limitations, this study is clinically significant for clinical pract
 
 ## See Also
 
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol: Mg cardioprotection achieved zero QTc events (direct contrast with this study's unprotected QTc prolongation)
-- [[2016/Alper2016_hERG_Blockade]] — hERG channel mechanisms underlying the QTc prolongation observed here
-- [[2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes]] — Mash cocaine cohort for comparison with comorbid stimulant use
-- [[2024/Ona2024_PhD_Thesis_Opioid_Dependence]] — Another recent PhD-level ibogaine clinical trial
-- [[2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety]] — Same lead author; safety context paper
-- [[RED_Cardiac_Safety_Hub]] — Cardiac safety evidence hub
-- [[BLUE_Outcomes_Hub]] — Clinical outcomes and efficacy evidence
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol: Mg cardioprotection achieved zero QTc events (direct contrast with this study's unprotected QTc prolongation)
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG channel mechanisms underlying the QTc prolongation observed here
+- [Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md) — Mash cocaine cohort for comparison with comorbid stimulant use
+- [Ona2024_PhD_Thesis_Opioid_Dependence](../2024/Ona2024_PhD_Thesis_Opioid_Dependence.md) — Another recent PhD-level ibogaine clinical trial
+- [Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety](../2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) — Same lead author; safety context paper
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Cardiac safety evidence hub
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Clinical outcomes and efficacy evidence

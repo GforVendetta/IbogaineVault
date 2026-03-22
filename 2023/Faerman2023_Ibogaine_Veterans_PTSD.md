@@ -37,9 +37,14 @@ contraindications: []
 open_access: false
 publisher: "Oxford University Press"
 body_format: academic-retained
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine Treatment in Combat Veterans Significantly Improves Sleep
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 > **Citation:** Faerman A, Anker L, Cherian K, Brown R, Williams N. (2023). Ibogaine Treatment in Combat Veterans Significantly Improves Sleep, Beyond Alleviating Posttraumatic Stress Disorder Symptoms. *SLEEP* 46(Suppl 1):A292. Abstract 0665.
 
@@ -49,7 +54,7 @@ body_format: academic-retained
 
 - **First study** examining ibogaine effects on sleep in humans
 - Sleep improvements appear mechanistically distinct from PTSD symptom reduction
-- Same cohort as [[2024/Cherian2024_Magnesium_Ibogaine_TBI|Cherian 2024]] MISTIC study (Nature Medicine)
+- Same cohort as [Cherian 2024](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) MISTIC study (Nature Medicine)
 
 ---
 
@@ -100,10 +105,10 @@ The mechanistic dissociation between sleep and PTSD improvements suggests ibogai
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI|Cherian 2024]] — Full MISTIC trial publication (Nature Medicine) from same cohort
-- [[2025/Faerman2025_MISTIC_12Month_Followup|Faerman 2025]] — 12-month follow-up data
-- [[2020/Davis2020_SpecialOps_Veterans_Trauma|Davis 2020]] — Earlier veterans/psychedelic study
-- [[2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS|Davis 2023]] — Related SEAL veteran research
-- [[2025/Brown2025_Mystical_Experience_PTSD_Veterans|Brown 2025]] — Mystical experience and PTSD outcomes
+- [Cherian 2024](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — Full MISTIC trial publication (Nature Medicine) from same cohort
+- [Faerman 2025](../2025/Faerman2025_MISTIC_12Month_Followup.md) — 12-month follow-up data
+- [Davis 2020](../2020/Davis2020_SpecialOps_Veterans_Trauma.md) — Earlier veterans/psychedelic study
+- [Davis 2023](Davis2023_Ibogaine_5MeO-DMT_for_SEALS.md) — Related SEAL veteran research
+- [Brown 2025](../2025/Brown2025_Mystical_Experience_PTSD_Veterans.md) — Mystical experience and PTSD outcomes

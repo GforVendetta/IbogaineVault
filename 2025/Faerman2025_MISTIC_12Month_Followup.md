@@ -48,9 +48,14 @@ route: oral
 contraindications: []
 open_access: true
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Is ibogaine treatment durable? 12-month follow-up of magnesium-ibogaine therapy (MISTIC) in Special Operations Veterans with traumatic brain injuries
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Authors:**
 Afik Faerman, PhD*¹, Jennifer I. Lissemore, PhD*¹, Andrew D. Geoly, MS¹, Kirsten N. Cherian, PhD¹, Malvika Sridhar, MS¹, Bora Kim, MD¹, John P. Coetzee, PhD¹,², Lauren Anker, PhD¹, Ahmed Shamma, BS¹, Jackob N. Keynan, PhD¹, Randi E. Brown, PhD¹, Angela Phillips, PhD¹, Ashley Jester, PhD³, Nicholas J. Bassano, BS¹, Jennifer Keller, PhD¹, Flint M. Espil, PhD¹, Ian H. Kratter, MD PhD¹, Camarin E. Rolle, PhD**¹, Nolan R. Williams, MD**†¹
@@ -288,9 +293,9 @@ N.R. Williams is a named inventor on Stanford-owned intellectual property relati
 
 ## See Also
 
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — Original MISTIC study (Nature Medicine) this 12-month followup extends
-- [[2025/Brown2025_Mystical_Experience_PTSD_Veterans]] — Same study population examining mystical experience-outcome correlation
-- [[RED_Cardiac_Safety_Hub]] — Zero serious adverse events reinforces magnesium cardioprotection
-- [[BLUE_Outcomes_Hub]] — Central hub for clinical outcome evidence
-- [[GREEN_Clinical_Protocols_Hub]] — Magnesium protocol documentation
-- [[Key_Researchers_Hub]] — Nolan Williams† (1981-2025), Kirsten Cherian, Camarin Rolle
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — Original MISTIC study (Nature Medicine) this 12-month followup extends
+- [Brown2025_Mystical_Experience_PTSD_Veterans](Brown2025_Mystical_Experience_PTSD_Veterans.md) — Same study population examining mystical experience-outcome correlation
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Zero serious adverse events reinforces magnesium cardioprotection
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Central hub for clinical outcome evidence
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md) — Magnesium protocol documentation
+- [Key_Researchers_Hub](../Hubs/Key_Researchers_Hub.md) — Nolan Williams† (1981-2025), Kirsten Cherian, Camarin Rolle

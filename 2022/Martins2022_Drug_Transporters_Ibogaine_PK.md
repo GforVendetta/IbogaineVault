@@ -43,6 +43,8 @@ aliases:
 open_access: true
 publisher: "Frontiers"
 body_format: vault-analytical
+licence_type: cc-by
+licence_verified: false
 ---
 
 # Drug Transporters ABCB1 (P-gp) and OATP, but not Drug-Metabolizing Enzyme CYP3A4, Affect the Pharmacokinetics of the Psychoactive Alkaloid Ibogaine and its Metabolites
@@ -165,8 +167,8 @@ Notably, absolute brain concentrations of ibogaine and noribogaine were strongly
 ---
 
 ## See Also
-- [[1996/Hough1996_Tissue_Distribution]] — Earlier tissue distribution study in rats (IP/SC routes); Martins2022 extends to oral route with transporter knockout models
-- [[2015/Glue2015_Ibogaine_CYP2D6_Activity]] — Human CYP2D6 PK study; Martins2022 provides preclinical evidence that CYP3A4 is not a major alternative metabolic pathway
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]] — Noribogaine PK in healthy volunteers; contextualises the noribogaine brain distribution data
-- [[2016/Glue2016_Noribogaine_Opioid_Patients_Safety]] — Noribogaine safety/PK in opioid-dependent patients
-- [[ORANGE_Mechanisms_Hub]]
+- [Hough1996_Tissue_Distribution](../1996/Hough1996_Tissue_Distribution.md) — Earlier tissue distribution study in rats (IP/SC routes); Martins2022 extends to oral route with transporter knockout models
+- [Glue2015_Ibogaine_CYP2D6_Activity](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) — Human CYP2D6 PK study; Martins2022 provides preclinical evidence that CYP3A4 is not a major alternative metabolic pathway
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Noribogaine PK in healthy volunteers; contextualises the noribogaine brain distribution data
+- [Glue2016_Noribogaine_Opioid_Patients_Safety](../2016/Glue2016_Noribogaine_Opioid_Patients_Safety.md) — Noribogaine safety/PK in opioid-dependent patients
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

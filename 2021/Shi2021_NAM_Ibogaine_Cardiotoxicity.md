@@ -42,6 +42,8 @@ route: oral
 open_access: unknown
 publisher: "Bentham Open"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # A New Approach Methodology (NAM) for the Prediction of (Nor)Ibogaine-Induced Cardiotoxicity in Humans
@@ -165,10 +167,10 @@ This study provides quantitative risk thresholds highly relevant to clinical ibo
 ---
 
 ## See Also
-- [[2016/Alper2016_hERG_Blockade]] — hERG blockade by iboga alkaloids; provides the patch-clamp hERG data this study contextualises
-- [[2017/Rubi2017_hERG_iPSC_Cardiomyocytes]] — hiPSC-CM action potential prolongation by ibogaine/noribogaine; single-concentration comparison
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]] — Clinical PK data (noribogaine 3–60 mg) used for PBK model validation
-- [[2015/Glue2015_Ibogaine_CYP2D6_Activity]] — Clinical PK data (20 mg ibogaine, CYP2D6 influence) used for PBK model validation
-- [[2016/Glue2016_Noribogaine_Opioid_Patients_Safety]] — Clinical QTc dose-response data (noribogaine 60–180 mg) used for BMDL₁₀ validation
-- [[2016/Schep2016_Ibogaine_Safe_Dose]] — Safe dose review; this study provides quantitative BMDL₁₀ estimates to complement Schep's clinical review
-- [[RED_Cardiac_Safety_Hub]]
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG blockade by iboga alkaloids; provides the patch-clamp hERG data this study contextualises
+- [Rubi2017_hERG_iPSC_Cardiomyocytes](../2017/Rubi2017_hERG_iPSC_Cardiomyocytes.md) — hiPSC-CM action potential prolongation by ibogaine/noribogaine; single-concentration comparison
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Clinical PK data (noribogaine 3–60 mg) used for PBK model validation
+- [Glue2015_Ibogaine_CYP2D6_Activity](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) — Clinical PK data (20 mg ibogaine, CYP2D6 influence) used for PBK model validation
+- [Glue2016_Noribogaine_Opioid_Patients_Safety](../2016/Glue2016_Noribogaine_Opioid_Patients_Safety.md) — Clinical QTc dose-response data (noribogaine 60–180 mg) used for BMDL₁₀ validation
+- [Schep2016_Ibogaine_Safe_Dose](../2016/Schep2016_Ibogaine_Safe_Dose.md) — Safe dose review; this study provides quantitative BMDL₁₀ estimates to complement Schep's clinical review
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

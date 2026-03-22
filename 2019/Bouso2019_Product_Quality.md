@@ -31,9 +31,14 @@ dosing_range: "not-specified"
 open_access: true
 publisher: "SciELO"
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # CRITICAL SAFETY ALERT: Product Quality Crisis
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 ## An Analytical Study of Iboga Alkaloids in Products from Treatment Providers
 **Bouso et al., 2019**
@@ -320,10 +325,10 @@ Australia, Netherlands, New Zealand, Canada, Mexico, Germany, South Africa, Spai
 
 ## See Also
 
-**Parent hub:** [[GREEN_Clinical_Protocols_Hub]]
+**Parent hub:** [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)
 
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Guidelines this quality data informs
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Safety context for product quality
-- [[2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety]] — Setting factors including product quality
-- [[2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs]] — Chemistry context
-- [[2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience]] — Standardisation needs
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Guidelines this quality data informs
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Safety context for product quality
+- [Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety](../2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) — Setting factors including product quality
+- [Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs](Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md) — Chemistry context
+- [Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience](../2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience.md) — Standardisation needs

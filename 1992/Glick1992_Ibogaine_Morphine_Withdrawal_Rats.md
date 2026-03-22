@@ -34,6 +34,8 @@ dosing_range: "20, 40 and 80 mg/kg IP (ibogaine HCl in saline, 1–4 ml/kg)"
 route: intraperitoneal
 open_access: unknown
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 
 # Effects of Ibogaine on Acute Signs of Morphine Withdrawal in Rats: Independence from Tremor
@@ -154,8 +156,8 @@ The selective nature of ibogaine's effects — reducing some withdrawal signs bu
 ---
 
 ## See Also
-- [[1991/Glick1991_Ibogaine_Morphine_Self_Administration]] — Same laboratory; ibogaine reduces morphine self-administration in rats using same dose parameters
-- [[1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis]] — Companion microdialysis study showing ibogaine blocks morphine-induced dopamine release
-- [[1992/Deecher1992_Radioligand_Binding_Mechanisms]] — Receptor binding data cited in this paper (Kᵢ values including kappa opioid)
-- [[1994/Glick1994_Iboga_Alkaloids_Self_Administration]] — Subsequent development of iboga alkaloid effects on self-administration
-- [[ORANGE_Mechanisms_Hub]]
+- [Glick1991_Ibogaine_Morphine_Self_Administration](../1991/Glick1991_Ibogaine_Morphine_Self_Administration.md) — Same laboratory; ibogaine reduces morphine self-administration in rats using same dose parameters
+- [Maisonneuve1991_Ibogaine_Morphine_Microdialysis](../1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis.md) — Companion microdialysis study showing ibogaine blocks morphine-induced dopamine release
+- [Deecher1992_Radioligand_Binding_Mechanisms](Deecher1992_Radioligand_Binding_Mechanisms.md) — Receptor binding data cited in this paper (Kᵢ values including kappa opioid)
+- [Glick1994_Iboga_Alkaloids_Self_Administration](../1994/Glick1994_Iboga_Alkaloids_Self_Administration.md) — Subsequent development of iboga alkaloid effects on self-administration
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

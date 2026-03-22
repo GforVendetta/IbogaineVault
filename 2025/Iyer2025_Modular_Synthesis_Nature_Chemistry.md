@@ -39,6 +39,8 @@ contraindications: []
 open_access: true
 publisher: "Springer Nature"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Efficient and modular synthesis of ibogaine and related alkaloids
@@ -304,17 +306,17 @@ The biological evaluation is restricted to two in-vitro assay systems (rat corti
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
 **Directly related:**
-- [[2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs]] — Comprehensive review by the same first author covering iboga alkaloid chemistry and pharmacology; establishes the scientific context for this synthesis work
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — In-vivo SERT interaction data for ibogaine and noribogaine; provides the physiological context for the in-vitro SERT findings here
-- [[2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects]] — Noribogaine pharmacology and the active metabolite hypothesis that motivates (−)-10-fluoroibogamine development
+- [Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs](../2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md) — Comprehensive review by the same first author covering iboga alkaloid chemistry and pharmacology; establishes the scientific context for this synthesis work
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — In-vivo SERT interaction data for ibogaine and noribogaine; provides the physiological context for the in-vitro SERT findings here
+- [Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects](../2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects.md) — Noribogaine pharmacology and the active metabolite hypothesis that motivates (−)-10-fluoroibogamine development
 
 **Cardiac safety context:**
-- [[2016/Alper2016_hERG_Blockade]] — hERG channel blockade by ibogaine, the principal safety concern that drives analogue development
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI|Cherian 2024]] — MISTIC magnesium co-administration protocol; alternative approach to managing ibogaine cardiac risk rather than replacing the molecule
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG channel blockade by ibogaine, the principal safety concern that drives analogue development
+- [Cherian 2024](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC magnesium co-administration protocol; alternative approach to managing ibogaine cardiac risk rather than replacing the molecule
 
 **Analogue development:**
-- [[2023/Arias2023_Catharanthine_18-MC]] — 18-MC and catharanthine as iboga congeners with distinct pharmacological profiles
-- [[1999/Glick1999_18MC_Review_CNS_Drugs]] — 18-methoxycoronaridine, the first major iboga analogue programme aimed at separating anti-addictive efficacy from cardiac risk
+- [Arias2023_Catharanthine_18-MC](../2023/Arias2023_Catharanthine_18-MC.md) — 18-MC and catharanthine as iboga congeners with distinct pharmacological profiles
+- [Glick1999_18MC_Review_CNS_Drugs](../1999/Glick1999_18MC_Review_CNS_Drugs.md) — 18-methoxycoronaridine, the first major iboga analogue programme aimed at separating anti-addictive efficacy from cardiac risk

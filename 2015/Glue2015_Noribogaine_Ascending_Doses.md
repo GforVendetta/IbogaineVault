@@ -38,6 +38,8 @@ contraindications: []
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ascending-Dose Study of Noribogaine in Healthy Volunteers: Pharmacokinetics, Pharmacodynamics, Safety, and Tolerability
@@ -117,33 +119,33 @@ No QTcF values >500 ms at any timepoint across all dose groups. One subject in t
 
 This study establishes the foundational human pharmacokinetic and safety reference for noribogaine — data that is critical for evaluating noribogaine as a standalone therapeutic agent distinct from its parent compound ibogaine. Several findings carry direct clinical significance:
 
-**Prolonged therapeutic window.** The 28–49 hour half-life and massive volume of distribution (up to ~3,000 L) indicate deep tissue compartmentalisation and sustained systemic exposure from a single oral dose. For withdrawal suppression, this is pharmacokinetically advantageous: a single dose could provide days of therapeutic coverage, in contrast to short-acting withdrawal management agents requiring repeated dosing. Compare with [[2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects|Mash2016]], which subsequently demonstrated a brain:blood ratio of 8.4 — the tissue reservoir is not just peripheral but substantially cerebral.
+**Prolonged therapeutic window.** The 28–49 hour half-life and massive volume of distribution (up to ~3,000 L) indicate deep tissue compartmentalisation and sustained systemic exposure from a single oral dose. For withdrawal suppression, this is pharmacokinetically advantageous: a single dose could provide days of therapeutic coverage, in contrast to short-acting withdrawal management agents requiring repeated dosing. Compare with [Mash2016](../2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects.md), which subsequently demonstrated a brain:blood ratio of 8.4 — the tissue reservoir is not just peripheral but substantially cerebral.
 
-**Absence of mu-agonist effects.** The negative pupillometry and cold-pressor results are clinically reassuring. If noribogaine were a meaningful mu-agonist at therapeutic doses, it would carry abuse liability and respiratory depression risk — the very harms it aims to treat. The authors' framing aligns with [[2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation|Antonio2013]], which reclassified noribogaine's mu-opioid interaction as antagonism or weak partial agonism rather than full agonism.
+**Absence of mu-agonist effects.** The negative pupillometry and cold-pressor results are clinically reassuring. If noribogaine were a meaningful mu-agonist at therapeutic doses, it would carry abuse liability and respiratory depression risk — the very harms it aims to treat. The authors' framing aligns with [Antonio2013](../2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation.md), which reclassified noribogaine's mu-opioid interaction as antagonism or weak partial agonism rather than full agonism.
 
-**hERG margin and cardiac context.** The reported ~13-fold hERG safety margin (IC₅₀ ~1,500 ng/mL vs C_max 116 ng/mL at 60 mg) provides preliminary reassurance, though the IC₅₀ derives from unpublished Demerx data, not this paper's own assays. For clinical screening protocols, this margin narrows significantly at full ibogaine doses where noribogaine C_max can reach 500–1,000+ ng/mL (see [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk|Koenig2012]]). The single QTcF outlier (>60 ms increase at 10 mg) warrants attention as a signal, albeit from only one subject.
+**hERG margin and cardiac context.** The reported ~13-fold hERG safety margin (IC₅₀ ~1,500 ng/mL vs C_max 116 ng/mL at 60 mg) provides preliminary reassurance, though the IC₅₀ derives from unpublished Demerx data, not this paper's own assays. For clinical screening protocols, this margin narrows significantly at full ibogaine doses where noribogaine C_max can reach 500–1,000+ ng/mL (see [Koenig2012](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md)). The single QTcF outlier (>60 ms increase at 10 mg) warrants attention as a signal, albeit from only one subject.
 
-**CYP2D6 implications.** This study used healthy volunteers without CYP2D6 phenotyping. Since noribogaine is produced via CYP2D6-mediated O-demethylation of ibogaine, the PK parameters here reflect the metabolite administered directly. The companion study [[2015/Glue2015_Ibogaine_CYP2D6_Activity|Glue2015 CYP2D6]] addresses the metaboliser phenotype question using the same cohort framework.
+**CYP2D6 implications.** This study used healthy volunteers without CYP2D6 phenotyping. Since noribogaine is produced via CYP2D6-mediated O-demethylation of ibogaine, the PK parameters here reflect the metabolite administered directly. The companion study [Glue2015 CYP2D6](Glue2015_Ibogaine_CYP2D6_Activity.md) addresses the metaboliser phenotype question using the same cohort framework.
 
 ## Limitations
 
 - **Healthy volunteers only.** No opioid-dependent subjects were studied. PK and safety in the target population — who may have hepatic impairment, poly-drug exposure, and altered receptor states — cannot be extrapolated from these data.
-- **Sub-therapeutic doses for withdrawal suppression.** The 3–60 mg range was chosen for first-in-human safety. Subsequent clinical studies used higher doses ([[2016/Glue2016_Noribogaine_Opioid_Patients_Safety|Glue2016]] tested 60–180 mg in opioid-dependent patients). The safety profile at clinically relevant doses may differ.
+- **Sub-therapeutic doses for withdrawal suppression.** The 3–60 mg range was chosen for first-in-human safety. Subsequent clinical studies used higher doses ([Glue2016](../2016/Glue2016_Noribogaine_Opioid_Patients_Safety.md) tested 60–180 mg in opioid-dependent patients). The safety profile at clinically relevant doses may differ.
 - **Males only.** All 36 participants were male. Sex differences in noribogaine PK, cardiac sensitivity, and body composition remain uncharacterised.
 - **Single-dose design.** No data on accumulation, steady-state PK, or repeated-dose safety. Given the 28–49 hour half-life, accumulation with repeated dosing is pharmacokinetically likely.
 - **CYP2D6 not phenotyped.** Metaboliser status was not assessed in this study — a significant gap given noribogaine's known CYP2D6-mediated metabolism from ibogaine.
-- **hERG data is unpublished.** The 13-fold safety margin cited relies on Demerx's proprietary IC₅₀ data (not peer-reviewed). Independent hERG data from [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk|Koenig2012]] and Bhatt2020 provide more rigorous context.
+- **hERG data is unpublished.** The 13-fold safety margin cited relies on Demerx's proprietary IC₅₀ data (not peer-reviewed). Independent hERG data from [Koenig2012](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) and Bhatt2020 provide more rigorous context.
 - **Demerx-funded.** Study funded by the drug developer; principal investigator and analytical work independent (University of Otago/Zenith Technology), but Friedhoff is a paid Demerx consultant.
 
 ---
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Preclinical noribogaine profiling this clinical study follows
-- [[2015/Glue2015_Ibogaine_CYP2D6_Activity]] — Same research programme; CYP2D6 PK study using same trial infrastructure
-- [[2016/Glue2016_Noribogaine_Opioid_Patients_Safety]] — Phase Ib: noribogaine 60–180 mg in opioid-dependent patients (the next step)
-- [[2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects]] — Noribogaine brain:blood ratio 8.4 and anti-withdrawal effects in preclinical model
-- [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — Independent hERG data for cardiac safety margin context
-- [[2024/Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects]] — Noribogaine wakefulness promotion and REM suppression effects
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Preclinical noribogaine profiling this clinical study follows
+- [Glue2015_Ibogaine_CYP2D6_Activity](Glue2015_Ibogaine_CYP2D6_Activity.md) — Same research programme; CYP2D6 PK study using same trial infrastructure
+- [Glue2016_Noribogaine_Opioid_Patients_Safety](../2016/Glue2016_Noribogaine_Opioid_Patients_Safety.md) — Phase Ib: noribogaine 60–180 mg in opioid-dependent patients (the next step)
+- [Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects](../2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects.md) — Noribogaine brain:blood ratio 8.4 and anti-withdrawal effects in preclinical model
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — Independent hERG data for cardiac safety margin context
+- [Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects](../2024/Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects.md) — Noribogaine wakefulness promotion and REM suppression effects

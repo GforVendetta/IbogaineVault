@@ -47,6 +47,8 @@ contraindications: []
 open_access: true
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Psychedelics Promote Structural and Functional Neural Plasticity
@@ -120,7 +122,7 @@ The authors propose that psychedelics activate 5-HT₂A receptors, which signal 
 ---
 
 ## See Also
-- [[ORANGE_Mechanisms_Hub]]
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]]
-- [[2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience]]
-- [[2024/Kobr2024_PhD_Ibogaine_Addiction_Treatment_Review]]
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md)
+- [Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience](Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience.md)
+- [Kobr2024_PhD_Ibogaine_Addiction_Treatment_Review](../2024/Kobr2024_PhD_Ibogaine_Addiction_Treatment_Review.md)

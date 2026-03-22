@@ -35,9 +35,14 @@ contraindications: []
 open_access: true
 publisher: "Frontiers"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
 
 # Ibogaine reduced severe neuropathic pain associated with a case of brachial plexus nerve root avulsion (Dickinson et al., 2023)
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Citation:** Dickinson JE, Inzunza JAD, Perez-Villa L, Millar TG and Pushparaj AP (2023) Case report: Ibogaine reduced severe neuropathic pain associated with a case of brachial plexus nerve root avulsion. Front. Pain Res. 4:1256396. doi: 10.3389/fpain.2023.1256396
 
@@ -280,10 +285,10 @@ The Supplementary Material for this article can be found online at: [https://www
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — Veterans/TBI breakthrough outcomes
-- [[2018/Rodger2018_Healing_Potential_Ibogaine]] — Healing/pain processing
-- [[2006/He2006_Ibogaine_and_GDNF]] — Neuroplasticity for neural repair
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Receptor basis for analgesic effects
-- [[2021/Underwood2021_Narrative_Review_Ibogaine_Literature]] — Clinical review context
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — Veterans/TBI breakthrough outcomes
+- [Rodger2018_Healing_Potential_Ibogaine](../2018/Rodger2018_Healing_Potential_Ibogaine.md) — Healing/pain processing
+- [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — Neuroplasticity for neural repair
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Receptor basis for analgesic effects
+- [Underwood2021_Narrative_Review_Ibogaine_Literature](../2021/Underwood2021_Narrative_Review_Ibogaine_Literature.md) — Clinical review context

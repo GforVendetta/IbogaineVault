@@ -11,6 +11,7 @@ tags:
   - method/in-vitro
 key_findings: "MECHANISM: Low-dose ibogaine (10µM) selectively inhibits nicotinic receptor-mediated catecholamine release without affecting K+ or veratridine-evoked release. Not kappa-opioid mediated. Concentration-dependent reversibility."
 journal: "Brain Research"
+issn: "0006-8993"
 document_type: in-vitro
 aliases: ["Mah 1998", "Mah"]
 source_pdf: "1998/Mah1998_Nicotinic_Receptor_Mechanism.pdf"
@@ -26,8 +27,13 @@ route: not-specified
 contraindications: []
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 pmid: "9630615"
 ---
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 <!-- image -->
 
@@ -145,8 +151,8 @@ We wish to acknowledge the support, provision of drugs and encouragement by the 
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1998/Glick1998_18MC_Nicotine]] — Complementary nicotinic receptor mechanism work
-- [[2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human]] — Later detailed conformational state analysis
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Comprehensive receptor binding context
+- [Glick1998_18MC_Nicotine](Glick1998_18MC_Nicotine.md) — Complementary nicotinic receptor mechanism work
+- [Arias2010_Interactions_Ibogaine_NicotinicAChR_Human](../2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human.md) — Later detailed conformational state analysis
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Comprehensive receptor binding context

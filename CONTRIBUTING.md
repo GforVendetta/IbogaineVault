@@ -15,12 +15,12 @@ The vault contains over 300 papers (1957–2026) converted to searchable markdow
 
 | Category | Hub | Focus |
 |----------|-----|-------|
-| 🔴 RED | [[RED_Cardiac_Safety_Hub]] | Cardiac safety, fatalities, hERG, adverse events |
-| 🟢 GREEN | [[GREEN_Clinical_Protocols_Hub]] | Clinical protocols, guidelines, screening, dosing |
-| 🟠 ORANGE | [[ORANGE_Mechanisms_Hub]] | Pharmacology, receptors, GDNF, analogues |
-| 🔵 BLUE | [[BLUE_Outcomes_Hub]] | Clinical outcomes, trials, efficacy |
-| 🟣 PURPLE | [[PURPLE_Phenomenology_Hub]] | Subjective experience, phenomenology |
-| ⚪ WHITE | [[WHITE_Historical_Hub]] | Bwiti, Lotsof, policy, historical |
+| 🔴 RED | [RED_Cardiac_Safety_Hub](Hubs/RED_Cardiac_Safety_Hub.md) | Cardiac safety, fatalities, hERG, adverse events |
+| 🟢 GREEN | [GREEN_Clinical_Protocols_Hub](Hubs/GREEN_Clinical_Protocols_Hub.md) | Clinical protocols, guidelines, screening, dosing |
+| 🟠 ORANGE | [ORANGE_Mechanisms_Hub](Hubs/ORANGE_Mechanisms_Hub.md) | Pharmacology, receptors, GDNF, analogues |
+| 🔵 BLUE | [BLUE_Outcomes_Hub](Hubs/BLUE_Outcomes_Hub.md) | Clinical outcomes, trials, efficacy |
+| 🟣 PURPLE | [PURPLE_Phenomenology_Hub](Hubs/PURPLE_Phenomenology_Hub.md) | Subjective experience, phenomenology |
+| ⚪ WHITE | [WHITE_Historical_Hub](Hubs/WHITE_Historical_Hub.md) | Bwiti, Lotsof, policy, historical |
 
 All six categories are equally important. RED is not "more important" than PURPLE — they serve different functions within the same research instrument.
 
@@ -31,7 +31,7 @@ All six categories are equally important. RED is not "more important" than PURPL
 ### The Workflow
 
 1. Read `_meta/schema_registry.yml` for field definitions and valid enums, and `_meta/Tag_Taxonomy.md` for the 62 canonical tags
-2. Review the category assignment logic in [[_meta/VAULT_ARCHITECTURE|Vault Architecture]]
+2. Review the category assignment logic in [Vault Architecture](_meta/VAULT_ARCHITECTURE.md)
 3. Read the source PDF
 4. Convert following the YAML schema and body structure described below
 5. Place the file in the appropriate year folder: `YYYY/AuthorYear_Short_Title.md`
@@ -40,7 +40,7 @@ All six categories are equally important. RED is not "more important" than PURPL
 
 - **YAML accuracy is paramount.** Every field in the frontmatter drives downstream queries. A miscategorised RED paper could mean cardiac safety evidence is missed during screening.
 - **Use canonical tags only.** The 62-tag taxonomy is at `_meta/Tag_Taxonomy.md`. Do not invent new tags — if a concept isn't covered, discuss adding it.
-- **Category assignment follows the decision logic** in [[_meta/VAULT_ARCHITECTURE|Vault Architecture]]. When in doubt, ask: "What clinical question does this paper primarily answer?"
+- **Category assignment follows the decision logic** in [Vault Architecture](_meta/VAULT_ARCHITECTURE.md). When in doubt, ask: "What clinical question does this paper primarily answer?"
 - **`see_also` links should include a `**Parent hub:**` back-link** as the first item, mapping to the paper's primary category hub.
 
 ### YAML Essentials
@@ -64,16 +64,16 @@ The vault contains two paper formats — this is a deliberate design decision, n
 
 ---
 
-## Wikilink Integrity
+## Link Integrity
 
-All wikilinks in contributed papers should point to files that exist in this repository. If you're unsure whether a file is included, check the directory structure or ask.
+All cross-reference links in contributed papers should point to files that exist in this repository. Use standard markdown link format: `[Display Text](path/to/file.md)`. If you're unsure whether a target file is included, check the directory structure or ask.
 
 ---
 
 ## Modifying Existing Content
 
 - **Do not change YAML frontmatter** without understanding the downstream impact — Bases, Dataview queries, and validation tooling all depend on it
-- **Preserve wikilinks** — the vault has ~4,400 cross-references; broken links degrade the knowledge network
+- **Preserve cross-reference links** — the vault has ~3,400 cross-references; broken links degrade the knowledge network
 - Contributions will be validated against the schema registry before merging
 
 ---

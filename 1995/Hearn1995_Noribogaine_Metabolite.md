@@ -29,6 +29,8 @@ herg_data: false
 contraindications: []
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Identification and Quantitation of Ibogaine and an *o*-Demethylated Metabolite in Brain and Biological Fluids Using Gas Chromatography–Mass Spectrometry
@@ -109,7 +111,7 @@ Freeze-thaw testing (two cycles at −20°C) showed no measurable effect on ibog
 
 ### Species-Comparative Pharmacokinetic Observations
 
-Though presented as a secondary application of the validated method, the pharmacokinetic data from human and monkey subjects carry substantial historical significance. Both species showed comparable ibogaine elimination kinetics following oral dosing. The critical divergence was in metabolite handling: cynomolgus monkeys cleared the majority of circulating noribogaine by 14 hours, while human subjects retained appreciable blood concentrations at 24 hours post-dose. This extended human exposure to the metabolite — which concurrent work by [[1995/Mash1995_Noribogaine_SERT_Identification|Mash et al. (1995)]] was showing to be a potent serotonin transporter ligand — provided early pharmacokinetic evidence that noribogaine might be the principal mediator of ibogaine's sustained anti-addictive effects. Later work by [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety|Mash et al. (2000)]] would confirm noribogaine's extended half-life and its clinical significance in larger treatment cohorts.
+Though presented as a secondary application of the validated method, the pharmacokinetic data from human and monkey subjects carry substantial historical significance. Both species showed comparable ibogaine elimination kinetics following oral dosing. The critical divergence was in metabolite handling: cynomolgus monkeys cleared the majority of circulating noribogaine by 14 hours, while human subjects retained appreciable blood concentrations at 24 hours post-dose. This extended human exposure to the metabolite — which concurrent work by [Mash et al. (1995)](Mash1995_Noribogaine_SERT_Identification.md) was showing to be a potent serotonin transporter ligand — provided early pharmacokinetic evidence that noribogaine might be the principal mediator of ibogaine's sustained anti-addictive effects. Later work by [Mash et al. (2000)](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md) would confirm noribogaine's extended half-life and its clinical significance in larger treatment cohorts.
 
 ## Clinical Implications
 
@@ -127,7 +129,7 @@ The authors acknowledged that the method had been validated only for the specifi
 
 ## See Also
 
-- [[1995/Mash1995_Noribogaine_SERT_Identification]] — Concurrent identification of noribogaine as a potent SERT ligand, providing the pharmacological rationale for the extended metabolite exposure documented here
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — Clinical pharmacokinetic study in 39 patients building directly on the GC-MS method validated in this paper
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Comprehensive noribogaine neurobiology characterisation enabled by the analytical methods established here
-- [[ORANGE_Mechanisms_Hub]]
+- [Mash1995_Noribogaine_SERT_Identification](Mash1995_Noribogaine_SERT_Identification.md) — Concurrent identification of noribogaine as a potent SERT ligand, providing the pharmacological rationale for the extended metabolite exposure documented here
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — Clinical pharmacokinetic study in 39 patients building directly on the GC-MS method validated in this paper
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Comprehensive noribogaine neurobiology characterisation enabled by the analytical methods established here
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

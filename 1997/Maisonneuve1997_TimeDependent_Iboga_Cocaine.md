@@ -35,6 +35,8 @@ route: intraperitoneal
 contraindications: []
 open_access: unknown
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 
 # Time-dependent interactions between iboga agents and cocaine
@@ -210,10 +212,10 @@ This study was supported by DA03817.
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis]] — Same author's foundational microdialysis study this time-course work extends
-- [[1996/Reid1996_Local_Ibogaine_Dopamine]] — Local dopamine characterisation from same era
-- [[1996/Glick1996_18MC_NonToxic]] — Contemporaneous Albany group work on 18-MC analogue
-- [[1999/Maisonneuve1999_18MC_Morphine_Reinforcement]] — Same author's subsequent 18-MC morphine reinforcement study
-- [[2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis]] — Systematic review incorporating this animal model data
+- [Maisonneuve1991_Ibogaine_Morphine_Microdialysis](../1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis.md) — Same author's foundational microdialysis study this time-course work extends
+- [Reid1996_Local_Ibogaine_Dopamine](../1996/Reid1996_Local_Ibogaine_Dopamine.md) — Local dopamine characterisation from same era
+- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md) — Contemporaneous Albany group work on 18-MC analogue
+- [Maisonneuve1999_18MC_Morphine_Reinforcement](../1999/Maisonneuve1999_18MC_Morphine_Reinforcement.md) — Same author's subsequent 18-MC morphine reinforcement study
+- [Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis](../2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md) — Systematic review incorporating this animal model data

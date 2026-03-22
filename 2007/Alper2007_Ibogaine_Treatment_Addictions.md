@@ -29,9 +29,14 @@ volume: 2
 contraindications: []
 open_access: true
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # THE USE OF IBOGAINE IN THE TREATMENT OF ADDICTIONS
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **KENNETH R. ALPER AND HOWARD S. LOTSOF**
 
@@ -340,10 +345,10 @@ The existence and present expansion of the subculture, based on the word of mout
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[1996/Lotsof1996_Trauma_Abreaction]] — Earlier Lotsof psychological framework
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]] — Clinical case studies with Alper
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Alper's later safety work
-- [[2005/Kroupa2005_Boosters_Maintenance]] — Booster protocols for addiction treatment
-- [[2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance]] — Historical context for this work
+- [Lotsof1996_Trauma_Abreaction](../1996/Lotsof1996_Trauma_Abreaction.md) — Earlier Lotsof psychological framework
+- [Lotsof2001_Case_Studies_Patient_Management](../2001/Lotsof2001_Case_Studies_Patient_Management.md) — Clinical case studies with Alper
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Alper's later safety work
+- [Kroupa2005_Boosters_Maintenance](../2005/Kroupa2005_Boosters_Maintenance.md) — Booster protocols for addiction treatment
+- [Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance](../2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md) — Historical context for this work

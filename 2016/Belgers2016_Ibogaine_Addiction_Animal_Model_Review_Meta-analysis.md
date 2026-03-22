@@ -32,9 +32,14 @@ contraindications: []
 open_access: true
 publisher: "Springer Nature"
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine and addiction in the animal model, a systematic review and meta-analysis
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Citation:** *Transl Psychiatry* (2016) 6, e826; doi:10.1038/tp.2016.71
 **Authors:** M Belgers$^1,2,3$, M Leenaars$^4$, JR Homberg$^5$, M Ritskes-Hoitinga$^4$, AFA Schellekens and CR Hooijmans$^4$
@@ -557,10 +562,10 @@ Supplementary Information accompanies the paper on the Translational Psychiatry 
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine]] — Time-dependent effects in individual animal studies
-- [[2013/Cachat2013_Ibogaine_Zebrafish]] — Zebrafish model for comparison
-- [[2021/Underwood2021_Narrative_Review_Ibogaine_Literature]] — Narrative review synthesising animal and human data
-- [[2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine]] — Systematic clinical review for translation context
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Mechanism synthesis from animal data
+- [Maisonneuve1997_TimeDependent_Iboga_Cocaine](../1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine.md) — Time-dependent effects in individual animal studies
+- [Cachat2013_Ibogaine_Zebrafish](../2013/Cachat2013_Ibogaine_Zebrafish.md) — Zebrafish model for comparison
+- [Underwood2021_Narrative_Review_Ibogaine_Literature](../2021/Underwood2021_Narrative_Review_Ibogaine_Literature.md) — Narrative review synthesising animal and human data
+- [Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine](../2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md) — Systematic clinical review for translation context
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Mechanism synthesis from animal data

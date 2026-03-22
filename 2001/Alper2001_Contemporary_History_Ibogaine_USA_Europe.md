@@ -15,6 +15,7 @@ tags:
 key_findings: "Comprehensive narrative of ibogaine treatment scenes in US and Europe 1962-2001, documenting Lotsof's discovery, advocacy movements, and regulatory landscape"
 source_pdf: "2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.pdf"
 journal: "The Alkaloids: Chemistry and Biology"
+issn: "1099-4831"
 volume: 56
 pages: "249-281"
 document_type: review
@@ -30,10 +31,15 @@ aliases:
   - "Contemporary History of Ibogaine"
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 pmid: "11705112"
 ---
 
 # A Contemporary History of Ibogaine in the United States and Europe
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Citation:** Alper, K.R., Beal, D., & Kaplan, C.D. (2001). A Contemporary History of Ibogaine in the United States and Europe. *The Alkaloids: Chemistry and Biology*, 56, 249–281.
 
@@ -327,10 +333,10 @@ Ibogaine's advocates gained significant access to public sector decision makers.
 
 ## See Also
 
-- [[Howard_Lotsof_MOC]] — Howard Lotsof materials and legacy
-- [[Kenneth_Alper_MOC]] — Kenneth Alper's research contributions
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]] — Contemporary clinical case series
-- [[WHITE_Historical_Hub]] — Historical and policy context hub
+- [Howard_Lotsof_MOC](../MOCs/Howard_Lotsof_MOC.md) — Howard Lotsof materials and legacy
+- [Kenneth_Alper_MOC](../MOCs/Kenneth_Alper_MOC.md) — Kenneth Alper's research contributions
+- [Lotsof2001_Case_Studies_Patient_Management](Lotsof2001_Case_Studies_Patient_Management.md) — Contemporary clinical case series
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Historical and policy context hub
 - Lotsof (1985) US Patent 4,499,096 — foundational patent for ibogaine in opioid interruption
-- [[2001/Alper2001_Ibogaine_Review]] — Companion review chapter from same volume
-- [[1999/Alper1999_Acute_Opioid_Withdrawal]] — Alper's case study compilation (referenced as ref. 4)
+- [Alper2001_Ibogaine_Review](Alper2001_Ibogaine_Review.md) — Companion review chapter from same volume
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — Alper's case study compilation (referenced as ref. 4)

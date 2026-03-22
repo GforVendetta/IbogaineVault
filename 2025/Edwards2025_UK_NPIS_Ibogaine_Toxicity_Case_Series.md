@@ -43,6 +43,8 @@ route: oral
 open_access: false
 publisher: "Taylor & Francis"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # A Case Series of Ibogaine Toxicity Reported to the United Kingdom National Poisons Information Service (NPIS) Over a 10-Year Period
@@ -144,10 +146,10 @@ The authors note a lack of relationship between reported dose and clinical respo
 ---
 
 ## See Also
-- [[2016/Litjens2016_How_Toxic_Is_Ibogaine]] — Toxicity review cited by this study; covers dose-related risks
-- [[2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities]] — Comprehensive fatalities review cited by this study; documents ≥32 fatalities
-- [[2017/Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac]] — Toxicokinetic case with prolonged cardiac arrhythmias after internet-purchased ibogaine
-- [[2014/Vlaanderen2014_Cardiac_Arrest_Ibogaine]] — Cardiac arrest case report cited as comparator
-- [[2021/Acimovic2021_Ibogaine_Death_Case_Report]] — Fatal case cited by authors as sudden death comparator
-- [[2016/Meisner2016_Cardiac_Arrest_Death_Case]] — Cardiac arrest death case report
-- [[RED_Cardiac_Safety_Hub]]
+- [Litjens2016_How_Toxic_Is_Ibogaine](../2016/Litjens2016_How_Toxic_Is_Ibogaine.md) — Toxicity review cited by this study; covers dose-related risks
+- [Corkery2018_Ibogaine_Benefits_Dangers_Fatalities](../2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md) — Comprehensive fatalities review cited by this study; documents ≥32 fatalities
+- [Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac](../2017/Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac.md) — Toxicokinetic case with prolonged cardiac arrhythmias after internet-purchased ibogaine
+- [Vlaanderen2014_Cardiac_Arrest_Ibogaine](../2014/Vlaanderen2014_Cardiac_Arrest_Ibogaine.md) — Cardiac arrest case report cited as comparator
+- [Acimovic2021_Ibogaine_Death_Case_Report](../2021/Acimovic2021_Ibogaine_Death_Case_Report.md) — Fatal case cited by authors as sudden death comparator
+- [Meisner2016_Cardiac_Arrest_Death_Case](../2016/Meisner2016_Cardiac_Arrest_Death_Case.md) — Cardiac arrest death case report
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

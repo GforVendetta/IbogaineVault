@@ -53,6 +53,8 @@ contraindications:
 open_access: false
 publisher: "Lippincott Williams & Wilkins"
 body_format: narrative
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Psychedelic Therapy: A Primer for Primary Care Clinicians—Ibogaine
@@ -197,12 +199,12 @@ The recreational use of iboga has fueled rampant trafficking of the iboga root, 
 
 ## See Also
 
-**Parent hub:** [[GREEN_Clinical_Protocols_Hub]]
+**Parent hub:** [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)
 
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI|Cherian et al. 2024 - Magnesium-Ibogaine Therapy (MISTIC)]] — Full trial data for the veteran study cited here
-- [[2023/Cherian2023_Ibogaine_Cognitive_Functioning|Cherian et al. 2023 - Cognitive Functioning Outcomes]] — Neuropsychological data from same cohort
-- [[2016/Alper2016_hERG_Blockade|Alper et al. 2016 - hERG Blockade]] — Mechanism of ibogaine cardiotoxicity
-- [[2012/Alper2012_Ibogaine_Fatalities|Alper et al. 2012 - Fatalities Analysis]] — Review of 19 ibogaine-associated deaths
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines|GITA 2015 Clinical Guidelines]] — Current screening and monitoring protocols
+- [Cherian et al. 2024 - Magnesium-Ibogaine Therapy (MISTIC)](Cherian2024_Magnesium_Ibogaine_TBI.md) — Full trial data for the veteran study cited here
+- [Cherian et al. 2023 - Cognitive Functioning Outcomes](../2023/Cherian2023_Ibogaine_Cognitive_Functioning.md) — Neuropsychological data from same cohort
+- [Alper et al. 2016 - hERG Blockade](../2016/Alper2016_hERG_Blockade.md) — Mechanism of ibogaine cardiotoxicity
+- [Alper et al. 2012 - Fatalities Analysis](../2012/Alper2012_Ibogaine_Fatalities.md) — Review of 19 ibogaine-associated deaths
+- [GITA 2015 Clinical Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Current screening and monitoring protocols
 - Brown & Alper (2018) — OUD treatment outcomes and detoxification data
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes|Noller et al. 2016 - 12-Month Follow-up]] — Long-term outcomes study
+- [Noller et al. 2016 - 12-Month Follow-up](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — Long-term outcomes study

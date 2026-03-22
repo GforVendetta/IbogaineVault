@@ -42,9 +42,14 @@ contraindications: []
 open_access: true
 publisher: "Frontiers"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
 
 # Ibogaine Administration Modifies GDNF and BDNF Expression in Brain Regions Involved in Mesocorticolimbic and Nigral Dopaminergic Circuits
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Journal:** Frontiers in Pharmacology | Neuropharmacology
 **Published:** 05 March 2019
@@ -496,11 +501,11 @@ This study demonstrates that ibogaine alters GDNF, BDNF, and NGF expression in d
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2006/He2006_Ibogaine_and_GDNF]] — Foundational GDNF paper this dual-pathway study extends
-- [[2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release]] — Structure-activity for GDNF release complementing neurotrophic mechanism
-- [[2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination]] — Downstream myelination effects of neurotrophic signalling
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Noribogaine neurobiological profile supporting metabolite role
-- [[2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids]] — Neuroprotection/neurotoxicity balance including BDNF
+- [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — Foundational GDNF paper this dual-pathway study extends
+- [Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release](../2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md) — Structure-activity for GDNF release complementing neurotrophic mechanism
+- [Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination](../2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination.md) — Downstream myelination effects of neurotrophic signalling
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Noribogaine neurobiological profile supporting metabolite role
+- [Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids](../2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md) — Neuroprotection/neurotoxicity balance including BDNF
 

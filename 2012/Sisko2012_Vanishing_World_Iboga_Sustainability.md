@@ -21,6 +21,8 @@ herg_data: false
 contraindications: []
 open_access: unknown
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # THE VANISHING WORLD OF IBOGA
@@ -416,5 +418,5 @@ Email: info@phytostan.ca
 
 ## See Also
 
-- [[WHITE_Historical_Hub]]
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]] — Documents the Western ibogaine movement whose demand threatens wild T. iboga populations
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — Documents the Western ibogaine movement whose demand threatens wild T. iboga populations

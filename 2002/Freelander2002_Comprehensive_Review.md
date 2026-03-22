@@ -28,7 +28,12 @@ route: oral
 contraindications: []
 open_access: true
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 ## Ibogaine: A Novel Anti-Addictive Compound A Comprehensive Literature Review
 
@@ -172,10 +177,10 @@ While it is fortuitous that serious scientific inquiry into ibogaine's potential
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1995/- [[1995/Popik1995_100Years_Ibogaine_Review|Popik 1995]] — Landmark 100-year pharmacological review from NIH team]] — Earlier historical review this synthesises
-- [[1998/Wittier1998_Ibogaine_GeneralReview]] — Contemporary general review for comparison
-- [[2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience]] — Later DARK Classics update
-- [[2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs]] — Modern comprehensive review
-- [[2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance]] — Historical reflection on field evolution
+- [Popik 1995 — Landmark 100-year pharmacological review from NIH team](../1995/Popik1995_100Years_Ibogaine_Review.md) — Earlier historical review this synthesises
+- [Wittier1998_Ibogaine_GeneralReview](../1998/Wittier1998_Ibogaine_GeneralReview.md) — Contemporary general review for comparison
+- [Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience](../2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience.md) — Later DARK Classics update
+- [Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs](../2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md) — Modern comprehensive review
+- [Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance](../2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md) — Historical reflection on field evolution

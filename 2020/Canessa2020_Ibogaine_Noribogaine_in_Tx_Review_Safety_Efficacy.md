@@ -24,9 +24,14 @@ institution: "University of Hertfordshire"
 contraindications: []
 open_access: true
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine & Noribogaine Safety & Efficacy Review (Canessa, 2020)
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **University of Hertfordshire**
 **Ibogaine and Noribogaine in the Treatment of Drug Dependency: A State of the Art Review about Safety and Efficacy**
@@ -495,10 +500,10 @@ Following strict safety protocols, keeping the participant as an inpatient durin
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[2021/Underwood2021_Narrative_Review_Ibogaine_Literature]] — Narrative review
-- [[2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine]] — Systematic review
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Safety evidence
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — NZ observational study
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Industry guidelines
+- [Underwood2021_Narrative_Review_Ibogaine_Literature](../2021/Underwood2021_Narrative_Review_Ibogaine_Literature.md) — Narrative review
+- [Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine](../2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md) — Systematic review
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Safety evidence
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — NZ observational study
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Industry guidelines

@@ -14,7 +14,7 @@ source_pdf: "2003/Hoeck2003_Enantioselective_Synthesis_Iboga_Intermediates.pdf"
 journal: "Helvetica Chimica Acta"
 publisher: "Wiley"
 issn: "1522-2675"
-document_type: research-article
+document_type: in-vitro
 clinical_significance: low
 aliases:
   - "Hoeck 2003"
@@ -27,6 +27,8 @@ contraindications: []
 route: not-applicable
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Enantioselective Synthesis of Key Intermediates in a Novel Approach towards the Iboga-Alkaloid Family
@@ -105,7 +107,7 @@ The demonstration that both naturally occurring antipodal series are accessible 
 ---
 
 ## See Also
-- [[2023/Arias2023_Catharanthine_18-MC]] — Catharanthine and 18-MC antidepressant activity; iboga analogue pharmacology building on the scaffold chemistry this paper advances
-- [[2000/Glick2000_18-MC]] — 18-Methoxycoronaridine: the most clinically advanced synthetic iboga analogue, representing the downstream application of iboga scaffold synthesis
-- [[1999/Glick1999_18MC_Review_CNS_Drugs]] — Comprehensive review of 18-MC development and iboga analogue structure–activity relationships
-- [[ORANGE_Mechanisms_Hub]] — Central hub for iboga pharmacology and mechanism research
+- [Arias2023_Catharanthine_18-MC](../2023/Arias2023_Catharanthine_18-MC.md) — Catharanthine and 18-MC antidepressant activity; iboga analogue pharmacology building on the scaffold chemistry this paper advances
+- [Glick2000_18-MC](../2000/Glick2000_18-MC.md) — 18-Methoxycoronaridine: the most clinically advanced synthetic iboga analogue, representing the downstream application of iboga scaffold synthesis
+- [Glick1999_18MC_Review_CNS_Drugs](../1999/Glick1999_18MC_Review_CNS_Drugs.md) — Comprehensive review of 18-MC development and iboga analogue structure–activity relationships
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Central hub for iboga pharmacology and mechanism research

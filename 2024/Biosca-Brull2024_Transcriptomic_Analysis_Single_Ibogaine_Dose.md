@@ -29,9 +29,14 @@ contraindications: []
 open_access: true
 publisher: "Springer Nature"
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # A transcriptomic analysis in mice following a single dose of ibogaine identifies new potential therapeutic targets
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Judit Biosca-Brull¹²³, Genis Ona⁴⁵, Lineth Alarcón-Franco¹⁶, Maria Teresa Colomina¹²³✉**
 
@@ -303,10 +308,10 @@ onlineservice@springernature.com
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2006/He2006_Ibogaine_and_GDNF]] — GDNF expression foundational work
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — Neurotrophic pathway elaboration
-- [[2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination]] — Complementary neuroplasticity
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Receptor binding context
-- [[2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids]] — Mechanism review
+- [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — GDNF expression foundational work
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — Neurotrophic pathway elaboration
+- [Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination](Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination.md) — Complementary neuroplasticity
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Receptor binding context
+- [Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids](../2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md) — Mechanism review

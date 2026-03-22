@@ -40,11 +40,14 @@ contraindications:
   - "Pre-existing cardiac disease"
   - "Concomitant opioid use"
 mortality_count: 3
+mortality_scope: incidental
 sample_size: 39
 dosing_range: "4.5–29 mg/kg oral"
 route: oral
 open_access: unknown
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine: A Review
@@ -464,13 +467,13 @@ Work with ibogaine congeners suggests that other iboga alkaloids can be develope
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe|Alper 2001 — Contemporary History of Ibogaine in the United States and Europe]]
-- [[2016/Alper2016_hERG_Blockade|Alper 2016 — hERG Channel Blockade]]
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety|Mash 2000 — Ibogaine Pharmacokinetics]]
+- [Alper 2001 — Contemporary History of Ibogaine in the United States and Europe](Alper2001_Contemporary_History_Ibogaine_USA_Europe.md)
+- [Alper 2016 — hERG Channel Blockade](../2016/Alper2016_hERG_Blockade.md)
+- [Mash 2000 — Ibogaine Pharmacokinetics](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md)
 - Mash et al. (2001) — 18-Methoxycoronaridine (18-MC): ibogaine congener and novel antiaddictive agent
-- [[1995/- [[1995/Popik1995_100Years_Ibogaine_Review|Popik 1995]] — Landmark 100-year pharmacological review from NIH team|Popik & Skolnick 1995 — Pharmacology of Ibogaine and Ibogaine-Related Alkaloids]]
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI|Cherian 2024 — MISTIC Protocol]]
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes|Noller 2017 — Ibogaine Treatment for Opioid Dependence in New Zealand]]
-- [[1996/Glick1996_18MC_NonToxic|Glick 1996 — 18-MC Novel Antiaddictive Agent]]
+- [Popik & Skolnick 1995 — Pharmacology of Ibogaine and Ibogaine-Related Alkaloids](../1995/Popik1995_100Years_Ibogaine_Review.md)
+- [Cherian 2024 — MISTIC Protocol](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md)
+- [Noller 2017 — Ibogaine Treatment for Opioid Dependence in New Zealand](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md)
+- [Glick 1996 — 18-MC Novel Antiaddictive Agent](../1996/Glick1996_18MC_NonToxic.md)

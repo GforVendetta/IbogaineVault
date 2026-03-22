@@ -30,9 +30,14 @@ contraindications: []
 open_access: true
 publisher: "PLoS"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
 
 # Psychedelics and the Human Receptorome
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Thomas S. Ray**
 Department of Zoology, University of Oklahoma, Norman, Oklahoma, United States of America
@@ -659,11 +664,11 @@ I acknowledge Chenmei Xu for preparing the figures for this manuscript.
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2016/Alper2016_hERG_Blockade]] — Complementary hERG binding data for ibogaine/noribogaine to add to receptor profile
-- [[2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms]] — Structural biology follow-up on SERT binding identified in this receptorome screen
-- [[2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human]] — Detailed α3β4 nicotinic receptor characterisation extending receptorome findings
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Mechanism synthesis integrating this binding profile with anti-addiction theories
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Earlier noribogaine receptor characterisation this study extended
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Complementary hERG binding data for ibogaine/noribogaine to add to receptor profile
+- [Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms](../2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms.md) — Structural biology follow-up on SERT binding identified in this receptorome screen
+- [Arias2010_Interactions_Ibogaine_NicotinicAChR_Human](Arias2010_Interactions_Ibogaine_NicotinicAChR_Human.md) — Detailed α3β4 nicotinic receptor characterisation extending receptorome findings
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Mechanism synthesis integrating this binding profile with anti-addiction theories
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Earlier noribogaine receptor characterisation this study extended
 

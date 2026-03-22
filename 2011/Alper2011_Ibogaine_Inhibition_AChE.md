@@ -28,9 +28,14 @@ route: not-specified
 contraindications: []
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine and the inhibition of acetylcholinesterase
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Journal:** *Journal of Ethnopharmacology* 139 (2012) 879–882
 **Authors:** Kenneth Alper , Maarten E.A. Reith , Henry Sershen
@@ -269,9 +274,9 @@ We acknowledge the generous assistance of Slater and Frith Ltd, UK for providing
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Comprehensive receptor binding for AChE context
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Cardiac mechanisms potentially involving cholinergic effects
-- [[2016/Alper2016_hERG_Blockade]] — Same author's hERG cardiac electrophysiology work
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Same author's safety documentation
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Comprehensive receptor binding for AChE context
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Cardiac mechanisms potentially involving cholinergic effects
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Same author's hERG cardiac electrophysiology work
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Same author's safety documentation

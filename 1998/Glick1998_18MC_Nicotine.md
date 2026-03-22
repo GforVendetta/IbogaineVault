@@ -35,7 +35,12 @@ route: intraperitoneal
 contraindications: []
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 ## ORIGINAL INVESTIGATION
 
@@ -174,9 +179,9 @@ Acknowledgement This  research  was  supported  by  NIDA  grant DA 03817.
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1996/Glick1996_18MC_NonToxic]] — Contemporary 18-MC work from same group
-- [[1999/Glick1999_18MC_Review_CNS_Drugs]] — Comprehensive 18-MC review building on this nicotine work
-- [[2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human]] — Later nicotinic receptor characterisation
-- [[2022/Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs]] — Modern nAChR review for addiction
+- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md) — Contemporary 18-MC work from same group
+- [Glick1999_18MC_Review_CNS_Drugs](../1999/Glick1999_18MC_Review_CNS_Drugs.md) — Comprehensive 18-MC review building on this nicotine work
+- [Arias2010_Interactions_Ibogaine_NicotinicAChR_Human](../2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human.md) — Later nicotinic receptor characterisation
+- [Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs](../2022/Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs.md) — Modern nAChR review for addiction

@@ -35,6 +35,8 @@ contraindications: []
 open_access: true
 publisher: "Cold Spring Harbor"
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # Streamlined screening platforms lead to the discovery of pachysiphine synthase from *Tabernanthe iboga*
@@ -141,6 +143,6 @@ While this is a fundamental biochemistry paper without direct clinical applicati
 
 ## See Also
 
-- [[2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs|Iyer et al. 2019 - Iboga Enigma]] — Comprehensive review of iboga alkaloid chemistry including biosynthesis
-- [[ORANGE_Mechanisms_Hub]] — Mechanisms and pharmacology overview
-- [[2001/Alper2001_Ibogaine_Review|Alper 2001 - Ibogaine Review]] — Chemistry and mechanism context
+- [Iyer et al. 2019 - Iboga Enigma](../2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md) — Comprehensive review of iboga alkaloid chemistry including biosynthesis
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Mechanisms and pharmacology overview
+- [Alper 2001 - Ibogaine Review](../2001/Alper2001_Ibogaine_Review.md) — Chemistry and mechanism context

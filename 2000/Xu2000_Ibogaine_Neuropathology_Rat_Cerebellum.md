@@ -39,6 +39,8 @@ route: intraperitoneal
 open_access: false
 publisher: "Oxford University Press"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # A Dose-Response Study of Ibogaine-Induced Neuropathology in the Rat Cerebellum
@@ -120,10 +122,10 @@ For ibogaine clinical practice, the established NOAEL of 25 mg/kg ip in female r
 ---
 
 ## See Also
-- [[1996/Scallet1996_Ibogaine_Neurodegeneration_Rat_Mouse_Cerebellum]]
-- [[1996/OCallaghan1996_Astrogliosis_Neurotoxicity]]
-- [[1996/Glick1996_18MC_NonToxic]]
-- [[1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine]]
-- [[2000/Glick2000_Legacy_African_Shrub]]
-- [[ORANGE_Mechanisms_Hub]]
-- [[2002/Freelander2002_Comprehensive_Review]]
+- [Scallet1996_Ibogaine_Neurodegeneration_Rat_Mouse_Cerebellum](../1996/Scallet1996_Ibogaine_Neurodegeneration_Rat_Mouse_Cerebellum.md)
+- [OCallaghan1996_Astrogliosis_Neurotoxicity](../1996/OCallaghan1996_Astrogliosis_Neurotoxicity.md)
+- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md)
+- [Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine](../1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md)
+- [Glick2000_Legacy_African_Shrub](Glick2000_Legacy_African_Shrub.md)
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
+- [Freelander2002_Comprehensive_Review](../2002/Freelander2002_Comprehensive_Review.md)

@@ -32,6 +32,8 @@ herg_data: false
 contraindications: []
 open_access: true
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Soneira and the Scramble for Ibogaine
@@ -98,10 +100,10 @@ This is journalism, not peer-reviewed research. It relies heavily on anonymous s
 ---
 
 ## See Also
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — the Stanford *Nature* paper whose data Soneira used for fundraising
-- [[2024/Cherian2024_Ibogaine_Primer_Clinicians]] — companion clinical primer from the same group
-- [[2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS]] — earlier veteran ibogaine study cited in the article
-- [[2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences]] — Ambio co-founder's work on intersubjective effects discussed by Evans
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — the guidelines that already document magnesium supplementation
-- [[Other/Evans2026_Ibogaine_Fatalities_Cover_Ups]] — later Evans investigation into ibogaine fatality reporting
-- [[WHITE_Historical_Hub]]
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — the Stanford *Nature* paper whose data Soneira used for fundraising
+- [Cherian2024_Ibogaine_Primer_Clinicians](../2024/Cherian2024_Ibogaine_Primer_Clinicians.md) — companion clinical primer from the same group
+- [Davis2023_Ibogaine_5MeO-DMT_for_SEALS](../2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS.md) — earlier veteran ibogaine study cited in the article
+- [Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences](../2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences.md) — Ambio co-founder's work on intersubjective effects discussed by Evans
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — the guidelines that already document magnesium supplementation
+- [Evans2026_Ibogaine_Fatalities_Cover_Ups](Evans2026_Ibogaine_Fatalities_Cover_Ups.md) — later Evans investigation into ibogaine fatality reporting
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)

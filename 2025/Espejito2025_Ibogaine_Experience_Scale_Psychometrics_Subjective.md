@@ -35,9 +35,14 @@ contraindications: []
 open_access: true
 publisher: "PLoS"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
 
 # The Ibogaine Experience Scale (IES): Development and psychometric properties of a multidimensional measure of ibogaine's subjective effects
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Citation:** González Espejito F, Esteban Rodríguez L, Pedrero Pérez EJ, Dickinson J, Kohek M, Guimaraes dos Santos R, et al. (2025) The Ibogaine Experience Scale (IES): Development and psychometric properties of a multidimensional measure of ibogaine's subjective effects. *PLoS One* 20(10): e0333296.
 
@@ -502,8 +507,8 @@ The study successfully developed the Ibogaine Experience Scale (IES), a 70-item 
 
 ## See Also
 
-- [[2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine]] — Qualitative foundation this scale was built upon; identified the 8 experiential domains operationalised by the IES
-- [[1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs]] — Original "oneirophrenic" phenomenological characterisation the IES validates psychometrically
-- [[2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences]] — Qualitative phenomenological analysis from same ICEERS research network
-- [[2024/Ozmat2024_Subjective_Ibogaine_Experiences_Intersection_Social-Ecological_Dimensions]] — Complementary qualitative study examining social-ecological dimensions of experience
-- [[PURPLE_Phenomenology_Hub]] — Hub context for phenomenology and subjective experience research
+- [Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine](../2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine.md) — Qualitative foundation this scale was built upon; identified the 8 experiential domains operationalised by the IES
+- [Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs](../1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs.md) — Original "oneirophrenic" phenomenological characterisation the IES validates psychometrically
+- [Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences](../2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences.md) — Qualitative phenomenological analysis from same ICEERS research network
+- [Ozmat2024_Subjective_Ibogaine_Experiences_Intersection_Social-Ecological_Dimensions](../2024/Ozmat2024_Subjective_Ibogaine_Experiences_Intersection_Social-Ecological_Dimensions.md) — Complementary qualitative study examining social-ecological dimensions of experience
+- [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md) — Hub context for phenomenology and subjective experience research

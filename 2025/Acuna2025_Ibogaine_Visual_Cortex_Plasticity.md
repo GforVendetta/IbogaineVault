@@ -34,8 +34,13 @@ contraindications: []
 open_access: true
 publisher: "Research Square"
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 # Ibogaine induces juvenile-like plasticity and modulates functional and structural regulators of plasticity in the adult mouse visual cortex
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Authors:** Alejo Acuña, Federico Billeri, Valentino Totaro, Ignacio Carrera, Juan M. Mesa, Tommaso Pizzorusso, Francesco M. Rossi
 
@@ -236,7 +241,7 @@ A single administration of ibogaine to adult mice renders their visual cortex su
 
 ## See Also
 
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol demonstrating ibogaine + magnesium for TBI/PTSD
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol demonstrating ibogaine + magnesium for TBI/PTSD
 - Nardou et al. (2023) "Psychedelics reopen the social reward learning critical period" *Nature* — Critical period reopening for social reward learning (not in vault)
-- [[ORANGE_Mechanisms_Hub]] — Mechanisms of action hub
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Mechanisms of action hub
 - Ly et al. (2018) "Psychedelics promote structural and functional neural plasticity" *Cell Reports* — Foundational psychedelic plasticity paper (not in vault)

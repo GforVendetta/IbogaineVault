@@ -61,6 +61,8 @@ contraindications: []
 open_access: true
 publisher: "Springer Nature"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # A Non-Hallucinogenic Psychedelic Analog with Therapeutic Potential
@@ -159,8 +161,8 @@ In zebrafish, ibogaine (50 μM) induced bradycardia and increased the arrhythmia
 ---
 
 ## See Also
-- [[2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs]] — Comprehensive review of iboga alkaloid chemistry and analogs from the same laboratory
-- [[2018/Ly2018_Psychedelics_Neural_Plasticity]] — Foundational psychoplastogen/structural plasticity work from the Olson lab
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — GDNF/BDNF signalling in mesocorticolimbic circuits; referenced as evidence for ibogaine's neurotrophic mechanism
-- [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — Original characterisation of ibogaine's hERG channel blockade
-- [[ORANGE_Mechanisms_Hub]]
+- [Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs](../2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md) — Comprehensive review of iboga alkaloid chemistry and analogs from the same laboratory
+- [Ly2018_Psychedelics_Neural_Plasticity](../2018/Ly2018_Psychedelics_Neural_Plasticity.md) — Foundational psychoplastogen/structural plasticity work from the Olson lab
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — GDNF/BDNF signalling in mesocorticolimbic circuits; referenced as evidence for ibogaine's neurotrophic mechanism
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — Original characterisation of ibogaine's hERG channel blockade
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

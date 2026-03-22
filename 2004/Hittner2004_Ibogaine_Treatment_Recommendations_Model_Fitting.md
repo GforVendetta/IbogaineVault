@@ -36,6 +36,8 @@ route: oral
 open_access: false
 publisher: "Taylor & Francis"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Combating Substance Abuse with Ibogaine: Pre- and Posttreatment Recommendations and an Example of Successive Model Fitting Analyses
@@ -183,11 +185,11 @@ As noted by the authors:
 ---
 
 ## See Also
-- [[1994/Sheppard1994_Preliminary_Investigation_Ibogaine]] — Source data for the reanalysis; six heroin-dependent individuals receiving single-dose ibogaine
-- [[1999/Alper1999_Acute_Opioid_Withdrawal]] — Treatment of acute opioid withdrawal with ibogaine; cited extensively
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — Ibogaine pharmacokinetics and safety data; cited for noribogaine clearance and craving reduction findings
-- [[1998/Mash1998_Medication_Development_Ibogaine]] — Medication development of ibogaine; cited for safety concerns review
-- [[1995/Popik1995_100Years_Ibogaine_Review]] — Comprehensive pharmacological review; cited for neurochemical actions
-- [[2004/Bastiaans2004_Life_After_Ibogaine]] — Contemporary study on post-ibogaine treatment outcomes
-- [[BLUE_Outcomes_Hub]]
-- [[GREEN_Clinical_Protocols_Hub]]
+- [Sheppard1994_Preliminary_Investigation_Ibogaine](../1994/Sheppard1994_Preliminary_Investigation_Ibogaine.md) — Source data for the reanalysis; six heroin-dependent individuals receiving single-dose ibogaine
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — Treatment of acute opioid withdrawal with ibogaine; cited extensively
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — Ibogaine pharmacokinetics and safety data; cited for noribogaine clearance and craving reduction findings
+- [Mash1998_Medication_Development_Ibogaine](../1998/Mash1998_Medication_Development_Ibogaine.md) — Medication development of ibogaine; cited for safety concerns review
+- [Popik1995_100Years_Ibogaine_Review](../1995/Popik1995_100Years_Ibogaine_Review.md) — Comprehensive pharmacological review; cited for neurochemical actions
+- [Bastiaans2004_Life_After_Ibogaine](Bastiaans2004_Life_After_Ibogaine.md) — Contemporary study on post-ibogaine treatment outcomes
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)

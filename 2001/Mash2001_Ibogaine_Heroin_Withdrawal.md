@@ -34,9 +34,14 @@ route: oral
 contraindications: []
 open_access: true
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine in the Treatment of Heroin Withdrawal
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Deborah C. Mash; Craig A. Kovera; John Pablo; Rachel Tyndale; Frank R. Ervin; Jeffrey D. Kamlet; W. Lee Hearn**
 
@@ -47,7 +52,7 @@ body_format: academic-retained
 ## Author affiliations
 
 - Departments of Neurology and Pharmacology University of Miami School of Medicine Miami, FL 33124
-- Center for Addictions and Mental Health University of Toronto Toronto, Canada
+- Center for Addictions and Mental Health, University of Toronto, Toronto, Canada
 - Department of Psychiatry and Human Genetics McGill University Montreal, Canada
 - Mt. Sinai Medical Center Addiction Treatment Program Miami Beach, FL 33140
 - Miami-Dade County Medical Examiner Dept. Miami, FL 33299
@@ -238,10 +243,10 @@ This research was supported in part by the Addiction Research Fund. We are grate
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — Same author's PK/safety publication from same era
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Noribogaine profiling for comparison
-- [[2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects]] — Later noribogaine anti-withdrawal work
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Guidelines implementing these withdrawal observations
-- [[2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes]] — Same author's major clinical outcomes paper
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — Same author's PK/safety publication from same era
+- [Baumann2001_Neurobiological_Effects_Noribogaine](Baumann2001_Neurobiological_Effects_Noribogaine.md) — Noribogaine profiling for comparison
+- [Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects](../2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects.md) — Later noribogaine anti-withdrawal work
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Guidelines implementing these withdrawal observations
+- [Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md) — Same author's major clinical outcomes paper

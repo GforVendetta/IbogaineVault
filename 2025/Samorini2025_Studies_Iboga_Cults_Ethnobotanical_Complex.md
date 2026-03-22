@@ -22,6 +22,8 @@ clinical_significance: low
 route: not-applicable
 open_access: unknown
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # Studies on the iboga cults: IV. The ethnobotanical complex
@@ -648,9 +650,9 @@ As can be seen, opinions on what *ekasso* and *dikasi* are remain contrasting, e
 
 ## See Also
 
-**Parent hub:** [[WHITE_Historical_Hub]]
+**Parent hub:** [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)
 
-- [[2009/Paskulin2009_Translated_French_Iboga_Between_Myth_Reality]] — Earlier cultural documentation
-- [[1995/Popik1995_100Years_Ibogaine_Review]] — Historical context
-- [[2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance]] — Modern ibogaine trajectory
-- [[1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs]] — Early Western phenomenology
+- [Paskulin2009_Translated_French_Iboga_Between_Myth_Reality](../2009/Paskulin2009_Translated_French_Iboga_Between_Myth_Reality.md) — Earlier cultural documentation
+- [Popik1995_100Years_Ibogaine_Review](../1995/Popik1995_100Years_Ibogaine_Review.md) — Historical context
+- [Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance](../2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md) — Modern ibogaine trajectory
+- [Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs](../1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs.md) — Early Western phenomenology

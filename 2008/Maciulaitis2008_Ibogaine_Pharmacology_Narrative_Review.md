@@ -41,6 +41,8 @@ route:
 open_access: false
 publisher: "SAGE"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine, an Anti-Addictive Drug: Pharmacology and Time to Go Further in Development
@@ -150,8 +152,8 @@ This 2008 review provides a consolidated reference for the pharmacological ratio
 ---
 
 ## See Also
-- [[2001/Mash2001_Ibogaine_Heroin_Withdrawal]]
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]]
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]]
-- [[2001/Alper2001_Ibogaine_Review]]
-- [[ORANGE_Mechanisms_Hub]]
+- [Mash2001_Ibogaine_Heroin_Withdrawal](../2001/Mash2001_Ibogaine_Heroin_Withdrawal.md)
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md)
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md)
+- [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md)
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

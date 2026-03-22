@@ -38,6 +38,8 @@ route: not-applicable
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Mechanisms of action of ibogaine and harmaline congeners based on radioligand binding studies
@@ -56,7 +58,7 @@ Assays using radioligands were used to assess the actions of ibogaine and harmal
 ### Receptor Survey — Selective κ-Opioid Affinity
 A comprehensive radioligand survey screened ibogaine and harmaline across >20 receptor/binding sites including adrenergic (α₁, α₂, β₁), cannabinoid, dopamine (D₁, D₂), GABA_A, benzodiazepine, muscarinic, nicotinic, serotonin (5-HT₁ₐ, 5-HT₁ᵦ, 5-HT₁ᶜ, 5-HT₁ᵈ, 5-HT₂, 5-HT₃), and opioid receptors. Neither ibogaine nor harmaline showed significant affinity (Kᵢ >100 μM) at any site except the κ-opioid receptor, where ibogaine bound with Kᵢ = 2.08 ± 0.23 μM.
 
-Critically, ibogaine showed **no affinity** for μ-opioid receptors using [³H]carfentanil as radioligand (Kᵢ >100 μM). This finding was later revised by [[Pearl1995_Noribogaine_Opioid_Binding]], which demonstrated that the result was radioligand-dependent: [³H]DAGO detected ibogaine μ-binding (Kᵢ = 11.04 μM) where [³H]carfentanil could not.
+Critically, ibogaine showed **no affinity** for μ-opioid receptors using [³H]carfentanil as radioligand (Kᵢ >100 μM). This finding was later revised by [Pearl1995_Noribogaine_Opioid_Binding](../1995/Pearl1995_Noribogaine_Opioid_Binding.md), which demonstrated that the result was radioligand-dependent: [³H]DAGO detected ibogaine μ-binding (Kᵢ = 11.04 μM) where [³H]carfentanil could not.
 
 ### Ibogaine vs Harmaline — Structural Selectivity
 The ibogaine family (ibogaine, ibogamine, coronaridine, tabernanthine) showed opioid receptor affinity while the harmaline family (harmaline, harmine) showed none. This structural selectivity distinguishes the anti-addictive potential of iboga alkaloids from the tremorigenic-only β-carbolines, despite shared tremor-inducing properties.
@@ -112,7 +114,7 @@ This paper established the first systematic receptor-binding profile for ibogain
 
 The buprenorphine analogy offered in the discussion is instructive: the authors noted that buprenorphine's anti-addictive effects involve μ/κ-opioid interaction, and speculated ibogaine might work through a similar κ-mediated mechanism. This foreshadowed the later discovery that ibogaine's metabolite noribogaine possesses both κ and μ affinity, making the buprenorphine comparison more apt than the authors could have known.
 
-The prediction of an "active metabolite" with longer half-life than ibogaine, made to explain long-lasting behavioural effects despite reversible binding, was remarkably prescient. Noribogaine (t½ ~28–49 hours vs ibogaine's ~4–7 hours) was identified within three years by [[Pearl1995_Noribogaine_Opioid_Binding]] and Hearn et al. (1995).
+The prediction of an "active metabolite" with longer half-life than ibogaine, made to explain long-lasting behavioural effects despite reversible binding, was remarkably prescient. Noribogaine (t½ ~28–49 hours vs ibogaine's ~4–7 hours) was identified within three years by [Pearl1995_Noribogaine_Opioid_Binding](../1995/Pearl1995_Noribogaine_Opioid_Binding.md) and Hearn et al. (1995).
 
 ## Clinical Implications
 
@@ -122,7 +124,7 @@ The prediction of an "active metabolite" with longer half-life than ibogaine, ma
 
 ## Limitations
 
-- **Radioligand selection artefact:** The use of [³H]carfentanil for μ-opioid screening yielded a false negative for ibogaine's μ affinity, as later demonstrated by [[Pearl1995_Noribogaine_Opioid_Binding]] using [³H]DAGO. This underscores that radioligand choice can critically determine binding profiles.
+- **Radioligand selection artefact:** The use of [³H]carfentanil for μ-opioid screening yielded a false negative for ibogaine's μ affinity, as later demonstrated by [Pearl1995_Noribogaine_Opioid_Binding](../1995/Pearl1995_Noribogaine_Opioid_Binding.md) using [³H]DAGO. This underscores that radioligand choice can critically determine binding profiles.
 - **In vitro only:** No in vivo pharmacology or functional assays beyond ³⁶Cl⁻ uptake. Binding affinity does not establish functional agonism/antagonism.
 - **Racemic compounds:** Coronaridine and ibogamine were tested as racemates, potentially obscuring enantioselective binding differences.
 - **No metabolite testing:** The study tested only parent compounds, not metabolites — the very metabolites the authors predicted might be responsible for long-lasting effects.
@@ -130,8 +132,8 @@ The prediction of an "active metabolite" with longer half-life than ibogaine, ma
 
 ## See Also
 
-- [[Pearl1995_Noribogaine_Opioid_Binding]] — Directly extends this work; demonstrates noribogaine's higher opioid affinity and resolves the [³H]carfentanil μ-binding artefact
-- [[Glick1991_Ibogaine_Morphine_Self_Administration]] — Behavioural self-administration data referenced in this paper
-- [[Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine]] — Comprehensive mechanisms review incorporating Deecher1992 receptor data
-- [[Glick2001_Mechanisms_Action_Ibogaine_18MC]] — Updated mechanisms review with 18-MC development informed by this structure-activity data
-- [[ORANGE_Mechanisms_Hub]]
+- [Pearl1995_Noribogaine_Opioid_Binding](../1995/Pearl1995_Noribogaine_Opioid_Binding.md) — Directly extends this work; demonstrates noribogaine's higher opioid affinity and resolves the [³H]carfentanil μ-binding artefact
+- [Glick1991_Ibogaine_Morphine_Self_Administration](../1991/Glick1991_Ibogaine_Morphine_Self_Administration.md) — Behavioural self-administration data referenced in this paper
+- [Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine](../1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md) — Comprehensive mechanisms review incorporating Deecher1992 receptor data
+- [Glick2001_Mechanisms_Action_Ibogaine_18MC](../2001/Glick2001_Mechanisms_Action_Ibogaine_18MC.md) — Updated mechanisms review with 18-MC development informed by this structure-activity data
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

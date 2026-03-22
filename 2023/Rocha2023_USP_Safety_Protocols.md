@@ -39,9 +39,14 @@ route: oral
 open_access: true
 publisher: "MDPI"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
 
 # Guidelines for Establishing Safety in Ayahuasca and Ibogaine Administration in Clinical Settings
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Article Information**
 
@@ -458,11 +463,11 @@ The reality of psychedelic use today is a wide spectrum of purposes, different c
 
 ## See Also
 
-**Parent hub:** [[GREEN_Clinical_Protocols_Hub]]
+**Parent hub:** [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)
 
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Industry guidelines this academic protocol parallels and extends
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Fatality documentation informing safety protocols
-- [[2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety]] — Companion paper on setting factors from same research group
-- [[2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study]] — Earlier Brazilian ibogaine research from related context
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — New Zealand observational study with comparable protocol rigour
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Industry guidelines this academic protocol parallels and extends
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Fatality documentation informing safety protocols
+- [Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety](Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) — Companion paper on setting factors from same research group
+- [Schenberg2014_Treating_Drug_Dependence_Retrospective_Study](../2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md) — Earlier Brazilian ibogaine research from related context
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — New Zealand observational study with comparable protocol rigour
 

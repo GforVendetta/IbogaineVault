@@ -46,6 +46,8 @@ route: oral
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Switching Opioid-Dependent Patients From Methadone to Morphine: Safety, Tolerability, and Methadone Pharmacokinetics
@@ -129,8 +131,8 @@ This protocol has direct relevance to pre-treatment planning for patients curren
 ---
 
 ## See Also
-- [[2016/Glue2016_Noribogaine_Opioid_Patients_Safety]] — Companion paper: the noribogaine trial this protocol served
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]] — Preceding healthy volunteer noribogaine study
-- [[2015/Glue2015_Ibogaine_CYP2D6_Activity]] — CYP2D6 influence on ibogaine/noribogaine PK
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — NZ observational study with similar patient population
-- [[GREEN_Clinical_Protocols_Hub]]
+- [Glue2016_Noribogaine_Opioid_Patients_Safety](Glue2016_Noribogaine_Opioid_Patients_Safety.md) — Companion paper: the noribogaine trial this protocol served
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Preceding healthy volunteer noribogaine study
+- [Glue2015_Ibogaine_CYP2D6_Activity](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) — CYP2D6 influence on ibogaine/noribogaine PK
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — NZ observational study with similar patient population
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)

@@ -30,6 +30,8 @@ source_pdf: "not-applicable"
 source_url: "http://www.youtube.com/watch?v=lysh-XDZQfE (Part 1), http://www.youtube.com/watch?v=Z20bmnuvoHc (Part 2)"
 open_access: unknown
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # Clare Wilkins at MAPS 2010: Evolution of Ibogaine Treatment
@@ -164,10 +166,10 @@ Many people have told me—when you watch the heart rate go down, they're saying
 
 ## See Also
 
-**Parent hub:** [[WHITE_Historical_Hub]]
+**Parent hub:** [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)
 
-- [[Clare_Wilkins_MOC]] — Complete index of Clare Wilkins materials
-- [[Primary_Sources/2010_Horizons_Clare_Wilkins_400_Sessions]] — Same year, Horizons conference
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Ken Alper's fatality analysis (referenced)
-- [[Pangea_Ops/Ibogaine_Stories_Transcripts/2018_Oliver_Alper_Mechanism_Safety]] — Ken Alper interview
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Guidelines developed from this era
+- [Clare_Wilkins_MOC](../MOCs/Clare_Wilkins_MOC.md) — Complete index of Clare Wilkins materials
+- [2010_Horizons_Clare_Wilkins_400_Sessions](2010_Horizons_Clare_Wilkins_400_Sessions.md) — Same year, Horizons conference
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Ken Alper's fatality analysis (referenced)
+-  — Ken Alper interview
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Guidelines developed from this era

@@ -45,6 +45,8 @@ route: oral
 open_access: true
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Harnessing Pharmacogenomics in Clinical Research on Psychedelic-Assisted Therapy
@@ -138,8 +140,8 @@ The review recommends incorporating pharmacogenomics into clinical trials involv
 ---
 
 ## See Also
-- [[2015/Glue2015_Ibogaine_CYP2D6_Activity]] — Key human PK study demonstrating CYP2D6 influence on ibogaine; paroxetine inhibition data; dose halving recommendation for PMs
-- [[2001/Mash2001_Ibogaine_Heroin_Withdrawal]] — Human ibogaine metabolism data showing NM vs PM differences in ibogaine/noribogaine levels
-- [[2022/Martins2022_Drug_Transporters_Ibogaine_PK]] — ABCB1 and ABCG2 transporter effects on ibogaine oral bioavailability and brain penetration
-- [[2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients]] — Recent ibogaine PK/PD data in clinical population
-- [[ORANGE_Mechanisms_Hub]] — Pharmacology and mechanisms hub
+- [Glue2015_Ibogaine_CYP2D6_Activity](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) — Key human PK study demonstrating CYP2D6 influence on ibogaine; paroxetine inhibition data; dose halving recommendation for PMs
+- [Mash2001_Ibogaine_Heroin_Withdrawal](../2001/Mash2001_Ibogaine_Heroin_Withdrawal.md) — Human ibogaine metabolism data showing NM vs PM differences in ibogaine/noribogaine levels
+- [Martins2022_Drug_Transporters_Ibogaine_PK](../2022/Martins2022_Drug_Transporters_Ibogaine_PK.md) — ABCB1 and ABCG2 transporter effects on ibogaine oral bioavailability and brain penetration
+- [Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients](../2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md) — Recent ibogaine PK/PD data in clinical population
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Pharmacology and mechanisms hub

@@ -29,6 +29,8 @@ dosing_range: "not-specified"
 route: not-specified
 open_access: true
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # A Qualitative Inquiry into Practitioners' Experiences of Using Ibogaine and Other Psychoplastogens in the Treatment of Substance Misuse
@@ -184,15 +186,15 @@ Particularly relevant for protocol development — understanding how experienced
 
 ### Cited Works in Vault
 - Alper (2008) "Ibogaine and the Ibogaine Medical Subculture" in *The Alkaloids* (not in vault)
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]] — Early case studies
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol, neuroplasticity
-- [[2005/Kroupa2005_Boosters_Maintenance]] — Booster/maintenance protocols
+- [Lotsof2001_Case_Studies_Patient_Management](../2001/Lotsof2001_Case_Studies_Patient_Management.md) — Early case studies
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol, neuroplasticity
+- [Kroupa2005_Boosters_Maintenance](../2005/Kroupa2005_Boosters_Maintenance.md) — Booster/maintenance protocols
 - Brown et al. (2021) Systematic review identifying evidence gaps (not in vault)
 
 ### Related Topics
-- [[GREEN_Clinical_Protocols_Hub]] — Clinical protocol development
-- [[PURPLE_Phenomenology_Hub]] — Subjective experience dimensions
-- [[2025/Soderberg2025_Medical_Subculture_Risk_Management]] — Complementary ethnographic work on ibogaine community governance
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md) — Clinical protocol development
+- [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md) — Subjective experience dimensions
+- [Soderberg2025_Medical_Subculture_Risk_Management](Soderberg2025_Medical_Subculture_Risk_Management.md) — Complementary ethnographic work on ibogaine community governance
 
 ---
 

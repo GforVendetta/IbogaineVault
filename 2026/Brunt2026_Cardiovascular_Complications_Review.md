@@ -40,6 +40,8 @@ route: oral
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Rare but relevant: Ibogaine and cardiovascular complications—prolonged QT interval and ventricular arrhythmias
@@ -202,9 +204,9 @@ Screen for metaboliser genotype before commencing treatment.
 
 ## See Also
 
-- [[RED_Cardiac_Safety_Hub]] — Cardiac safety evidence
-- [[2016/Alper2016_hERG_Blockade]] — hERG channel mechanism
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol preventing QTc prolongation
-- [[2021/Knuijver2021_Safety_Opioid_Detox]] — Observational safety data
-- [[2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients|Knuijver 2024]] — PK/PD and EC₅₀ data
-- [[ORANGE_Mechanisms_Hub]] — Pharmacological mechanisms including hERG
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Cardiac safety evidence
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG channel mechanism
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol preventing QTc prolongation
+- [Knuijver2021_Safety_Opioid_Detox](../2021/Knuijver2021_Safety_Opioid_Detox.md) — Observational safety data
+- [Knuijver 2024](../2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md) — PK/PD and EC₅₀ data
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Pharmacological mechanisms including hERG

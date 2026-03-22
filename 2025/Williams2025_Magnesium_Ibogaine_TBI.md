@@ -46,6 +46,8 @@ contraindications:
 open_access: false
 publisher: "Springer Nature"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Magnesium–ibogaine therapy effects on cortical oscillations and neural complexity in veterans with traumatic brain injury
@@ -69,7 +71,7 @@ Traumatic brain injury can lead to chronic psychiatric and cognitive symptoms, c
 
 ## Methodology
 
-This study is the neuroimaging companion to [[2024/Cherian2024_Magnesium_Ibogaine_TBI]], analysing high-density resting-state EEG data from the same MISTIC cohort. Thirty male Special Operations Forces veterans with TBI history (mean age 44.9 ± 7.5 years; mean 38.6 ± 52.4 prior TBIs, range mild to moderately severe) underwent 64-channel EEG recording at three timepoints: 2–3 days pre-treatment, 3.5 days post-ibogaine, and 1 month post-ibogaine (n=27 at follow-up). 34 screened, 30 eligible. Psychiatric comorbidities at baseline: PTSD (n=23), major depression (n=15), anxiety disorder (n=14), alcohol use disorder (n=15).
+This study is the neuroimaging companion to [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md), analysing high-density resting-state EEG data from the same MISTIC cohort. Thirty male Special Operations Forces veterans with TBI history (mean age 44.9 ± 7.5 years; mean 38.6 ± 52.4 prior TBIs, range mild to moderately severe) underwent 64-channel EEG recording at three timepoints: 2–3 days pre-treatment, 3.5 days post-ibogaine, and 1 month post-ibogaine (n=27 at follow-up). 34 screened, 30 eligible. Psychiatric comorbidities at baseline: PTSD (n=23), major depression (n=15), anxiety disorder (n=14), alcohol use disorder (n=15).
 
 Treatment comprised oral ibogaine (mean 12.1 ± 1.2 mg/kg) co-administered with IV magnesium sulfate under the MISTIC protocol at Ambio Life Sciences, Mexico. All participants discontinued psychiatric medications and benzodiazepines pre-treatment. No psychotherapy delivered during treatment; integration resources available post-treatment. Monitoring continued for 72 hours post-dosing. Preregistered: ClinicalTrials.gov NCT04313712.
 
@@ -142,7 +144,7 @@ For the MISTIC programme, the temporal dissociation between transient spectral p
 
 The contrast with classic psychedelic EEG profiles (where complexity typically increases acutely) reinforces ibogaine's pharmacological distinctiveness and argues against treating it as interchangeable with psilocybin or MDMA in clinical frameworks. The authors' "neural annealing" hypothesis — acute entropy increase followed by post-acute rebalancing to a lower-entropy state — provides a testable framework for future studies incorporating real-time EEG during ibogaine administration.
 
-Cardiac safety data are not reported in this companion paper; the MISTIC magnesium co-administration protocol was employed throughout, with cardiac outcomes documented in [[2024/Cherian2024_Magnesium_Ibogaine_TBI]].
+Cardiac safety data are not reported in this companion paper; the MISTIC magnesium co-administration protocol was employed throughout, with cardiac outcomes documented in [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md).
 
 ## Limitations
 
@@ -159,10 +161,10 @@ Cardiac safety data are not reported in this companion paper; the MISTIC magnesi
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — Primary MISTIC clinical outcomes paper this EEG analysis extends; contains cardiac safety and dosing protocol data
-- [[2006/He2006_Ibogaine_and_GDNF]] — GDNF neuroplasticity hypothesis potentially underlying theta enhancement and cortical reorganisation
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — GDNF/BDNF mechanisms that may explain observed neural complexity changes
-- [[2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination]] — Complementary myelination evidence for ibogaine-induced neuroplasticity
-- [[2020/Davis2020_SpecialOps_Veterans_Trauma]] — Earlier SOV outcomes data informing MISTIC protocol development
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — Primary MISTIC clinical outcomes paper this EEG analysis extends; contains cardiac safety and dosing protocol data
+- [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — GDNF neuroplasticity hypothesis potentially underlying theta enhancement and cortical reorganisation
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — GDNF/BDNF mechanisms that may explain observed neural complexity changes
+- [Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination](../2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination.md) — Complementary myelination evidence for ibogaine-induced neuroplasticity
+- [Davis2020_SpecialOps_Veterans_Trauma](../2020/Davis2020_SpecialOps_Veterans_Trauma.md) — Earlier SOV outcomes data informing MISTIC protocol development

@@ -40,6 +40,8 @@ contraindications: []
 open_access: true
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Mechanisms of Action of Ibogaine: Relevance to Putative Therapeutic Effects and Development of a Safer Iboga Alkaloid Congener
@@ -162,9 +164,9 @@ This book chapter reviews the preclinical programme from the Glick laboratory at
 ---
 
 ## See Also
-- [[1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine]] — Earlier NYAS review from same group (1998 data)
-- [[2000/Glick2000_18-MC]] — 18-MC development paper from same laboratory
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Noribogaine pharmacology
-- [[2022/Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs]] — Later confirmation of nicotinic hypothesis
-- [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — Modern analogue development building on 18-MC legacy
-- [[ORANGE_Mechanisms_Hub]] — Central hub for pharmacology and mechanisms
+- [Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine](../1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md) — Earlier NYAS review from same group (1998 data)
+- [Glick2000_18-MC](../2000/Glick2000_18-MC.md) — 18-MC development paper from same laboratory
+- [Baumann2001_Neurobiological_Effects_Noribogaine](Baumann2001_Neurobiological_Effects_Noribogaine.md) — Noribogaine pharmacology
+- [Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs](../2022/Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs.md) — Later confirmation of nicotinic hypothesis
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — Modern analogue development building on 18-MC legacy
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Central hub for pharmacology and mechanisms

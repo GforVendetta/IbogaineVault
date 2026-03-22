@@ -42,6 +42,8 @@ route: oral
 open_access: false
 publisher: "Taylor & Francis"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Toxicokinetics of Ibogaine and Noribogaine in a Patient with Prolonged Multiple Cardiac Arrhythmias After Ingestion of Internet Purchased Ibogaine
@@ -103,7 +105,7 @@ A 46-year-old woman presented to the emergency department after being found unco
 
 ## Clinical Implications
 
-This case is profoundly relevant to clinical clinical protocols in several ways:
+This case is profoundly relevant to clinical protocols in several ways:
 
 **Monitoring duration:** QTc prolongation persisted for 12 days post-ingestion — far longer than the pharmacokinetic profile of ibogaine alone would suggest. This underscores the need for extended cardiac monitoring well beyond ibogaine clearance, with noribogaine as the true driver of prolonged risk. Standard 24–72 h monitoring windows may be insufficient for patients with high Cmax or suspected CYP2D6 polymorphisms.
 
@@ -124,8 +126,8 @@ This case is profoundly relevant to clinical clinical protocols in several ways:
 ---
 
 ## See Also
-- [[2012/Alper2012_Ibogaine_Fatalities]]
-- [[2016/Litjens2016_How_Toxic_Is_Ibogaine]]
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]]
-- [[2017/Rubi2017_hERG_iPSC_Cardiomyocytes]]
-- [[RED_Cardiac_Safety_Hub]]
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md)
+- [Litjens2016_How_Toxic_Is_Ibogaine](../2016/Litjens2016_How_Toxic_Is_Ibogaine.md)
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md)
+- [Rubi2017_hERG_iPSC_Cardiomyocytes](Rubi2017_hERG_iPSC_Cardiomyocytes.md)
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

@@ -41,6 +41,8 @@ route: intraperitoneal
 open_access: false
 publisher: "American Chemical Society"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # A Single Administration of the Atypical Psychedelic Ibogaine or its Metabolite Noribogaine Induces an Antidepressant-like Effect in Rats
@@ -149,9 +151,9 @@ The high brain penetration and tissue binding data (brain/plasma ratios ~7.7–7
 ---
 
 ## See Also
-- [[ORANGE_Mechanisms_Hub]] — Polypharmacological mechanism and SERT inhibition evidence
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — Directly upstream study from the same group showing BDNF/GDNF upregulation that motivated this work
-- [[2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression]] — Same group's earlier work on ibogaine sleep architecture in rats
-- [[2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms]] — Structural basis for non-competitive SERT inhibition by ibogaine
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — In-vivo neurobiological effects and PK data referenced throughout this study
-- [[2018/Ly2018_Psychedelics_Neural_Plasticity]] — Noribogaine neuritogenesis findings cited as potential mechanism
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Polypharmacological mechanism and SERT inhibition evidence
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — Directly upstream study from the same group showing BDNF/GDNF upregulation that motivated this work
+- [Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression](../2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression.md) — Same group's earlier work on ibogaine sleep architecture in rats
+- [Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms](../2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms.md) — Structural basis for non-competitive SERT inhibition by ibogaine
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — In-vivo neurobiological effects and PK data referenced throughout this study
+- [Ly2018_Psychedelics_Neural_Plasticity](../2018/Ly2018_Psychedelics_Neural_Plasticity.md) — Noribogaine neuritogenesis findings cited as potential mechanism

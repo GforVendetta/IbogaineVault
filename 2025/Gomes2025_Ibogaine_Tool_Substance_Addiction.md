@@ -43,6 +43,8 @@ route: oral
 open_access: true
 publisher: "Brill"
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine as a Tool in the Process of Overcoming Drug Addiction
@@ -134,16 +136,16 @@ This chapter is directly relevant to practice as a practitioner-oriented synthes
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study]]
-- [[2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine]]
-- [[2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes]]
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]]
-- [[2012/Alper2012_Ibogaine_Fatalities]]
-- [[2021/Knuijver2021_Safety_Opioid_Detox]]
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]]
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]]
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]]
-- [[2025/Soderberg2025_Medical_Subculture_Risk_Management]]
-- [[2025/Polanco2025_War_Trauma_Ibogaine_5-MeO]]
+- [Schenberg2014_Treating_Drug_Dependence_Retrospective_Study](../2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md)
+- [Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine](../2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md)
+- [Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md)
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md)
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md)
+- [Knuijver2021_Safety_Opioid_Detox](../2021/Knuijver2021_Safety_Opioid_Detox.md)
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md)
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md)
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md)
+- [Soderberg2025_Medical_Subculture_Risk_Management](Soderberg2025_Medical_Subculture_Risk_Management.md)
+- [Polanco2025_War_Trauma_Ibogaine_5-MeO](Polanco2025_War_Trauma_Ibogaine_5-MeO.md)

@@ -37,10 +37,15 @@ dosing_range: "3.5g ibogaine 15% (case 2)"
 route: oral
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 pmid: "23123541"
 ---
 
 # Life-threatening complications of ibogaine: three case reports
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Journal:** The Journal of Medicine (Netherlands) | SPECIAL ARTICLE
 **Date:** November 2012, Vol. 70, No 9
@@ -169,7 +174,7 @@ Presented as an oral presentation at the Annual Meeting of the Netherlands Assoc
 
 ## See Also
 
-- [[2009/Hoelen2009_Long_QT_Ibogaine]] — Earlier Dutch case report of ibogaine QTc prolongation; same clinical setting
-- [[2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias]] — Same-year case report with TdP arrhythmia pattern
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Systematic fatality review providing context for these individual cases
-- [[RED_Cardiac_Safety_Hub]]
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — Earlier Dutch case report of ibogaine QTc prolongation; same clinical setting
+- [Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias](Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.md) — Same-year case report with TdP arrhythmia pattern
+- [Alper2012_Ibogaine_Fatalities](Alper2012_Ibogaine_Fatalities.md) — Systematic fatality review providing context for these individual cases
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

@@ -33,9 +33,14 @@ herg_data: true
 contraindications: []
 open_access: true
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Development of Bioisosteric *Iboga*-alkaloids as Antinociceptive and Anxiolytic Agents with Neuroprotective Effects
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Authors:** Abhishek Gupta, Tuhin Bhattacharya, Subhamoy Pratihar, Sabnur Parvage, Swrajit Nath Sharma, Arnab Sarkar, Akash De, Sanmoy Karmakar, Sanjit Dey\*, and Surajit Sinha\*
 
@@ -352,20 +357,20 @@ Critically, **C4** exhibited a superior cardiac safety profile in C2C12 cells an
 ## See Also
 
 ### Cardiac Safety Research
-- [[RED_Cardiac_Safety_Hub]] — Central cardiac safety hub
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — hERG mechanism review
-- [[2017/Rubi2017_hERG_iPSC_Cardiomyocytes|Rubi 2017]] — iPSC cardiac models
-- [[2024/Mestre2024_Cardiac_Arrest_Case_Report]] — Why cardioprotection matters
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Central cardiac safety hub
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — hERG mechanism review
+- [Rubi 2017](../2017/Rubi2017_hERG_iPSC_Cardiomyocytes.md) — iPSC cardiac models
+- [Mestre2024_Cardiac_Arrest_Case_Report](../2024/Mestre2024_Cardiac_Arrest_Case_Report.md) — Why cardioprotection matters
 
 ### Analog Development
-- [[2025/Hwu2025_Matrix_Pharmacology_VMAT2_SERT]] — Columbia matrix pharmacology (VMAT2, SERT, OCT2)
-- [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — Oxa-iboga compounds
-- [[2024/Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol]] — Tabernanthalog
+- [Hwu2025_Matrix_Pharmacology_VMAT2_SERT](Hwu2025_Matrix_Pharmacology_VMAT2_SERT.md) — Columbia matrix pharmacology (VMAT2, SERT, OCT2)
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — Oxa-iboga compounds
+- [Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol](../2024/Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol.md) — Tabernanthalog
 
 ### Mechanism Context
-- [[ORANGE_Mechanisms_Hub]] — Pharmacology hub
-- [[2016/Alper2016_hERG_Blockade]] — hERG structure-activity
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Pharmacology hub
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG structure-activity
 
 ### Clinical Protocols
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC cardioprotection approach
-- [[GREEN_Clinical_Protocols_Hub]] — Protocol development
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC cardioprotection approach
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md) — Protocol development

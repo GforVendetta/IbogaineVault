@@ -32,6 +32,8 @@ contraindications: []
 open_access: true
 publisher: "Mary Ann Liebert"
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # **Tabernanthalog Reduces Motivation for Heroin and Alcohol in a Polydrug Use Model**
@@ -332,10 +334,10 @@ This research was funded by the following NIDA/NIH grants: R01 DA045836 (J.P.), 
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — Oxa-iboga safer analogues
-- [[1996/Glick1996_18MC_NonToxic]] — Original 18-MC proof-of-concept
-- [[2016/Alper2016_hERG_Blockade]] — Cardiac safety validation for analogues
-- [[2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis]] — Animal model context
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Mechanism synthesis
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — Oxa-iboga safer analogues
+- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md) — Original 18-MC proof-of-concept
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Cardiac safety validation for analogues
+- [Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis](../2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md) — Animal model context
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Mechanism synthesis

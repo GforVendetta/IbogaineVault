@@ -31,9 +31,14 @@ contraindications: []
 open_access: true
 publisher: "Frontiers"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
 
 # Ibogaine's potential role in supporting reward system recovery across diagnostic boundaries
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Journal:** Frontiers in Pharmacology
 **Type:** Hypothesis and Theory
@@ -59,7 +64,7 @@ Nicolas M (2025) Ibogaine's potential role in supporting reward system recovery 
 
 This article proposes that ibogaine's induction of GDNF, modulation of glutamate and dopamine signaling, and reopening of plasticity represent a unified mechanism capable of restoring reward system fidelity across disorders. This includes addiction, obsessive-compulsive disorder (OCD), post-traumatic stress disorder (PTSD), and eating disorders, amongst others. These conditions are labelled as distinct and separate yet share disrupted dopaminergic and glutamatergic signaling within the mesocorticolimbic circuitry as a common underlying dysfunction, resulting in maladaptive reinforcement and motivational dysregulation.
 
-Ibogaine, a little-known indole alkaloid derived from *Tabernanthe iboga*, has shown distinct neurobiological effects that seem to restore normal reward processing through glial cell line-derived neurotrophic factor (GDNF) upregulation, receptor modulation, and enhanced neuroplasticity. Historical, preclinical, and observational evidence suggests that ibogaine's mechanism of action is consistent with an action on underlying reward system dysfunction rather than only on surface symptoms. However, there are some safety concerns. Ibogaine causes [[Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk|hERG channel inhibition]], so the therapy requires adherence to strict medical protocols.
+Ibogaine, a little-known indole alkaloid derived from *Tabernanthe iboga*, has shown distinct neurobiological effects that seem to restore normal reward processing through glial cell line-derived neurotrophic factor (GDNF) upregulation, receptor modulation, and enhanced neuroplasticity. Historical, preclinical, and observational evidence suggests that ibogaine's mechanism of action is consistent with an action on underlying reward system dysfunction rather than only on surface symptoms. However, there are some safety concerns. Ibogaine causes [hERG channel inhibition](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md), so the therapy requires adherence to strict medical protocols.
 
 This review hypothesizes that ibogaine's neurotrophic and receptor-modulating properties act as a unifying mechanism for restoring reward-system function across diagnostic boundaries. Unlike prior ibogaine reviews that focus on addiction, this paper integrates findings across trauma, compulsive behavior, and affective disorders through the common lens of reward-circuit dysfunction. The mechanisms described here support a theoretical framework that requires empirical validation, and the predictions derived from this model are outlined within the paper.
 
@@ -89,21 +94,21 @@ This narrative review synthesizes analysis of peer reviewed human and animal stu
 
 ## Pharmacological background and mechanistic overview
 
-Ibogaine is an indole alkaloid extracted from the root bark of *Tabernanthe iboga*, a shrub native to the rainforests of Central West Africa. It induces a deep oneirogenic state that is physically demanding. During the acute phase individuals often report vivid visions and profound introspective or mystical experiences accompanied by temporary ataxia and nausea. For centuries, the Bwiti peoples of Gabon, Cameroon, and the Republic of the Congo have used iboga in initiation practice, personal growth, and healing. Within their initiative traditions, it is not regarded as a drug but as a teacher. To the Bwiti, iboga contains a plant spirit believed to reveal truth, confront suffering, and restore moral alignment within the community ([[Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context|Fernandez, 1982]]).
+Ibogaine is an indole alkaloid extracted from the root bark of *Tabernanthe iboga*, a shrub native to the rainforests of Central West Africa. It induces a deep oneirogenic state that is physically demanding. During the acute phase individuals often report vivid visions and profound introspective or mystical experiences accompanied by temporary ataxia and nausea. For centuries, the Bwiti peoples of Gabon, Cameroon, and the Republic of the Congo have used iboga in initiation practice, personal growth, and healing. Within their initiative traditions, it is not regarded as a drug but as a teacher. To the Bwiti, iboga contains a plant spirit believed to reveal truth, confront suffering, and restore moral alignment within the community ([Fernandez, 1982](../2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.md)).
 
 The symbolic framing of death and rebirth in these traditions can be viewed as broadly consistent with modern interpretations of transient windows of heightened neuroplasticity. Incorporating this anthropological context is useful because symbolic confrontation, narrative restructuring, and intensified autobiographical recall are known to modulate limbic salience networks and medial prefrontal integration. These processes may interact with ibogaine-induced plasticity windows, shaping how new emotional and cognitive associations consolidate during treatment.
 
-Western researchers first isolated ibogaine in 1901, later marketing low dose extracts under the trade name Lambarène as a stimulant and antidepressant (Goutarel, Gollnhofer and Sillans, 1993). Ibogaine remained relatively obscure until the 1960s, when [[Howard_Lotsof_MOC|Howard Lotsof]], an American researcher and former heroin user, observed that a single high dose eliminated withdrawal symptoms and reduced craving. This anecdotal finding initiated decades of underground practice and scientific inquiry ([[Alper2001_Ibogaine_Review|Alper, 2001]]).
+Western researchers first isolated ibogaine in 1901, later marketing low dose extracts under the trade name Lambarène as a stimulant and antidepressant (Goutarel, Gollnhofer and Sillans, 1993). Ibogaine remained relatively obscure until the 1960s, when [Howard Lotsof](../MOCs/Howard_Lotsof_MOC.md), an American researcher and former heroin user, observed that a single high dose eliminated withdrawal symptoms and reduced craving. This anecdotal finding initiated decades of underground practice and scientific inquiry ([Alper, 2001](../2001/Alper2001_Ibogaine_Review.md)).
 
-Preclinical studies show that ibogaine operates differently from conventional detoxification agents. It modulates dopamine transporters, influences glutamatergic tone, and upregulates neurotrophic factors such as glial cell line derived neurotrophic factor (GDNF). This sequence of actions promotes dopaminergic neuron survival within the ventral tegmental area and nucleus accumbens ([[He2006_Ibogaine_and_GDNF|He and Ron, 2006]]; [[Carnicella2010_Noribogaine_18MC_GDNF|Carnicella et al., 2010]]; [[Marton2019_Ibogaine_GDNF_BDNF|Marton et al., 2019]]; Iyer et al., 2021). By increasing GDNF, ibogaine and its metabolite noribogaine appear to support recovery of reward circuits disrupted by chronic stress and substance exposure.
+Preclinical studies show that ibogaine operates differently from conventional detoxification agents. It modulates dopamine transporters, influences glutamatergic tone, and upregulates neurotrophic factors such as glial cell line derived neurotrophic factor (GDNF). This sequence of actions promotes dopaminergic neuron survival within the ventral tegmental area and nucleus accumbens ([He and Ron, 2006](../2006/He2006_Ibogaine_and_GDNF.md); [Carnicella et al., 2010](../2010/Carnicella2010_Noribogaine_18MC_GDNF.md); [Marton et al., 2019](../2019/Marton2019_Ibogaine_GDNF_BDNF.md); Iyer et al., 2021). By increasing GDNF, ibogaine and its metabolite noribogaine appear to support recovery of reward circuits disrupted by chronic stress and substance exposure.
 
 The significance of GDNF upregulation extends beyond a biomarker shift. GDNF is a survival factor for dopaminergic neurons in the ventral tegmental area and substantia nigra. By engaging the GFRa1/RET receptor complex, it activates pathways that facilitate neuron survival, dendritic growth, and synaptic remodeling (He and Ron, 2006; Carnicella et al., 2010). These processes strengthen mesocorticolimbic circuitry and may help recalibrate how the brain encodes value and prediction.
 
-Ibogaine's effects on glutamatergic signaling complement these actions. Through mild NMDA receptor antagonism and stabilization of mGluR2/3 activity, ibogaine reduces excessive glutamate release associated with hyperexcitability and persistent maladaptive behavioral patterns ([[Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine|Glick, Maisonneuve and Szumlinski, 1998]]; [[Popik1995_100Years_Ibogaine_Review|Popik, Layer and Skolnick, 1995]]). This modulation supports extinction learning, allowing maladaptive reward and fear associations to be updated. Together, GDNF induction and glutamatergic modulation reopen a window of plasticity in which new emotional and behavioral patterns may be acquired, suggesting that therapeutic value depends on both pharmacological effects and post treatment learning processes (Marton et al., 2019).
+Ibogaine's effects on glutamatergic signaling complement these actions. Through mild NMDA receptor antagonism and stabilization of mGluR2/3 activity, ibogaine reduces excessive glutamate release associated with hyperexcitability and persistent maladaptive behavioral patterns ([Glick, Maisonneuve and Szumlinski, 1998](../1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md); [Popik, Layer and Skolnick, 1995](../1995/Popik1995_100Years_Ibogaine_Review.md)). This modulation supports extinction learning, allowing maladaptive reward and fear associations to be updated. Together, GDNF induction and glutamatergic modulation reopen a window of plasticity in which new emotional and behavioral patterns may be acquired, suggesting that therapeutic value depends on both pharmacological effects and post treatment learning processes (Marton et al., 2019).
 
-Since ibogaine's classification as a Schedule I substance in the United States in 1970, research has continued primarily in international settings. Observational studies in the Netherlands, Mexico, and New Zealand report rapid reductions in withdrawal and craving and higher abstinence rates than conventional detoxification, despite methodological limitations ([[Alper1999_Acute_Opioid_Withdrawal|Alper et al., 1999]]; [[Brown2018_OUD_Detoxification_Outcomes|Brown and Alper, 2018]]; [[Noller2017_Ibogaine_Opioid_12Month_Outcomes|Noller, Frampton and Yazar Klosinski, 2018]]). These findings parallel biological evidence showing that noribogaine persists for days and that GDNF upregulation can continue for weeks, indicating a potentially sustained neurobiological effect rather than a transient symptomatic change (Carnicella et al., 2010; Marton et al., 2019; Iyer et al., 2021).
+Since ibogaine's classification as a Schedule I substance in the United States in 1970, research has continued primarily in international settings. Observational studies in the Netherlands, Mexico, and New Zealand report rapid reductions in withdrawal and craving and higher abstinence rates than conventional detoxification, despite methodological limitations ([Alper et al., 1999](../1999/Alper1999_Acute_Opioid_Withdrawal.md); [Brown and Alper, 2018](../2018/Brown2018_OUD_Detoxification_Outcomes.md); [Noller, Frampton and Yazar Klosinski, 2018](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md)). These findings parallel biological evidence showing that noribogaine persists for days and that GDNF upregulation can continue for weeks, indicating a potentially sustained neurobiological effect rather than a transient symptomatic change (Carnicella et al., 2010; Marton et al., 2019; Iyer et al., 2021).
 
-Although this review focuses on dopaminergic, glutamatergic, and neurotrophic pathways because of their relevance to reward-system recalibration, ibogaine's pharmacology is broader. Preclinical work shows that ibogaine and its metabolites interact with serotonergic receptors, monoamine transporters, opioid receptors, and other targets that likely contribute to both its therapeutic and adverse effect profile (Wells, Lopez and Tanaka, 1999; [[Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs|Iyer et al., 2021]]). For example, ibogaine inhibits dopamine and serotonin transport in rat brain synaptosomes and stabilizes transporters in noncanonical conformations, and iboga alkaloids have been reviewed as ligands with activity at multiple receptor systems that are implicated in affective and motivational regulation (Wells et al., 1999; Iyer et al., 2021; Marton et al., 2019). These findings highlight that ibogaine cannot be reduced to a single circuit level mechanism, and future work will need to clarify how these diverse receptor and transporter actions relate to the clinical phenomena described in observational studies.
+Although this review focuses on dopaminergic, glutamatergic, and neurotrophic pathways because of their relevance to reward-system recalibration, ibogaine's pharmacology is broader. Preclinical work shows that ibogaine and its metabolites interact with serotonergic receptors, monoamine transporters, opioid receptors, and other targets that likely contribute to both its therapeutic and adverse effect profile (Wells, Lopez and Tanaka, 1999; [Iyer et al., 2021](../2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md)). For example, ibogaine inhibits dopamine and serotonin transport in rat brain synaptosomes and stabilizes transporters in noncanonical conformations, and iboga alkaloids have been reviewed as ligands with activity at multiple receptor systems that are implicated in affective and motivational regulation (Wells et al., 1999; Iyer et al., 2021; Marton et al., 2019). These findings highlight that ibogaine cannot be reduced to a single circuit level mechanism, and future work will need to clarify how these diverse receptor and transporter actions relate to the clinical phenomena described in observational studies.
 
 Mechanistically, noribogaine shares several properties with ibogaine, including serotonin transporter inhibition and modest NMDA antagonism, but appears to exhibit reduced activity at certain targets such as kappa opioid and sigma receptors, although comparative quantitative data are limited (Popik, Layer, and Skolnick, 1995; Wells, Lopez, and Tanaka, 1999).
 
@@ -198,15 +203,15 @@ Ibogaine's therapeutic potential must be weighed against known medical risks. Wh
 **Cardiac Risk:** The compound can prolong cardiac repolarization (QT) by inhibiting the hERG potassium channel, increasing the likelihood of torsades de pointes in vulnerable individuals (Koenig et al., 2012; Meisner et al., 2016).
 
 * 
-**Adverse Events:** Documented fatalities typically involve inadequate screening, polysubstance use, or electrolyte imbalance ([[Meisner2016_Cardiac_Arrest_Death_Case|Meisner et al., 2016]]).
+**Adverse Events:** Documented fatalities typically involve inadequate screening, polysubstance use, or electrolyte imbalance ([Meisner et al., 2016](../2016/Meisner2016_Cardiac_Arrest_Death_Case.md)).
 
 * 
 **Protocols:** Rigorous protocols that include cardiac evaluation, urinalysis, electrolyte monitoring, medication review, and continuous observation are essential. Typical exclusion criteria include QTc prolongation, structural heart disease, and concurrent QT-prolonging drugs.
 
 * 
-**Genetic Variability:** Polymorphisms in metabolic enzymes can meaningfully alter both ibogaine and noribogaine exposure, shaping clinical effects and contributing to adverse outcomes. Variants in CYP2D6 can significantly shift the balance of biotransformation ([[Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids|Boukandou and Aboughe, 2023]]). Additionally, transporters like ABCB1 and ABCG2 restrict ibogaine's plasma levels and brain penetration, playing a key role in pharmacokinetics ([[Martins2022_Drug_Transporters_Ibogaine_PK|Martins et al., 2022]]). Incorporating targeted genotyping for CYP2D6, and potentially ABCB1 or ABCG2, into pretreatment evaluation could enhance safety and refine dosing.
+**Genetic Variability:** Polymorphisms in metabolic enzymes can meaningfully alter both ibogaine and noribogaine exposure, shaping clinical effects and contributing to adverse outcomes. Variants in CYP2D6 can significantly shift the balance of biotransformation ([Boukandou and Aboughe, 2023](../2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md)). Additionally, transporters like ABCB1 and ABCG2 restrict ibogaine's plasma levels and brain penetration, playing a key role in pharmacokinetics ([Martins et al., 2022](../2022/Martins2022_Drug_Transporters_Ibogaine_PK.md)). Incorporating targeted genotyping for CYP2D6, and potentially ABCB1 or ABCG2, into pretreatment evaluation could enhance safety and refine dosing.
 
-In addition to these safety considerations, emerging clinical work is beginning to clarify how ibogaine may function within medically structured environments. Preliminary findings from the Stanford MISTIC trial ([[Cherian2024_Magnesium_Ibogaine_TBI|Cherian et al., 2024]]) demonstrated that magnesium-ibogaine therapy produced measurable clinical and neurophysiological improvements in veterans with traumatic brain injury. The study enrolled twenty individuals in an open-label design and served as the first modern, institutionally regulated trial of ibogaine in the United States. The results suggest that, when administered under strict medical oversight and combined with neuroprotective agents such as magnesium, ibogaine may engage neuroplastic processes in a manner that appears tolerable and safe.
+In addition to these safety considerations, emerging clinical work is beginning to clarify how ibogaine may function within medically structured environments. Preliminary findings from the Stanford MISTIC trial ([Cherian et al., 2024](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md)) demonstrated that magnesium-ibogaine therapy produced measurable clinical and neurophysiological improvements in veterans with traumatic brain injury. The study enrolled twenty individuals in an open-label design and served as the first modern, institutionally regulated trial of ibogaine in the United States. The results suggest that, when administered under strict medical oversight and combined with neuroprotective agents such as magnesium, ibogaine may engage neuroplastic processes in a manner that appears tolerable and safe.
 
 Integrating this approach with advanced neuroimaging and circuit-based models, like those used in neuromodulation and network-based psychiatry, could clarify ibogaine's mechanisms and optimize dosing, safety, and therapeutic durability across diagnostic boundaries. Collectively, these findings support the rationale for continued institutional investigation of ibogaine as a potential modulator of reward-related neurocircuitry.
 
@@ -235,7 +240,7 @@ MN: Conceptualization, Investigation, Writing original draft, Writing review and
 The authors declare that financial support was received for the research and/or publication of this article. Any financial contributions received were directed solely toward publication fees and did not influence the research, analysis, or writing of this manuscript. A GoFundMe was organized for publication fees after the manuscript was submitted.
 
 **Acknowledgements:**
-The author thanks Dr. [[Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder|Joseph Barsuglia]] and Dr. [[Polanco2025_War_Trauma_Ibogaine_5-MeO|Martin Polanco]] for their mentorship and for their intellectual guidance regarding clinical application and entry into this field. Additional thanks to my writing professor, Dr. Kendal Smith, for being open enough to allow me to take on this novel topic.
+The author thanks Dr. [Joseph Barsuglia](../2018/Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder.md) and Dr. [Martin Polanco](Polanco2025_War_Trauma_Ibogaine_5-MeO.md) for their mentorship and for their intellectual guidance regarding clinical application and entry into this field. Additional thanks to my writing professor, Dr. Kendal Smith, for being open enough to allow me to take on this novel topic.
 
 **Conflict of Interest:**
 The author declares that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
@@ -290,56 +295,56 @@ The authors declare that no Generative AI was used in the creation of this manus
 ## See Also
 
 ### Neurotrophic Mechanisms (GDNF/BDNF)
-- [[He2006_Ibogaine_and_GDNF]] — foundational GDNF autoregulation study underpinning the reward-recovery hypothesis
-- [[He2005_GDNF_Ibogaine_Alcohol]] — earlier work establishing GDNF-ibogaine link in alcohol models
-- [[Carnicella2010_Noribogaine_18MC_GDNF]] — noribogaine vs 18-MC comparison on GDNF and alcohol intake
-- [[Marton2019_Ibogaine_GDNF_BDNF]] — in vivo GDNF/BDNF expression across mesocorticolimbic regions
-- [[Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release]] — structural requirements for iboga alkaloid GDNF release
+- [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — foundational GDNF autoregulation study underpinning the reward-recovery hypothesis
+- [He2005_GDNF_Ibogaine_Alcohol](../2005/He2005_GDNF_Ibogaine_Alcohol.md) — earlier work establishing GDNF-ibogaine link in alcohol models
+- [Carnicella2010_Noribogaine_18MC_GDNF](../2010/Carnicella2010_Noribogaine_18MC_GDNF.md) — noribogaine vs 18-MC comparison on GDNF and alcohol intake
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — in vivo GDNF/BDNF expression across mesocorticolimbic regions
+- [Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release](../2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md) — structural requirements for iboga alkaloid GDNF release
 
 ### Pharmacology and Receptor Profiles
-- [[Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs]] — comprehensive review of iboga alkaloid pharmacology and receptor interactions
-- [[Popik1995_100Years_Ibogaine_Review]] — foundational pharmacological review covering NMDA, opioid, and monoaminergic actions
-- [[Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine]] — antiaddictive mechanism synthesis including glutamatergic modulation
-- [[Glick2001_Mechanisms_Action_Ibogaine_18MC]] — expanded mechanism work including 18-MC congener development
-- [[Mash1995_Noribogaine_SERT_Identification]] — identification of noribogaine serotonin transporter binding
+- [Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs](../2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md) — comprehensive review of iboga alkaloid pharmacology and receptor interactions
+- [Popik1995_100Years_Ibogaine_Review](../1995/Popik1995_100Years_Ibogaine_Review.md) — foundational pharmacological review covering NMDA, opioid, and monoaminergic actions
+- [Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine](../1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md) — antiaddictive mechanism synthesis including glutamatergic modulation
+- [Glick2001_Mechanisms_Action_Ibogaine_18MC](../2001/Glick2001_Mechanisms_Action_Ibogaine_18MC.md) — expanded mechanism work including 18-MC congener development
+- [Mash1995_Noribogaine_SERT_Identification](../1995/Mash1995_Noribogaine_SERT_Identification.md) — identification of noribogaine serotonin transporter binding
 
 ### Pharmacokinetics and Safety
-- [[Martins2022_Drug_Transporters_Ibogaine_PK]] — ABCB1/ABCG2 transporter roles in ibogaine pharmacokinetics
-- [[Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids]] — CYP2D6 pharmacogenetics and neuroprotection/neurotoxicity balance
-- [[Hub_PK-PD_Synthesis]] — vault hub integrating pharmacokinetic and pharmacodynamic evidence
-- [[Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — hERG channel blockade mechanism underlying cardiac risk
-- [[Alper2016_hERG_Blockade]] — expanded hERG electrophysiology data
-- [[Meisner2016_Cardiac_Arrest_Death_Case]] — case report and fatality literature review
-- [[Alper2012_Ibogaine_Fatalities]] — systematic analysis of ibogaine-associated fatalities
+- [Martins2022_Drug_Transporters_Ibogaine_PK](../2022/Martins2022_Drug_Transporters_Ibogaine_PK.md) — ABCB1/ABCG2 transporter roles in ibogaine pharmacokinetics
+- [Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids](../2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md) — CYP2D6 pharmacogenetics and neuroprotection/neurotoxicity balance
+- [Hub_PK-PD_Synthesis](../Hubs/Hub_PK-PD_Synthesis.md) — vault hub integrating pharmacokinetic and pharmacodynamic evidence
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — hERG channel blockade mechanism underlying cardiac risk
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — expanded hERG electrophysiology data
+- [Meisner2016_Cardiac_Arrest_Death_Case](../2016/Meisner2016_Cardiac_Arrest_Death_Case.md) — case report and fatality literature review
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — systematic analysis of ibogaine-associated fatalities
 
 ### Clinical Outcomes (Addiction)
-- [[Alper1999_Acute_Opioid_Withdrawal]] — early open-label opioid withdrawal treatment data
-- [[Brown2018_OUD_Detoxification_Outcomes]] — detoxification and drug use outcomes in OUD
-- [[Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — 12-month follow-up observational study from New Zealand
-- [[Schenberg2014_Treating_Drug_Dependence_Retrospective_Study]] — Brazilian retrospective treatment outcomes
-- [[Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes]] — clinical observations from large detoxification series
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — early open-label opioid withdrawal treatment data
+- [Brown2018_OUD_Detoxification_Outcomes](../2018/Brown2018_OUD_Detoxification_Outcomes.md) — detoxification and drug use outcomes in OUD
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — 12-month follow-up observational study from New Zealand
+- [Schenberg2014_Treating_Drug_Dependence_Retrospective_Study](../2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md) — Brazilian retrospective treatment outcomes
+- [Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md) — clinical observations from large detoxification series
 
 ### MISTIC Trial and TBI
-- [[Cherian2024_Magnesium_Ibogaine_TBI]] — Stanford MISTIC trial: magnesium-ibogaine for veterans with TBI
-- [[Cherian2024_Ibogaine_Primer_Clinicians]] — clinical primer contextualising ibogaine for medical practitioners
-- [[Faerman2025_MISTIC_12Month_Followup]] — durability of MISTIC outcomes at 12 months
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — Stanford MISTIC trial: magnesium-ibogaine for veterans with TBI
+- [Cherian2024_Ibogaine_Primer_Clinicians](../2024/Cherian2024_Ibogaine_Primer_Clinicians.md) — clinical primer contextualising ibogaine for medical practitioners
+- [Faerman2025_MISTIC_12Month_Followup](Faerman2025_MISTIC_12Month_Followup.md) — durability of MISTIC outcomes at 12 months
 
 ### Trauma, PTSD, and Phenomenology
-- [[Polanco2025_War_Trauma_Ibogaine_5-MeO]] — combat trauma outcomes with ibogaine/5-MeO-DMT combination protocols
-- [[Lotsof1996_Trauma_Abreaction]] — early theoretical framework connecting ibogaine to trauma abreaction
-- [[Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder]] — SPECT neuroimaging of ibogaine/5-MeO-DMT in alcohol use disorder
+- [Polanco2025_War_Trauma_Ibogaine_5-MeO](Polanco2025_War_Trauma_Ibogaine_5-MeO.md) — combat trauma outcomes with ibogaine/5-MeO-DMT combination protocols
+- [Lotsof1996_Trauma_Abreaction](../1996/Lotsof1996_Trauma_Abreaction.md) — early theoretical framework connecting ibogaine to trauma abreaction
+- [Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder](../2018/Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder.md) — SPECT neuroimaging of ibogaine/5-MeO-DMT in alcohol use disorder
 
 ### Historical and Ethnobotanical Context
-- [[Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context]] — Bwiti ritual context and iboga's role in initiation
-- [[Alper2001_Ibogaine_Review]] — comprehensive review spanning history, pharmacology, and clinical evidence
-- [[Alper2001_Contemporary_History_Ibogaine_USA_Europe]] — political and regulatory history in the US and Europe
-- [[Howard_Lotsof_MOC]] — map of content for Howard Lotsof's contributions to ibogaine research
-- [[Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance]] — ibogaine's legacy within the broader psychedelic renaissance
+- [Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context](../2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.md) — Bwiti ritual context and iboga's role in initiation
+- [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md) — comprehensive review spanning history, pharmacology, and clinical evidence
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — political and regulatory history in the US and Europe
+- [Howard_Lotsof_MOC](../MOCs/Howard_Lotsof_MOC.md) — map of content for Howard Lotsof's contributions to ibogaine research
+- [Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance](../2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md) — ibogaine's legacy within the broader psychedelic renaissance
 
 ### Vault Hubs
-- [[ORANGE_Mechanisms_Hub]] — primary hub for mechanistic research (this paper's home category)
-- [[RED_Cardiac_Safety_Hub]] — cardiac safety evidence relevant to the hERG/QTc risks discussed
-- [[BLUE_Outcomes_Hub]] — clinical outcomes evidence across treatment contexts
-- [[PURPLE_Phenomenology_Hub]] — phenomenological dimensions of the oneirogenic experience discussed here
-- [[GREEN_Clinical_Protocols_Hub]] — protocol standards for safe administration
-- [[WHITE_Historical_Hub]] — historical and ethnobotanical context
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — primary hub for mechanistic research (this paper's home category)
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — cardiac safety evidence relevant to the hERG/QTc risks discussed
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — clinical outcomes evidence across treatment contexts
+- [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md) — phenomenological dimensions of the oneirogenic experience discussed here
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md) — protocol standards for safe administration
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — historical and ethnobotanical context

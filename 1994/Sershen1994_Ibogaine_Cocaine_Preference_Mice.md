@@ -33,6 +33,8 @@ route: intraperitoneal
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine Reduces Preference for Cocaine Consumption in C57BL/6By Mice
@@ -122,7 +124,7 @@ p < 0.01 for cocaine vs cocaine + ibogaine or water + ibogaine; p < 0.05 for coc
 
 This study provides important preclinical validation of ibogaine's anti-cocaine efficacy using a self-administration paradigm. Key translational insights:
 
-1. **Duration of effect:** The cocaine preference reduction persisted for at least five days after a single ibogaine treatment — consistent with the sustained anti-addictive effects reported in the [[1992/Sershen1992_Ibogaine_Cocaine_Locomotor|Sershen1992 locomotor study]] (≥9 days) and anecdotal human reports of prolonged interruption of drug craving.
+1. **Duration of effect:** The cocaine preference reduction persisted for at least five days after a single ibogaine treatment — consistent with the sustained anti-addictive effects reported in the [Sershen1992 locomotor study](../1992/Sershen1992_Ibogaine_Cocaine_Locomotor.md) (≥9 days) and anecdotal human reports of prolonged interruption of drug craving.
 
 2. **Mechanism is not pharmacokinetic:** Brain cocaine levels were paradoxically *increased* by ibogaine, ruling out a simple metabolic blockade or competition at uptake sites. The behavioural attenuation must reflect post-synaptic or downstream neurotransmitter release mechanisms — consistent with ibogaine's known multi-receptor pharmacology (NMDA, σ, κ-opioid, nicotinic).
 
@@ -144,8 +146,8 @@ This study provides important preclinical validation of ibogaine's anti-cocaine 
 ---
 
 ## See Also
-- [[1992/Sershen1992_Ibogaine_Cocaine_Locomotor]] — Same author group, predecessor study: ibogaine blocks cocaine-induced locomotor stimulation in mice
-- [[1994/Glick1994_Iboga_Alkaloids_Self_Administration]] — Same year: ibogaine and related alkaloids reduce morphine and cocaine self-administration in rats
-- [[1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine]] — Time-dependent ibogaine and cocaine interactions
-- [[1992/Glick1992_Ibogaine_Morphine_Withdrawal_Rats]] — Glick group: ibogaine effects on morphine self-administration
-- [[ORANGE_Mechanisms_Hub]]
+- [Sershen1992_Ibogaine_Cocaine_Locomotor](../1992/Sershen1992_Ibogaine_Cocaine_Locomotor.md) — Same author group, predecessor study: ibogaine blocks cocaine-induced locomotor stimulation in mice
+- [Glick1994_Iboga_Alkaloids_Self_Administration](Glick1994_Iboga_Alkaloids_Self_Administration.md) — Same year: ibogaine and related alkaloids reduce morphine and cocaine self-administration in rats
+- [Maisonneuve1997_TimeDependent_Iboga_Cocaine](../1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine.md) — Time-dependent ibogaine and cocaine interactions
+- [Glick1992_Ibogaine_Morphine_Withdrawal_Rats](../1992/Glick1992_Ibogaine_Morphine_Withdrawal_Rats.md) — Glick group: ibogaine effects on morphine self-administration
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

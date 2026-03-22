@@ -29,6 +29,7 @@ aliases:
 evidence_level: case-report
 sample_size: 1
 mortality_count: 1
+mortality_scope: discrete-cases
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -43,6 +44,8 @@ route: oral
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 # Ibogaine Related Sudden Death: A Case Report
 
@@ -101,9 +104,9 @@ This case is directly relevant to screening and exclusion protocols:
 ---
 
 ## See Also
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Comprehensive review of 19 fatalities (1990–2008) directly cited; blood ibogaine range 0.24–9.3 mg/L
-- [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — hERG blockade mechanism cited by this paper
-- [[2012/Paling2012_Life_Threatening_Complications]] — QT prolongation and TdP case reports cited
-- [[2013/Jalal2013_Ibogaine_Death_Heroin_Case]] — Contemporary fatality case (heroin context)
-- [[2013/Mazoyer2013_Fatality_Case]] — Contemporary fatality case
-- [[RED_Cardiac_Safety_Hub]]
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Comprehensive review of 19 fatalities (1990–2008) directly cited; blood ibogaine range 0.24–9.3 mg/L
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — hERG blockade mechanism cited by this paper
+- [Paling2012_Life_Threatening_Complications](../2012/Paling2012_Life_Threatening_Complications.md) — QT prolongation and TdP case reports cited
+- [Jalal2013_Ibogaine_Death_Heroin_Case](Jalal2013_Ibogaine_Death_Heroin_Case.md) — Contemporary fatality case (heroin context)
+- [Mazoyer2013_Fatality_Case](Mazoyer2013_Fatality_Case.md) — Contemporary fatality case
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

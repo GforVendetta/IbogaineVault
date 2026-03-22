@@ -29,6 +29,7 @@ aliases:
 evidence_level: case-report
 sample_size: 1
 mortality_count: 1
+mortality_scope: discrete-cases
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -41,6 +42,8 @@ route: oral
 open_access: false
 publisher: "Springer Nature"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Death Due to Consumption of Ibogaine: Case Report
@@ -53,7 +56,7 @@ A 27-year-old male heroin addict was found dead in a rented apartment in Serbia 
 
 ## Key Findings
 
-The primary value of this case lies in the forensic toxicological data. The blood ibogaine concentration of 3.26 mg/L falls within the range previously reported in ibogaine-associated fatalities (0.24–9.3 mg/L per [[2012/Alper2012_Ibogaine_Fatalities|Alper et al. 2012]]). Critically, the cardiac histopathology was entirely normal — no macroscopic or microscopic abnormalities were identified — yet death was still attributed to ibogaine's cardiovascular effects. This pattern is consistent with functional cardiac arrhythmia (likely QTc prolongation → TdP) leaving no structural trace, a recurring theme in ibogaine fatality literature.
+The primary value of this case lies in the forensic toxicological data. The blood ibogaine concentration of 3.26 mg/L falls within the range previously reported in ibogaine-associated fatalities (0.24–9.3 mg/L per [Alper et al. 2012](../2012/Alper2012_Ibogaine_Fatalities.md)). Critically, the cardiac histopathology was entirely normal — no macroscopic or microscopic abnormalities were identified — yet death was still attributed to ibogaine's cardiovascular effects. This pattern is consistent with functional cardiac arrhythmia (likely QTc prolongation → TdP) leaving no structural trace, a recurring theme in ibogaine fatality literature.
 
 The co-detection of morphine and codeine raises the question of polypharmacy contribution. The authors acknowledge the possibility that morphine was a heroin metabolite rather than evidence of concurrent use, but note that ibogaine's pharmacokinetic interaction with morphine (potentiating its effects) could have contributed to the fatal outcome.
 
@@ -82,7 +85,7 @@ External examination revealed only nonspecific old bruises on the legs. Internal
 
 ## Cardiac Safety Context
 
-The authors discuss ibogaine's known cardiovascular risks, citing QTc prolongation leading to torsade de pointes (TdP) as the primary mechanism. They reference the case reported by [[2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias|Pleskovic et al. (2012)]] of a young man who developed malignant VT/VF after a 600 mg ibogaine dose, and [[2012/Paling2012_Life_Threatening_Complications|Paling et al. (2012)]] who described two further cases of significant QTc prolongation with ventricular tachycardia.
+The authors discuss ibogaine's known cardiovascular risks, citing QTc prolongation leading to torsade de pointes (TdP) as the primary mechanism. They reference the case reported by [Pleskovic et al. (2012)](../2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.md) of a young man who developed malignant VT/VF after a 600 mg ibogaine dose, and [Paling et al. (2012)](../2012/Paling2012_Life_Threatening_Complications.md) who described two further cases of significant QTc prolongation with ventricular tachycardia.
 
 The authors highlight two important mechanistic considerations: (1) sodium channel blockade slowing intraventricular conduction, creating re-entrant circuits and malignant ventricular tachyarrhythmia; and (2) reduction of hERG (Ether-a-go-go-related gene) potassium channel current. They also note that ibogaine-induced QTc prolongation is not amiodarone-responsive, making DC cardioversion the only effective VT/VF treatment — a critical point for emergency medical responders unfamiliar with ibogaine.
 
@@ -105,9 +108,9 @@ Single case report with limited generalisability. Toxicological analysis was per
 ---
 
 ## See Also
-- [[2012/Alper2012_Ibogaine_Fatalities|Alper 2012 — Fatalities Temporally Associated with Ibogaine Ingestion]]
-- [[2013/Papadodima2013_Ibogaine_Sudden_Death_Case|Papadodima 2013 — Ibogaine-Related Sudden Death]]
-- [[2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias|Pleskovic 2012 — Ibogaine-Associated Ventricular Tachyarrhythmias]]
-- [[2012/Paling2012_Life_Threatening_Complications|Paling 2012 — Life-Threatening Complications]]
-- [[2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities|Corkery 2018 — Benefits, Dangers and Fatalities]]
-- [[RED_Cardiac_Safety_Hub]]
+- [Alper 2012 — Fatalities Temporally Associated with Ibogaine Ingestion](../2012/Alper2012_Ibogaine_Fatalities.md)
+- [Papadodima 2013 — Ibogaine-Related Sudden Death](../2013/Papadodima2013_Ibogaine_Sudden_Death_Case.md)
+- [Pleskovic 2012 — Ibogaine-Associated Ventricular Tachyarrhythmias](../2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.md)
+- [Paling 2012 — Life-Threatening Complications](../2012/Paling2012_Life_Threatening_Complications.md)
+- [Corkery 2018 — Benefits, Dangers and Fatalities](../2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md)
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

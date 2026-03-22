@@ -49,6 +49,8 @@ route: oral
 open_access: false
 publisher: "SAGE"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Treating drug dependence with the aid of ibogaine: A retrospective study
@@ -147,7 +149,7 @@ The authors identify four factors likely contributing to the safety profile: (1)
 
 This study fills a critical gap in the ibogaine evidence base. Prior to Schenberg 2014, virtually all ibogaine outcome data concerned opioid dependence. This is the first formal report demonstrating efficacy for stimulant and poly-substance dependence, which has distinct neurobiological underpinnings (dopaminergic vs opioidergic circuits, as emphasised by the authors' citation of Badiani et al., 2011). The finding that ibogaine produces durable abstinence in crack-cocaine and snorted cocaine users — populations with essentially no pharmacological treatment options — substantially broadens the clinical rationale for ibogaine treatment.
 
-**For screening protocols:** The exclusion criteria documented here represent an early Brazilian clinical screening framework. Compared to later guidelines ([[Clinical_Guidelines/GITA2015_Clinical_Guidelines|GITA 2015]]), notable absences include formal QTc thresholds, CYP2D6 considerations, and specific drug-interaction protocols. The 30–60 day pre-treatment abstinence requirement is unusually conservative relative to other ibogaine programmes, but may have contributed to the zero-AE safety record.
+**For screening protocols:** The exclusion criteria documented here represent an early Brazilian clinical screening framework. Compared to later guidelines ([GITA 2015](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md)), notable absences include formal QTc thresholds, CYP2D6 considerations, and specific drug-interaction protocols. The 30–60 day pre-treatment abstinence requirement is unusually conservative relative to other ibogaine programmes, but may have contributed to the zero-AE safety record.
 
 **For dosing:** The typical dose of 17 mg/kg with a 20 mg/kg ceiling, supplemented by 100–200 mg for weak initial responses, provides a practical reference for stimulant-dependence dosing. The declining dose pattern across sessions (14.81 → 13.75 → 13.34 → 12.22 mg/kg in men) suggests either clinical titration or reduced body weight during recovery — worth investigating in future protocols.
 
@@ -171,11 +173,11 @@ This study fills a critical gap in the ibogaine evidence base. Prior to Schenber
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — New Zealand observational study (n=14) with 12-month follow-up; comparable methodology, opioid-focused population
-- [[2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes]] — Largest cohort outcomes dataset (n=191); includes cocaine sub-group for comparison
-- [[2018/Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine]] — Retrospective chart review (n=50) with validated instruments (COWS, SOWS, BSCS); addresses the measurement limitations of this study
-- [[2021/Underwood2021_Narrative_Review_Ibogaine_Literature]] — Narrative review synthesising outcome studies including Schenberg 2014
-- [[2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine]] — Systematic review of clinical trials; contextualises this study within the broader evidence hierarchy
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Later guideline development building on safety lessons from studies like this one
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — New Zealand observational study (n=14) with 12-month follow-up; comparable methodology, opioid-focused population
+- [Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md) — Largest cohort outcomes dataset (n=191); includes cocaine sub-group for comparison
+- [Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine](../2018/Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine.md) — Retrospective chart review (n=50) with validated instruments (COWS, SOWS, BSCS); addresses the measurement limitations of this study
+- [Underwood2021_Narrative_Review_Ibogaine_Literature](../2021/Underwood2021_Narrative_Review_Ibogaine_Literature.md) — Narrative review synthesising outcome studies including Schenberg 2014
+- [Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine](../2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md) — Systematic review of clinical trials; contextualises this study within the broader evidence hierarchy
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Later guideline development building on safety lessons from studies like this one

@@ -32,6 +32,8 @@ dosing_range: "Acute LD₅₀: 145 mg/kg i.p. (rat), 175 mg/kg i.p. (mouse), 327
 route: intraperitoneal
 open_access: true
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 
 # A Comparative Study on the Toxicity of Ibogaine and Serotonin
@@ -223,10 +225,10 @@ The author acknowledged several limitations: (1) UV spectrophotometry alone was 
 
 ## See Also
 
-**Parent hub:** [[RED_Cardiac_Safety_Hub]]
+**Parent hub:** [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
 
-- [[1996/Hough1996_Tissue_Distribution]] — Comprehensive ibogaine tissue distribution study in rats, extending Dhahir's foundational pharmacokinetic work with radioligand methods
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — First human pharmacokinetic study, confirming the O-demethylation to noribogaine that Dhahir predicted
-- [[1995/Popik1995_100Years_Ibogaine_Review]] — Centenary review contextualising Dhahir's preclinical findings within the broader pharmacological literature
-- [[2001/Glick2001_Mechanisms_Action_Ibogaine_18MC]] — Comprehensive mechanism of action review incorporating the serotonergic and cholinergic pathways Dhahir characterised
-- [[2021/Luz2021_Toxicity_Therapeutic_Potential]] — Modern toxicity review that updates the LD₅₀ and safety framework Dhahir established
+- [Hough1996_Tissue_Distribution](../1996/Hough1996_Tissue_Distribution.md) — Comprehensive ibogaine tissue distribution study in rats, extending Dhahir's foundational pharmacokinetic work with radioligand methods
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — First human pharmacokinetic study, confirming the O-demethylation to noribogaine that Dhahir predicted
+- [Popik1995_100Years_Ibogaine_Review](../1995/Popik1995_100Years_Ibogaine_Review.md) — Centenary review contextualising Dhahir's preclinical findings within the broader pharmacological literature
+- [Glick2001_Mechanisms_Action_Ibogaine_18MC](../2001/Glick2001_Mechanisms_Action_Ibogaine_18MC.md) — Comprehensive mechanism of action review incorporating the serotonergic and cholinergic pathways Dhahir characterised
+- [Luz2021_Toxicity_Therapeutic_Potential](../2021/Luz2021_Toxicity_Therapeutic_Potential.md) — Modern toxicity review that updates the LD₅₀ and safety framework Dhahir established

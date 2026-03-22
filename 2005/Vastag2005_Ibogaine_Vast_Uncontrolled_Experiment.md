@@ -38,6 +38,8 @@ route:
 open_access: true
 publisher: "AAAS"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine Therapy: A 'Vast, Uncontrolled Experiment'
@@ -109,8 +111,8 @@ This article provides important historical context for understanding the regulat
 ---
 
 ## See Also
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]]
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]]
-- [[2005/He2005_GDNF_Ibogaine_Alcohol]]
-- [[2000/Glick2000_Legacy_African_Shrub]]
-- [[WHITE_Historical_Hub]]
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md)
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md)
+- [He2005_GDNF_Ibogaine_Alcohol](He2005_GDNF_Ibogaine_Alcohol.md)
+- [Glick2000_Legacy_African_Shrub](../2000/Glick2000_Legacy_African_Shrub.md)
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)

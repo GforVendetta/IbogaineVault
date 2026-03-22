@@ -39,6 +39,8 @@ contraindications: []
 open_access: false
 publisher: "American Chemical Society"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # DARK Classics in Chemical Neuroscience: Ibogaine
@@ -132,11 +134,11 @@ The authors acknowledge that the single-target (α3β4 nAChR) hypothesis is insu
 
 ## See Also
 
-**Parent hub:** [[Hubs/ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1995/Popik1995_100Years_Ibogaine_Review]] — Earlier comprehensive pharmacological review from NIH; this paper updates and extends Popik's receptor binding data
-- [[2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs]] — Complementary chemistry-focused review with expanded synthesis coverage
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Broader psychedelic receptor profiling; contextualises ibogaine's multi-target profile
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Detailed cardiac risk review directly cited; provides the hERG IC₅₀ data this review references
-- [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — Original hERG blockade data (IC₅₀ = 4 μM) that anchors this review's cardiac safety discussion
-- [[2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance]] — Later field perspective from Mash, a principal investigator cited extensively here
+- [Popik1995_100Years_Ibogaine_Review](../1995/Popik1995_100Years_Ibogaine_Review.md) — Earlier comprehensive pharmacological review from NIH; this paper updates and extends Popik's receptor binding data
+- [Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs](../2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md) — Complementary chemistry-focused review with expanded synthesis coverage
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Broader psychedelic receptor profiling; contextualises ibogaine's multi-target profile
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Detailed cardiac risk review directly cited; provides the hERG IC₅₀ data this review references
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — Original hERG blockade data (IC₅₀ = 4 μM) that anchors this review's cardiac safety discussion
+- [Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance](../2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md) — Later field perspective from Mash, a principal investigator cited extensively here

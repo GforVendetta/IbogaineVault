@@ -106,8 +106,8 @@ Contributors and collaborators working with the vault should verify:
 - **Evidence levels:** Does the `evidence_level` field match the source methodology? A non-randomised open-label study is a cohort study, not an RCT.
 - **Schema compliance:** Do YAML fields and values match `schema_registry.yml`? Undefined fields and non-canonical enum values break downstream queries.
 - **Structural honesty:** Are there empty directories, unreferenced files, or placeholder content that implies evidence not yet present?
-- **Wikilink integrity:** Do cross-references point to papers and hubs that exist? Dead wikilinks in a research instrument signal unreliable organisation.
+- **Link integrity:** Do cross-references point to papers and hubs that exist? Dead links in a research instrument signal unreliable organisation.
 
 ---
 
-**See also:** [[_meta/VAULT_ARCHITECTURE|Vault Architecture]] · [[_meta/Tag_Taxonomy|Tag Taxonomy]] · [Schema Registry](_meta/schema_registry.yml)
+**See also:** [Vault Architecture](VAULT_ARCHITECTURE.md) · [Tag Taxonomy](Tag_Taxonomy.md) · [Schema Registry](_meta/schema_registry.yml)

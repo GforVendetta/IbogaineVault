@@ -36,9 +36,11 @@ contraindications:
   - "Opioid use within 72 hours of ibogaine ingestion"
 dosing_range: "15–20 mg/kg therapeutic dose referenced; LD50 264 mg/kg"
 route: oral
-open_access: false
+open_access: true
 publisher: "Akadémiai Kiadó"
 body_format: hybrid
+licence_type: cc-by-nc
+licence_verified: false
 ---
 # A phenomenological investigation into the lived experience of ibogaine and its potential to treat opioid use disorders
 
@@ -256,13 +258,13 @@ Spirituality defined as feelings of connection to others and the universe (Griff
 
 ## See Also
 
-**Parent hub:** [[PURPLE_Phenomenology_Hub]]
+**Parent hub:** [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md)
 
-- [[2017/Heink2017_Phenomenology_Ibogaine_ASC]] — Most directly comparable phenomenological study; 88% sample overlap in methodology
-- [[2018/Rodger2018_Healing_Potential_Ibogaine]] — Comparative interpretive phenomenology of the ibogaine visionary experience through psychoanalytic and constructivist lenses
-- [[2018/Davis2018_Mixed_Method_Persisting_Effects]] — Mixed-method study of persisting effects of ibogaine-assisted treatment
-- [[2018/Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine]] — Directly relevant to Category III findings on withdrawal and craving attenuation
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — 12-month follow-up observational study of ibogaine for opioid dependence in NZ
-- [[2018/Brown2018_OUD_Detoxification_Outcomes]] — Treatment outcomes for opioid use disorder with ibogaine
-- [[2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study]] — Retrospective observational study (n=75) of ibogaine for drug dependence in Brazil; same research group also published qualitative (2016) and phenomenological (2017) studies cited by Camlin
-- [[2001/Alper2001_Ibogaine_Review]] — Comprehensive review referenced extensively throughout
+- [Heink2017_Phenomenology_Ibogaine_ASC](../2017/Heink2017_Phenomenology_Ibogaine_ASC.md) — Most directly comparable phenomenological study; 88% sample overlap in methodology
+- [Rodger2018_Healing_Potential_Ibogaine](Rodger2018_Healing_Potential_Ibogaine.md) — Comparative interpretive phenomenology of the ibogaine visionary experience through psychoanalytic and constructivist lenses
+- [Davis2018_Mixed_Method_Persisting_Effects](Davis2018_Mixed_Method_Persisting_Effects.md) — Mixed-method study of persisting effects of ibogaine-assisted treatment
+- [Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine](Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine.md) — Directly relevant to Category III findings on withdrawal and craving attenuation
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — 12-month follow-up observational study of ibogaine for opioid dependence in NZ
+- [Brown2018_OUD_Detoxification_Outcomes](Brown2018_OUD_Detoxification_Outcomes.md) — Treatment outcomes for opioid use disorder with ibogaine
+- [Schenberg2014_Treating_Drug_Dependence_Retrospective_Study](../2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md) — Retrospective observational study (n=75) of ibogaine for drug dependence in Brazil; same research group also published qualitative (2016) and phenomenological (2017) studies cited by Camlin
+- [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md) — Comprehensive review referenced extensively throughout

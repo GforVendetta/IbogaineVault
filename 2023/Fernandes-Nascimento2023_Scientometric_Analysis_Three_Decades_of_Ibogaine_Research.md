@@ -33,6 +33,8 @@ route: not-applicable
 open_access: false
 publisher: "Taylor & Francis"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Three Decades of Research on the Development of Ibogaine Treatment of Substance Use Disorders: A Scientometric Analysis
@@ -130,7 +132,7 @@ Ibogaine reduced drug self-administration across substances but showed no effect
 
 ## Clinical Implications
 
-This paper's value to the vault is primarily as a field-mapping instrument. The absence of any human RCT evaluating ibogaine efficacy for SUDs (as of March 2023) remains a critical gap — one that subsequent work by [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] and other groups has only begun to address. The keyword evolution from cocaine/morphine toward opioids mirrors the broader opioid crisis and positions ibogaine research within current public health priorities. The emergence of psychedelics as a keyword cluster in the third decade reflects ibogaine's recontextualisation within the broader psychedelic renaissance, a framing that carries both advantages (legitimacy, funding attention) and risks (conflation with compounds that have fundamentally different pharmacological profiles and safety considerations). The preclinical meta-analysis finding of motor toxicity and cerebellar cell loss in animal models is noteworthy for dose-safety discussions, though the low AMSTAR 2 rating limits its weight.
+This paper's value to the vault is primarily as a field-mapping instrument. The absence of any human RCT evaluating ibogaine efficacy for SUDs (as of March 2023) remains a critical gap — one that subsequent work by [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) and other groups has only begun to address. The keyword evolution from cocaine/morphine toward opioids mirrors the broader opioid crisis and positions ibogaine research within current public health priorities. The emergence of psychedelics as a keyword cluster in the third decade reflects ibogaine's recontextualisation within the broader psychedelic renaissance, a framing that carries both advantages (legitimacy, funding attention) and risks (conflation with compounds that have fundamentally different pharmacological profiles and safety considerations). The preclinical meta-analysis finding of motor toxicity and cerebellar cell loss in animal models is noteworthy for dose-safety discussions, though the low AMSTAR 2 rating limits its weight.
 
 The geographic concentration of research output in the USA (59%) and other wealthy nations highlights a structural inequity: ibogaine's traditional use originates in Central-West Africa, yet Gabonese and Cameroonian researchers are absent from the top contributors. This asymmetry mirrors broader patterns of extractive knowledge production in psychoactive plant research.
 
@@ -147,11 +149,11 @@ The geographic concentration of research output in the USA (59%) and other wealt
 
 ## See Also
 
-**Parent hub:** [[WHITE_Historical_Hub]]
+**Parent hub:** [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)
 
-- [[2021/Underwood2021_Narrative_Review_Ibogaine_Literature]] — Narrative review complement to this quantitative mapping
-- [[2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine]] — Systematic review of clinical evidence that this bibliometric study notably failed to find
-- [[1995/Popik1995_100Years_Ibogaine_Review]] — Historical foundation; Popik identified as key co-citation node in this analysis
-- [[2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience]] — Pharmacological review providing substance behind the keyword trends mapped here
-- [[2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance]] — Field evolution perspective; Mash DC identified as key co-citation node (burst: 6.83)
-- [[2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis]] — The sole meta-analysis identified by this study's complementary analysis
+- [Underwood2021_Narrative_Review_Ibogaine_Literature](../2021/Underwood2021_Narrative_Review_Ibogaine_Literature.md) — Narrative review complement to this quantitative mapping
+- [Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine](../2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md) — Systematic review of clinical evidence that this bibliometric study notably failed to find
+- [Popik1995_100Years_Ibogaine_Review](../1995/Popik1995_100Years_Ibogaine_Review.md) — Historical foundation; Popik identified as key co-citation node in this analysis
+- [Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience](../2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience.md) — Pharmacological review providing substance behind the keyword trends mapped here
+- [Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance](Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md) — Field evolution perspective; Mash DC identified as key co-citation node (burst: 6.83)
+- [Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis](../2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md) — The sole meta-analysis identified by this study's complementary analysis

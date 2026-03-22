@@ -28,6 +28,8 @@ contraindications: []
 organisation: "Autonomedia"
 open_access: true
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # The Ibogaine Story — Chapter 3: Dhoruba Moore

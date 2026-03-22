@@ -36,6 +36,8 @@ contraindications: []
 open_access: true
 publisher: "Springer Nature"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Pharmacological comparison of the effect of ibogaine and 18-methoxycoronaridine on isolated smooth muscle from the rat and guinea-pig
@@ -128,12 +130,12 @@ The study is confined to peripheral smooth muscle preparations, and the authors 
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Complementary noribogaine pharmacology; tests the metabolite this study could not examine
-- [[1996/Glick1996_18MC_NonToxic]] — Behavioural evidence for 18-MC's lack of tremorigenic activity, validated here at the tissue level
-- [[2018/Orescanin-Dusic2018_Ibogaine_Uterine_Smooth_Muscle_Contractions_Relation_to_Antioxidant_Enzymes]] — Later smooth muscle work showing ibogaine effects on uterine contractility
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Na⁺ channel interactions in cardiac context; portal vein Na⁺ channel findings relevant to cardiac safety assessment
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Broad receptor binding profile contextualises the multi-target pharmacology observed here
-- [[1999/Glick1999_18MC_Review_CNS_Drugs]] — Comprehensive 18-MC review providing the in vivo context for the in vitro dissociations documented here
-- [[2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human]] — Nicotinic receptor interactions; another non-opioid mechanism relevant to ibogaine's peripheral actions
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Complementary noribogaine pharmacology; tests the metabolite this study could not examine
+- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md) — Behavioural evidence for 18-MC's lack of tremorigenic activity, validated here at the tissue level
+- [Orescanin-Dusic2018_Ibogaine_Uterine_Smooth_Muscle_Contractions_Relation_to_Antioxidant_Enzymes](../2018/Orescanin-Dusic2018_Ibogaine_Uterine_Smooth_Muscle_Contractions_Relation_to_Antioxidant_Enzymes.md) — Later smooth muscle work showing ibogaine effects on uterine contractility
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Na⁺ channel interactions in cardiac context; portal vein Na⁺ channel findings relevant to cardiac safety assessment
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Broad receptor binding profile contextualises the multi-target pharmacology observed here
+- [Glick1999_18MC_Review_CNS_Drugs](../1999/Glick1999_18MC_Review_CNS_Drugs.md) — Comprehensive 18-MC review providing the in vivo context for the in vitro dissociations documented here
+- [Arias2010_Interactions_Ibogaine_NicotinicAChR_Human](../2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human.md) — Nicotinic receptor interactions; another non-opioid mechanism relevant to ibogaine's peripheral actions

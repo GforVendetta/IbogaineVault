@@ -35,6 +35,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # The psychoactive compound ibogaine sex-dependently alters the firing rate and afterhyperpolarization of Ih-negative neurons in the mouse ventral tegmental area
@@ -194,10 +196,10 @@ While this is a preclinical study, the findings have potential clinical implicat
 
 ## See Also
 
-- [[2025/Eliasen2025_Ibogaine_DMT_5-HT2A_HEK_Electrophysiology|Eliasen 2025 - 5-HT2A Electrophysiology]] — Same research group, electrophysiology methods
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF|Marton 2019 - GDNF/BDNF Expression]] — Ibogaine effects on neurotrophic factors
+- [Eliasen 2025 - 5-HT2A Electrophysiology](Eliasen2025_Ibogaine_DMT_5-HT2A_HEK_Electrophysiology.md) — Same research group, electrophysiology methods
+- [Marton 2019 - GDNF/BDNF Expression](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — Ibogaine effects on neurotrophic factors
 - French et al. (1996) "VTA Dopamine Effects" — Earlier in vivo study showing ibogaine increases VTA dopamine neuron firing (not in vault)
-- [[ORANGE_Mechanisms_Hub]] — Mechanisms of action overview
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Mechanisms of action overview
 
 ---
 

@@ -37,6 +37,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Structurally modified ibogaine analogs exhibit differing affinities for NMDA receptors
@@ -134,10 +136,10 @@ This paper provides the pharmacological basis for understanding why ibogaine —
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1995/- [[1995/Popik1995_100Years_Ibogaine_Review|Popik 1995]] — Landmark 100-year pharmacological review from NIH team]] — Same lead author's comprehensive review covering NMDA pharmacology
-- [[1996/Glick1996_18MC_NonToxic]] — Contemporary analogue development (18-MC) extending structure-activity work
+- [Popik 1995 — Landmark 100-year pharmacological review from NIH team](../1995/Popik1995_100Years_Ibogaine_Review.md) — Same lead author's comprehensive review covering NMDA pharmacology
+- [Glick1996_18MC_NonToxic](Glick1996_18MC_NonToxic.md) — Contemporary analogue development (18-MC) extending structure-activity work
 - Baumann2000_Neurobiological_Effects_Noribogaine — Noribogaine profiling confirming the ibogaine/noribogaine mechanistic dissociation
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Comprehensive receptor binding including NMDA site quantification
-- [[2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs]] — Modern chemistry review extending this analogue work
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Comprehensive receptor binding including NMDA site quantification
+- [Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs](../2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md) — Modern chemistry review extending this analogue work

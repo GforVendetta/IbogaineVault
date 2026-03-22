@@ -10,9 +10,6 @@ CHECK TYPES:
   [x] 2. Wikilink resolution       — all [[links]] resolve to existing files
   [x] 3. Duplicate DOI detection    — no two papers share a DOI
   [x] 4. OCR artefact detection     — broken ligatures, misread chars, orphaned unicode
-  [ ] 5. Hub coverage regression    — TODO: every paper referenced by its category hub
-  [ ] 6. Academic ID validation     — TODO: PMID/PMCID/ISSN/ISBN format checks
-  [ ] 7. DOI resolution (network)   — TODO: HTTP HEAD to dx.doi.org (slow, --check-doi)
 
 OUTPUT: Summary to stdout + optional JSON (--json). Exit code 0 if pass, 1 if failures.
 
@@ -97,11 +94,19 @@ VALID_DOCUMENT_TYPES_PAPER = {
     "policy-report", "brief-communication", "industry-report",
 }
 
-VALID_SCOPES = {"pangea", "published"}
+VALID_SCOPES = {"published"}
 
 VALID_OPEN_ACCESS = {"true", "false", "unknown"}
 
 VALID_BODY_FORMATS = {"vault-analytical", "academic-retained", "hybrid", "narrative"}
+
+VALID_LICENCE_TYPES = {
+    "all-rights-reserved", "unknown",
+    "cc-by-nc-nd", "cc-by-nd", "cc-by-nc-sa", "cc-by-nc",
+    "cc-by-sa", "cc-by",
+}
+
+VALID_MORTALITY_SCOPES = {"cumulative-review", "discrete-cases", "incidental"}
 
 # ── Canonical tags (62 total) ──
 VALID_TAGS = {
@@ -155,6 +160,9 @@ ALL_VALID_PAPER_FIELDS = {
     "conference_location", "book_title", "book_editors", "issn",
     "pmid", "pmcid", "isbn",
     "open_access", "body_format",
+    "licence_type", "licence_verified",
+    "mortality_scope",
+    "references_stripped",
 }
 
 BOOLEAN_FIELDS = {"qtc_data", "electrolyte_data", "herg_data"}
@@ -362,11 +370,11 @@ def discover_paper_files(vault_root):
 
 def discover_all_md_files(vault_root):
     """Find ALL .md files in the vault (for wikilink index).
-    Excludes .obsidian/, .copilot-index/, .smart-env/, _archive/, _builds/, copilot/, .git/."""
+    Excludes .obsidian/, .copilot-index/, .smart-env/, .git/."""
     vault = Path(vault_root)
-    skip_dirs = {".obsidian", ".copilot-index", ".smart-env", "_archive",
-                 "_builds", "copilot", ".git", ".local", "Cowork_Outputs",
-                 "Collaborator_Research", "Pangea_Ops", "node_modules"}
+    skip_dirs = {".obsidian", ".copilot-index", ".smart-env",
+                 ".git", ".local", "node_modules"}
+
     all_files = []
     for root, dirs, files in os.walk(vault):
         dirs[:] = [d for d in dirs if d not in skip_dirs]
@@ -474,6 +482,48 @@ def validate_paper(filepath, data):
     if bf is not None and str(bf) not in VALID_BODY_FORMATS:
         violations.append(Violation("body_format", "invalid_enum",
             f"'{bf}' not in {sorted(VALID_BODY_FORMATS)}"))
+
+    # licence_type: enum check + missing warning (D18)
+    lt = data.get("licence_type")
+    if lt is not None and str(lt) not in VALID_LICENCE_TYPES:
+        violations.append(Violation("licence_type", "invalid_enum",
+            f"'{lt}' not in {sorted(VALID_LICENCE_TYPES)}"))
+    if lt is None:
+        violations.append(Violation("licence_type", "missing_licence",
+            "licence_type not set — run licence workflow (D18)",
+            severity="warning"))
+
+    # licence_verified: type check + missing warning (D18)
+    lv = data.get("licence_verified")
+    if lv is not None and not isinstance(lv, bool):
+        violations.append(Violation("licence_verified", "type_error",
+            f"Must be boolean (true/false), got: {type(lv).__name__} '{lv}'"))
+    if lt is not None and lv is None:
+        violations.append(Violation("licence_verified", "missing_licence_verified",
+            "licence_type is set but licence_verified is missing",
+            severity="warning"))
+
+    # references_stripped: optional boolean check (D19)
+    rs = data.get("references_stripped")
+    if rs is not None and not isinstance(rs, bool):
+        violations.append(Violation("references_stripped", "type_error",
+            f"Must be boolean (true/false), got: {type(rs).__name__} '{rs}'"))
+
+    # mortality_scope: enum check (Track 0b)
+    ms = data.get("mortality_scope")
+    if ms is not None and str(ms) not in VALID_MORTALITY_SCOPES:
+        violations.append(Violation("mortality_scope", "invalid_enum",
+            f"'{ms}' not in {sorted(VALID_MORTALITY_SCOPES)}"))
+
+    # mortality_scope ↔ mortality_count cross-field checks
+    mc = data.get("mortality_count")
+    if mc is not None and isinstance(mc, int) and mc > 0 and ms is None:
+        violations.append(Violation("mortality_scope", "missing_mortality_scope",
+            "mortality_count > 0 but mortality_scope not set — classify as cumulative-review, discrete-cases, or incidental",
+            severity="warning"))
+    if ms is not None and (mc is None or (isinstance(mc, int) and mc == 0)):
+        violations.append(Violation("mortality_scope", "orphan_mortality_scope",
+            "mortality_scope set but mortality_count is null/0 — field should only exist when deaths are reported"))
 
     # ── 5. Tag validation ──
     tags = data.get("tags", [])

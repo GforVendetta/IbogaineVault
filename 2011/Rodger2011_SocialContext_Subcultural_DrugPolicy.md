@@ -29,6 +29,8 @@ contraindications: []
 open_access: false
 publisher: "Emerald Publishing"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 # The Visionary Cure of the Addiction War? Ibogaine: Social Context, Subcultural Identity, and Implications for Drug Policy
 
@@ -143,11 +145,11 @@ This paper provides no direct clinical data but offers important contextual unde
 ---
 
 ## See Also
-- [[2007/Alper2007_Ibogaine_Treatment_Addictions]] — ibogaine medical subculture analysis; heavily cited throughout this paper (Alper et al. 2007)
-- [[2008/Alper2008_Ibogaine_Medical_Subculture]] — companion analysis of the ibogaine advocacy movement
-- [[2001/Frenken2001_RootsUp_INTASH_SelfHelp]] — Dutch self-help movement; Frenken's testimonial is quoted directly in this paper
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]] — contemporary history of ibogaine in US/Europe; foundational context
-- [[2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context]] — Bwiti ritual context by the same Fernandez whose 1982 ethnography anchors this paper
-- [[Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual]] — "best and safe practice" protocols referenced by underground advocates
-- [[2004/Bastiaans2004_Life_After_Ibogaine]] — exploratory study of long-term ibogaine effects cited
-- [[WHITE_Historical_Hub]]
+- [Alper2007_Ibogaine_Treatment_Addictions](../2007/Alper2007_Ibogaine_Treatment_Addictions.md) — ibogaine medical subculture analysis; heavily cited throughout this paper (Alper et al. 2007)
+- [Alper2008_Ibogaine_Medical_Subculture](../2008/Alper2008_Ibogaine_Medical_Subculture.md) — companion analysis of the ibogaine advocacy movement
+- [Frenken2001_RootsUp_INTASH_SelfHelp](../2001/Frenken2001_RootsUp_INTASH_SelfHelp.md) — Dutch self-help movement; Frenken's testimonial is quoted directly in this paper
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — contemporary history of ibogaine in US/Europe; foundational context
+- [Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context](../2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.md) — Bwiti ritual context by the same Fernandez whose 1982 ethnography anchors this paper
+- [Lotsof2003_Ibogaine_Therapy_Manual](../Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual.md) — "best and safe practice" protocols referenced by underground advocates
+- [Bastiaans2004_Life_After_Ibogaine](../2004/Bastiaans2004_Life_After_Ibogaine.md) — exploratory study of long-term ibogaine effects cited
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)

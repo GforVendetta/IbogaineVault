@@ -28,6 +28,8 @@ dosing_range: "not-applicable"
 contraindications: []
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine
@@ -94,7 +96,7 @@ This document is a useful snapshot of the US legislative landscape as of April 2
 
 2. **Cardiac safety gap:** The document mentions "heart arrhythmia" as a safety concern but provides no detail on QTc prolongation, hERG channel inhibition, or the evolving cardiac screening protocols that represent the most critical safety dimension of ibogaine treatment. For a policy document aimed at legislators, this omission is notable.
 
-3. **Selective citation:** The research overview cherry-picks milestones without contextualising the broader evidence base. The 2017 New Zealand study referenced is likely [[Noller2017_Ibogaine_Opioid_12Month_Outcomes|Noller et al. (2017)]], but the sample size is given as n=14 rather than the actual n=14 who completed follow-up from n=15 enrolled. The 2024 Stanford study referenced is [[Cherian2024_Magnesium_Ibogaine_TBI|Cherian et al. (2024)]].
+3. **Selective citation:** The research overview cherry-picks milestones without contextualising the broader evidence base. The 2017 New Zealand study referenced is likely [Noller et al. (2017)](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md), but the sample size is given as n=14 rather than the actual n=14 who completed follow-up from n=15 enrolled. The 2024 Stanford study referenced is [Cherian et al. (2024)](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md).
 
 4. **Funding context:** LAPPA is funded by the Office of National Drug Control Policy (ONDCP), which has historically maintained a prohibitionist stance. The document's neutral-to-cautious tone should be understood in this institutional context — the fact that an ONDCP-funded organisation is producing balanced policy analysis on ibogaine access is itself noteworthy and represents a significant shift in the policy landscape.
 
@@ -104,11 +106,11 @@ This document is a useful snapshot of the US legislative landscape as of April 2
 
 This document is most valuable as a policy reference for understanding the US regulatory framework. It complements:
 
-- [[ICEERS2019_Report_Phase1|ICEERS Phase 1 Report (2019)]] and [[ICEERS2020_Future_Iboga_Gabon|ICEERS Iboga Gabon Report (2020)]] — sister policy documents from the international NGO perspective
-- [[Alper2001_Contemporary_History_Ibogaine_USA_Europe|Alper (2001)]] — definitive history of ibogaine's trajectory through US regulatory frameworks
-- [[Cherian2024_Magnesium_Ibogaine_TBI|Cherian et al. (2024)]] — the Stanford TBI study referenced in this document
-- [[Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine|Kock et al. (2022)]] — systematic review providing the evidence base this policy brief draws from
-- [[Luz2021_Toxicity_Therapeutic_Potential|Luz et al. (2021)]] — comprehensive toxicity and therapeutic potential review that contextualises the safety concerns raised here
+- [ICEERS Phase 1 Report (2019)](ICEERS2019_Report_Phase1.md) and [ICEERS Iboga Gabon Report (2020)](ICEERS2020_Future_Iboga_Gabon.md) — sister policy documents from the international NGO perspective
+- [Alper (2001)](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — definitive history of ibogaine's trajectory through US regulatory frameworks
+- [Cherian et al. (2024)](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — the Stanford TBI study referenced in this document
+- [Kock et al. (2022)](../2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md) — systematic review providing the evidence base this policy brief draws from
+- [Luz et al. (2021)](../2021/Luz2021_Toxicity_Therapeutic_Potential.md) — comprehensive toxicity and therapeutic potential review that contextualises the safety concerns raised here
 
 ## Vault Significance
 

@@ -30,6 +30,7 @@ aliases:
   - "Progress in Brain Research ibogaine chapter"
 evidence_level: review
 mortality_count: 33
+mortality_scope: cumulative-review
 qtc_data: true
 electrolyte_data: false
 herg_data: false
@@ -49,6 +50,8 @@ route: oral
 open_access: true
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine as a Treatment for Substance Misuse: Potential Benefits and Practical Dangers
@@ -163,10 +166,10 @@ This chapter is the single most critical fatality reference for clinical safety 
 ---
 
 ## See Also
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Seminal 19-case fatality series (base dataset for this chapter)
-- [[2013/Mazoyer2013_Fatality_Case]] — French fatality case detailed in this chapter
-- [[2009/Hoelen2009_Long_QT_Ibogaine]] — Long-QT case referenced in toxicity section
-- [[2014/Thurner2014_hERG_Channel_Block_Ibogaine]] — Mechanistic basis for cardiac risk discussed here
-- [[2018/Steinberg2018_Cardiac_Arrest_Case]] — Contemporary cardiac arrest case
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Cardiac mechanism evidence
-- [[RED_Cardiac_Safety_Hub]] — Central hub for cardiac safety evidence
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Seminal 19-case fatality series (base dataset for this chapter)
+- [Mazoyer2013_Fatality_Case](../2013/Mazoyer2013_Fatality_Case.md) — French fatality case detailed in this chapter
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — Long-QT case referenced in toxicity section
+- [Thurner2014_hERG_Channel_Block_Ibogaine](../2014/Thurner2014_hERG_Channel_Block_Ibogaine.md) — Mechanistic basis for cardiac risk discussed here
+- [Steinberg2018_Cardiac_Arrest_Case](Steinberg2018_Cardiac_Arrest_Case.md) — Contemporary cardiac arrest case
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Cardiac mechanism evidence
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Central hub for cardiac safety evidence

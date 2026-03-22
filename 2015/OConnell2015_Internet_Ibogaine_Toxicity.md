@@ -39,6 +39,8 @@ route: oral
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Internet-purchased ibogaine toxicity confirmed with serum, urine, and product content levels
@@ -111,9 +113,9 @@ This case is directly relevant to screening and safety protocols:
 ---
 
 ## See Also
-- [[2009/Hoelen2009_Long_QT_Ibogaine]]
-- [[2012/Paling2012_Life_Threatening_Complications]]
-- [[2015/Koenig2015_Cardiac_Mechanisms]]
-- [[2015/Hildyard2015_QT_Prolongation_TdP_Ibogaine]]
-- [[2013/Mazoyer2013_Fatality_Case]]
-- [[RED_Cardiac_Safety_Hub]]
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md)
+- [Paling2012_Life_Threatening_Complications](../2012/Paling2012_Life_Threatening_Complications.md)
+- [Koenig2015_Cardiac_Mechanisms](Koenig2015_Cardiac_Mechanisms.md)
+- [Hildyard2015_QT_Prolongation_TdP_Ibogaine](Hildyard2015_QT_Prolongation_TdP_Ibogaine.md)
+- [Mazoyer2013_Fatality_Case](../2013/Mazoyer2013_Fatality_Case.md)
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

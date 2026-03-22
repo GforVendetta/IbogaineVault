@@ -25,6 +25,7 @@ aliases:
 evidence_level: case-report
 sample_size: 1
 mortality_count: 1
+mortality_scope: discrete-cases
 qtc_data: true
 electrolyte_data: true
 herg_data: false
@@ -39,6 +40,8 @@ route: oral
 open_access: false
 publisher: "Informa Healthcare"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 # Ibogaine for opioid addiction: A Deadly treatment
 
@@ -140,9 +143,9 @@ The authors' prescient observation about patients turning to social media and in
 ---
 
 ## See Also
-- [[2012/Shawn2012_Ibogaine_TdP_VT]] — Complementary NACCT 2012 abstract: survival case with normal pretreatment screening (Abstract #180)
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Systematic review of ibogaine fatalities from same year
-- [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — hERG mechanism underlying arrhythmia risk
-- [[2012/Paling2012_Life_Threatening_Complications]] — Life-threatening ibogaine cardiac complications case report
-- [[2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias]] — Ventricular tachyarrhythmias following ibogaine
-- [[RED_Cardiac_Safety_Hub]]
+- [Shawn2012_Ibogaine_TdP_VT](Shawn2012_Ibogaine_TdP_VT.md) — Complementary NACCT 2012 abstract: survival case with normal pretreatment screening (Abstract #180)
+- [Alper2012_Ibogaine_Fatalities](Alper2012_Ibogaine_Fatalities.md) — Systematic review of ibogaine fatalities from same year
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — hERG mechanism underlying arrhythmia risk
+- [Paling2012_Life_Threatening_Complications](Paling2012_Life_Threatening_Complications.md) — Life-threatening ibogaine cardiac complications case report
+- [Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias](Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.md) — Ventricular tachyarrhythmias following ibogaine
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

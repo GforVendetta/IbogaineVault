@@ -29,6 +29,7 @@ aliases:
 evidence_level: case-series
 sample_size: 33
 mortality_count: 1
+mortality_scope: incidental
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -38,13 +39,15 @@ route: oral
 open_access: false
 publisher: "Wiley"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine in Acute Opioid Withdrawal: An Open Label Case Series
 
 **Citation:** Alper, K. R., Lotsof, H. S., Frenken, G. M. N., Luciano, D. J., & Bastiaans, J. (2000). Ibogaine in Acute Opioid Withdrawal: An Open Label Case Series. *Annals of the New York Academy of Sciences*, 909, 257–259. doi:10.1111/j.1749-6632.2000.tb06687.x
 
-> **Note:** This paper is the Annals of the New York Academy of Sciences conference proceedings version of the same 33-case dataset reported in [[1999/Alper1999_Acute_Opioid_Withdrawal|Alper et al. (1999)]] in the *American Journal on Addictions*. Both publications present identical patient data from cases treated between 1962 and 1993. This version is a briefer presentation; the 1999 publication contains fuller methodological and discussion detail.
+> **Note:** This paper is the Annals of the New York Academy of Sciences conference proceedings version of the same 33-case dataset reported in [Alper et al. (1999)](../1999/Alper1999_Acute_Opioid_Withdrawal.md) in the *American Journal on Addictions*. Both publications present identical patient data from cases treated between 1962 and 1993. This version is a briefer presentation; the 1999 publication contains fuller methodological and discussion detail.
 
 ## Abstract
 
@@ -153,10 +156,10 @@ The broad dosing range (6–29 mg/kg) with a mean of 19.3 mg/kg provides foundat
 ---
 
 ## See Also
-- [[1999/Alper1999_Acute_Opioid_Withdrawal]] — Same 33-case dataset, fuller methodological detail (American Journal on Addictions)
-- [[2001/Alper2001_Ibogaine_Review]] — Comprehensive review by lead author incorporating this data
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — Contemporaneous pharmacokinetics and safety data
-- [[Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual]] — Treatment manual by co-author H.S. Lotsof
-- [[2000/Glick2000_18-MC]] — 18-MC congener referenced in Discussion
-- [[BLUE_Outcomes_Hub]] — Outcomes evidence base
-- [[Kenneth_Alper_MOC]] — Lead author's body of work
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — Same 33-case dataset, fuller methodological detail (American Journal on Addictions)
+- [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md) — Comprehensive review by lead author incorporating this data
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — Contemporaneous pharmacokinetics and safety data
+- [Lotsof2003_Ibogaine_Therapy_Manual](../Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual.md) — Treatment manual by co-author H.S. Lotsof
+- [Glick2000_18-MC](Glick2000_18-MC.md) — 18-MC congener referenced in Discussion
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Outcomes evidence base
+- [Kenneth_Alper_MOC](../MOCs/Kenneth_Alper_MOC.md) — Lead author's body of work

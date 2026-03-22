@@ -36,6 +36,8 @@ pmid: "22751004"
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Metabolic plasticity and the energy economizing effect of ibogaine, the principal alkaloid of *Tabernanthe iboga*
@@ -115,10 +117,10 @@ The authors' speculation that acute ATP depletion in cortical tissue could alter
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2006/Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism]] — Earlier brain energy metabolism study in Wistar rats demonstrating induction of energy-related enzymes
-- [[2010/Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP]] — Direct precursor study: ATP pool depletion and enzyme induction in yeast
-- [[2018/Bading-Taika2018_Phytochemicals_Iboga_RB_Effects_Dysfunctional_Metabolism_Cognitive_Performance_Mice]] — Iboga root bark effects on metabolic dysfunction and cognition in mice
-- [[2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes]] — Ex vivo confirmation of ibogaine's pro-antioxidant effects on human erythrocyte SOD/CAT/GR
-- [[2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids]] — Contemporary synthesis of iboga alkaloid mechanisms including metabolic pathways
+- [Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism](../2006/Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism.md) — Earlier brain energy metabolism study in Wistar rats demonstrating induction of energy-related enzymes
+- [Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP](../2010/Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP.md) — Direct precursor study: ATP pool depletion and enzyme induction in yeast
+- [Bading-Taika2018_Phytochemicals_Iboga_RB_Effects_Dysfunctional_Metabolism_Cognitive_Performance_Mice](../2018/Bading-Taika2018_Phytochemicals_Iboga_RB_Effects_Dysfunctional_Metabolism_Cognitive_Performance_Mice.md) — Iboga root bark effects on metabolic dysfunction and cognition in mice
+- [Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes](../2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes.md) — Ex vivo confirmation of ibogaine's pro-antioxidant effects on human erythrocyte SOD/CAT/GR
+- [Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids](../2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md) — Contemporary synthesis of iboga alkaloid mechanisms including metabolic pathways

@@ -37,6 +37,8 @@ route: not-applicable
 open_access: true
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Anti-addiction drug ibogaine inhibits hERG channels: a cardiac arrhythmia risk
@@ -91,8 +93,8 @@ For ibogaine clinical practice, this paper provides part of the foundational evi
 ---
 
 ## See Also
-- [[RED_Cardiac_Safety_Hub]]
-- [[2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile|Koenig 2013 — Comprehensive Ion Channel Profile (expanded study)]]
-- [[2009/Hoelen2009_Long_QT_Ibogaine]]
-- [[2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities]]
-- [[2012/Alper2012_Ibogaine_Fatalities]]
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
+- [Koenig 2013 — Comprehensive Ion Channel Profile (expanded study)](../2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile.md)
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md)
+- [Corkery2018_Ibogaine_Benefits_Dangers_Fatalities](../2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md)
+- [Alper2012_Ibogaine_Fatalities](Alper2012_Ibogaine_Fatalities.md)

@@ -30,6 +30,8 @@ herg_data: false
 contraindications: []
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Tissue Distribution of Ibogaine After Intraperitoneal and Subcutaneous Administration
@@ -84,9 +86,9 @@ The authors note this does not constitute a comprehensive pharmacokinetic analys
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1995/Mash1995_Noribogaine_SERT_Identification]] 
-- [[2000/Glick2000_18-MC]]
+- [Mash1995_Noribogaine_SERT_Identification](../1995/Mash1995_Noribogaine_SERT_Identification.md) 
+- [Glick2000_18-MC](../2000/Glick2000_18-MC.md)
 - Hub — Ibogaine Pharmacokinetics & Metabolism
 - Hub — Noribogaine Pharmacology

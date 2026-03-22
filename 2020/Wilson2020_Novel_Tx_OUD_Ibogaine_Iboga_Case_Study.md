@@ -29,6 +29,8 @@ contraindications: []
 open_access: false
 publisher: "Akadémiai Kiadó"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Novel treatment of opioid use disorder using ibogaine and iboga in two adults
@@ -124,12 +126,12 @@ The authors acknowledge this is a two-patient descriptive case series with no co
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — NZ observational study (N=14); the most comparable prospective outcome data with 12-month follow-up using standardised instruments (ASI-Lite, SOWS, BDI-II) that this case series lacks
-- [[2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes]] — Larger cohort (N=30) providing context for dosing ranges and outcome trajectories
-- [[2017/Wilkins2017_Methadone_Low_Dose]] — Relevant comparator for the OAT tapering approach used by Case 2
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Treatment guidelines addressing screening, cardiac monitoring, and drug interaction management protocols relevant to both cases
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]] — Earlier case study methodology for ibogaine treatment of OUD
-- [[2015/Koenig2015_Cardiac_Mechanisms|Koenig 2015]] — Cardiac risk context; the 22 ibogaine-associated deaths (1991–2014) referenced by the authors
-- [[2016/Glue2016_Noribogaine_Opioid_Patients_Safety|Glue 2016]] — Pharmacokinetic context for the half-life and metabolism discussion
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — NZ observational study (N=14); the most comparable prospective outcome data with 12-month follow-up using standardised instruments (ASI-Lite, SOWS, BDI-II) that this case series lacks
+- [Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md) — Larger cohort (N=30) providing context for dosing ranges and outcome trajectories
+- [Wilkins2017_Methadone_Low_Dose](../2017/Wilkins2017_Methadone_Low_Dose.md) — Relevant comparator for the OAT tapering approach used by Case 2
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Treatment guidelines addressing screening, cardiac monitoring, and drug interaction management protocols relevant to both cases
+- [Lotsof2001_Case_Studies_Patient_Management](../2001/Lotsof2001_Case_Studies_Patient_Management.md) — Earlier case study methodology for ibogaine treatment of OUD
+- [Koenig 2015](../2015/Koenig2015_Cardiac_Mechanisms.md) — Cardiac risk context; the 22 ibogaine-associated deaths (1991–2014) referenced by the authors
+- [Glue 2016](../2016/Glue2016_Noribogaine_Opioid_Patients_Safety.md) — Pharmacokinetic context for the half-life and metabolism discussion

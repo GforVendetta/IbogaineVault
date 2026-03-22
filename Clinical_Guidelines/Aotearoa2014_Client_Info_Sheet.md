@@ -25,6 +25,8 @@ contraindications:
   - "Reduced post-treatment opioid tolerance (risk of fatal overdose if substances taken during or after therapy)"
 open_access: true
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # 2014 Ibogaine Client Information Sheet
@@ -183,10 +185,10 @@ Should you have any further questions regarding the information contained in the
 
 ## See Also
 
-**Parent hub:** [[GREEN_Clinical_Protocols_Hub]]
+**Parent hub:** [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)
 
-- [[Clinical_Guidelines/Patterson2014_IACT_Aotearoa_NZ_Guidelines_Integrated_Therapy]] — Full clinical guidelines
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — NZ outcomes study
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Industry guidelines
-- [[2018/Rodger2018_Healing_Potential_Ibogaine]] — Healing phenomenology
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Risk communication context
+- [Patterson2014_IACT_Aotearoa_NZ_Guidelines_Integrated_Therapy](Patterson2014_IACT_Aotearoa_NZ_Guidelines_Integrated_Therapy.md) — Full clinical guidelines
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — NZ outcomes study
+- [GITA2015_Clinical_Guidelines](GITA2015_Clinical_Guidelines.md) — Industry guidelines
+- [Rodger2018_Healing_Potential_Ibogaine](../2018/Rodger2018_Healing_Potential_Ibogaine.md) — Healing phenomenology
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Risk communication context

@@ -50,6 +50,8 @@ contraindications:
 open_access: false
 publisher: "Taylor & Francis"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Changes in Withdrawal and Craving Scores in Participants Undergoing Opioid Detoxification Utilizing Ibogaine
@@ -139,7 +141,7 @@ Opioid use disorder (OUD) is currently epidemic in the United States and ibogain
 
 This study provides the largest sample (N=50) of validated, clinician-rated withdrawal data for ibogaine-assisted opioid detoxification. Several findings are directly relevant to clinical practice:
 
-**For screening and intake:** The detailed exclusion criteria documented here align with and expand upon the [[Clinical_Guidelines/GITA2015_Clinical_Guidelines|GITA 2015 guidelines]]. The 4-week methadone/buprenorphine washout and conversion to short-acting opioids pre-treatment are critical protocol elements. Benzodiazepine patients were not discontinued — a pragmatic decision relevant to clinical patient population.
+**For screening and intake:** The detailed exclusion criteria documented here align with and expand upon the [GITA 2015 guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md). The 4-week methadone/buprenorphine washout and conversion to short-acting opioids pre-treatment are critical protocol elements. Benzodiazepine patients were not discontinued — a pragmatic decision relevant to clinical patient population.
 
 **For dosing:** The 18–20 mg/kg ibogaine HCl protocol with 100 mg test dose followed by the full calculated dose within 2 hours represents one of the most clearly documented dosing protocols in the literature. The booster protocol (1–5 mg/kg at 72h for residual withdrawal) provides evidence-based guidance for managing incomplete responses.
 
@@ -164,9 +166,9 @@ This study provides the largest sample (N=50) of validated, clinician-rated with
 ---
 
 ## See Also
-- [[2018/Brown2018_OUD_Detoxification_Outcomes]] — Prospective observational study (N=30) from same Mexico treatment context; SOWS and 12-month follow-up data
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — New Zealand observational study (N=14); includes 12-month follow-up and one fatality
-- [[2001/Mash2001_Ibogaine_Heroin_Withdrawal]] — Earlier withdrawal study (N=32) using OOWS and OP-SCL in St. Kitts
-- [[2017/Davis2017_Ibogaine_Opioid_Outcomes]] — Subjective effectiveness and long-term outcomes from same Crossroads programme
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Guidelines incorporated into the Crossroads screening protocol
-- [[BLUE_Outcomes_Hub]]
+- [Brown2018_OUD_Detoxification_Outcomes](Brown2018_OUD_Detoxification_Outcomes.md) — Prospective observational study (N=30) from same Mexico treatment context; SOWS and 12-month follow-up data
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — New Zealand observational study (N=14); includes 12-month follow-up and one fatality
+- [Mash2001_Ibogaine_Heroin_Withdrawal](../2001/Mash2001_Ibogaine_Heroin_Withdrawal.md) — Earlier withdrawal study (N=32) using OOWS and OP-SCL in St. Kitts
+- [Davis2017_Ibogaine_Opioid_Outcomes](../2017/Davis2017_Ibogaine_Opioid_Outcomes.md) — Subjective effectiveness and long-term outcomes from same Crossroads programme
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Guidelines incorporated into the Crossroads screening protocol
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)

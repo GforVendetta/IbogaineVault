@@ -37,6 +37,8 @@ contraindications: []
 open_access: false
 publisher: "Bentham Science"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine in the Treatment of Substance Dependence
@@ -174,10 +176,10 @@ The experience is frequently described as "brutal and unpleasant" or a "rough tr
 ---
 
 ## See Also
-- [[1994/Sheppard1994_Preliminary_Investigation_Ibogaine]] — First case series reviewed in this paper
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Primary fatality reference cited
-- [[2014/Kingsley-Brown2014_Ibo_Tx_for_Substance_Dependence]] — Follow-up from same author (2014)
-- [[2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities]] — Extended fatality review (33 deaths)
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]] — Detailed history referenced throughout
-- [[BLUE_Outcomes_Hub]] — Central hub for clinical outcome evidence
-- [[WHITE_Historical_Hub]] — Historical context
+- [Sheppard1994_Preliminary_Investigation_Ibogaine](../1994/Sheppard1994_Preliminary_Investigation_Ibogaine.md) — First case series reviewed in this paper
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Primary fatality reference cited
+- [Kingsley-Brown2014_Ibo_Tx_for_Substance_Dependence](../2014/Kingsley-Brown2014_Ibo_Tx_for_Substance_Dependence.md) — Follow-up from same author (2014)
+- [Corkery2018_Ibogaine_Benefits_Dangers_Fatalities](../2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md) — Extended fatality review (33 deaths)
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — Detailed history referenced throughout
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Central hub for clinical outcome evidence
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Historical context

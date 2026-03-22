@@ -31,7 +31,12 @@ route: intraperitoneal
 contraindications: []
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 <!-- image -->
 
@@ -295,10 +300,10 @@ This  research  was  supported  by NIDA Grant  DA-03817 to  S.D.G.  and  NCI  Gr
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1999/Glick1999_18MC_Review_CNS_Drugs]] — Comprehensive 18-MC review expanding on this original discovery
-- [[2016/Alper2016_hERG_Blockade]] — Confirms 18-MC IC50 >50µM (12× safer cardiac profile than ibogaine)
-- [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — Next-generation oxa-iboga analogues following 18-MC paradigm
-- [[2023/Arias2023_Catharanthine_18-MC]] — 18-MC antidepressant activity characterisation
+- [Glick1999_18MC_Review_CNS_Drugs](../1999/Glick1999_18MC_Review_CNS_Drugs.md) — Comprehensive 18-MC review expanding on this original discovery
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Confirms 18-MC IC50 >50µM (12× safer cardiac profile than ibogaine)
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — Next-generation oxa-iboga analogues following 18-MC paradigm
+- [Arias2023_Catharanthine_18-MC](../2023/Arias2023_Catharanthine_18-MC.md) — 18-MC antidepressant activity characterisation
 

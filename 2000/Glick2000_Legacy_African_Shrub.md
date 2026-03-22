@@ -36,6 +36,8 @@ contraindications: []
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Development of Novel Medications for Drug Addiction: The Legacy of an African Shrub
@@ -98,7 +100,7 @@ The paper systematically demonstrates 18-MC's superior safety profile:
 
 ## Clinical Implications
 
-This paper is a companion piece to [[2000/Glick2000_18-MC|Glick's CNS Drug Reviews article]] from the same year, presenting the same programme of research in a more narrative, conference-oriented format. The key clinical implications for contemporary ibogaine practice:
+This paper is a companion piece to [Glick's CNS Drug Reviews article](Glick2000_18-MC.md) from the same year, presenting the same programme of research in a more narrative, conference-oriented format. The key clinical implications for contemporary ibogaine practice:
 
 1. **Therapeutic index concept:** The systematic dissection of efficacy from toxicity across receptor targets established the framework for understanding ibogaine's risk-benefit profile that persists today
 2. **Hedonic set point modulation:** The downward shift in reinforcement efficacy (rather than potency) supports the clinical observation that ibogaine doesn't simply block drug effects but appears to fundamentally alter motivational states
@@ -117,9 +119,9 @@ This paper is a companion piece to [[2000/Glick2000_18-MC|Glick's CNS Drug Revie
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2000/Glick2000_18-MC|Glick 2000 — 18-MC vs Ibogaine (CNS Drug Reviews)]]
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine|Baumann 2000 — Neurobiological Effects of Noribogaine]]
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety|Mash 2000 — Ibogaine Pharmacokinetics and Safety]]
-- [[2000/Mundey2000_Ibogaine_18MC_Smooth_Muscle|Mundey 2000 — Ibogaine and 18-MC Smooth Muscle Effects]]
+- [Glick 2000 — 18-MC vs Ibogaine (CNS Drug Reviews)](Glick2000_18-MC.md)
+- [Baumann 2000 — Neurobiological Effects of Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md)
+- [Mash 2000 — Ibogaine Pharmacokinetics and Safety](Mash2000_Ibogaine_Pharmacokinetics_Safety.md)
+- [Mundey 2000 — Ibogaine and 18-MC Smooth Muscle Effects](Mundey2000_Ibogaine_18MC_Smooth_Muscle.md)

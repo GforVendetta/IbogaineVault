@@ -25,6 +25,7 @@ source_pdf: "2016/Meisner2016_Cardiac_Arrest_Death_Case.pdf"
 evidence_level: case-report
 sample_size: 1
 mortality_count: 1
+mortality_scope: discrete-cases
 qtc_data: true
 electrolyte_data: true
 herg_data: false
@@ -38,9 +39,14 @@ contraindications:
 open_access: true
 publisher: "SAGE"
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine-associated cardiac arrest and death: case report and review of the literature
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Journal:** *Therapeutic Advances in Psychopharmacology*
 **Year:** 2016, Vol. 6(2) 95–98
@@ -197,10 +203,10 @@ Division of Pulmonary and Critical Care Medicine, Medical University of South Ca
 
 ## See Also
 
-**Parent hub:** [[RED_Cardiac_Safety_Hub]]
+**Parent hub:** [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
 
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Noribogaine profiling foundation
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]] — Human noribogaine PK
-- [[2023/Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects]] — Noribogaine sleep effects
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Mechanism synthesis
-- [[2001/Mash2001_Ibogaine_Heroin_Withdrawal]] — Earlier anti-withdrawal work
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Noribogaine profiling foundation
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Human noribogaine PK
+- [Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects](../2023/Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects.md) — Noribogaine sleep effects
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Mechanism synthesis
+- [Mash2001_Ibogaine_Heroin_Withdrawal](../2001/Mash2001_Ibogaine_Heroin_Withdrawal.md) — Earlier anti-withdrawal work

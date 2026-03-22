@@ -31,7 +31,12 @@ route: intraperitoneal
 contraindications: []
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 18-Methoxycoronaridine (18-MC) and Ibogaine: Comparison of Antiaddictive Efficacy, Toxicity, and Mechanisms of Action
 
@@ -390,10 +395,10 @@ This research was supported by NIDA Grant No. DA-03817 and by Albany Molecular R
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1996/Glick1996_18MC_NonToxic]] — Original 18-MC proof-of-concept
-- [[1999/Glick1999_18MC_Review_CNS_Drugs]] — Earlier comprehensive 18-MC review
-- [[2016/Alper2016_hERG_Blockade]] — hERG IC50 validation showing 18-MC cardiac safety
-- [[2023/Arias2023_Catharanthine_18-MC]] — Modern 18-MC antidepressant activity
-- [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — Next-generation oxa-iboga analogues
+- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md) — Original 18-MC proof-of-concept
+- [Glick1999_18MC_Review_CNS_Drugs](../1999/Glick1999_18MC_Review_CNS_Drugs.md) — Earlier comprehensive 18-MC review
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG IC50 validation showing 18-MC cardiac safety
+- [Arias2023_Catharanthine_18-MC](../2023/Arias2023_Catharanthine_18-MC.md) — Modern 18-MC antidepressant activity
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — Next-generation oxa-iboga analogues

@@ -40,6 +40,8 @@ contraindications: []
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 
@@ -98,11 +100,11 @@ Subject 1, excluded from the group analysis due to baseline PM status (DM:DX MR 
 
 **CYP2D6 screening is essential before ibogaine administration.** The 2-fold increase in active moiety exposure — and up to 66-fold increase in parent ibogaine — in subjects with reduced CYP2D6 activity makes this the single most important pharmacogenomic variable for ibogaine dosing. At therapeutic doses (10–25 mg/kg), these multiplicative factors could produce dangerously high ibogaine concentrations in unscreened poor metabolisers, particularly given ibogaine's known cardiac effects at higher exposures. This directly supports clinical screening protocols: CYP2D6 genotyping or phenotyping should be considered mandatory prior to any ibogaine administration.
 
-**Dose reduction guidance:** The authors recommend at minimum halving the intended ibogaine dose in CYP2D6 PMs. This conservative recommendation emerges from a 20 mg dose study and may underestimate required adjustments at therapeutic doses, where non-linear kinetics could amplify the CYP2D6 effect. The ascending-dose study by the same group ([[2015/Glue2015_Noribogaine_Ascending_Doses|Glue2015 Ascending Dose]]) provides complementary safety margins for noribogaine, but equivalent ibogaine dose-escalation data in CYP2D6 PMs remains unavailable.
+**Dose reduction guidance:** The authors recommend at minimum halving the intended ibogaine dose in CYP2D6 PMs. This conservative recommendation emerges from a 20 mg dose study and may underestimate required adjustments at therapeutic doses, where non-linear kinetics could amplify the CYP2D6 effect. The ascending-dose study by the same group ([Glue2015 Ascending Dose](Glue2015_Noribogaine_Ascending_Doses.md)) provides complementary safety margins for noribogaine, but equivalent ibogaine dose-escalation data in CYP2D6 PMs remains unavailable.
 
 **Drug interaction implications:** Any concurrent medication that inhibits CYP2D6 (SSRIs, particularly paroxetine and fluoxetine; bupropion; quinidine; some antipsychotics) can phenocopy PM status. This extends the contraindication beyond genotypic PMs to include patients on CYP2D6-inhibiting medications who may not have completed adequate washout. The 6-day paroxetine pretreatment in this study is clinically relevant — patients tapering from SSRIs before ibogaine treatment may still have substantial CYP2D6 inhibition from residual drug or active metabolites.
 
-**Noribogaine equivalence reframes the safety concern:** The finding that noribogaine AUC is equivalent regardless of CYP2D6 status, while ibogaine exposure diverges dramatically, suggests the cardiac risk in CYP2D6 PMs is driven primarily by elevated parent ibogaine rather than the active metabolite. This aligns with evidence from [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk|Koenig2012]] showing ibogaine has greater hERG affinity than noribogaine. See also [[2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients|Knuijver2024]] for the most comprehensive analysis of CYP2D6–cardiac risk interactions.
+**Noribogaine equivalence reframes the safety concern:** The finding that noribogaine AUC is equivalent regardless of CYP2D6 status, while ibogaine exposure diverges dramatically, suggests the cardiac risk in CYP2D6 PMs is driven primarily by elevated parent ibogaine rather than the active metabolite. This aligns with evidence from [Koenig2012](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) showing ibogaine has greater hERG affinity than noribogaine. See also [Knuijver2024](../2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md) for the most comprehensive analysis of CYP2D6–cardiac risk interactions.
 
 ## Limitations
 
@@ -117,9 +119,9 @@ Subject 1, excluded from the group analysis due to baseline PM status (DM:DX MR 
 
 ## See Also
 
-- [[2015/Glue2015_Ascending_Dose_Noribogaine_Safety|Glue2015 Ascending Dose Noribogaine]] — complementary study by same group: noribogaine PK/safety in healthy volunteers
-- [[2024/Knuijver2024_CYP2D6_Ibogaine_Cardiac_Risk|Knuijver2024 CYP2D6 Cardiac Risk]] — comprehensive analysis of CYP2D6 polymorphism and ibogaine-related cardiac adverse events
-- [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk|Koenig2012 hERG]] — ibogaine vs noribogaine hERG blockade data, contextualises the cardiac implications of differential parent compound exposure
-- [[2016/Glue2016_Noribogaine_Opioid_Patients_Safety|Glue2016 Noribogaine Opioid Patients]] — extends the Glue group's pharmacology programme to patient populations
-- [[2016/Forsyth2016_Low_Dose_Ibogaine_Mood_State_Psychological_Performance|Forsyth2016 Low-Dose Psychological Effects]] — psychological and cognitive effects from the same 21-volunteer, 20 mg ibogaine sample
+- [Glue2015 Ascending Dose Noribogaine](Glue2015_Ascending_Dose_Noribogaine_Safety.md) — complementary study by same group: noribogaine PK/safety in healthy volunteers
+- [Knuijver2024 CYP2D6 Cardiac Risk](../2024/Knuijver2024_CYP2D6_Ibogaine_Cardiac_Risk.md) — comprehensive analysis of CYP2D6 polymorphism and ibogaine-related cardiac adverse events
+- [Koenig2012 hERG](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — ibogaine vs noribogaine hERG blockade data, contextualises the cardiac implications of differential parent compound exposure
+- [Glue2016 Noribogaine Opioid Patients](../2016/Glue2016_Noribogaine_Opioid_Patients_Safety.md) — extends the Glue group's pharmacology programme to patient populations
+- [Forsyth2016 Low-Dose Psychological Effects](../2016/Forsyth2016_Low_Dose_Ibogaine_Mood_State_Psychological_Performance.md) — psychological and cognitive effects from the same 21-volunteer, 20 mg ibogaine sample
 - CYP2D6 Pharmacogenomics Hub

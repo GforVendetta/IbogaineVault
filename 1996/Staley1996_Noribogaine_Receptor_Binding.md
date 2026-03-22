@@ -39,6 +39,8 @@ contraindications: []
 open_access: false
 publisher: "Springer Nature"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 # Pharmacological Screen for Activities of 12-Hydroxyibogamine: A Primary Metabolite of the Indole Alkaloid Ibogaine
 
@@ -128,9 +130,9 @@ The authors propose that ibogaine's anti-addictive effects arise from complement
 ---
 
 ## See Also
-- [[1995/Mash1995_Noribogaine_SERT_Identification]] — First identification of noribogaine as ibogaine's primary metabolite and SERT ligand; this paper directly extends that work with comprehensive receptor profiling
-- [[1995/Sweetnam1995_Receptor_Binding_Profile]] — Complementary broad-spectrum ibogaine binding survey; Staley adds the critical metabolite comparison missing from Sweetnam
-- [[1996/Layer1996_IbogaineAnalogs_NMDA]] — Parallel 1996 study on ibogaine analogue structure-activity at NMDA sites; contextualises ibogaine's MK-801 competition data
-- [[1996/Reid1996_Local_Ibogaine_Dopamine]] — Dopamine modulation by ibogaine in vivo; extends DAT binding data from this paper to functional dopamine release
-- [[2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects]] — Two decades later, Mash directly develops noribogaine as a standalone therapeutic — the logical endpoint of findings first documented here
-- [[ORANGE_Mechanisms_Hub]]
+- [Mash1995_Noribogaine_SERT_Identification](../1995/Mash1995_Noribogaine_SERT_Identification.md) — First identification of noribogaine as ibogaine's primary metabolite and SERT ligand; this paper directly extends that work with comprehensive receptor profiling
+- [Sweetnam1995_Receptor_Binding_Profile](../1995/Sweetnam1995_Receptor_Binding_Profile.md) — Complementary broad-spectrum ibogaine binding survey; Staley adds the critical metabolite comparison missing from Sweetnam
+- [Layer1996_IbogaineAnalogs_NMDA](Layer1996_IbogaineAnalogs_NMDA.md) — Parallel 1996 study on ibogaine analogue structure-activity at NMDA sites; contextualises ibogaine's MK-801 competition data
+- [Reid1996_Local_Ibogaine_Dopamine](Reid1996_Local_Ibogaine_Dopamine.md) — Dopamine modulation by ibogaine in vivo; extends DAT binding data from this paper to functional dopamine release
+- [Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects](../2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects.md) — Two decades later, Mash directly develops noribogaine as a standalone therapeutic — the logical endpoint of findings first documented here
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

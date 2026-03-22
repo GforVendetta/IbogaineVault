@@ -32,6 +32,8 @@ contraindications: []
 open_access: true
 publisher: "Royal Society of Chemistry"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # The Iboga Enigma: The Chemistry and Neuropharmacology of Iboga Alkaloids and Related Analogs
@@ -162,15 +164,15 @@ The review originates from a laboratory (Olson, UC Davis) with direct commercial
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience]] — Complementary pharmacology-focused review from the DARK Classics series
-- [[1995/Popik1995_100Years_Ibogaine_Review|Popik 1995]] — Foundational 100-year pharmacological review; the predecessor to this review's neurobiological coverage
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Receptor binding data providing quantitative context for ibogaine's polypharmacology
-- [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — Next-generation oxa-iboga analogues addressing the cardiac safety liability identified in this review
-- [[2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release]] — GDNF release from deconstructed iboga scaffolds, directly extending the SAR analysis here
-- [[2010/Carnicella2010_Noribogaine_18MC_GDNF]] — Key data on the 18-MC/noribogaine GDNF dissociation discussed in the biological activity section
-- [[1999/Glick1999_18MC_Review_CNS_Drugs]] — Earlier comprehensive review of 18-MC pharmacology
-- [[2025/Hwu2025_Matrix_Pharmacology_VMAT2_SERT]] — Modern matrix pharmacology approach extending the polypharmacology challenge described here
-- [[2025/Iyer2025_Modular_Synthesis_Nature_Chemistry]] — Iyer's subsequent work on modular iboga synthesis, advancing the synthetic strategies reviewed here
-- [[2023/Arias2023_Catharanthine_18-MC]] — Further SAR work on coronaridine congeners at nicotinic receptors
+- [Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience](../2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience.md) — Complementary pharmacology-focused review from the DARK Classics series
+- [Popik 1995](../1995/Popik1995_100Years_Ibogaine_Review.md) — Foundational 100-year pharmacological review; the predecessor to this review's neurobiological coverage
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Receptor binding data providing quantitative context for ibogaine's polypharmacology
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — Next-generation oxa-iboga analogues addressing the cardiac safety liability identified in this review
+- [Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release](../2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md) — GDNF release from deconstructed iboga scaffolds, directly extending the SAR analysis here
+- [Carnicella2010_Noribogaine_18MC_GDNF](../2010/Carnicella2010_Noribogaine_18MC_GDNF.md) — Key data on the 18-MC/noribogaine GDNF dissociation discussed in the biological activity section
+- [Glick1999_18MC_Review_CNS_Drugs](../1999/Glick1999_18MC_Review_CNS_Drugs.md) — Earlier comprehensive review of 18-MC pharmacology
+- [Hwu2025_Matrix_Pharmacology_VMAT2_SERT](../2025/Hwu2025_Matrix_Pharmacology_VMAT2_SERT.md) — Modern matrix pharmacology approach extending the polypharmacology challenge described here
+- [Iyer2025_Modular_Synthesis_Nature_Chemistry](../2025/Iyer2025_Modular_Synthesis_Nature_Chemistry.md) — Iyer's subsequent work on modular iboga synthesis, advancing the synthetic strategies reviewed here
+- [Arias2023_Catharanthine_18-MC](../2023/Arias2023_Catharanthine_18-MC.md) — Further SAR work on coronaridine congeners at nicotinic receptors

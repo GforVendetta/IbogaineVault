@@ -33,6 +33,8 @@ contraindications: []
 open_access: false
 publisher: "Taylor & Francis"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Examination of the Phenomenology of the Ibogaine Treatment Experience: Role of Altered States of Consciousness and Psychedelic Experiences
@@ -256,9 +258,9 @@ The high endorsement of insight across multiple existential domains (meaning of 
 ---
 
 ## See Also
-- [[2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine]] — Later qualitative study of ibogaine subjective effects, also uses 5d-ASC framework
-- [[2017/Davis2017_Ibogaine_Opioid_Outcomes]] — Complementary online survey of ibogaine outcomes for opioid dependence (same year)
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — NZ observational study of 12-month outcomes with objective measures
-- [[2017/DosSantos2017_Antiaddictive_Ibogaine_Systematic_Review]] — Systematic review of ibogaine's anti-addictive properties
-- [[PURPLE_Phenomenology_Hub]]
-- [[BLUE_Outcomes_Hub]]
+- [Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine](../2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine.md) — Later qualitative study of ibogaine subjective effects, also uses 5d-ASC framework
+- [Davis2017_Ibogaine_Opioid_Outcomes](Davis2017_Ibogaine_Opioid_Outcomes.md) — Complementary online survey of ibogaine outcomes for opioid dependence (same year)
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — NZ observational study of 12-month outcomes with objective measures
+- [DosSantos2017_Antiaddictive_Ibogaine_Systematic_Review](DosSantos2017_Antiaddictive_Ibogaine_Systematic_Review.md) — Systematic review of ibogaine's anti-addictive properties
+- [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md)
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)

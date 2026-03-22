@@ -25,6 +25,7 @@ qtc_data: false
 herg_data: false
 electrolyte_data: false
 mortality_count: 8
+mortality_scope: cumulative-review
 contraindications:
   - "Pre-existing cardiovascular disease"
   - "Epilepsy (associated autonomic dysfunction)"
@@ -34,6 +35,8 @@ route: oral
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Fatalities after taking ibogaine in addiction treatment could be related to sudden cardiac death caused by autonomic dysfunction
@@ -118,12 +121,12 @@ This paper has significant implications for ibogaine treatment practice:
 
 ## See Also
 
-- [[2016/Alper2016_hERG_Blockade]] — Direct hERG channel mechanism (complements this autonomic hypothesis)
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Expanded fatality analysis
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Cardiac mechanisms overview
-- [[2026/Brunt2026_Cardiovascular_Complications_Review]] — Comprehensive cardiovascular complications systematic review
-- [[2016/Meisner2016_Cardiac_Arrest_Death_Case]] — Cardiac arrest case report
-- [[2001/Alper2001_Ibogaine_Review]] — The review this paper cites extensively as reference (1)
-- [[2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context]] — Fernandez Bwiti ethnography (Maas & Strubelt cite Fernandez 1982 as primary Bwiti source)
-- [[RED_Cardiac_Safety_Hub]] — Domain hub for all cardiac safety evidence
-- [[WHITE_Historical_Hub]] — Bwiti and traditional use context
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Direct hERG channel mechanism (complements this autonomic hypothesis)
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Expanded fatality analysis
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Cardiac mechanisms overview
+- [Brunt2026_Cardiovascular_Complications_Review](../2026/Brunt2026_Cardiovascular_Complications_Review.md) — Comprehensive cardiovascular complications systematic review
+- [Meisner2016_Cardiac_Arrest_Death_Case](../2016/Meisner2016_Cardiac_Arrest_Death_Case.md) — Cardiac arrest case report
+- [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md) — The review this paper cites extensively as reference (1)
+- [Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context](../2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.md) — Fernandez Bwiti ethnography (Maas & Strubelt cite Fernandez 1982 as primary Bwiti source)
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Domain hub for all cardiac safety evidence
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Bwiti and traditional use context

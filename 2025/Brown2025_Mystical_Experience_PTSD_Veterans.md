@@ -57,6 +57,8 @@ route: oral
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Mystical experiences during magnesium-Ibogaine are associated with improvements in PTSD symptoms in veterans
@@ -84,7 +86,7 @@ Participants reporting greater intensity of mystical experiences following magne
 
 ## Methodology
 
-Secondary analysis of data from the MISTIC trial ([[Cherian2024_Magnesium_Ibogaine_TBI|Cherian et al., 2024]]), the first prospective open-label study of magnesium-ibogaine for combat-related TBI. Thirty male Special Operations veterans underwent treatment at Ambio Life Sciences (Mexico) with assessments at Stanford University at baseline, immediate-post (3.5–5 days), and 1-month follow-up.
+Secondary analysis of data from the MISTIC trial ([Cherian et al., 2024](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md)), the first prospective open-label study of magnesium-ibogaine for combat-related TBI. Thirty male Special Operations veterans underwent treatment at Ambio Life Sciences (Mexico) with assessments at Stanford University at baseline, immediate-post (3.5–5 days), and 1-month follow-up.
 
 **Treatment protocol:** 5-day programme comprising medical screening (Day 1), ibogaine dosing (Day 2 evening: test dose 2–3 mg/kg followed by incremental doses over 2 hours, total ≤14 mg/kg ibogaine HCl), 72-hour monitoring (Days 2–4), integration activities (Day 4), and return (Day 5). Pre-dosing: 8-hour fast, 1g IV MgSO₄, oral GI protectant. Post-dosing (12h): additional IV MgSO₄, antioxidants, metabolic support agents.
 
@@ -146,11 +148,11 @@ All models: N = 90 observations, adjusted for age, CES, number of TBIs. R² cond
 
 ## Clinical Implications
 
-This study provides the first quantitative evidence linking mystical experience intensity during ibogaine treatment to clinical PTSD outcomes, extending a body of work previously confined to psilocybin, ayahuasca, and ketamine. The moderate effect sizes (ρ ≈ .49–.53) are comparable to those reported in the broader psychedelic-mystical experience literature reviewed by Ko et al. (2022), suggesting that ibogaine's phenomenological profile — despite its distinctive dream-like, autobiographical character ([[Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine|Kohek et al., 2020]]; [[Olash2026_Subjective_Experience_Magnesium_Ibogaine|Olash et al., 2025]]) — engages similar therapeutic mechanisms to those of serotonergic psychedelics.
+This study provides the first quantitative evidence linking mystical experience intensity during ibogaine treatment to clinical PTSD outcomes, extending a body of work previously confined to psilocybin, ayahuasca, and ketamine. The moderate effect sizes (ρ ≈ .49–.53) are comparable to those reported in the broader psychedelic-mystical experience literature reviewed by Ko et al. (2022), suggesting that ibogaine's phenomenological profile — despite its distinctive dream-like, autobiographical character ([Kohek et al., 2020](../2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine.md); [Olash et al., 2025](../2026/Olash2026_Subjective_Experience_Magnesium_Ibogaine.md)) — engages similar therapeutic mechanisms to those of serotonergic psychedelics.
 
 The PAF finding is particularly noteworthy for clinical neuroscience: mystical experience intensity selectively predicted sustained (1-month) but not acute PAF reduction, suggesting that the phenomenological depth of the experience may relate more to enduring neuroplastic reorganisation than to transient pharmacological effects. This aligns with the REBUS model (Carhart-Harris & Friston, 2019), wherein alpha oscillations mediate top-down inhibitory control, and their persistent slowing may index a lasting relaxation of rigid predictive priors — precisely the cognitive architecture thought to maintain PTSD symptomatology.
 
-For MISTIC-protocol clinical practice, these findings suggest that the subjective quality of the ibogaine experience may be a clinically relevant variable worth assessing and, potentially, optimising. Integration protocols ([[Olash2026_Subjective_Experience_Magnesium_Ibogaine|Olash et al., 2025]]) that facilitate processing of mystical content could be therapeutically valuable, though the correlational design cannot establish causation. The non-significant WHODAS result is consistent with the measure's known insensitivity at mild disability levels and should not be interpreted as absence of functional benefit.
+For MISTIC-protocol clinical practice, these findings suggest that the subjective quality of the ibogaine experience may be a clinically relevant variable worth assessing and, potentially, optimising. Integration protocols ([Olash et al., 2025](../2026/Olash2026_Subjective_Experience_Magnesium_Ibogaine.md)) that facilitate processing of mystical content could be therapeutically valuable, though the correlational design cannot establish causation. The non-significant WHODAS result is consistent with the measure's known insensitivity at mild disability levels and should not be interpreted as absence of functional benefit.
 
 The finding that dose did not predict mystical experience intensity has implications for protocol development: escalating dose to increase mystical depth may not be the most effective strategy. Non-pharmacological factors — set, setting, preparation, and individual predisposition — may be at least as important.
 
@@ -169,28 +171,28 @@ The finding that dose did not predict mystical experience intensity has implicat
 ## See Also
 
 ### MISTIC Programme Studies
-- [[Cherian2024_Magnesium_Ibogaine_TBI]] — Parent study: open-label MISTIC trial establishing safety and efficacy of magnesium-ibogaine for TBI veterans (n=30)
-- [[Faerman2025_MISTIC_12Month_Followup]] — 12-month follow-up demonstrating durability of MISTIC treatment outcomes
-- [[Faerman2023_Ibogaine_Veterans_PTSD]] — Earlier analysis of ibogaine outcomes in veterans with PTSD from the same programme
-- [[Geoly2026_Cortical_Thickness_Brain_Age_MISTIC]] — Neuroimaging (cortical thickness/brain age) from the MISTIC cohort, complementing EEG findings here
-- [[Olash2026_Subjective_Experience_Magnesium_Ibogaine]] — Qualitative analysis of MISTIC subjective experiences, providing narrative context for MEQ30 data
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — Parent study: open-label MISTIC trial establishing safety and efficacy of magnesium-ibogaine for TBI veterans (n=30)
+- [Faerman2025_MISTIC_12Month_Followup](Faerman2025_MISTIC_12Month_Followup.md) — 12-month follow-up demonstrating durability of MISTIC treatment outcomes
+- [Faerman2023_Ibogaine_Veterans_PTSD](../2023/Faerman2023_Ibogaine_Veterans_PTSD.md) — Earlier analysis of ibogaine outcomes in veterans with PTSD from the same programme
+- [Geoly2026_Cortical_Thickness_Brain_Age_MISTIC](../2026/Geoly2026_Cortical_Thickness_Brain_Age_MISTIC.md) — Neuroimaging (cortical thickness/brain age) from the MISTIC cohort, complementing EEG findings here
+- [Olash2026_Subjective_Experience_Magnesium_Ibogaine](../2026/Olash2026_Subjective_Experience_Magnesium_Ibogaine.md) — Qualitative analysis of MISTIC subjective experiences, providing narrative context for MEQ30 data
 
 ### Ibogaine Phenomenology & Subjective Experience
-- [[Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine]] — Qualitative study of ibogaine's acute subjective effects including dream-like visions and autobiographical imagery
-- [[Heink2017_Phenomenology_Ibogaine_ASC]] — Systematic analysis of ibogaine-induced altered states providing the phenomenological framework this study quantifies
-- [[LaTorre2025_Phenomenology_Thematic_Analysis]] — Thematic analysis of ibogaine phenomenology using qualitative methods
-- [[Camlin2018_Phenomenological_Ibogaine_Opioid_Use]] — Phenomenological study of ibogaine experiences in opioid use context
-- [[Brown2019_Ibogaine_Subjective_Experience_OUD]] — Subjective experience in OUD, providing cross-indication comparison for PTSD findings here
-- [[Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective]] — Ibogaine-specific psychometric instrument development, relevant to MEQ30 adaptation questions
+- [Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine](../2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine.md) — Qualitative study of ibogaine's acute subjective effects including dream-like visions and autobiographical imagery
+- [Heink2017_Phenomenology_Ibogaine_ASC](../2017/Heink2017_Phenomenology_Ibogaine_ASC.md) — Systematic analysis of ibogaine-induced altered states providing the phenomenological framework this study quantifies
+- [LaTorre2025_Phenomenology_Thematic_Analysis](LaTorre2025_Phenomenology_Thematic_Analysis.md) — Thematic analysis of ibogaine phenomenology using qualitative methods
+- [Camlin2018_Phenomenological_Ibogaine_Opioid_Use](../2018/Camlin2018_Phenomenological_Ibogaine_Opioid_Use.md) — Phenomenological study of ibogaine experiences in opioid use context
+- [Brown2019_Ibogaine_Subjective_Experience_OUD](../2019/Brown2019_Ibogaine_Subjective_Experience_OUD.md) — Subjective experience in OUD, providing cross-indication comparison for PTSD findings here
+- [Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective](Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective.md) — Ibogaine-specific psychometric instrument development, relevant to MEQ30 adaptation questions
 
 ### Veterans & Trauma
-- [[Davis2020_SpecialOps_Veterans_Trauma]] — Psychedelic use patterns among special operations veterans, the same population studied here
-- [[Staveley2025_PhD_Ibogaine_Veterans_PTSD]] — PhD thesis examining ibogaine for veteran PTSD with comprehensive literature synthesis
+- [Davis2020_SpecialOps_Veterans_Trauma](../2020/Davis2020_SpecialOps_Veterans_Trauma.md) — Psychedelic use patterns among special operations veterans, the same population studied here
+- [Staveley2025_PhD_Ibogaine_Veterans_PTSD](Staveley2025_PhD_Ibogaine_Veterans_PTSD.md) — PhD thesis examining ibogaine for veteran PTSD with comprehensive literature synthesis
 
 ### Clinical Context
-- [[Cherian2024_Ibogaine_Primer_Clinicians]] — Clinical primer on ibogaine including MISTIC protocol context
-- [[Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine]] — Systematic review of ibogaine clinical trials providing broader evidence base
+- [Cherian2024_Ibogaine_Primer_Clinicians](../2024/Cherian2024_Ibogaine_Primer_Clinicians.md) — Clinical primer on ibogaine including MISTIC protocol context
+- [Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine](../2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md) — Systematic review of ibogaine clinical trials providing broader evidence base
 
 ### Hubs
-- [[PURPLE_Phenomenology_Hub]] — Primary hub: mystical experience as a dimension of ibogaine phenomenology
-- [[BLUE_Outcomes_Hub]] — Cross-category: PTSD symptom reduction outcomes and EEG biomarker correlates
+- [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md) — Primary hub: mystical experience as a dimension of ibogaine phenomenology
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Cross-category: PTSD symptom reduction outcomes and EEG biomarker correlates

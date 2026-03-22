@@ -42,32 +42,26 @@ Clare Wilkins is one of the most influential clinical voices in ibogaine treatme
 
 | Year | Source | Key Topics | Link |
 |------|--------|-----------|------|
-| 2010 | Horizons NYC | 400 sessions, MAPS study, "outcome is engagement" | [[Primary_Sources/2010_Horizons_Clare_Wilkins_400_Sessions]] |
-| 2010 | MAPS Conference | Howard mentorship, learning from deaths, hep locks | [[Primary_Sources/2010_MAPS_Clare_Wilkins_Evolution]] |
-| 2014 | MAPS Conference | Anthropocene, flood→incremental dosing, family treatment, iatrogenesis | [[Primary_Sources/2014_11_MAPS_Clare_Wilkins_Architecture_of_Emergency]] |
-| 2017 | Breaking Convention | ICEERS pilot, cumulative protocol, QTc 440ms max | [[Primary_Sources/2017_BC_Clare_Wilkins_Methadone_Detox]] |
-| 2017 | Psychedelic Science | Same study, Paul Glue Q&A, practice evolution | [[Primary_Sources/2017_PS_Clare_Wilkins_Methadone_Detox]] |
-| 2017 | EntheoScience Vienna | Cannabis adjunct, cartel economics, GITA 2.0 | [[Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics]] |
-| 2021 | Microdose Masterclass | Holotropic perspective, Howard/Norma tribute, community trauma | [[Primary_Sources/2021_Microdose_Clare_Wilkins_Holotropic_Perspective]] |
+| 2010 | Horizons NYC | 400 sessions, MAPS study, "outcome is engagement" | [2010_Horizons_Clare_Wilkins_400_Sessions](../Primary_Sources/2010_Horizons_Clare_Wilkins_400_Sessions.md) |
+| 2010 | MAPS Conference | Howard mentorship, learning from deaths, hep locks | [2010_MAPS_Clare_Wilkins_Evolution](../Primary_Sources/2010_MAPS_Clare_Wilkins_Evolution.md) |
+| 2014 | MAPS Conference | Anthropocene, flood→incremental dosing, family treatment, iatrogenesis | [2014_11_MAPS_Clare_Wilkins_Architecture_of_Emergency](../Primary_Sources/2014_11_MAPS_Clare_Wilkins_Architecture_of_Emergency.md) |
+| 2017 | Breaking Convention | ICEERS pilot, cumulative protocol, QTc 440ms max | [2017_BC_Clare_Wilkins_Methadone_Detox](../Primary_Sources/2017_BC_Clare_Wilkins_Methadone_Detox.md) |
+| 2017 | Psychedelic Science | Same study, Paul Glue Q&A, practice evolution | [2017_PS_Clare_Wilkins_Methadone_Detox](../Primary_Sources/2017_PS_Clare_Wilkins_Methadone_Detox.md) |
+| 2017 | EntheoScience Vienna | Cannabis adjunct, cartel economics, GITA 2.0 | [2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics](../Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics.md) |
+| 2021 | Microdose Masterclass | Holotropic perspective, Howard/Norma tribute, community trauma | [2021_Microdose_Clare_Wilkins_Holotropic_Perspective](../Primary_Sources/2021_Microdose_Clare_Wilkins_Holotropic_Perspective.md) |
 
 ### Interviews
 
 | Year | Source | Key Topics | Link |
 |------|--------|-----------|------|
-| 2018 | Ibogaine Stories Documentary | San Pancho rat park, inner beauty, GDNF, disease model rejection | [[Pangea_Ops/Ibogaine_Stories_Transcripts/2018_Oliver_Wilkins_Pangea_Protocol]] |
-| 2020 | MYEBOGA Podcast | 800+ treatments, orthomolecular medicine, GITA restructuring | [[Primary_Sources/2020_MYEBOGA_Clare_Wilkins_Interview]] |
-
-### Internal Documents
-
-| Year | Source | Key Topics | Link |
-|------|--------|-----------|------|
-| 2026 | Pangea Team Call | Current protocol, Aotearoa context, clinical workflow | *Not yet transcribed* |
+| 2018 | Ibogaine Stories Documentary | San Pancho rat park, inner beauty, GDNF, disease model rejection |  |
+| 2020 | MYEBOGA Podcast | 800+ treatments, orthomolecular medicine, GITA restructuring | [2020_MYEBOGA_Clare_Wilkins_Interview](../Primary_Sources/2020_MYEBOGA_Clare_Wilkins_Interview.md) |
 
 ### Peer-Reviewed Publications
 
 | Year | Journal | Key Topics | Link |
 |------|---------|-----------|------|
-| 2017 | Journal of Psychedelic Studies | **LANDMARK**: First documented low, repeated, ascending dose protocol (150-600mg) for methadone detox; ICEERS collaboration | [[2017/Wilkins2017_Methadone_Low_Dose]] |
+| 2017 | Journal of Psychedelic Studies | **LANDMARK**: First documented low, repeated, ascending dose protocol (150-600mg) for methadone detox; ICEERS collaboration | [Wilkins2017_Methadone_Low_Dose](../2017/Wilkins2017_Methadone_Low_Dose.md) |
 
 ---
 
@@ -81,11 +75,11 @@ The pivotal insight that drove protocol change:
 > "Since we switched our protocol, the safety issues that come up are so meagre. No one has had to ever go to a hospital since we changed our protocols." — 2018 Documentary
 
 Evolution documented across:
-- [[2017/Wilkins2017_Methadone_Low_Dose]] — **Published case report** establishing the protocol
-- [[Primary_Sources/2017_BC_Clare_Wilkins_Methadone_Detox]] — ICEERS pilot methodology
-- [[Primary_Sources/2017_PS_Clare_Wilkins_Methadone_Detox]] — Clinical trial data
-- [[Pangea_Ops/Ibogaine_Stories_Transcripts/2018_Oliver_Wilkins_Pangea_Protocol]] — Protocol philosophy
-- [[Primary_Sources/2020_MYEBOGA_Clare_Wilkins_Interview]] — Retrospective rationale
+- [Wilkins2017_Methadone_Low_Dose](../2017/Wilkins2017_Methadone_Low_Dose.md) — **Published case report** establishing the protocol
+- [2017_BC_Clare_Wilkins_Methadone_Detox](../Primary_Sources/2017_BC_Clare_Wilkins_Methadone_Detox.md) — ICEERS pilot methodology
+- [2017_PS_Clare_Wilkins_Methadone_Detox](../Primary_Sources/2017_PS_Clare_Wilkins_Methadone_Detox.md) — Clinical trial data
+-  — Protocol philosophy
+- [2020_MYEBOGA_Clare_Wilkins_Interview](../Primary_Sources/2020_MYEBOGA_Clare_Wilkins_Interview.md) — Retrospective rationale
 
 ### 2. Orthomolecular Medicine Integration
 From personal recovery tool to clinical standard:
@@ -95,7 +89,7 @@ From personal recovery tool to clinical standard:
 - Customised protocols for chronic pain, hepatic issues
 - Cannabis oil as adjunct (replacing benzodiazepines)
 
-Sources: [[Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics]], [[Primary_Sources/2020_MYEBOGA_Clare_Wilkins_Interview]]
+Sources: [2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics](../Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics.md), [2020_MYEBOGA_Clare_Wilkins_Interview](../Primary_Sources/2020_MYEBOGA_Clare_Wilkins_Interview.md)
 
 ### 3. Howard Lotsoff Mentorship
 His first words to Clare: **"Watch QT intervals and don't trust the media."**
@@ -106,7 +100,7 @@ Key teachings documented:
 - Transparency about adverse events
 - "Why wouldn't you share what you've learned?"
 
-Sources: [[Primary_Sources/2010_MAPS_Clare_Wilkins_Evolution]], [[Primary_Sources/2021_Microdose_Clare_Wilkins_Holotropic_Perspective]]
+Sources: [2010_MAPS_Clare_Wilkins_Evolution](../Primary_Sources/2010_MAPS_Clare_Wilkins_Evolution.md), [2021_Microdose_Clare_Wilkins_Holotropic_Perspective](../Primary_Sources/2021_Microdose_Clare_Wilkins_Holotropic_Perspective.md)
 
 ### 4. Community Trauma and Division
 Norma Lotsoff: "After Howard died is when all the squabbling started."
@@ -115,7 +109,7 @@ Clare's observation: "We are more traumatised than all other psychedelic communi
 
 Three 15-year life phases: childhood trauma → using years → ibogaine work (all traumatic)
 
-Sources: [[Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics]], [[Primary_Sources/2021_Microdose_Clare_Wilkins_Holotropic_Perspective]]
+Sources: [2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics](../Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics.md), [2021_Microdose_Clare_Wilkins_Holotropic_Perspective](../Primary_Sources/2021_Microdose_Clare_Wilkins_Holotropic_Perspective.md)
 
 ### 5. Outcome Philosophy
 From "abstinence" to "engagement":
@@ -141,21 +135,21 @@ From "abstinence" to "engagement":
 
 ## Related Research Papers
 
-- [[2018/Brown2018_OUD_Detoxification_Outcomes]] — **Acknowledged contributor**. First prospective ibogaine OUD outcome study (n=30, 12-month follow-up). MAPS-funded. Dosing protocol representative of GITA clinical guidelines she co-authored.
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Co-authored
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Contributed to fatality research
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]] — Collaborator Paul Glue
-- [[2017/Wilkins2017_Methadone_Low_Dose]] — Case study publication
-- [[1996/Lotsof1996_Trauma_Abreaction]] — Mentor's foundational work
+- [Brown2018_OUD_Detoxification_Outcomes](../2018/Brown2018_OUD_Detoxification_Outcomes.md) — **Acknowledged contributor**. First prospective ibogaine OUD outcome study (n=30, 12-month follow-up). MAPS-funded. Dosing protocol representative of GITA clinical guidelines she co-authored.
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Co-authored
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Contributed to fatality research
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Collaborator Paul Glue
+- [Wilkins2017_Methadone_Low_Dose](../2017/Wilkins2017_Methadone_Low_Dose.md) — Case study publication
+- [Lotsof1996_Trauma_Abreaction](../1996/Lotsof1996_Trauma_Abreaction.md) — Mentor's foundational work
 
 ---
 
 ## Related Hubs
 
-- [[Key_Researchers_Hub]] — Researcher navigation
-- [[GREEN_Clinical_Protocols_Hub]] — Protocol context
-- [[WHITE_Historical_Hub]] — Movement history
-- [[RED_Cardiac_Safety_Hub]] — Safety evolution
+- [Key_Researchers_Hub](../Hubs/Key_Researchers_Hub.md) — Researcher navigation
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md) — Protocol context
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Movement history
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Safety evolution
 
 ---
 
@@ -163,13 +157,13 @@ From "abstinence" to "engagement":
 
 For understanding Clare's evolution:
 
-1. [[Primary_Sources/2010_MAPS_Clare_Wilkins_Evolution]] — Origin story, early lessons
-2. [[Primary_Sources/2010_Horizons_Clare_Wilkins_400_Sessions]] — MAPS study, outcome philosophy
-3. [[Primary_Sources/2014_11_MAPS_Clare_Wilkins_Architecture_of_Emergency]] — Anthropocene framing, protocol evolution
-4. [[Primary_Sources/2017_BC_Clare_Wilkins_Methadone_Detox]] — Protocol innovation
-5. [[Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics]] — Community critique
-6. [[Primary_Sources/2020_MYEBOGA_Clare_Wilkins_Interview]] — Comprehensive retrospective
-7. [[Primary_Sources/2021_Microdose_Clare_Wilkins_Holotropic_Perspective]] — Howard/Norma tribute
+1. [2010_MAPS_Clare_Wilkins_Evolution](../Primary_Sources/2010_MAPS_Clare_Wilkins_Evolution.md) — Origin story, early lessons
+2. [2010_Horizons_Clare_Wilkins_400_Sessions](../Primary_Sources/2010_Horizons_Clare_Wilkins_400_Sessions.md) — MAPS study, outcome philosophy
+3. [2014_11_MAPS_Clare_Wilkins_Architecture_of_Emergency](../Primary_Sources/2014_11_MAPS_Clare_Wilkins_Architecture_of_Emergency.md) — Anthropocene framing, protocol evolution
+4. [2017_BC_Clare_Wilkins_Methadone_Detox](../Primary_Sources/2017_BC_Clare_Wilkins_Methadone_Detox.md) — Protocol innovation
+5. [2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics](../Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics.md) — Community critique
+6. [2020_MYEBOGA_Clare_Wilkins_Interview](../Primary_Sources/2020_MYEBOGA_Clare_Wilkins_Interview.md) — Comprehensive retrospective
+7. [2021_Microdose_Clare_Wilkins_Holotropic_Perspective](../Primary_Sources/2021_Microdose_Clare_Wilkins_Holotropic_Perspective.md) — Howard/Norma tribute
 
 ---
 

@@ -43,6 +43,8 @@ contraindications: []
 open_access: true
 publisher: "American Chemical Society"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Tropane-Based Ibogaine Analog Rescues Folding-Deficient Serotonin and Dopamine Transporters
@@ -157,12 +159,12 @@ The study used racemic compound mixtures throughout; enantiomeric contributions 
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms]] — Cryo-EM structural basis for ibogaine's inward-facing state stabilisation at SERT
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Broader receptor binding context for ibogaine alkaloids
-- [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — Parallel ibogaine analogue programme (oxa-iboga series) targeting addiction without cardiac liability
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Mechanistic overview of ibogaine/noribogaine pharmacology
-- [[2010/Carnicella2010_Noribogaine_18MC_GDNF]] — GDNF-mediated neuroprotective mechanism of ibogaine analogues, complementary therapeutic axis
-- [[2025/Hwu2025_Matrix_Pharmacology_VMAT2_SERT]] — Transporter pharmacology of ibogaine at SERT and VMAT2
-- [[1999/Glick1999_18MC_Review_CNS_Drugs]] — 18-MC as an earlier ibogaine analogue targeting addiction without hallucinogenic effects
+- [Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms](../2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms.md) — Cryo-EM structural basis for ibogaine's inward-facing state stabilisation at SERT
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Broader receptor binding context for ibogaine alkaloids
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — Parallel ibogaine analogue programme (oxa-iboga series) targeting addiction without cardiac liability
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Mechanistic overview of ibogaine/noribogaine pharmacology
+- [Carnicella2010_Noribogaine_18MC_GDNF](../2010/Carnicella2010_Noribogaine_18MC_GDNF.md) — GDNF-mediated neuroprotective mechanism of ibogaine analogues, complementary therapeutic axis
+- [Hwu2025_Matrix_Pharmacology_VMAT2_SERT](../2025/Hwu2025_Matrix_Pharmacology_VMAT2_SERT.md) — Transporter pharmacology of ibogaine at SERT and VMAT2
+- [Glick1999_18MC_Review_CNS_Drugs](../1999/Glick1999_18MC_Review_CNS_Drugs.md) — 18-MC as an earlier ibogaine analogue targeting addiction without hallucinogenic effects

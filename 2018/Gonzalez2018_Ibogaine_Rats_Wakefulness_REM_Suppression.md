@@ -39,9 +39,14 @@ contraindications: []
 open_access: true
 publisher: "Frontiers"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
 
 # Ibogaine Acute Administration in Rats Promotes Wakefulness, Long-Lasting REM Sleep Suppression, and a Distinctive Motor Profile
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Authors:** Joaquín González, José P. Prieto, Paola Rodríguez, Matías Cavelli, Luciana Benedetto, Alejandra Mondino, Mariana Pazos, Gustavo Seoane, Ignacio Carrera*, Cecilia Scorza* and Pablo Torterolo
 
@@ -358,10 +363,10 @@ Ibogaine (20 and 40 mg/kg) produces an increase in Wakefulness, a decrease in SW
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2023/Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects]] — Noribogaine sleep effects
-- [[2024/Ivan2024_Nonclassic_Psychedelic_Ibogaine_Disrupts_Cognitive_Maps]] — Cognitive effects
-- [[2000/Binienda2000_Electrophysiology_IBO_Cocaine]] — Earlier electrophysiology
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Receptor basis for sleep effects
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Mechanism synthesis
+- [Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects](../2023/Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects.md) — Noribogaine sleep effects
+- [Ivan2024_Nonclassic_Psychedelic_Ibogaine_Disrupts_Cognitive_Maps](../2024/Ivan2024_Nonclassic_Psychedelic_Ibogaine_Disrupts_Cognitive_Maps.md) — Cognitive effects
+- [Binienda2000_Electrophysiology_IBO_Cocaine](../2000/Binienda2000_Electrophysiology_IBO_Cocaine.md) — Earlier electrophysiology
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Receptor basis for sleep effects
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Mechanism synthesis

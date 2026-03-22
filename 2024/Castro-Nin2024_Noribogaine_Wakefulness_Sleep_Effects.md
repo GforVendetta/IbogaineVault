@@ -38,6 +38,8 @@ pmid: "38467891"
 open_access: false
 publisher: "Springer Nature"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Noribogaine acute administration in rats promotes wakefulness and suppresses REM sleep
@@ -132,8 +134,8 @@ As noted by the authors:
 
 ## See Also
 
-- [[2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression]] — Parent compound (ibogaine) sleep/wake effects in the same experimental paradigm from the same group
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]] — Human Phase I PK data for noribogaine; no psychedelic effects reported at tested doses
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Foundational noribogaine neuropharmacology and brain concentration data
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Comparative mechanism review: ibogaine vs noribogaine target profiles
-- [[2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects]] — Noribogaine brain uptake and anti-withdrawal effects in rodents
+- [Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression](../2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression.md) — Parent compound (ibogaine) sleep/wake effects in the same experimental paradigm from the same group
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Human Phase I PK data for noribogaine; no psychedelic effects reported at tested doses
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Foundational noribogaine neuropharmacology and brain concentration data
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Comparative mechanism review: ibogaine vs noribogaine target profiles
+- [Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects](../2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects.md) — Noribogaine brain uptake and anti-withdrawal effects in rodents

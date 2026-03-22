@@ -36,6 +36,8 @@ contraindications: []
 open_access: true
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Noribogaine, but not 18-MC, exhibits similar actions as ibogaine on GDNF expression and ethanol self-administration
@@ -128,9 +130,9 @@ The authors acknowledge several constraints. The *in vitro* component relied on 
 
 ## See Also
 
-- [[2005/He2005_GDNF_Ibogaine_Alcohol]] — Foundational study establishing that ibogaine reduces alcohol self-administration via GDNF upregulation in the VTA; Carnicella et al. (2010) extends this mechanism to noribogaine
-- [[2000/Glick2000_18-MC]] — Comprehensive review of 18-MC pharmacology and safety profile; contextualises the present study's negative VTA findings for 18-MC
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — Extends the neurotrophic factor story with *in vivo* quantification of GDNF, BDNF, and NGF across multiple brain regions following ibogaine administration
-- [[1999/Glick1999_18MC_Review_CNS_Drugs]] — Earlier review of 18-MC as a non-toxic ibogaine congener; positions 18-MC's habenular mechanism that this study formally dissociates from the VTA/GDNF pathway
-- [[2023/Arias2023_Catharanthine_18-MC]] — Later work comparing coronaridine congeners at nicotinic receptors, building on the α3β4 antagonism model central to 18-MC's mechanism described here
-- [[ORANGE_Mechanisms_Hub]]
+- [He2005_GDNF_Ibogaine_Alcohol](../2005/He2005_GDNF_Ibogaine_Alcohol.md) — Foundational study establishing that ibogaine reduces alcohol self-administration via GDNF upregulation in the VTA; Carnicella et al. (2010) extends this mechanism to noribogaine
+- [Glick2000_18-MC](../2000/Glick2000_18-MC.md) — Comprehensive review of 18-MC pharmacology and safety profile; contextualises the present study's negative VTA findings for 18-MC
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — Extends the neurotrophic factor story with *in vivo* quantification of GDNF, BDNF, and NGF across multiple brain regions following ibogaine administration
+- [Glick1999_18MC_Review_CNS_Drugs](../1999/Glick1999_18MC_Review_CNS_Drugs.md) — Earlier review of 18-MC as a non-toxic ibogaine congener; positions 18-MC's habenular mechanism that this study formally dissociates from the VTA/GDNF pathway
+- [Arias2023_Catharanthine_18-MC](../2023/Arias2023_Catharanthine_18-MC.md) — Later work comparing coronaridine congeners at nicotinic receptors, building on the α3β4 antagonism model central to 18-MC's mechanism described here
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

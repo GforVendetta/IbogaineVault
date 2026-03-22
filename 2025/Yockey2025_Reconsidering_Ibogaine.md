@@ -31,6 +31,8 @@ aliases:
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Reconsidering Ibogaine for the treatment of severe mental illness and substance use disorders
@@ -119,15 +121,15 @@ The Texas initiative represents the largest public investment in ibogaine resear
 
 ### Cited Works in Vault
 - Alper (2008) "Ibogaine and the Ibogaine Medical Subculture" in *The Alkaloids* (not in vault)
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — New Zealand observational study
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Cardiac safety review ("delicate relation")
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Fatalities temporally associated with ibogaine
-- [[2015/Glue2015_Ibogaine_CYP2D6_Activity]] — CYP2D6 influence on pharmacokinetics
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — New Zealand observational study
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Cardiac safety review ("delicate relation")
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Fatalities temporally associated with ibogaine
+- [Glue2015_Ibogaine_CYP2D6_Activity](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) — CYP2D6 influence on pharmacokinetics
 
 ### Related Topics
-- [[WHITE_Historical_Hub]] — Policy and historical context
-- [[RED_Cardiac_Safety_Hub]] — Cardiac risk evidence
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol (magnesium co-administration)
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Policy and historical context
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Cardiac risk evidence
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol (magnesium co-administration)
 
 ---
 

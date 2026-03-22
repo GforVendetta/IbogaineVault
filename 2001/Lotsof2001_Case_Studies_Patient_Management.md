@@ -38,6 +38,8 @@ route: oral
 open_access: true
 publisher: "Elsevier"
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 
 # Case Studies of Ibogaine Treatment: Implications for Patient Management Strategies
@@ -227,12 +229,12 @@ The chapter concludes with a powerful advocacy statement: chemically dependent i
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[1996/Lotsof1996_Trauma_Abreaction]] — Lotsof's earlier framework on trauma and abreaction that these case studies illustrate
-- [[Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual]] — Treatment manual codifying the patient management strategies outlined here
-- [[1999/Alper1999_Acute_Opioid_Withdrawal]] — Alper et al. systematic documentation of ibogaine for opioid withdrawal referenced in this chapter
-- [[2001/Mash2001_Ibogaine_Heroin_Withdrawal]] — Companion chapter from same volume: clinical pharmacokinetic data from the same research programme
-- [[2001/Alper2001_Ibogaine_Review]] — Companion chapter from same volume: comprehensive ibogaine review
-- [[1994/Sheppard1994_Preliminary_Investigation_Ibogaine]] — Early Netherlands treatment observations referenced by this chapter
-- [[1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs]] — Naranjo's earlier phenomenological documentation of ibogaine experiences
+- [Lotsof1996_Trauma_Abreaction](../1996/Lotsof1996_Trauma_Abreaction.md) — Lotsof's earlier framework on trauma and abreaction that these case studies illustrate
+- [Lotsof2003_Ibogaine_Therapy_Manual](../Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual.md) — Treatment manual codifying the patient management strategies outlined here
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — Alper et al. systematic documentation of ibogaine for opioid withdrawal referenced in this chapter
+- [Mash2001_Ibogaine_Heroin_Withdrawal](Mash2001_Ibogaine_Heroin_Withdrawal.md) — Companion chapter from same volume: clinical pharmacokinetic data from the same research programme
+- [Alper2001_Ibogaine_Review](Alper2001_Ibogaine_Review.md) — Companion chapter from same volume: comprehensive ibogaine review
+- [Sheppard1994_Preliminary_Investigation_Ibogaine](../1994/Sheppard1994_Preliminary_Investigation_Ibogaine.md) — Early Netherlands treatment observations referenced by this chapter
+- [Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs](../1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs.md) — Naranjo's earlier phenomenological documentation of ibogaine experiences

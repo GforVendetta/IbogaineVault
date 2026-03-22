@@ -33,6 +33,8 @@ contraindications: []
 open_access: unknown
 publisher: "Psilocybin Technology"
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine microdosing in a patient with bipolar depression: case report
@@ -107,6 +109,6 @@ In Brazil, ANVISA (National Health Surveillance Agency) permits ibogaine researc
 - Requires replication in controlled trials before clinical adoption
 
 ## See Also
-- [[BLUE_Outcomes_Hub]] — Clinical outcomes literature
-- [[GREEN_Clinical_Protocols_Hub]] — Dosing protocols
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol (full-dose comparison)
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Clinical outcomes literature
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md) — Dosing protocols
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol (full-dose comparison)

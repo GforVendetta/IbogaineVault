@@ -35,9 +35,14 @@ route: oral
 open_access: true
 publisher: "Cureus"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
 
 # **Multiple Episodes of Cardiac Arrest Induced by Treatment With Ibogaine: A Case Report**
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Authors:** David Mestre, Alexandra Paula, Francisco P. Gil, José Vaz
 **Affiliation:** Intensive Care Unit, Hospital José Joaquim Fernandes, Beja, PRT
@@ -61,9 +66,9 @@ Opioid dependence is a common problem, and therapeutic alternatives are scarce a
 
 ## **Introduction**
 
-Opioid dependence is a condition associated with a high burden of disease and with a high relapse rate after treatment [1]. Ibogaine is a psychoactive alkaloid extracted from the root of *Tabernanthe iboga*, a shrub found in Africa. Ibogaine has been used in alternative clinics for the treatment of opioid dependence since it interacts with multiple neurotransmitters like N-methyl-D-aspartate (NMDA), κ- and μ-opioid receptors, and sigma-2 receptor sites [2]. Despite the potential effect as an anti-dependence drug, ibogaine can have effects on the cardiovascular system, including QT prolongation and arrhythmia [3] (see also [[Litjens2016_How_Toxic_Is_Ibogaine]]).
+Opioid dependence is a condition associated with a high burden of disease and with a high relapse rate after treatment [1]. Ibogaine is a psychoactive alkaloid extracted from the root of *Tabernanthe iboga*, a shrub found in Africa. Ibogaine has been used in alternative clinics for the treatment of opioid dependence since it interacts with multiple neurotransmitters like N-methyl-D-aspartate (NMDA), κ- and μ-opioid receptors, and sigma-2 receptor sites [2]. Despite the potential effect as an anti-dependence drug, ibogaine can have effects on the cardiovascular system, including QT prolongation and arrhythmia [3] (see also [Litjens2016_How_Toxic_Is_Ibogaine](../2016/Litjens2016_How_Toxic_Is_Ibogaine.md)).
 
-Due to the concern about the safety of ibogaine and its toxicity, this drug was not approved by the Food and Drug Administration, and ibogaine use is illegal in several countries including the United States of America, Australia, Belgium, Denmark, France, Sweden, and Switzerland [4] (see [[Alper2008_Ibogaine_Medical_Subculture]]). However, there are some countries with fewer legal restrictions where ibogaine is used for the treatment of opioid dependence in alternative Detoxification Centers or self-administered for recreational use [5] (see [[Brown2013_Ibogaine_Treatment_Substance_Dependence]]). We report a case of multiple episodes of cardiac arrest due to acquired long QT syndrome following the administration of ibogaine for opioid dependence.
+Due to the concern about the safety of ibogaine and its toxicity, this drug was not approved by the Food and Drug Administration, and ibogaine use is illegal in several countries including the United States of America, Australia, Belgium, Denmark, France, Sweden, and Switzerland [4] (see [Alper2008_Ibogaine_Medical_Subculture](../2008/Alper2008_Ibogaine_Medical_Subculture.md)). However, there are some countries with fewer legal restrictions where ibogaine is used for the treatment of opioid dependence in alternative Detoxification Centers or self-administered for recreational use [5] (see [Brown2013_Ibogaine_Treatment_Substance_Dependence](../2013/Brown2013_Ibogaine_Treatment_Substance_Dependence.md)). We report a case of multiple episodes of cardiac arrest due to acquired long QT syndrome following the administration of ibogaine for opioid dependence.
 
 ---
 
@@ -123,11 +128,11 @@ Further investigation showed no abnormality, with a normal echocardiogram, tread
 
 ## **Discussion**
 
-Opioid drug abuse has been rising among people in countries with higher incomes, and its dependence has been associated with an increase in mortality and morbidity [6]. Opioid dependence is a severe condition with limited therapeutic options, and the available therapies often have low efficacy. In the absence of an effective treatment with a low relapse rate, ibogaine became an alternative weapon for opioid dependence with promising outcomes [1] (see [[Noller2017_Ibogaine_Opioid_12Month_Outcomes]]).
+Opioid drug abuse has been rising among people in countries with higher incomes, and its dependence has been associated with an increase in mortality and morbidity [6]. Opioid dependence is a severe condition with limited therapeutic options, and the available therapies often have low efficacy. In the absence of an effective treatment with a low relapse rate, ibogaine became an alternative weapon for opioid dependence with promising outcomes [1] (see [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md)).
 
-Since the beginning of its clinical use, several doubts about ibogaine safety have been raised. Glick et al. [7] reported that high doses of ibogaine (100-200 mg/Kg) can decrease heart rate in mice without effects on blood pressure (see [[Glick2000_18-MC]]). In vitro studies show that ibogaine retards action potential repolarization of cardiomyocytes. Rubi et al. [8] concluded that ibogaine prolongs repolarization through human ether-a-go-go-related gene (hERG) potassium channel inhibition (see [[Rubi2017_hERG_iPSC_Cardiomyocytes]]). Lamothe et al. [9] demonstrated that dysfunction of the hERG gene can cause long QT syndrome and sudden death. Knuijver et al. [10] performed a study in humans demonstrating an increase in corrected QTc after a single dose of ibogaine (10 mg/Kg) lasting more than 24 hours (see [[Knuijver2021_Safety_Opioid_Detox]]). No torsade de pointes were observed in this study. However, the relationship between QT prolongation and the risk of ventricular tachycardia and torsade de pointes is well-established in the literature [11].
+Since the beginning of its clinical use, several doubts about ibogaine safety have been raised. Glick et al. [7] reported that high doses of ibogaine (100-200 mg/Kg) can decrease heart rate in mice without effects on blood pressure (see [Glick2000_18-MC](../2000/Glick2000_18-MC.md)). In vitro studies show that ibogaine retards action potential repolarization of cardiomyocytes. Rubi et al. [8] concluded that ibogaine prolongs repolarization through human ether-a-go-go-related gene (hERG) potassium channel inhibition (see [Rubi2017_hERG_iPSC_Cardiomyocytes](../2017/Rubi2017_hERG_iPSC_Cardiomyocytes.md)). Lamothe et al. [9] demonstrated that dysfunction of the hERG gene can cause long QT syndrome and sudden death. Knuijver et al. [10] performed a study in humans demonstrating an increase in corrected QTc after a single dose of ibogaine (10 mg/Kg) lasting more than 24 hours (see [Knuijver2021_Safety_Opioid_Detox](../2021/Knuijver2021_Safety_Opioid_Detox.md)). No torsade de pointes were observed in this study. However, the relationship between QT prolongation and the risk of ventricular tachycardia and torsade de pointes is well-established in the literature [11].
 
-Despite the concerns about ibogaine cardiotoxicity and its risks, this drug has been used primarily in two scenarios: without prescription or with prescription in some alternative centers in less regulated countries. To our knowledge, there are rare cases of life-threatening arrhythmias related to ibogaine, probably underreported. Paling et al. [12] published three case reports of complications of ibogaine (see [[Paling2012_Life_Threatening_Complications]]); one patient showed self-limited torsade de pointes on ECG, and the other two presented QT prolongation with sinus bradycardia. None of the patients suffered cardiac arrest, and the three of them presented mild hypokalemia. The reported dose of ibogaine was 3.5 g. Meisner et al. [13] reported a case of a patient found in asystole after an attempt of self-detoxication (see [[Meisner2016_Cardiac_Arrest_Death_Case]]). The author reported an intake of 4 g of ibogaine. Steinberg et al. [14] presented a case of pulseless monomorphic ventricular tachycardia after intoxication with a single dose of 5.6 g of ibogaine (see [[Steinberg2018_Cardiac_Arrest_Case]]). The author also reported QT prolongation associated with ventricular bigeminy in the post-defibrillation ECG. Hypokalemia acted as a co-trigger in this patient, according to the author.
+Despite the concerns about ibogaine cardiotoxicity and its risks, this drug has been used primarily in two scenarios: without prescription or with prescription in some alternative centers in less regulated countries. To our knowledge, there are rare cases of life-threatening arrhythmias related to ibogaine, probably underreported. Paling et al. [12] published three case reports of complications of ibogaine (see [Paling2012_Life_Threatening_Complications](../2012/Paling2012_Life_Threatening_Complications.md)); one patient showed self-limited torsade de pointes on ECG, and the other two presented QT prolongation with sinus bradycardia. None of the patients suffered cardiac arrest, and the three of them presented mild hypokalemia. The reported dose of ibogaine was 3.5 g. Meisner et al. [13] reported a case of a patient found in asystole after an attempt of self-detoxication (see [Meisner2016_Cardiac_Arrest_Death_Case](../2016/Meisner2016_Cardiac_Arrest_Death_Case.md)). The author reported an intake of 4 g of ibogaine. Steinberg et al. [14] presented a case of pulseless monomorphic ventricular tachycardia after intoxication with a single dose of 5.6 g of ibogaine (see [Steinberg2018_Cardiac_Arrest_Case](../2018/Steinberg2018_Cardiac_Arrest_Case.md)). The author also reported QT prolongation associated with ventricular bigeminy in the post-defibrillation ECG. Hypokalemia acted as a co-trigger in this patient, according to the author.
 
 Compared to the previously reported cases, the patient we reported also presented with a long QT after a single administration of ibogaine. Our patient required eight days to QTc return to normal, similar to the time reported by Steinberg et al. [14]. In our patient and in one previous case report, after defibrillation, the ECG showed ventricular bigeminy [14].
 
@@ -192,30 +197,30 @@ Mestre D, Paula A, Gil F P, et al. (June 29, 2024) Multiple Episodes of Cardiac 
 ## See Also
 
 ### Cardiac Case Reports & Fatalities
-- [[Steinberg2018_Cardiac_Arrest_Case]] — Most directly comparable case; also required 8 days for QTc normalisation, also showed ventricular bigeminy post-defibrillation (but at 28× higher dose)
-- [[Meisner2016_Cardiac_Arrest_Death_Case]] — Fatal asystole case after 4g ibogaine; contrasts with Mestre's survival after rapid intervention
-- [[Paling2012_Life_Threatening_Complications]] — Three Dutch cases with self-limited TdP and hypokalemia; all at much higher doses than Mestre's 200mg
-- [[Vlaanderen2014_Cardiac_Arrest_Ibogaine]] — Another cardiac arrest case report; contributes to the accumulating case series of ibogaine-induced arrhythmia
-- [[Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias]] — Ventricular tachyarrhythmia case from Slovenia
-- [[Alper2012_Ibogaine_Fatalities]] — Comprehensive fatalities review providing broader epidemiological context for case reports like Mestre's
-- [[Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction]] — Early analysis linking ibogaine fatalities to autonomic dysfunction
-- [[Warrick2012_Ibogaine_Fatality]] — Additional fatality case contributing to the cardiac risk evidence base
-- [[Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality]] — Post-mortem tissue distribution analysis in ibogaine fatality
+- [Steinberg2018_Cardiac_Arrest_Case](../2018/Steinberg2018_Cardiac_Arrest_Case.md) — Most directly comparable case; also required 8 days for QTc normalisation, also showed ventricular bigeminy post-defibrillation (but at 28× higher dose)
+- [Meisner2016_Cardiac_Arrest_Death_Case](../2016/Meisner2016_Cardiac_Arrest_Death_Case.md) — Fatal asystole case after 4g ibogaine; contrasts with Mestre's survival after rapid intervention
+- [Paling2012_Life_Threatening_Complications](../2012/Paling2012_Life_Threatening_Complications.md) — Three Dutch cases with self-limited TdP and hypokalemia; all at much higher doses than Mestre's 200mg
+- [Vlaanderen2014_Cardiac_Arrest_Ibogaine](../2014/Vlaanderen2014_Cardiac_Arrest_Ibogaine.md) — Another cardiac arrest case report; contributes to the accumulating case series of ibogaine-induced arrhythmia
+- [Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias](../2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.md) — Ventricular tachyarrhythmia case from Slovenia
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Comprehensive fatalities review providing broader epidemiological context for case reports like Mestre's
+- [Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction](../2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md) — Early analysis linking ibogaine fatalities to autonomic dysfunction
+- [Warrick2012_Ibogaine_Fatality](../2012/Warrick2012_Ibogaine_Fatality.md) — Additional fatality case contributing to the cardiac risk evidence base
+- [Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality](../2006/Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality.md) — Post-mortem tissue distribution analysis in ibogaine fatality
 
 ### hERG Blockade & Cardiac Electrophysiology
-- [[Rubi2017_hERG_iPSC_Cardiomyocytes]] — iPSC-cardiomyocyte model demonstrating ibogaine-induced action potential prolongation via hERG blockade (cited as ref [8])
-- [[Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile]] — Comprehensive cardiac ion channel profiling of ibogaine and noribogaine
-- [[Koenig2015_Cardiac_Mechanisms]] — Extended analysis of cardiac mechanisms underlying ibogaine arrhythmogenicity
-- [[Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — Early characterisation of ibogaine's hERG block and arrhythmia risk
-- [[Thurner2014_hERG_Channel_Block_Ibogaine]] — Detailed electrophysiological study of ibogaine-hERG channel interaction
-- [[Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac]] — Toxicokinetic modelling relevant to understanding prolonged QTc (Mestre's 8-day normalisation)
+- [Rubi2017_hERG_iPSC_Cardiomyocytes](../2017/Rubi2017_hERG_iPSC_Cardiomyocytes.md) — iPSC-cardiomyocyte model demonstrating ibogaine-induced action potential prolongation via hERG blockade (cited as ref [8])
+- [Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile](../2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile.md) — Comprehensive cardiac ion channel profiling of ibogaine and noribogaine
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Extended analysis of cardiac mechanisms underlying ibogaine arrhythmogenicity
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — Early characterisation of ibogaine's hERG block and arrhythmia risk
+- [Thurner2014_hERG_Channel_Block_Ibogaine](../2014/Thurner2014_hERG_Channel_Block_Ibogaine.md) — Detailed electrophysiological study of ibogaine-hERG channel interaction
+- [Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac](../2017/Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac.md) — Toxicokinetic modelling relevant to understanding prolonged QTc (Mestre's 8-day normalisation)
 
 ### Clinical Safety & Monitoring
-- [[Knuijver2021_Safety_Opioid_Detox]] — Prospective safety data showing QTc prolongation >24h, providing controlled context for Mestre's uncontrolled case
-- [[Litjens2016_How_Toxic_Is_Ibogaine]] — Comprehensive toxicity review contextualising the dose-response question Mestre raises
-- [[Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — OxaIboga analogues designed to eliminate the cardiac risk demonstrated by cases like Mestre's
-- [[Cameron2021_Tabernanthalog_Non_Hallucinogenic_Analog]] — Tabernanthalog as another approach to retaining therapeutic benefit without cardiac liability
+- [Knuijver2021_Safety_Opioid_Detox](../2021/Knuijver2021_Safety_Opioid_Detox.md) — Prospective safety data showing QTc prolongation >24h, providing controlled context for Mestre's uncontrolled case
+- [Litjens2016_How_Toxic_Is_Ibogaine](../2016/Litjens2016_How_Toxic_Is_Ibogaine.md) — Comprehensive toxicity review contextualising the dose-response question Mestre raises
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — OxaIboga analogues designed to eliminate the cardiac risk demonstrated by cases like Mestre's
+- [Cameron2021_Tabernanthalog_Non_Hallucinogenic_Analog](../2021/Cameron2021_Tabernanthalog_Non_Hallucinogenic_Analog.md) — Tabernanthalog as another approach to retaining therapeutic benefit without cardiac liability
 
 ### Hubs
-- [[RED_Cardiac_Safety_Hub]] — Primary hub for cardiac safety evidence
-- [[Hub_PK-PD_Synthesis]] — Pharmacokinetic context for the prolonged QTc normalisation timeline
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Primary hub for cardiac safety evidence
+- [Hub_PK-PD_Synthesis](../Hubs/Hub_PK-PD_Synthesis.md) — Pharmacokinetic context for the prolonged QTc normalisation timeline

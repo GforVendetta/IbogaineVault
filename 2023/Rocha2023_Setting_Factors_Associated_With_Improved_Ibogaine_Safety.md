@@ -53,6 +53,8 @@ route: oral
 open_access: false
 publisher: "Springer Nature"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Identifying Setting Factors Associated with Improved Ibogaine Safety: A Systematic Review of Clinical Studies
@@ -169,14 +171,14 @@ As noted by the authors: small sample sizes across all studies (12–36 subjects
 
 ## See Also
 
-**Parent hub:** [[GREEN_Clinical_Protocols_Hub]]
+**Parent hub:** [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)
 
-- [[2021/Knuijver2021_Safety_Opioid_Detox]] — Most detailed cardiac monitoring protocol reviewed; QTc prolongation data and magnesium rescue protocol
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Fatality documentation (n=19, 1990–2008) that this review's controlled-setting safety findings directly address
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Cardiac mechanisms review and further fatality data (2009–2014) contextualising the safety gap between settings
-- [[2016/Litjens2016_How_Toxic_Is_Ibogaine]] — Toxicity review complementing the setting-safety analysis
-- [[2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes]] — Largest clinical sample reviewed (N=191); controlled setting with no serious AEs
-- [[2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine]] — Prior systematic review of clinical trials that this review extends with setting-specific analysis
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Companion review from overlapping author group
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Industry protocols this safety factors analysis complements
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol exemplifying optimal safety setting factors identified here
+- [Knuijver2021_Safety_Opioid_Detox](../2021/Knuijver2021_Safety_Opioid_Detox.md) — Most detailed cardiac monitoring protocol reviewed; QTc prolongation data and magnesium rescue protocol
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Fatality documentation (n=19, 1990–2008) that this review's controlled-setting safety findings directly address
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Cardiac mechanisms review and further fatality data (2009–2014) contextualising the safety gap between settings
+- [Litjens2016_How_Toxic_Is_Ibogaine](../2016/Litjens2016_How_Toxic_Is_Ibogaine.md) — Toxicity review complementing the setting-safety analysis
+- [Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md) — Largest clinical sample reviewed (N=191); controlled setting with no serious AEs
+- [Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine](../2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md) — Prior systematic review of clinical trials that this review extends with setting-specific analysis
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Companion review from overlapping author group
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Industry protocols this safety factors analysis complements
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol exemplifying optimal safety setting factors identified here

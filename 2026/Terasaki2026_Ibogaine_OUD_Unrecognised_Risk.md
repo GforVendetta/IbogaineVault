@@ -27,6 +27,7 @@ aliases:
   - "Ibogaine vs MOUD commentary"
 evidence_level: qualitative
 mortality_count: 1
+mortality_scope: discrete-cases
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -34,6 +35,8 @@ contraindications: []
 open_access: false
 publisher: "Lippincott Williams & Wilkins"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine for Opioid Use Disorder: An Unrecognized Risk
@@ -106,11 +109,11 @@ This commentary has direct relevance for ibogaine treatment providers:
 ---
 
 ## See Also
-- [[2018/Brown2018_OUD_Detoxification_Outcomes]] — Key reference cited; 50% opioid-free at 1 month post-ibogaine
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — MAPS-funded 12-month observational study cited
-- [[2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine]] — Systematic review cited as primary reference
-- [[2021/Luz2021_Toxicity_Therapeutic_Potential]] — Cited for cardiac safety concerns
-- [[2008/Alper2008_Ibogaine_Medical_Subculture]] — Cited for 2006 estimate of 3,400+ ibogaine users
-- [[BLUE_Outcomes_Hub]]
-- [[RED_Cardiac_Safety_Hub]]
-- [[WHITE_Historical_Hub]]
+- [Brown2018_OUD_Detoxification_Outcomes](../2018/Brown2018_OUD_Detoxification_Outcomes.md) — Key reference cited; 50% opioid-free at 1 month post-ibogaine
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — MAPS-funded 12-month observational study cited
+- [Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine](../2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md) — Systematic review cited as primary reference
+- [Luz2021_Toxicity_Therapeutic_Potential](../2021/Luz2021_Toxicity_Therapeutic_Potential.md) — Cited for cardiac safety concerns
+- [Alper2008_Ibogaine_Medical_Subculture](../2008/Alper2008_Ibogaine_Medical_Subculture.md) — Cited for 2006 estimate of 3,400+ ibogaine users
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)

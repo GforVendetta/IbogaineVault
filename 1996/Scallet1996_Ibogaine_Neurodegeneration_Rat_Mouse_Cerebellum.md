@@ -14,9 +14,10 @@ tags:
   - topic/motor
 key_findings: "Ibogaine 100 mg/kg i.p. causes parasagittal Purkinje cell degeneration in rat cerebellum (silver stain, calbindin loss, GFAP astrocytosis) but no neurotoxicity in mice at same dose. H&E staining insufficient—risks false negatives."
 source_pdf: "1996/Scallet1996_Ibogaine_Neurodegeneration_Rat_Mouse_Cerebellum.pdf"
-doi:
+doi: "10.1111/j.1749-6632.1996.tb17444.x"
 pmid: "8959036"
 journal: "Annals of the New York Academy of Sciences"
+issn: "1749-6632"
 publication_date: "1996-01-01"
 document_type: preclinical
 secondary_categories: []
@@ -31,6 +32,8 @@ herg_data: false
 contraindications: []
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine Produces Neurodegeneration in Rat, but Not Mouse, Cerebellum: Neurohistological Biomarkers of Purkinje Cell Loss
@@ -99,8 +102,8 @@ Third, the methodological finding — that H&E staining is insufficient and risk
 ---
 
 ## See Also
-- [[1996/Molinari1996_Ibogaine_Neurotoxicity_Reevaluation]]
-- [[1996/OCallaghan1996_Astrogliosis_Neurotoxicity]]
-- [[1996/Glick1996_18MC_NonToxic]]
-- [[2016/Litjens2016_How_Toxic_Is_Ibogaine]]
-- [[ORANGE_Mechanisms_Hub]]
+- [Molinari1996_Ibogaine_Neurotoxicity_Reevaluation](Molinari1996_Ibogaine_Neurotoxicity_Reevaluation.md)
+- [OCallaghan1996_Astrogliosis_Neurotoxicity](OCallaghan1996_Astrogliosis_Neurotoxicity.md)
+- [Glick1996_18MC_NonToxic](Glick1996_18MC_NonToxic.md)
+- [Litjens2016_How_Toxic_Is_Ibogaine](../2016/Litjens2016_How_Toxic_Is_Ibogaine.md)
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

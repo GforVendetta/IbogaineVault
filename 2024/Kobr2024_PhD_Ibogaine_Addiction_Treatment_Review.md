@@ -38,6 +38,8 @@ aliases:
 contraindications: []
 open_access: true
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine and its Potential Use in the Treatment of Drug Addiction
@@ -161,12 +163,12 @@ This thesis provides a useful overview for staff education, particularly:
 
 ## See Also
 
-- [[2016/Alper2016_hERG_Blockade]] — Primary hERG research
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Primary hERG research
 - Glick et al. (2000) 18-MC vs ibogaine comparison (not in vault)
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol addressing cardiac safety
+- [Cherian2024_Magnesium_Ibogaine_TBI](Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol addressing cardiac safety
 - Maillet et al. (2015) Noribogaine biased agonism (not in vault)
 - Cameron et al. (2020) Tabernanthalog development (not in vault - different compound)
-- [[ORANGE_Mechanisms_Hub]] — Full mechanisms overview
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Full mechanisms overview
 
 ---
 

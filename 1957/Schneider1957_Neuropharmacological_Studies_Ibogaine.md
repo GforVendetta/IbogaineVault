@@ -28,6 +28,8 @@ herg_data: false
 contraindications: []
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Neuropharmacological Studies on Ibogaine, an Indole Alkaloid with Central-Stimulant Properties
@@ -135,8 +137,8 @@ While this is a preclinical study, the findings have lasting mechanistic signifi
 ---
 
 ## See Also
-- [[2011/Alper2011_Ibogaine_Inhibition_AChE]] — Direct continuation of cholinergic thread: ibogaine as acetylcholinesterase inhibitor
-- [[2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience]] — Modern comprehensive review citing Schneider & Sigg as foundational pharmacology
-- [[1996/Molinari1996_Ibogaine_Neurotoxicity_Reevaluation]] — Cerebellar effects consistent with motor findings reported here
-- [[ORANGE_Mechanisms_Hub]] — Mechanisms and pharmacology hub
-- [[WHITE_Historical_Hub]] — Historical context for early ibogaine research
+- [Alper2011_Ibogaine_Inhibition_AChE](../2011/Alper2011_Ibogaine_Inhibition_AChE.md) — Direct continuation of cholinergic thread: ibogaine as acetylcholinesterase inhibitor
+- [Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience](../2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience.md) — Modern comprehensive review citing Schneider & Sigg as foundational pharmacology
+- [Molinari1996_Ibogaine_Neurotoxicity_Reevaluation](../1996/Molinari1996_Ibogaine_Neurotoxicity_Reevaluation.md) — Cerebellar effects consistent with motor findings reported here
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Mechanisms and pharmacology hub
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Historical context for early ibogaine research

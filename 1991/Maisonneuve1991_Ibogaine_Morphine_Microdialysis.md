@@ -34,6 +34,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Interactions between ibogaine, a potential anti-addictive agent, and morphine: an in vivo microdialysis study
@@ -141,7 +143,7 @@ This was the first study to demonstrate with in vivo neurochemistry that ibogain
 ## See Also
 
 - Baumann2000_Neurobiological_Effects_Noribogaine — Confirms noribogaine as the active metabolite hypothesised here; extends DA profiling with transporter binding data
-- [[1996/Reid1996_Local_Ibogaine_Dopamine]] — Local dopamine release characterisation extending this microdialysis approach
-- [[1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine]] — Same research group's time-dependent follow-up on cocaine interactions
-- [[2000/Binienda2000_Electrophysiology_IBO_Cocaine]] — Complementary electrophysiological methods for dopamine/serotonin
-- [[ORANGE_Mechanisms_Hub]] — Hub linking all DA mechanism papers in the vault
+- [Reid1996_Local_Ibogaine_Dopamine](../1996/Reid1996_Local_Ibogaine_Dopamine.md) — Local dopamine release characterisation extending this microdialysis approach
+- [Maisonneuve1997_TimeDependent_Iboga_Cocaine](../1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine.md) — Same research group's time-dependent follow-up on cocaine interactions
+- [Binienda2000_Electrophysiology_IBO_Cocaine](../2000/Binienda2000_Electrophysiology_IBO_Cocaine.md) — Complementary electrophysiological methods for dopamine/serotonin
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Hub linking all DA mechanism papers in the vault

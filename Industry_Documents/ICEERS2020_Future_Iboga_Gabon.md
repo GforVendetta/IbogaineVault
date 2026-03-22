@@ -29,6 +29,8 @@ herg_data: false
 contraindications: []
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # The Future of Iboga: Perspectives from Central Africa — Phase II Report
@@ -130,10 +132,10 @@ This is a qualitative policy report from a single field visit; findings represen
 ---
 
 ## See Also
-- [[Industry_Documents/ICEERS2019_Report_Phase1|ICEERS 2019 Phase I]] — Companion report: global community engagement baseline
-- [[WHITE_Historical_Hub]] — Hub for historical and cultural context papers
-- [[2021/Bekale2021_Holy_Spirit_Iboga_Bwiti|Bekale 2021]] — The Holy Spirit of Iboga: Bwiti spirituality and religion
-- [[2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context|Fernandez 2001]] — Bwiti ritual context and anthropology
-- [[2012/Sisko2012_Vanishing_World_Iboga_Sustainability|Sisko 2012]] — Iboga sustainability and conservation
-- [[2025/Samorini2025_Studies_Iboga_Cults_Ethnobotanical_Complex|Samorini 2025]] — Ethnobotanical complex of Bwiti
-- [[2020/Ekaghba2020_Acute_Toxicity_Aqueous_Iboga_TA|Ekaghba 2020]] — Gabonese T. iboga aqueous extract toxicity
+- [ICEERS 2019 Phase I](ICEERS2019_Report_Phase1.md) — Companion report: global community engagement baseline
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Hub for historical and cultural context papers
+- [Bekale 2021](../2021/Bekale2021_Holy_Spirit_Iboga_Bwiti.md) — The Holy Spirit of Iboga: Bwiti spirituality and religion
+- [Fernandez 2001](../2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.md) — Bwiti ritual context and anthropology
+- [Sisko 2012](../2012/Sisko2012_Vanishing_World_Iboga_Sustainability.md) — Iboga sustainability and conservation
+- [Samorini 2025](../2025/Samorini2025_Studies_Iboga_Cults_Ethnobotanical_Complex.md) — Ethnobotanical complex of Bwiti
+- [Ekaghba 2020](../2020/Ekaghba2020_Acute_Toxicity_Aqueous_Iboga_TA.md) — Gabonese T. iboga aqueous extract toxicity

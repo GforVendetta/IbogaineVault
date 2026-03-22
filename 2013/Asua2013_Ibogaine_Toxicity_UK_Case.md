@@ -37,6 +37,8 @@ route: oral
 open_access: false
 publisher: "Oxford University Press"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Growing Menace of Ibogaine Toxicity
@@ -88,7 +90,7 @@ This case demonstrates the full spectrum of ibogaine-induced cardiac toxicity:
 | Pacing duration | 48 hours at 80 bpm |
 | Time to QTc normalisation | ~48 hours |
 
-**Key mechanistic note:** The author attributes QT prolongation to ibogaine's central 5-HT₂A agonist activity, which is pharmacologically inaccurate. The established mechanism is hERG potassium channel blockade by both ibogaine and its active metabolite noribogaine (see [[2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile]]).
+**Key mechanistic note:** The author attributes QT prolongation to ibogaine's central 5-HT₂A agonist activity, which is pharmacologically inaccurate. The established mechanism is hERG potassium channel blockade by both ibogaine and its active metabolite noribogaine (see [Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile](Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile.md)).
 
 ## Clinical Implications
 
@@ -116,8 +118,8 @@ This case is directly relevant to emergency protocols:
 ---
 
 ## See Also
-- [[2009/Hoelen2009_Long_QT_Ibogaine]] — First published case of ibogaine-induced long QT syndrome (NEJM); cited in this paper
-- [[2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile]] — Contemporary work establishing hERG blockade as the true mechanism (corrects this paper's 5-HT₂A attribution)
-- [[2014/Vlaanderen2014_Cardiac_Arrest_Ibogaine]] — Another ibogaine cardiac arrest case report
-- [[2013/Jalal2013_Ibogaine_Death_Heroin_Case]] — Fatal case from same year; contrasts with Asua's survivable outcome
-- [[RED_Cardiac_Safety_Hub]]
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — First published case of ibogaine-induced long QT syndrome (NEJM); cited in this paper
+- [Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile](Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile.md) — Contemporary work establishing hERG blockade as the true mechanism (corrects this paper's 5-HT₂A attribution)
+- [Vlaanderen2014_Cardiac_Arrest_Ibogaine](../2014/Vlaanderen2014_Cardiac_Arrest_Ibogaine.md) — Another ibogaine cardiac arrest case report
+- [Jalal2013_Ibogaine_Death_Heroin_Case](Jalal2013_Ibogaine_Death_Heroin_Case.md) — Fatal case from same year; contrasts with Asua's survivable outcome
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

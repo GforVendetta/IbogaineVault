@@ -30,7 +30,12 @@ dosing_range: "10⁻⁶M-10⁻³M (local perfusion, rat)"
 contraindications: []
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 J Neural Transm (1996) 103:967-985
 
@@ -201,10 +206,10 @@ Received February 4, 1996
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis]] — Foundational microdialysis study this local perfusion work extends
-- [[1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine]] — Time-dependent follow-up on cocaine from same research era
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Noribogaine neurobiological profiling including dopaminergic effects
-- [[2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation]] — G protein studies relating to kappa receptor mechanism proposed here
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Comprehensive receptor binding quantifying dopamine transporter affinity
+- [Maisonneuve1991_Ibogaine_Morphine_Microdialysis](../1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis.md) — Foundational microdialysis study this local perfusion work extends
+- [Maisonneuve1997_TimeDependent_Iboga_Cocaine](../1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine.md) — Time-dependent follow-up on cocaine from same research era
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Noribogaine neurobiological profiling including dopaminergic effects
+- [Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation](../2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation.md) — G protein studies relating to kappa receptor mechanism proposed here
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Comprehensive receptor binding quantifying dopamine transporter affinity

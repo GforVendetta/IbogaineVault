@@ -38,9 +38,14 @@ contraindications:
 open_access: true
 publisher: "BioMed Central"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
 
 # “Herbal seizures” – atypical symptoms after ibogaine intoxication: a case report
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Journal of Medical Case Reports** (2015) 9:243
 **DOI:** 10.1186/s13256-015-0731-4
@@ -274,10 +279,10 @@ It seems that in addition to its psychotropic and cardiac risk profile, ibogaine
 
 ## See Also
 
-**Parent hub:** [[RED_Cardiac_Safety_Hub]]
+**Parent hub:** [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
 
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Systematic fatality review documenting electrolyte abnormalities
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Cardiac mechanisms including seizure risk context
-- [[2020/Ekaghba2020_Acute_Toxicity_Aqueous_Iboga_TA]] — Toxicity profiling
-- [[2015/Marta2015_Ibogaine_Mania_Case_Reports]] — Other adverse psychiatric events (mania)
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Contraindications including seizure history
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Systematic fatality review documenting electrolyte abnormalities
+- [Koenig2015_Cardiac_Mechanisms](Koenig2015_Cardiac_Mechanisms.md) — Cardiac mechanisms including seizure risk context
+- [Ekaghba2020_Acute_Toxicity_Aqueous_Iboga_TA](../2020/Ekaghba2020_Acute_Toxicity_Aqueous_Iboga_TA.md) — Toxicity profiling
+- [Marta2015_Ibogaine_Mania_Case_Reports](Marta2015_Ibogaine_Mania_Case_Reports.md) — Other adverse psychiatric events (mania)
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Contraindications including seizure history

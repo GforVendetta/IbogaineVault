@@ -31,7 +31,10 @@ dosing_range: "20 mg/kg ibogaine HCl oral (capsules, single dose) for addiction 
 route: oral
 open_access: true
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 pmid: "11705113"
+issn: "1099-4831"
 ---
 
 # From the Roots Up: Ibogaine and Addict Self-Help
@@ -119,9 +122,9 @@ As acknowledged implicitly throughout, this is a first-person narrative account 
 ---
 
 ## See Also
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]] — companion chapter in the same volume (Alkaloids 56), covering the broader political and regulatory history
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]] — Lotsof's own treatment protocol and case studies, also in Alkaloids 56
-- [[1999/Alper1999_Acute_Opioid_Withdrawal]] — Alper et al. formal publication of INTASH treatment data observed by Bastiaans (ref. 9 in this chapter)
-- [[1994/Sheppard1994_Preliminary_Investigation_Ibogaine]] — publication of earlier INTASH treatment data (ref. 8 in this chapter)
-- [[2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context]] — Bwiti initiation context referenced in this chapter
-- [[WHITE_Historical_Hub]]
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — companion chapter in the same volume (Alkaloids 56), covering the broader political and regulatory history
+- [Lotsof2001_Case_Studies_Patient_Management](Lotsof2001_Case_Studies_Patient_Management.md) — Lotsof's own treatment protocol and case studies, also in Alkaloids 56
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — Alper et al. formal publication of INTASH treatment data observed by Bastiaans (ref. 9 in this chapter)
+- [Sheppard1994_Preliminary_Investigation_Ibogaine](../1994/Sheppard1994_Preliminary_Investigation_Ibogaine.md) — publication of earlier INTASH treatment data (ref. 8 in this chapter)
+- [Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context](Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.md) — Bwiti initiation context referenced in this chapter
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)

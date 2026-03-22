@@ -37,6 +37,8 @@ contraindications: []
 open_access: false
 publisher: "Lippincott Williams & Wilkins"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 # Hallucinogen Persisting Perception Disorder After Ibogaine Treatment for Opioid Dependence
 
@@ -99,7 +101,7 @@ This case has several direct implications for ibogaine clinical practice:
 
 **Craving dissociation:** The dissociation between HPPD resolution and persisting craving is clinically noteworthy — EMDR addressed the perceptual disturbance and associated distress but did not impact the addiction itself, underscoring that HPPD and anti-addictive mechanisms operate through distinct pathways.
 
-**QTc context:** The observed ΔQTc of 96 ms (420 → 516 ms) at 10 mg/kg is consistent with data from the full trial cohort reported in [[2021/Knuijver2021_Safety_Opioid_Detox]]. Methadone was appropriately cross-titrated to morphine prior to ibogaine to reduce QTc stacking risk.
+**QTc context:** The observed ΔQTc of 96 ms (420 → 516 ms) at 10 mg/kg is consistent with data from the full trial cohort reported in [Knuijver2021_Safety_Opioid_Detox](../2021/Knuijver2021_Safety_Opioid_Detox.md). Methadone was appropriately cross-titrated to morphine prior to ibogaine to reduce QTc stacking risk.
 
 ## Limitations
 - Single case report — generalisability is inherently limited
@@ -113,8 +115,8 @@ This case has several direct implications for ibogaine clinical practice:
 ---
 
 ## See Also
-- [[2021/Knuijver2021_Safety_Opioid_Detox]] — Full safety results from the same EUDRACT trial (n=14), reporting QTc prolongation, ataxia, and psychomimetic effects
-- [[2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients]] — PK/PD analysis from the same research group
-- [[2015/Marta2015_Ibogaine_Mania_Case_Reports]] — Three cases of mania after ibogaine, the other major psychiatric adverse event reports
-- [[2018/Brown2018_OUD_Detoxification_Outcomes]] — OUD detoxification outcomes with ibogaine
-- [[BLUE_Outcomes_Hub]]
+- [Knuijver2021_Safety_Opioid_Detox](../2021/Knuijver2021_Safety_Opioid_Detox.md) — Full safety results from the same EUDRACT trial (n=14), reporting QTc prolongation, ataxia, and psychomimetic effects
+- [Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients](../2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md) — PK/PD analysis from the same research group
+- [Marta2015_Ibogaine_Mania_Case_Reports](../2015/Marta2015_Ibogaine_Mania_Case_Reports.md) — Three cases of mania after ibogaine, the other major psychiatric adverse event reports
+- [Brown2018_OUD_Detoxification_Outcomes](Brown2018_OUD_Detoxification_Outcomes.md) — OUD detoxification outcomes with ibogaine
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)

@@ -40,6 +40,8 @@ contraindications:
   - "Suboxone/subutex (must switch to short-acting opioid minimum 6 weeks prior)"
 open_access: unknown
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # IBOGAINE: INFORMATION AND GUIDE LINES FOR INTEGRATED THERAPY
@@ -746,10 +748,10 @@ Page | 31 (Blank)
 
 ## See Also
 
-**Parent hub:** [[GREEN_Clinical_Protocols_Hub]]
+**Parent hub:** [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)
 
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Industry guidelines for comparison
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — NZ study using these guidelines
-- [[Clinical_Guidelines/Aotearoa2014_Client_Info_Sheet]] — Client-facing documentation
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Safety context
-- [[2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety]] — Setting factors
+- [GITA2015_Clinical_Guidelines](GITA2015_Clinical_Guidelines.md) — Industry guidelines for comparison
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — NZ study using these guidelines
+- [Aotearoa2014_Client_Info_Sheet](Aotearoa2014_Client_Info_Sheet.md) — Client-facing documentation
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Safety context
+- [Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety](../2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) — Setting factors

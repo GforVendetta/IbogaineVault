@@ -26,6 +26,8 @@ aliases:
   - "Bwiti Spiritual Renaissance"
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # The Holy Spirit of Iboga and a Contemporary Perspective on Africa's Spiritual Renaissance: Focus on Gabonese Bwiti Tradition
@@ -166,10 +168,10 @@ This paper provides essential context for understanding ibogaine's cultural orig
 
 ## See Also
 
-- [[WHITE_Historical_Hub]] — Historical context for ibogaine development
-- [[Howard_Lotsof_MOC]] — Western discoverer's first encounter and advocacy
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]] — How ibogaine moved from Africa to Western medicine
-- [[PURPLE_Phenomenology_Hub]] — Subjective experience research
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Historical context for ibogaine development
+- [Howard_Lotsof_MOC](../MOCs/Howard_Lotsof_MOC.md) — Western discoverer's first encounter and advocacy
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — How ibogaine moved from Africa to Western medicine
+- [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md) — Subjective experience research
 
 ## References
 
