@@ -25,6 +25,7 @@ clinical_significance: high
 aliases: ["Esperança 2026", "Cardiac Safety Scoping Review", "Molecules 2026 Ibogaine Review"]
 evidence_level: systematic-review
 mortality_count: 19
+mortality_scope: cumulative-review
 qtc_data: true
 herg_data: true
 electrolyte_data: true
@@ -40,6 +41,8 @@ route: oral
 open_access: true
 publisher: "MDPI"
 body_format: vault-analytical
+licence_type: cc-by
+licence_verified: false
 ---
 
 # Ibogaine: Therapeutic Potential, Cardiac Safety, and Translational Perspectives in the Treatment of Substance Use Disorders—A Scoping Review
@@ -135,9 +138,9 @@ This review positions ibogaine as a pharmacological lead compound rather than a 
 
 ## See Also
 
-- [[2016/Alper2016_hERG_Blockade]] — Foundational hERG binding characterisation; this review builds directly on Alper's cardiac mechanism data
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Forensic review of 19 fatalities cited as primary mortality evidence in this review
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol demonstrating magnesium cardioprotection; cited as QTc prevention strategy
-- [[2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes]] — Largest observational cohort (n=191) cited for both efficacy and safety data
-- [[2024/Cherian2024_Ibogaine_Primer_Clinicians]] — Clinician-oriented primer providing practical context for this review's translational constraints
-- [[RED_Cardiac_Safety_Hub]] — Domain hub synthesising cardiac safety evidence across the vault
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Foundational hERG binding characterisation; this review builds directly on Alper's cardiac mechanism data
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Forensic review of 19 fatalities cited as primary mortality evidence in this review
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol demonstrating magnesium cardioprotection; cited as QTc prevention strategy
+- [Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md) — Largest observational cohort (n=191) cited for both efficacy and safety data
+- [Cherian2024_Ibogaine_Primer_Clinicians](../2024/Cherian2024_Ibogaine_Primer_Clinicians.md) — Clinician-oriented primer providing practical context for this review's translational constraints
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Domain hub synthesising cardiac safety evidence across the vault

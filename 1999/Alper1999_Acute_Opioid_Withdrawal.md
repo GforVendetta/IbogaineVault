@@ -25,6 +25,7 @@ source_pdf: "1999/Alper1999_Acute_Opioid_Withdrawal.pdf"
 evidence_level: case-series
 sample_size: 33
 mortality_count: 1
+mortality_scope: incidental
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -33,7 +34,12 @@ route: oral
 contraindications: []
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 ## Treatment of Acute Opioid Withdrawal with Ibogaine
 
@@ -212,10 +218,10 @@ The assistance of Norma E. Alexander and Patricia A. Graham is  gratefully  ackn
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]] — Same author's clinical case studies documenting withdrawal observations
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Same author's later fatality documentation
-- [[2017/Wilkins2017_Methadone_Low_Dose]] — Low-dose methadone detoxification approach for opiate withdrawal
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Industry guidelines codifying withdrawal management
-- [[2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes]] — Large cohort clinical outcomes
+- [Lotsof2001_Case_Studies_Patient_Management](../2001/Lotsof2001_Case_Studies_Patient_Management.md) — Same author's clinical case studies documenting withdrawal observations
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Same author's later fatality documentation
+- [Wilkins2017_Methadone_Low_Dose](../2017/Wilkins2017_Methadone_Low_Dose.md) — Low-dose methadone detoxification approach for opiate withdrawal
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Industry guidelines codifying withdrawal management
+- [Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md) — Large cohort clinical outcomes

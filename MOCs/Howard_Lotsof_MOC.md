@@ -49,19 +49,19 @@ Unlike most figures in psychedelic history, Lotsof was not an academic or clinic
 
 | Year | Paper | Key Contribution | Link |
 |------|-------|------------------|------|
-| 1996 | Ibogaine, Trauma, and Abreaction | **FOUNDATIONAL**: First documentation of trauma processing mechanism | [[1996/Lotsof1996_Trauma_Abreaction]] |
-| 1999 | Treatment of Acute Opioid Withdrawal with Ibogaine | **LANDMARK CASE SERIES**: n=33, 76% complete withdrawal resolution within 24h. Largest systematic documentation at time of publication. Lotsof contributed patient access and decades of observational data | [[1999/Alper1999_Acute_Opioid_Withdrawal]] |
-| 2000 | Ibogaine and the Treatment of Acute Opioid Withdrawal | NYAS proceedings expansion of 1999 case series. First published mention of 18-MC as potential clinical candidate | [[2000/Alper2000_Ibogaine_Acute_Opioid_Withdrawal]] |
-| 2001 | Case Studies: Patient Management | First systematic case studies from decades of treatment | [[2001/Lotsof2001_Case_Studies_Patient_Management]] |
-| 2003 | Manual for Ibogaine Therapy | **KEYSTONE**: Established 15-20 mg/kg dosing, 48h monitoring | [[Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual]] |
-| 2007 | Use of Ibogaine in Treatment of Addictions | **DEFINITIVE OVERVIEW**: Co-authored with Ken Alper | [[2007/Alper2007_Ibogaine_Treatment_Addictions]] |
-| 2008 | Ibogaine: A Review of the Medical Subculture | **DEFINITIVE CENSUS**: 3,414 individuals took ibogaine by Feb 2006; 68% for substance disorders; 11 fatalities 1990–2006. Lotsof and Alper's last major collaboration before Lotsof's death — quantified the underground treatment movement Lotsof helped create | [[2008/Alper2008_Ibogaine_Medical_Subculture]] |
+| 1996 | Ibogaine, Trauma, and Abreaction | **FOUNDATIONAL**: First documentation of trauma processing mechanism | [Lotsof1996_Trauma_Abreaction](../1996/Lotsof1996_Trauma_Abreaction.md) |
+| 1999 | Treatment of Acute Opioid Withdrawal with Ibogaine | **LANDMARK CASE SERIES**: n=33, 76% complete withdrawal resolution within 24h. Largest systematic documentation at time of publication. Lotsof contributed patient access and decades of observational data | [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) |
+| 2000 | Ibogaine and the Treatment of Acute Opioid Withdrawal | NYAS proceedings expansion of 1999 case series. First published mention of 18-MC as potential clinical candidate | [Alper2000_Ibogaine_Acute_Opioid_Withdrawal](../2000/Alper2000_Ibogaine_Acute_Opioid_Withdrawal.md) |
+| 2001 | Case Studies: Patient Management | First systematic case studies from decades of treatment | [Lotsof2001_Case_Studies_Patient_Management](../2001/Lotsof2001_Case_Studies_Patient_Management.md) |
+| 2003 | Manual for Ibogaine Therapy | **KEYSTONE**: Established 15-20 mg/kg dosing, 48h monitoring | [Lotsof2003_Ibogaine_Therapy_Manual](../Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual.md) |
+| 2007 | Use of Ibogaine in Treatment of Addictions | **DEFINITIVE OVERVIEW**: Co-authored with Ken Alper | [Alper2007_Ibogaine_Treatment_Addictions](../2007/Alper2007_Ibogaine_Treatment_Addictions.md) |
+| 2008 | Ibogaine: A Review of the Medical Subculture | **DEFINITIVE CENSUS**: 3,414 individuals took ibogaine by Feb 2006; 68% for substance disorders; 11 fatalities 1990–2006. Lotsof and Alper's last major collaboration before Lotsof's death — quantified the underground treatment movement Lotsof helped create | [Alper2008_Ibogaine_Medical_Subculture](../2008/Alper2008_Ibogaine_Medical_Subculture.md) |
 
 ### Posthumous Publication
 
 | Year | Paper | Key Contribution | Link |
 |------|-------|------------------|------|
-| 2021 | To Have or Have Not | DEA demand reduction estimate (50%), pharma/NIDA opposition, underground railroad | [[2021/Lotsof2021_To_Have_or_Have_Not]] |
+| 2021 | To Have or Have Not | DEA demand reduction estimate (50%), pharma/NIDA opposition, underground railroad | [Lotsof2021_To_Have_or_Have_Not](../2021/Lotsof2021_To_Have_or_Have_Not.md) |
 
 ---
 
@@ -147,7 +147,7 @@ The DEA officer estimated ibogaine could reduce drug demand by 50%—making cart
 - Many underground providers who refined protocols
 
 ### Patent Dispute
-*Mash v. NDA International (1997)* — Lotsof and Deborah Mash engaged in patent litigation over noribogaine IP that complicated ibogaine development. See the [[WHITE_Historical_Hub#Legal Documents & Patent Disputes|WHITE Historical Hub]] for historical context.
+*Mash v. NDA International (1997)* — Lotsof and Deborah Mash engaged in patent litigation over noribogaine IP that complicated ibogaine development. See the [WHITE Historical Hub](../Hubs/WHITE_Historical_Hub.md#legal-documents-patent-disputes) for historical context.
 
 ---
 
@@ -161,7 +161,7 @@ Howard Lotsof's influence pervades every aspect of modern ibogaine treatment:
 | 48h monitoring | Standard of care globally |
 | EKG screening | Universal practice |
 | Trauma framework | Integration protocols |
-| Harm reduction orientation | ICEERS, GITA, Pangea philosophy |
+| Harm reduction orientation | ICEERS, GITA, community philosophy |
 | Underground railroad model | Mexico/Central America treatment scene |
 | User empowerment | Community-led safety initiatives |
 
@@ -171,25 +171,25 @@ Howard Lotsof's influence pervades every aspect of modern ibogaine treatment:
 
 These papers cite, extend, or respond to Lotsof's work:
 
-- [[Other/DeRienzo1995_Ibogaine_Story_Ch2|DeRienzo Ch2: Howard Lotsof]] — Biography chapter: the 1962 self-experiment, early advocacy, and the person behind the science
-- [[Other/DeRienzo1995_Ibogaine_Story_Ch5|DeRienzo Ch5: The Staten Island Project]] — NIDA-funded clinical research initiated through Lotsof's advocacy; the first formal treatment programme
-- [[Other/DeRienzo1995_Ibogaine_Story_Ch12|DeRienzo Ch12]] through [[Other/DeRienzo1995_Ibogaine_Story_Ch18|Ch18]] — The political and advocacy arc (1991–1995): FDA scheduling debates, NIDA politics, ACT UP alliance, patent litigation, Congressional testimony. Lotsof is central throughout
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]] — Comprehensive narrative of ibogaine in US/Europe 1962–2001, documenting Lotsof's discovery, advocacy, and the movement he catalysed
-- [[2004/Bastiaans2004_Life_After_Ibogaine]] — Long-term outcome study from VU Amsterdam. Bastiaans was Lotsof's collaborator in the Netherlands; study draws on the treatment network Lotsof helped establish
-- [[2018/Rodger2018_Healing_Potential_Ibogaine]] — Phenomenological analysis engaging extensively with Lotsof's trauma/abreaction framework and testimonies from Lotsof-collected accounts
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Built on Lotsof/Wachtel manual
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Safety research Lotsof advocated for
-- [[Primary_Sources/2010_MAPS_Clare_Wilkins_Evolution]] — Clare's account of Howard mentorship
-- [[Primary_Sources/2021_Microdose_Clare_Wilkins_Holotropic_Perspective]] — Clare's tribute to Howard and Norma
+- [DeRienzo Ch2: Howard Lotsof](../Other/DeRienzo1995_Ibogaine_Story_Ch2.md) — Biography chapter: the 1962 self-experiment, early advocacy, and the person behind the science
+- [DeRienzo Ch5: The Staten Island Project](../Other/DeRienzo1995_Ibogaine_Story_Ch5.md) — NIDA-funded clinical research initiated through Lotsof's advocacy; the first formal treatment programme
+- [DeRienzo Ch12](../Other/DeRienzo1995_Ibogaine_Story_Ch12.md) through [Ch18](../Other/DeRienzo1995_Ibogaine_Story_Ch18.md) — The political and advocacy arc (1991–1995): FDA scheduling debates, NIDA politics, ACT UP alliance, patent litigation, Congressional testimony. Lotsof is central throughout
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — Comprehensive narrative of ibogaine in US/Europe 1962–2001, documenting Lotsof's discovery, advocacy, and the movement he catalysed
+- [Bastiaans2004_Life_After_Ibogaine](../2004/Bastiaans2004_Life_After_Ibogaine.md) — Long-term outcome study from VU Amsterdam. Bastiaans was Lotsof's collaborator in the Netherlands; study draws on the treatment network Lotsof helped establish
+- [Rodger2018_Healing_Potential_Ibogaine](../2018/Rodger2018_Healing_Potential_Ibogaine.md) — Phenomenological analysis engaging extensively with Lotsof's trauma/abreaction framework and testimonies from Lotsof-collected accounts
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Built on Lotsof/Wachtel manual
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Safety research Lotsof advocated for
+- [2010_MAPS_Clare_Wilkins_Evolution](../Primary_Sources/2010_MAPS_Clare_Wilkins_Evolution.md) — Clare's account of Howard mentorship
+- [2021_Microdose_Clare_Wilkins_Holotropic_Perspective](../Primary_Sources/2021_Microdose_Clare_Wilkins_Holotropic_Perspective.md) — Clare's tribute to Howard and Norma
 
 ---
 
 ## Related Hubs
 
-- [[WHITE_Historical_Hub]] — Historical context and movement history
-- [[GREEN_Clinical_Protocols_Hub]] — Protocol development (built on Lotsof's work)
-- [[Key_Researchers_Hub]] — Researcher navigation
-- [[Clare_Wilkins_MOC]] — Primary mentee and protocol innovator
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Historical context and movement history
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md) — Protocol development (built on Lotsof's work)
+- [Key_Researchers_Hub](../Hubs/Key_Researchers_Hub.md) — Researcher navigation
+- [Clare_Wilkins_MOC](Clare_Wilkins_MOC.md) — Primary mentee and protocol innovator
 
 ---
 
@@ -197,14 +197,14 @@ These papers cite, extend, or respond to Lotsof's work:
 
 For understanding Howard Lotsof's contribution to ibogaine science:
 
-1. [[1996/Lotsof1996_Trauma_Abreaction]] — Foundational psychological framework
-2. [[1999/Alper1999_Acute_Opioid_Withdrawal]] — Landmark case series documenting ibogaine for opioid withdrawal (n=33)
-3. [[2000/Alper2000_Ibogaine_Acute_Opioid_Withdrawal]] — Expanded NYAS proceedings version, introduces 18-MC
-4. [[2001/Lotsof2001_Case_Studies_Patient_Management]] — Clinical case studies
-5. [[Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual]] — Protocol codification
-6. [[2007/Alper2007_Ibogaine_Treatment_Addictions]] — Definitive clinical overview
-7. [[2008/Alper2008_Ibogaine_Medical_Subculture]] — Census of the treatment community (last major Lotsof–Alper collaboration)
-8. [[2021/Lotsof2021_To_Have_or_Have_Not]] — Posthumous reflection on user control and ethics
+1. [Lotsof1996_Trauma_Abreaction](../1996/Lotsof1996_Trauma_Abreaction.md) — Foundational psychological framework
+2. [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — Landmark case series documenting ibogaine for opioid withdrawal (n=33)
+3. [Alper2000_Ibogaine_Acute_Opioid_Withdrawal](../2000/Alper2000_Ibogaine_Acute_Opioid_Withdrawal.md) — Expanded NYAS proceedings version, introduces 18-MC
+4. [Lotsof2001_Case_Studies_Patient_Management](../2001/Lotsof2001_Case_Studies_Patient_Management.md) — Clinical case studies
+5. [Lotsof2003_Ibogaine_Therapy_Manual](../Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual.md) — Protocol codification
+6. [Alper2007_Ibogaine_Treatment_Addictions](../2007/Alper2007_Ibogaine_Treatment_Addictions.md) — Definitive clinical overview
+7. [Alper2008_Ibogaine_Medical_Subculture](../2008/Alper2008_Ibogaine_Medical_Subculture.md) — Census of the treatment community (last major Lotsof–Alper collaboration)
+8. [Lotsof2021_To_Have_or_Have_Not](../2021/Lotsof2021_To_Have_or_Have_Not.md) — Posthumous reflection on user control and ethics
 
 ---
 

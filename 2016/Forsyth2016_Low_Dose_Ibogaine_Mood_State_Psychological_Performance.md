@@ -41,6 +41,8 @@ pmid: "27180314"
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Effects of Low Dose Ibogaine on Subjective Mood State and Psychological Performance
@@ -111,7 +113,7 @@ The sole surviving Holm correction, Simon Congruent Median RT showed a linear co
 
 This paper's primary clinical value is negative-evidence: at sub-psychedelic doses (20 mg absolute, approximately 0.25–0.33 mg/kg for an average adult male), ibogaine does not produce measurable cognitive impairment across a comprehensive battery, nor does it alter subjective mood. This is relevant to emerging low-dose and microdosing protocols where cognitive safety at therapeutic concentrations is a consideration.
 
-The CYP2D6 interaction finding carries direct clinical relevance. Paroxetine pretreatment doubled ibogaine/noribogaine exposure — a critical datum for any setting where patients may be on SSRIs or other CYP2D6 inhibitors prior to ibogaine treatment. The parent pharmacokinetic study ([[2015/Glue2015_Ibogaine_CYP2D6_Activity]]) quantifies this interaction in detail.
+The CYP2D6 interaction finding carries direct clinical relevance. Paroxetine pretreatment doubled ibogaine/noribogaine exposure — a critical datum for any setting where patients may be on SSRIs or other CYP2D6 inhibitors prior to ibogaine treatment. The parent pharmacokinetic study ([Glue2015_Ibogaine_CYP2D6_Activity](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md)) quantifies this interaction in detail.
 
 The 20 mg dose used here (based on Lambarène dosing from 1939–1970) falls well below standard treatment doses (10–25 mg/kg), making these results most informative for sub-therapeutic or test-dose contexts rather than full treatment protocols. The authors note that no subjective effects were observed even with doubled exposure via CYP2D6 inhibition, and reference concurrent noribogaine studies (Glue et al., 2015a, 2016) as similarly negative at higher noribogaine doses.
 
@@ -130,8 +132,8 @@ As noted by the authors:
 
 ## See Also
 
-- [[2015/Glue2015_Ibogaine_CYP2D6_Activity]] — Parent pharmacokinetic study using the same 21 participants; quantifies CYP2D6-mediated ibogaine-to-noribogaine conversion
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]] — Companion ascending-dose noribogaine study in healthy volunteers (same research programme)
-- [[2016/Glue2016_Noribogaine_Opioid_Patients_Safety]] — Extension to opioid-dependent patients; no mood/cognitive effects at higher noribogaine doses
-- [[2023/Cherian2023_Ibogaine_Cognitive_Functioning]] — Cognitive outcomes following treatment-dose ibogaine in TBI/PTSD veterans (Stanford programme)
-- [[Hubs/BLUE_Outcomes_Hub]]
+- [Glue2015_Ibogaine_CYP2D6_Activity](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) — Parent pharmacokinetic study using the same 21 participants; quantifies CYP2D6-mediated ibogaine-to-noribogaine conversion
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Companion ascending-dose noribogaine study in healthy volunteers (same research programme)
+- [Glue2016_Noribogaine_Opioid_Patients_Safety](Glue2016_Noribogaine_Opioid_Patients_Safety.md) — Extension to opioid-dependent patients; no mood/cognitive effects at higher noribogaine doses
+- [Cherian2023_Ibogaine_Cognitive_Functioning](../2023/Cherian2023_Ibogaine_Cognitive_Functioning.md) — Cognitive outcomes following treatment-dose ibogaine in TBI/PTSD veterans (Stanford programme)
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)

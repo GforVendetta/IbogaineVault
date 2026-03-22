@@ -33,9 +33,14 @@ contraindications: []
 open_access: false
 publisher: "Taylor & Francis"
 body_format: academic-retained
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Expert Opinion on Drug Metabolism & Toxicology: Evaluating the toxicity and therapeutic potential of ibogaine in the treatment of chronic opioid abuse
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Authors:** Matthias Luz & Deborah C. Mash
 **Affiliation:** DemeRx Inc., Miami, FL, USA; Department Neurology and Molecular and Cellular Pharmacology, University of Miami School of Medicine, Neurology & Pharmacology, University of Miami Life Science Bldg, Miami, FL, USA
@@ -197,10 +202,10 @@ Peer reviewers on this manuscript have received an honorarium from EOMT for thei
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes|Mash 2018]] - Primary St. Kitts data
-- [[2012/Alper2012_Ibogaine_Fatalities]] - Earlier fatality review
+- [Mash 2018](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md) - Primary St. Kitts data
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) - Earlier fatality review
 - Corkery 2018 "Ibogaine Treatment: Benefits and Dangers" - Comprehensive safety review (not in vault)
-- [[2021/Knuijver2021_Safety_Opioid_Detox]] - Dutch prospective safety study
-- [[2015/Koenig2015_Cardiac_Mechanisms|König & Hilber 2015]] - Cardiac mechanism (hERG blockade)
+- [Knuijver2021_Safety_Opioid_Detox](Knuijver2021_Safety_Opioid_Detox.md) - Dutch prospective safety study
+- [König & Hilber 2015](../2015/Koenig2015_Cardiac_Mechanisms.md) - Cardiac mechanism (hERG blockade)

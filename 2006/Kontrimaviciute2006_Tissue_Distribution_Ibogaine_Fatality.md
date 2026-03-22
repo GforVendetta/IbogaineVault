@@ -31,6 +31,7 @@ aliases:
 evidence_level: case-report
 sample_size: 1
 mortality_count: 1
+mortality_scope: discrete-cases
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -43,6 +44,8 @@ route: oral
 open_access: false
 publisher: "Oxford University Press"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 # Distribution of Ibogaine and Noribogaine in a Man Following a Poisoning Involving Root Bark of the *Tabernanthe iboga* Shrub
 
@@ -129,8 +132,8 @@ First reported detailed tissue distribution of ibogaine and noribogaine in a 48-
 ---
 
 ## See Also
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — Mash et al. PK data referenced as therapeutic comparison (800 mg oral dose concentrations)
-- [[1995/Hearn1995_Noribogaine_Metabolite]] — First identification and quantitation of noribogaine in brain and biological fluids
-- [[2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020]] — Updated adverse events review contextualising fatality cases
-- [[1998/Mash1998_Medication_Development_Ibogaine]] — Pharmacokinetic reference data (500–800 mg oral, C_max 30–1250 ng/mL)
-- [[RED_Cardiac_Safety_Hub]] — Cardiac safety evidence hub
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — Mash et al. PK data referenced as therapeutic comparison (800 mg oral dose concentrations)
+- [Hearn1995_Noribogaine_Metabolite](../1995/Hearn1995_Noribogaine_Metabolite.md) — First identification and quantitation of noribogaine in brain and biological fluids
+- [Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020](../2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md) — Updated adverse events review contextualising fatality cases
+- [Mash1998_Medication_Development_Ibogaine](../1998/Mash1998_Medication_Development_Ibogaine.md) — Pharmacokinetic reference data (500–800 mg oral, C_max 30–1250 ng/mL)
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Cardiac safety evidence hub

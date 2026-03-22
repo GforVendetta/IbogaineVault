@@ -39,6 +39,8 @@ route:
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 # Ibogaine Block of the NMDA Receptor: In Vitro and In Vivo Studies
 
@@ -105,8 +107,8 @@ This paper establishes the mechanistic basis for ibogaine's NMDA receptor antago
 ---
 
 ## See Also
-- [[1996/Layer1996_IbogaineAnalogs_NMDA]] — Companion study from the same year examining NMDA antagonism across iboga alkaloid analogs (Kᵢ values, structure-activity)
-- [[1996/Staley1996_Noribogaine_Receptor_Binding]] — Noribogaine receptor binding profile including NMDA site
-- [[1992/Deecher1992_Radioligand_Binding_Mechanisms]] — Earlier radioligand binding study cited by Chen et al., establishing ibogaine's lack of GABAA receptor activity
-- [[1995/- [[1995/Popik1995_100Years_Ibogaine_Review|Popik 1995]] — Landmark 100-year pharmacological review from NIH team]] — Comprehensive review covering NMDA receptor interactions in the context of ibogaine's full pharmacological profile
-- [[ORANGE_Mechanisms_Hub]]
+- [Layer1996_IbogaineAnalogs_NMDA](Layer1996_IbogaineAnalogs_NMDA.md) — Companion study from the same year examining NMDA antagonism across iboga alkaloid analogs (Kᵢ values, structure-activity)
+- [Staley1996_Noribogaine_Receptor_Binding](Staley1996_Noribogaine_Receptor_Binding.md) — Noribogaine receptor binding profile including NMDA site
+- [Deecher1992_Radioligand_Binding_Mechanisms](../1992/Deecher1992_Radioligand_Binding_Mechanisms.md) — Earlier radioligand binding study cited by Chen et al., establishing ibogaine's lack of GABAA receptor activity
+- [Popik 1995 — Landmark 100-year pharmacological review from NIH team](../1995/Popik1995_100Years_Ibogaine_Review.md) — Comprehensive review covering NMDA receptor interactions in the context of ibogaine's full pharmacological profile
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

@@ -24,6 +24,8 @@ clinical_significance: moderate
 route: not-applicable
 open_access: true
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 ## Ibogaine: To Have or Have Not. A review of the historical, legal and ethical implications of returning control of ibogaine to drug users.
@@ -89,10 +91,10 @@ During the very period that this paper was being written an ibogaine underground
 
 ## See Also
 
-**Parent hub:** [[WHITE_Historical_Hub]]
+**Parent hub:** [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)
 
-- [[1996/Lotsof1996_Trauma_Abreaction]] — Lotsof foundational work
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]] — Lotsof clinical case studies
-- [[2007/Alper2007_Ibogaine_Treatment_Addictions]] — Lotsof-Alper collaboration
-- [[2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance]] — Mash on Lotsof legacy
-- [[1995/- [[1995/Popik1995_100Years_Ibogaine_Review|Popik 1995]] — Landmark 100-year pharmacological review from NIH team]] — Historical context
+- [Lotsof1996_Trauma_Abreaction](../1996/Lotsof1996_Trauma_Abreaction.md) — Lotsof foundational work
+- [Lotsof2001_Case_Studies_Patient_Management](../2001/Lotsof2001_Case_Studies_Patient_Management.md) — Lotsof clinical case studies
+- [Alper2007_Ibogaine_Treatment_Addictions](../2007/Alper2007_Ibogaine_Treatment_Addictions.md) — Lotsof-Alper collaboration
+- [Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance](../2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md) — Mash on Lotsof legacy
+- [Popik 1995 — Landmark 100-year pharmacological review from NIH team](../1995/Popik1995_100Years_Ibogaine_Review.md) — Historical context

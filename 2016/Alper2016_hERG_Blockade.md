@@ -44,6 +44,8 @@ route: oral
 open_access: false
 publisher: "Springer Nature"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # hERG Blockade by Iboga Alkaloids
@@ -145,12 +147,12 @@ This paper provides the quantitative pharmacological foundation for understandin
 ---
 
 ## See Also
-- [[RED_Cardiac_Safety_Hub]]
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Same first author's earlier work documenting cardiac deaths this hERG data explains
-- [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — Earlier hERG IC₅₀ of 3.9 μM; this study confirms and extends with noribogaine, voacangine, 18-MC
-- [[2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile]] — Comprehensive ion channel profile including Nav1.5 and Cav1.2
-- [[2014/Thurner2014_hERG_Channel_Block_Ibogaine]] — Detailed hERG blockade mechanism (state-dependent trapping)
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Comprehensive cardiac review integrating all hERG data
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Clinical protocols using this hERG data to inform screening thresholds
-- [[1996/Glick1996_18MC_NonToxic]] — Original 18-MC paper; this study confirms 18-MC's >50 μM IC₅₀ (12× safer)
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — Magnesium cardioprotection protocol addressing hERG-mediated QTc prolongation
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Same first author's earlier work documenting cardiac deaths this hERG data explains
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — Earlier hERG IC₅₀ of 3.9 μM; this study confirms and extends with noribogaine, voacangine, 18-MC
+- [Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile](../2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile.md) — Comprehensive ion channel profile including Nav1.5 and Cav1.2
+- [Thurner2014_hERG_Channel_Block_Ibogaine](../2014/Thurner2014_hERG_Channel_Block_Ibogaine.md) — Detailed hERG blockade mechanism (state-dependent trapping)
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Comprehensive cardiac review integrating all hERG data
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Clinical protocols using this hERG data to inform screening thresholds
+- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md) — Original 18-MC paper; this study confirms 18-MC's >50 μM IC₅₀ (12× safer)
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — Magnesium cardioprotection protocol addressing hERG-mediated QTc prolongation

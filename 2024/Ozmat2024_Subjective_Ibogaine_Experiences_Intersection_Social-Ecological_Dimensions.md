@@ -30,9 +30,11 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications: []
-open_access: false
+open_access: true
 publisher: "Akadémiai Kiadó"
 body_format: narrative
+licence_type: cc-by-nc
+licence_verified: false
 ---
 
 # **Subjective ibogaine experiences across intersecting social-ecological dimensions**
@@ -371,10 +373,10 @@ Participants' decision to use ibogaine represented a substantial investment and 
 
 ## See Also
 
-**Parent hub:** [[PURPLE_Phenomenology_Hub]]
+**Parent hub:** [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md)
 
-- [[2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective]] — IES psychometric scale
-- [[2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine]] — Qualitative subjective effects
-- [[2018/Rodger2018_Healing_Potential_Ibogaine]] — Phenomenological healing analysis
-- [[2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences]] — Transpersonal dimensions
-- [[2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety]] — Setting factors
+- [Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective](../2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective.md) — IES psychometric scale
+- [Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine](../2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine.md) — Qualitative subjective effects
+- [Rodger2018_Healing_Potential_Ibogaine](../2018/Rodger2018_Healing_Potential_Ibogaine.md) — Phenomenological healing analysis
+- [Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences](../2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences.md) — Transpersonal dimensions
+- [Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety](../2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) — Setting factors

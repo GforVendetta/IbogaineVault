@@ -23,6 +23,7 @@ document_type: observational
 secondary_categories: [RED, GREEN]
 clinical_significance: high
 aliases:
+  - "Noller 2018"
   - "Noller 2017"
   - "Noller 2016"
   - "NZ Ibogaine 12-Month Follow-Up"
@@ -30,6 +31,7 @@ aliases:
 evidence_level: observational
 sample_size: 14
 mortality_count: 1
+mortality_scope: incidental
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -44,6 +46,8 @@ key_findings: "Single ibogaine treatment (mean 31.4 mg/kg) reduced ASI drug use 
 open_access: false
 publisher: "Taylor & Francis"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 # Ibogaine treatment outcomes for opioid dependence from a twelve-month follow-up observational study
 
@@ -156,9 +160,9 @@ Using NZ data: ten-fold fatality risk for people who inject drugs vs non-injecto
 ---
 
 ## See Also
-- [[2017/Davis2017_Ibogaine_Opioid_Outcomes]] — Companion outcomes study from Mexico-based treatments (same publication year)
-- [[2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes]] — Mash clinical observations of ibogaine detoxification outcomes
-- [[1999/Alper1999_Acute_Opioid_Withdrawal]] — Earlier ibogaine acute opioid withdrawal study (n=33) cited in this paper
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Comprehensive fatalities review (19 cases, 1990–2008) cited in this paper
-- [[2004/Bastiaans2004_Life_After_Ibogaine]] — Earlier long-term follow-up study cited in Table 1
-- [[BLUE_Outcomes_Hub]]
+- [Davis2017_Ibogaine_Opioid_Outcomes](Davis2017_Ibogaine_Opioid_Outcomes.md) — Companion outcomes study from Mexico-based treatments (same publication year)
+- [Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md) — Mash clinical observations of ibogaine detoxification outcomes
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — Earlier ibogaine acute opioid withdrawal study (n=33) cited in this paper
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Comprehensive fatalities review (19 cases, 1990–2008) cited in this paper
+- [Bastiaans2004_Life_After_Ibogaine](../2004/Bastiaans2004_Life_After_Ibogaine.md) — Earlier long-term follow-up study cited in Table 1
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)

@@ -56,6 +56,8 @@ contraindications:
 open_access: true
 publisher: "Akadémiai Kiadó"
 body_format: vault-analytical
+licence_type: cc-by-nc
+licence_verified: false
 ---
 
 # Subjective Effectiveness of Ibogaine Treatment for Problematic Opioid Consumption: Short- and Long-Term Outcomes and Current Psychological Functioning
@@ -134,7 +136,7 @@ Only one acute effect significantly differentiated responders from non-responder
 
 This study offers several points of practical relevance for clinical teams:
 
-**Withdrawal management confidence:** The 80% withdrawal elimination/drastic reduction rate, consistent with earlier findings from [[1999/Alper1999_Acute_Opioid_Withdrawal]] and [[2001/Mash2001_Ibogaine_Heroin_Withdrawal]], reinforces that ibogaine's acute anti-withdrawal efficacy is robust across treatment settings. This is arguably the most reliably replicated finding in the ibogaine clinical literature.
+**Withdrawal management confidence:** The 80% withdrawal elimination/drastic reduction rate, consistent with earlier findings from [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) and [Mash2001_Ibogaine_Heroin_Withdrawal](../2001/Mash2001_Ibogaine_Heroin_Withdrawal.md), reinforces that ibogaine's acute anti-withdrawal efficacy is robust across treatment settings. This is arguably the most reliably replicated finding in the ibogaine clinical literature.
 
 **Insight predicts outcomes:** The single strongest differentiator between responders and non-responders was not pharmacological but psychological — gaining insight into the causes of one's addiction (d=0.80). This suggests that therapeutic set, preparation, and integration may be as critical as the pharmacological intervention itself. integration-focused model (with Sarita's therapeutic support) aligns with this finding.
 
@@ -161,10 +163,10 @@ This study offers several points of practical relevance for clinical teams:
 ---
 
 ## See Also
-- [[2020/Davis2020_SpecialOps_Veterans_Trauma]] — Same lead author; later study examining ibogaine + 5-MeO-DMT in Special Operations veterans
-- [[2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS]] — Davis et al.'s controlled study of ibogaine + 5-MeO-DMT combination
-- [[1999/Alper1999_Acute_Opioid_Withdrawal]] — Earlier case series (n=33) demonstrating ibogaine's acute anti-withdrawal effects, directly cited
-- [[2018/Brown2018_OUD_Detoxification_Outcomes]] — Comparable observational study of ibogaine for OUD detoxification
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — New Zealand observational study, complementary methodology
-- [[2001/Mash2001_Ibogaine_Heroin_Withdrawal]] — Open-label study (n=32) cited in this paper
-- [[BLUE_Outcomes_Hub]]
+- [Davis2020_SpecialOps_Veterans_Trauma](../2020/Davis2020_SpecialOps_Veterans_Trauma.md) — Same lead author; later study examining ibogaine + 5-MeO-DMT in Special Operations veterans
+- [Davis2023_Ibogaine_5MeO-DMT_for_SEALS](../2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS.md) — Davis et al.'s controlled study of ibogaine + 5-MeO-DMT combination
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — Earlier case series (n=33) demonstrating ibogaine's acute anti-withdrawal effects, directly cited
+- [Brown2018_OUD_Detoxification_Outcomes](../2018/Brown2018_OUD_Detoxification_Outcomes.md) — Comparable observational study of ibogaine for OUD detoxification
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — New Zealand observational study, complementary methodology
+- [Mash2001_Ibogaine_Heroin_Withdrawal](../2001/Mash2001_Ibogaine_Heroin_Withdrawal.md) — Open-label study (n=32) cited in this paper
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)

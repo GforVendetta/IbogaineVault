@@ -2,7 +2,14 @@
 
 **A structured evidence map for ibogaine science**
 
-~300 documents · 1957–2026 · 6 categories · 4,400+ cross-references · Structured YAML metadata
+Over 300 documents · 1957–2026 · 6 categories · 3,400+ cross-references · Structured YAML metadata
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Status](https://img.shields.io/badge/status-active_development-yellow)
+![Papers](https://img.shields.io/badge/papers-303-green)
+![License](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-lightgrey)
+
+> **Note:** This is the initial public release (v1.0.0). The vault is comprehensive in scope but under active development — systematic data verification, additional analytical conversions, and enhanced tooling are in progress for future releases. If you identify any errors or have suggestions, please [open an issue](https://github.com/GforVendetta/IbogaineVault/issues).
 
 ---
 
@@ -48,9 +55,9 @@ IbogaineVault/
 │   ├── Dosing_Protocols.base
 │   └── ...
 ├── Clinical_Guidelines/ # Treatment guidelines and protocols
-├── Primary_Sources/     # Interviews, transcripts, oral history
+├── Primary_Sources/     # Interviews, transcripts, oral history, memoirs
 ├── Industry_Documents/  # Organisational reports and analyses
-├── Other/              # Experience reports, journalism, legal
+├── Other/              # Experience reports, journalism, legal, books
 ├── _meta/              # Schema, taxonomy, architecture docs
 │   ├── schema_registry.yml      # Single source of truth for all schemas
 │   ├── Tag_Taxonomy.md          # 62 canonical tags
@@ -58,14 +65,16 @@ IbogaineVault/
 │   ├── VAULT_PRINCIPLES.md      # Design philosophy and clinical principles
 │   └── README.md                # _meta/ directory guide
 ├── HOME.md             # Dashboard and entry point
+├── GETTING_STARTED.md  # Orientation guide
 ├── CONTRIBUTING.md     # How to add papers
 ├── CHANGELOG.md        # Version history
-├── GETTING_STARTED.md  # Orientation guide
+├── COPYRIGHT.md        # Copyright and licensing details
+├── CITATION.cff        # Machine-readable citation metadata
+├── LICENSE             # CC BY-NC-SA 4.0
 ├── papers.json         # Machine-readable index (all papers, all metadata)
 ├── papers.csv          # Flat export (core fields for tabular queries)
-├── validate_vault.py   # Integrity validator (YAML, wikilinks, DOIs)
-├── generate_index.py   # Regenerates papers.json + papers.csv
-└── AGENTS.md           # Instructions for AI coding agents
+├── validate_vault.py   # Integrity validator (YAML schema, cross-references, DOIs)
+└── generate_index.py   # Regenerates papers.json + papers.csv
 ```
 
 ## Paper format
@@ -101,20 +110,22 @@ The vault uses three complementary navigation layers:
 ## Using this vault
 
 
-The markdown files are readable in any text editor or GitHub's web interface. For the full interactive experience, the vault is designed for [Obsidian](https://obsidian.md) (v1.4+), which renders wikilinks, YAML metadata, and queryable bases as a navigable research environment.
+The markdown files are readable in any text editor or GitHub's web interface — all cross-references are standard markdown links and work natively. For the full interactive experience with graph view, backlinks, and queryable databases, the vault is designed for [Obsidian](https://obsidian.md) (v1.4+).
+
+**On GitHub:** Browse the repository directly. All markdown renders natively and all links are clickable.
 
 **In Obsidian:**
 1. Clone this repository
 2. Open the folder as an Obsidian vault
 3. Start from [HOME.md](HOME.md) — bases use native Properties (no plugins needed)
 
-**On GitHub:** Browse the repository directly. All markdown renders natively. Wikilinks appear as plain text but the content is fully readable.
+Links use standard markdown format for broad compatibility. A setup script (`setup_obsidian.sh`) to convert to Obsidian's native double-bracket link format for enhanced graph and backlink features is planned for v1.1.
 
 ## Citation
 
 If you use the IbogaineVault in your research, please cite:
 
-> Kagalovsky, P. (2026). *IbogaineVault: A Structured Evidence Map for Ibogaine Science* — approximately 290 publications and clinical documents (1957–2026) with standardised mortality and safety metadata (Kagalovsky, in preparation). GitHub. https://github.com/GforVendetta/IbogaineVault
+> Kagalovsky, P. (2026). *IbogaineVault: A Structured Evidence Map for Ibogaine Science* — over 300 publications and clinical documents (1957–2026) with standardised mortality and safety metadata (Kagalovsky, in preparation). GitHub. https://github.com/GforVendetta/IbogaineVault
 
 See [CITATION.cff](CITATION.cff) for machine-readable citation metadata.
 
@@ -124,7 +135,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding papers, the YAML
 
 ## Copyright and Licence
 
-This vault contains **analytical summaries** of published research, not the original publications. Source PDFs are not included. Open access papers are summarised under their respective CC licences; non-OA papers from major publishers (Elsevier, Wiley, Springer Nature, Taylor & Francis, and others) have been converted to original analytical works — structured critical analyses written in the vault curator's own voice, with reconstructed data tables and cross-reference annotations. These are transformative scholarly works, not reproductions.
+This vault contains **analytical summaries** of published research, not the original publications. Source PDFs are not included. Open access papers are summarised under their respective CC licences; most non-OA papers from major publishers (Elsevier, Wiley, Springer Nature, Taylor & Francis, and others) have been converted to original analytical works — structured critical analyses written in the vault curator's own voice, with reconstructed data tables and cross-reference annotations. A subset of papers (primarily open-access publications) retain their original academic structure pending full analytical conversion in v1.1; these are marked with `body_format: academic-retained` in their YAML frontmatter. All entries, regardless of format, include complete YAML metadata and cross-references. Vault-analytical entries are transformative scholarly works, not reproductions.
 
 All original vault content (metadata schemas, cross-references, hub syntheses, analytical commentary) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Individual papers retain their original copyright and are referenced via DOI. See [COPYRIGHT.md](COPYRIGHT.md) for full details and [LICENSE](LICENSE) for the vault licence.
 

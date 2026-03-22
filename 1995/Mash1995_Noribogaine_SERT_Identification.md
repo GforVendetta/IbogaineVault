@@ -38,6 +38,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Identification of a Primary Metabolite of Ibogaine That Targets Serotonin Transporters and Elevates Serotonin
@@ -106,8 +108,8 @@ This paper is foundational for understanding why ibogaine's therapeutic effects 
 ---
 
 ## See Also
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Follow-up by co-authors characterising noribogaine's broader neurobiological profile
-- [[2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects]] — Mash's later work on oral noribogaine brain uptake and anti-withdrawal effects
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — Expanded pharmacokinetic and safety data from Mash's clinical programme
-- [[2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT]] — Later ibogaine analogue work at SERT/DAT transporters
-- [[ORANGE_Mechanisms_Hub]]
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Follow-up by co-authors characterising noribogaine's broader neurobiological profile
+- [Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects](../2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects.md) — Mash's later work on oral noribogaine brain uptake and anti-withdrawal effects
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — Expanded pharmacokinetic and safety data from Mash's clinical programme
+- [Bhat2020_Tropane_Ibo_Analog_SERT_DAT](../2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT.md) — Later ibogaine analogue work at SERT/DAT transporters
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

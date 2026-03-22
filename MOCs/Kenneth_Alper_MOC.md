@@ -48,38 +48,38 @@ Kenneth Alper is the foundational figure in ibogaine safety science. His work tr
 
 | Year | Paper | Key Contribution | Link |
 |------|-------|------------------|------|
-| 2012 | Fatalities Temporally Associated with Ibogaine | **FOUNDATIONAL**: 19 fatalities documented, cardiovascular comorbidities identified | [[2012/Alper2012_Ibogaine_Fatalities]] |
-| 2012 | Pause-Dependent VT and TdP After Ibogaine | First documented TdP case with normal pretreatment screening — demonstrates screening limitations; persistent hypokalemia from cathartic use as under-recognised risk factor | [[2012/Shawn2012_Ibogaine_TdP_VT]] |
-| 2016 | hERG Blockade by Iboga Alkaloids | **LANDMARK**: IC50 values—ibogaine 4.09μM, noribogaine 2.86μM | [[2016/Alper2016_hERG_Blockade]] |
+| 2012 | Fatalities Temporally Associated with Ibogaine | **FOUNDATIONAL**: 19 fatalities documented, cardiovascular comorbidities identified | [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) |
+| 2012 | Pause-Dependent VT and TdP After Ibogaine | First documented TdP case with normal pretreatment screening — demonstrates screening limitations; persistent hypokalemia from cathartic use as under-recognised risk factor | [Shawn2012_Ibogaine_TdP_VT](../2012/Shawn2012_Ibogaine_TdP_VT.md) |
+| 2016 | hERG Blockade by Iboga Alkaloids | **LANDMARK**: IC50 values—ibogaine 4.09μM, noribogaine 2.86μM | [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) |
 
 ### Clinical Papers (BLUE)
 
 | Year | Paper | Key Contribution | Link |
 |------|-------|------------------|------|
-| 1999 | Treatment of Acute Opioid Withdrawal | n=33 case series, 76% complete withdrawal resolution | [[1999/Alper1999_Acute_Opioid_Withdrawal]] |
-| 2000 | Ibogaine in Acute Opioid Withdrawal (NYAS) | Conference proceedings version of 1999 case series — briefer presentation of same n=33 dataset for *Annals of the NYAS*; discusses 18-MC as lower-psychoactivity congener | [[2000/Alper2000_Ibogaine_Acute_Opioid_Withdrawal]] |
-| 2018 | OUD Detoxification and Drug Use Outcomes | **FIRST PROSPECTIVE STUDY**: n=30, SOWS reduced from 31→14 (p<.001); 50% opioid-free at 1 month; methadone history predicted worse outcome. Co-authored with T.K. Brown | [[2018/Brown2018_OUD_Detoxification_Outcomes]] |
+| 1999 | Treatment of Acute Opioid Withdrawal | n=33 case series, 76% complete withdrawal resolution | [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) |
+| 2000 | Ibogaine in Acute Opioid Withdrawal (NYAS) | Conference proceedings version of 1999 case series — briefer presentation of same n=33 dataset for *Annals of the NYAS*; discusses 18-MC as lower-psychoactivity congener | [Alper2000_Ibogaine_Acute_Opioid_Withdrawal](../2000/Alper2000_Ibogaine_Acute_Opioid_Withdrawal.md) |
+| 2018 | OUD Detoxification and Drug Use Outcomes | **FIRST PROSPECTIVE STUDY**: n=30, SOWS reduced from 31→14 (p<.001); 50% opioid-free at 1 month; methadone history predicted worse outcome. Co-authored with T.K. Brown | [Brown2018_OUD_Detoxification_Outcomes](../2018/Brown2018_OUD_Detoxification_Outcomes.md) |
 
 ### Mechanism Papers (ORANGE)
 
 | Year | Paper | Key Contribution | Link |
 |------|-------|------------------|------|
-| 2001 | Ibogaine: A Review | **COMPREHENSIVE SYNTHESIS**: Receptor pharmacology, pharmacokinetics, preclinical evidence, novel mechanism hypothesis | [[2001/Alper2001_Ibogaine_Review]] |
-| 2011 | Ibogaine and Inhibition of AChE | Acetylcholinesterase inhibition—physiologically negligible | [[2011/Alper2011_Ibogaine_Inhibition_AChE]] |
-| 2013 | Iboga Alkaloids and μ-Opioid Receptor G-Protein Activation | **CRITICAL MECHANISM FINDING**: Ibogaine, noribogaine, and 18-MC are MOR *antagonists* (Ki 3–13μM), not agonists — opioid withdrawal attenuation requires a novel mechanism. Multi-lab collaboration; Alper as senior author | [[2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation]] |
+| 2001 | Ibogaine: A Review | **COMPREHENSIVE SYNTHESIS**: Receptor pharmacology, pharmacokinetics, preclinical evidence, novel mechanism hypothesis | [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md) |
+| 2011 | Ibogaine and Inhibition of AChE | Acetylcholinesterase inhibition—physiologically negligible | [Alper2011_Ibogaine_Inhibition_AChE](../2011/Alper2011_Ibogaine_Inhibition_AChE.md) |
+| 2013 | Iboga Alkaloids and μ-Opioid Receptor G-Protein Activation | **CRITICAL MECHANISM FINDING**: Ibogaine, noribogaine, and 18-MC are MOR *antagonists* (Ki 3–13μM), not agonists — opioid withdrawal attenuation requires a novel mechanism. Multi-lab collaboration; Alper as senior author | [Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation](../2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation.md) |
 
 ### Historical Papers (WHITE)
 
 | Year | Paper | Key Contribution | Link |
 |------|-------|------------------|------|
-| 2001 | A Contemporary History of Ibogaine in the US and Europe | Treatment scenes 1962-2001, Lotsof discovery, NIDA programme, European networks | [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]] |
-| 2008 | The Ibogaine Medical Subculture | **FOUNDATIONAL CENSUS**: n=3,414 treated outside Africa by Feb 2006; four scene typology; 11 fatalities; 30%/yr growth | [[2008/Alper2008_Ibogaine_Medical_Subculture]] |
+| 2001 | A Contemporary History of Ibogaine in the US and Europe | Treatment scenes 1962-2001, Lotsof discovery, NIDA programme, European networks | [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) |
+| 2008 | The Ibogaine Medical Subculture | **FOUNDATIONAL CENSUS**: n=3,414 treated outside Africa by Feb 2006; four scene typology; 11 fatalities; 30%/yr growth | [Alper2008_Ibogaine_Medical_Subculture](../2008/Alper2008_Ibogaine_Medical_Subculture.md) |
 
 ### Co-Authored with Howard Lotsof
 
 | Year | Paper | Key Contribution | Link |
 |------|-------|------------------|------|
-| 2007 | Use of Ibogaine in Treatment of Addictions | **DEFINITIVE OVERVIEW**: Mechanisms, dosing, safety, global landscape | [[2007/Alper2007_Ibogaine_Treatment_Addictions]] |
+| 2007 | Use of Ibogaine in Treatment of Addictions | **DEFINITIVE OVERVIEW**: Mechanisms, dosing, safety, global landscape | [Alper2007_Ibogaine_Treatment_Addictions](../2007/Alper2007_Ibogaine_Treatment_Addictions.md) |
 
 ---
 
@@ -87,8 +87,8 @@ Kenneth Alper is the foundational figure in ibogaine safety science. His work tr
 
 | Year | Source | Key Topics | Link |
 |------|--------|------------|------|
-| 2018 | Ibogaine Stories Documentary | Novel mechanism, QT/hERG risk, NIDA history 1991-1995, FDA litigation, global regulatory models | [[Pangea_Ops/Ibogaine_Stories_Transcripts/2018_Oliver_Alper_Mechanism_Safety]] |
-| 2023 | Kentucky Opioid Abatement Commission Testimony | Medical ethnography, forensic toxicology (19 autopsies), novel mechanism for OUD, policy advocacy | [[Other/Alper2023_Expert_Testimony_KY]] |
+| 2018 | Ibogaine Stories Documentary | Novel mechanism, QT/hERG risk, NIDA history 1991-1995, FDA litigation, global regulatory models |  |
+| 2023 | Kentucky Opioid Abatement Commission Testimony | Medical ethnography, forensic toxicology (19 autopsies), novel mechanism for OUD, policy advocacy | [Alper2023_Expert_Testimony_KY](../Other/Alper2023_Expert_Testimony_KY.md) |
 
 ---
 
@@ -157,11 +157,11 @@ From Alper's body of work, the following contraindications emerged as critical:
 
 ## Related Hubs
 
-- [[RED_Cardiac_Safety_Hub]] — Cardiac safety evidence (Alper's core domain)
-- [[ORANGE_Mechanisms_Hub]] — Pharmacological mechanisms
-- [[BLUE_Outcomes_Hub]] — Clinical outcomes
-- [[WHITE_Historical_Hub]] — Historical context
-- [[Key_Researchers_Hub]] — Researcher navigation
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Cardiac safety evidence (Alper's core domain)
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Pharmacological mechanisms
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Clinical outcomes
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Historical context
+- [Key_Researchers_Hub](../Hubs/Key_Researchers_Hub.md) — Researcher navigation
 
 ---
 
@@ -169,20 +169,20 @@ From Alper's body of work, the following contraindications emerged as critical:
 
 For understanding Alper's contribution to ibogaine science:
 
-1. [[1999/Alper1999_Acute_Opioid_Withdrawal]] — Early clinical observations
-2. [[2000/Alper2000_Ibogaine_Acute_Opioid_Withdrawal]] — NYAS proceedings version; introduces 18-MC discussion
-3. [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]] — Historical context and advocacy movement
-4. [[2001/Alper2001_Ibogaine_Review]] — Comprehensive pharmacological synthesis
-5. [[2007/Alper2007_Ibogaine_Treatment_Addictions]] — Comprehensive overview with Lotsof
-6. [[2008/Alper2008_Ibogaine_Medical_Subculture]] — Quantitative census of global subculture (n=3,414)
-7. [[2011/Alper2011_Ibogaine_Inhibition_AChE]] — Acetylcholinesterase mechanism (negative finding)
-8. [[2012/Alper2012_Ibogaine_Fatalities]] — The foundational safety paper
-9. [[2012/Shawn2012_Ibogaine_TdP_VT]] — First TdP case with normal pretreatment screening
-10. [[2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation]] — MOR antagonism finding — demands novel mechanism
-11. [[2016/Alper2016_hERG_Blockade]] — Cardiac mechanism quantification
-12. [[2018/Brown2018_OUD_Detoxification_Outcomes]] — First prospective outcomes study
-13. [[Pangea_Ops/Ibogaine_Stories_Transcripts/2018_Oliver_Alper_Mechanism_Safety]] — First-person retrospective
-14. [[Other/Alper2023_Expert_Testimony_KY]] — Policy advocacy for opioid settlement funding
+1. [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — Early clinical observations
+2. [Alper2000_Ibogaine_Acute_Opioid_Withdrawal](../2000/Alper2000_Ibogaine_Acute_Opioid_Withdrawal.md) — NYAS proceedings version; introduces 18-MC discussion
+3. [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — Historical context and advocacy movement
+4. [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md) — Comprehensive pharmacological synthesis
+5. [Alper2007_Ibogaine_Treatment_Addictions](../2007/Alper2007_Ibogaine_Treatment_Addictions.md) — Comprehensive overview with Lotsof
+6. [Alper2008_Ibogaine_Medical_Subculture](../2008/Alper2008_Ibogaine_Medical_Subculture.md) — Quantitative census of global subculture (n=3,414)
+7. [Alper2011_Ibogaine_Inhibition_AChE](../2011/Alper2011_Ibogaine_Inhibition_AChE.md) — Acetylcholinesterase mechanism (negative finding)
+8. [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — The foundational safety paper
+9. [Shawn2012_Ibogaine_TdP_VT](../2012/Shawn2012_Ibogaine_TdP_VT.md) — First TdP case with normal pretreatment screening
+10. [Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation](../2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation.md) — MOR antagonism finding — demands novel mechanism
+11. [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Cardiac mechanism quantification
+12. [Brown2018_OUD_Detoxification_Outcomes](../2018/Brown2018_OUD_Detoxification_Outcomes.md) — First prospective outcomes study
+13.  — First-person retrospective
+14. [Alper2023_Expert_Testimony_KY](../Other/Alper2023_Expert_Testimony_KY.md) — Policy advocacy for opioid settlement funding
 
 ---
 

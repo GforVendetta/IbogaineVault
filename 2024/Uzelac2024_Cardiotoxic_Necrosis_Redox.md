@@ -38,7 +38,12 @@ route: oral
 open_access: true
 publisher: "MDPI"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 <!-- image -->
 
@@ -333,11 +338,11 @@ END OF DOCUMENT
 
 ## See Also
 
-**Parent hub:** [[RED_Cardiac_Safety_Hub]]
+**Parent hub:** [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
 
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Earlier cardiac mechanisms review this redox study extends
-- [[2016/Alper2016_hERG_Blockade]] — hERG blockade mechanism complementing redox cardiotoxicity findings
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Fatality documentation this mechanistic work aims to explain
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — Magnesium cardioprotection potentially relevant to redox mechanisms
-- [[2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes]] — Related antioxidant enzyme effects from same research group
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Earlier cardiac mechanisms review this redox study extends
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG blockade mechanism complementing redox cardiotoxicity findings
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Fatality documentation this mechanistic work aims to explain
+- [Cherian2024_Magnesium_Ibogaine_TBI](Cherian2024_Magnesium_Ibogaine_TBI.md) — Magnesium cardioprotection potentially relevant to redox mechanisms
+- [Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes](../2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes.md) — Related antioxidant enzyme effects from same research group
 

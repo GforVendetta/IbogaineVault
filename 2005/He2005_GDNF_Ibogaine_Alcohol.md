@@ -38,6 +38,8 @@ contraindications: []
 open_access: true
 publisher: "Society for Neuroscience"
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 # Glial Cell Line-Derived Neurotrophic Factor Mediates the Desirable Actions of the Anti-addiction Drug Ibogaine against Alcohol Consumption
 
@@ -94,7 +96,7 @@ Sample sizes for the molecular studies in mice were relatively small (n=2–6 pe
 ---
 
 ## See Also
-- [[1995/Rezvani1995_Ibogaine_Alcohol_Preferring_Rats]] — Earlier preclinical evidence for ibogaine's anti-alcohol effects in P rats, providing the behavioural foundation this paper builds its mechanistic explanation upon
-- [[1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine]] — Comprehensive review of ibogaine's receptor-level mechanisms that this paper extends with the GDNF neurotrophic pathway
-- [[2001/Glick2001_Mechanisms_Action_Ibogaine_18MC]] — Updated mechanistic framework for ibogaine and 18-MC; the GDNF pathway discovered here adds a neurotrophic dimension absent from Glick's receptor-focused analysis
-- [[ORANGE_Mechanisms_Hub]]
+- [Rezvani1995_Ibogaine_Alcohol_Preferring_Rats](../1995/Rezvani1995_Ibogaine_Alcohol_Preferring_Rats.md) — Earlier preclinical evidence for ibogaine's anti-alcohol effects in P rats, providing the behavioural foundation this paper builds its mechanistic explanation upon
+- [Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine](../1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md) — Comprehensive review of ibogaine's receptor-level mechanisms that this paper extends with the GDNF neurotrophic pathway
+- [Glick2001_Mechanisms_Action_Ibogaine_18MC](../2001/Glick2001_Mechanisms_Action_Ibogaine_18MC.md) — Updated mechanistic framework for ibogaine and 18-MC; the GDNF pathway discovered here adds a neurotrophic dimension absent from Glick's receptor-focused analysis
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

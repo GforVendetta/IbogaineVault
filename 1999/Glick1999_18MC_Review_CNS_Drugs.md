@@ -37,6 +37,8 @@ contraindications: []
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # (±)-18-Methoxycoronaridine: A Novel Iboga Alkaloid Congener Having Potential Anti-Addictive Efficacy
@@ -141,12 +143,12 @@ The review is limited to preclinical data in rats; no human pharmacokinetic, saf
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1996/Glick1996_18MC_NonToxic]] — Original 18-MC non-toxic proof-of-concept this review synthesises
-- [[2016/Alper2016_hERG_Blockade]] — hERG IC₅₀ validation showing 18-MC >50 µM (12× safer than ibogaine)
-- [[2023/Arias2023_Catharanthine_18-MC]] — Modern study of 18-MC antidepressant activity via SERT/NET
-- [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — Next-generation oxa-iboga analogues continuing this safety-focused development
-- [[2010/Carnicella2010_Noribogaine_18MC_GDNF]] — GDNF upregulation by noribogaine and 18-MC as potential mechanism for prolonged effects
-- [[1995/Hearn1995_Noribogaine_Metabolite]] — Noribogaine identification, paralleling the metabolite hypothesis raised here for 18-MC
-- [[2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human]] — Nicotinic receptor interactions of iboga alkaloids, extending the preliminary nicotinic hypothesis in this review
+- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md) — Original 18-MC non-toxic proof-of-concept this review synthesises
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG IC₅₀ validation showing 18-MC >50 µM (12× safer than ibogaine)
+- [Arias2023_Catharanthine_18-MC](../2023/Arias2023_Catharanthine_18-MC.md) — Modern study of 18-MC antidepressant activity via SERT/NET
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — Next-generation oxa-iboga analogues continuing this safety-focused development
+- [Carnicella2010_Noribogaine_18MC_GDNF](../2010/Carnicella2010_Noribogaine_18MC_GDNF.md) — GDNF upregulation by noribogaine and 18-MC as potential mechanism for prolonged effects
+- [Hearn1995_Noribogaine_Metabolite](../1995/Hearn1995_Noribogaine_Metabolite.md) — Noribogaine identification, paralleling the metabolite hypothesis raised here for 18-MC
+- [Arias2010_Interactions_Ibogaine_NicotinicAChR_Human](../2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human.md) — Nicotinic receptor interactions of iboga alkaloids, extending the preliminary nicotinic hypothesis in this review

@@ -19,6 +19,7 @@ source_pdf: "Other/Busby2024_Beond_Death_Investigation.pdf"
 evidence_level: journalism
 sample_size: 1
 mortality_count: 1
+mortality_scope: discrete-cases
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -27,6 +28,8 @@ dosing_range: "undisclosed (ibogaine flood dose + booster)"
 route: oral
 open_access: true
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 ## He Took a Psychedelic to Cure His Addiction. It Was His Last Trip
@@ -177,10 +180,10 @@ Correction: A previous version of this story stated that Talia Eisenberg is a ps
 
 ## See Also
 
-**Parent hub:** [[RED_Cardiac_Safety_Hub]]
+**Parent hub:** [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
 
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Systematic fatality documentation
-- [[2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020]] — Adverse events review
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Safety protocols being questioned
-- [[2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety]] — Setting factors for safety
-- [[Industry_Documents/Beond2022_Clinical_Summary]] — Industry claims to compare
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Systematic fatality documentation
+- [Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020](../2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md) — Adverse events review
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Safety protocols being questioned
+- [Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety](../2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) — Setting factors for safety
+- [Beond2022_Clinical_Summary](../Industry_Documents/Beond2022_Clinical_Summary.md) — Industry claims to compare

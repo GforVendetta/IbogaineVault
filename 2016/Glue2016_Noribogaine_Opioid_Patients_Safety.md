@@ -52,6 +52,8 @@ route: oral
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ascending Single-Dose, Double-Blind, Placebo-Controlled Safety Study of Noribogaine in Opioid-Dependent Patients
@@ -170,9 +172,9 @@ This study provides the first controlled, quantitative data on noribogaine's car
 ---
 
 ## See Also
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]] — Preceding healthy volunteer study (3-60 mg doses)
-- [[2015/Glue2015_Ibogaine_CYP2D6_Activity]] — CYP2D6 influence on ibogaine-to-noribogaine conversion
-- [[2017/Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac]] — Toxicokinetic context for both compounds
-- [[2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile]] — Multi-channel cardiac effects of ibogaine
-- [[2014/Thurner2014_hERG_Channel_Block_Ibogaine]] — hERG blockade mechanism
-- [[RED_Cardiac_Safety_Hub]]
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Preceding healthy volunteer study (3-60 mg doses)
+- [Glue2015_Ibogaine_CYP2D6_Activity](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) — CYP2D6 influence on ibogaine-to-noribogaine conversion
+- [Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac](../2017/Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac.md) — Toxicokinetic context for both compounds
+- [Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile](../2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile.md) — Multi-channel cardiac effects of ibogaine
+- [Thurner2014_hERG_Channel_Block_Ibogaine](../2014/Thurner2014_hERG_Channel_Block_Ibogaine.md) — hERG blockade mechanism
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

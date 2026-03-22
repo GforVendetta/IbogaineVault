@@ -34,6 +34,8 @@ dosing_range: "40 and 80 mg/kg IP (ibogaine in water, 10 mg/ml)"
 route: intraperitoneal
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Effects of Ibogaine on Responding Maintained by Food, Cocaine and Heroin Reinforcement in Rats
@@ -130,8 +132,8 @@ This study provides **important cautionary data** for the preclinical evidence b
 ---
 
 ## See Also
-- [[1991/Glick1991_Ibogaine_Morphine_Self_Administration]] — Contrasting findings: longer-lasting effects on morphine self-administration in female Sprague-Dawley rats
-- [[1994/Glick1994_Iboga_Alkaloids_Self_Administration]] — Same research question, competing findings with tremor-response relationship
-- [[1993/Cappendijk1993_Ibogaine_Cocaine_Self_Administration]] — Reported multi-day cocaine suppression with FR1 schedule in Wistar rats
-- [[ORANGE_Mechanisms_Hub]] — Preclinical behavioural pharmacology evidence base
-- [[BLUE_Outcomes_Hub]] — Clinical translation of preclinical self-administration findings
+- [Glick1991_Ibogaine_Morphine_Self_Administration](../1991/Glick1991_Ibogaine_Morphine_Self_Administration.md) — Contrasting findings: longer-lasting effects on morphine self-administration in female Sprague-Dawley rats
+- [Glick1994_Iboga_Alkaloids_Self_Administration](../1994/Glick1994_Iboga_Alkaloids_Self_Administration.md) — Same research question, competing findings with tremor-response relationship
+- [Cappendijk1993_Ibogaine_Cocaine_Self_Administration](../1993/Cappendijk1993_Ibogaine_Cocaine_Self_Administration.md) — Reported multi-day cocaine suppression with FR1 schedule in Wistar rats
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Preclinical behavioural pharmacology evidence base
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Clinical translation of preclinical self-administration findings

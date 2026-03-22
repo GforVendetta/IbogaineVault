@@ -33,6 +33,8 @@ source_pdf: "not-applicable"
 source_url: "http://www.youtube.com/watch?v=UIX1SXLJjSI"
 open_access: unknown
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # Clare Wilkins at Breaking Convention 2017: Novel Approach to Methadone Detox
@@ -139,10 +141,10 @@ Contact ICEERS if you're part of any kind of ibogaine work and get your clients 
 
 ## See Also
 
-**Parent hub:** [[GREEN_Clinical_Protocols_Hub]]
+**Parent hub:** [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)
 
-- [[Clare_Wilkins_MOC]] — Complete index of Clare Wilkins materials
-- [[Primary_Sources/2017_PS_Clare_Wilkins_Methadone_Detox]] — Psychedelic Science version (same content, more Q&A)
-- [[Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics]] — Related EntheoScience talk
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Safety guidelines
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]] — Relevant PK data
+- [Clare_Wilkins_MOC](../MOCs/Clare_Wilkins_MOC.md) — Complete index of Clare Wilkins materials
+- [2017_PS_Clare_Wilkins_Methadone_Detox](2017_PS_Clare_Wilkins_Methadone_Detox.md) — Psychedelic Science version (same content, more Q&A)
+- [2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics](2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics.md) — Related EntheoScience talk
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Safety guidelines
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Relevant PK data

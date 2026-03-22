@@ -13,7 +13,7 @@ tags:
   - method/in-vitro
 key_findings: "Ibogaine competitively inhibits [³H]MK-801 binding at NMDA receptor ion channels (Kᵢ = 1.01 ± 0.1 μM, nH = 1.2). No effect on AMPA, kainate, or metabotropic glutamate receptors up to 100 μM."
 source_pdf: "1994/Popik1994_Ibogaine_NMDA_MK801_Binding.pdf"
-doi:
+doi: "10.1007/bf02245000"
 journal: "Psychopharmacology"
 publisher: "Springer Science and Business Media LLC"
 issn: "1432-2072"
@@ -35,6 +35,8 @@ dosing_range:
 route:
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # The Putative Anti-Addictive Drug Ibogaine Is a Competitive Inhibitor of [³H]MK-801 Binding to the NMDA Receptor Complex
@@ -82,7 +84,7 @@ This is an in-vitro radioligand binding study in rat forebrain membranes; direct
 ---
 
 ## See Also
-- [[1992/Deecher1992_Radioligand_Binding_Mechanisms]] — Earlier comprehensive radioligand binding study characterising ibogaine at dopamine transporter, κ opioid, and sodium channel sites
-- [[1999/Glick1999_18MC_Review_CNS_Drugs]] — Later review placing NMDA antagonism within ibogaine's full receptor profile and the 18-MC development programme
-- [[1994/Glick1994_Iboga_Alkaloids_Self_Administration]] — Contemporary preclinical behavioural data on iboga alkaloids and drug self-administration
-- [[ORANGE_Mechanisms_Hub]]
+- [Deecher1992_Radioligand_Binding_Mechanisms](../1992/Deecher1992_Radioligand_Binding_Mechanisms.md) — Earlier comprehensive radioligand binding study characterising ibogaine at dopamine transporter, κ opioid, and sodium channel sites
+- [Glick1999_18MC_Review_CNS_Drugs](../1999/Glick1999_18MC_Review_CNS_Drugs.md) — Later review placing NMDA antagonism within ibogaine's full receptor profile and the 18-MC development programme
+- [Glick1994_Iboga_Alkaloids_Self_Administration](Glick1994_Iboga_Alkaloids_Self_Administration.md) — Contemporary preclinical behavioural data on iboga alkaloids and drug self-administration
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

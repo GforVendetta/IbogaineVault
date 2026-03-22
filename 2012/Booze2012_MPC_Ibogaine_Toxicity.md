@@ -34,6 +34,8 @@ route: oral
 organisation: "Maryland Poison Center"
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine
@@ -114,9 +116,9 @@ This bulletin has particular value as a poison centre perspective on ibogaine to
 ---
 
 ## See Also
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Cited reference; comprehensive fatalities review from same year
-- [[2012/Paling2012_Life_Threatening_Complications]] — Cited reference; life-threatening cardiac complications case
-- [[2009/Hoelen2009_Long_QT_Ibogaine]] — Cited reference; NEJM report on ibogaine-associated long QT
-- [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — Mechanistic basis for cardiac arrhythmia risk discussed in this bulletin
-- [[2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias]] — Ventricular tachyarrhythmia case from same year
-- [[RED_Cardiac_Safety_Hub]]
+- [Alper2012_Ibogaine_Fatalities](Alper2012_Ibogaine_Fatalities.md) — Cited reference; comprehensive fatalities review from same year
+- [Paling2012_Life_Threatening_Complications](Paling2012_Life_Threatening_Complications.md) — Cited reference; life-threatening cardiac complications case
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — Cited reference; NEJM report on ibogaine-associated long QT
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — Mechanistic basis for cardiac arrhythmia risk discussed in this bulletin
+- [Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias](Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.md) — Ventricular tachyarrhythmia case from same year
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

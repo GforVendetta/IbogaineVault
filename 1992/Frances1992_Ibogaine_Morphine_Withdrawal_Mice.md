@@ -32,6 +32,8 @@ dosing_range: "30 mg/kg IP (ibogaine in saline)"
 route: intraperitoneal
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Effects of ibogaine on naloxone-precipitated withdrawal in morphine-dependent mice
@@ -122,8 +124,8 @@ The finding that ibogaine potentiates morphine antinociception is consistent wit
 ---
 
 ## See Also
-- [[1992/Glick1992_Ibogaine_Morphine_Withdrawal_Rats]] — Direct counterpart: ibogaine *did* attenuate withdrawal signs in rats at higher doses (40–80 mg/kg IP)
-- [[1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis]] — In vivo microdialysis data on ibogaine–morphine dopamine interactions, cited as mechanistic basis
-- [[1992/Deecher1992_Radioligand_Binding_Mechanisms]] — Contemporary receptor binding study establishing ibogaine's multi-target pharmacology
-- [[1992/Sershen1992_Ibogaine_Cocaine_Locomotor]] — Parallel 1992 study on ibogaine's effects on cocaine-induced locomotion
-- [[ORANGE_Mechanisms_Hub]]
+- [Glick1992_Ibogaine_Morphine_Withdrawal_Rats](Glick1992_Ibogaine_Morphine_Withdrawal_Rats.md) — Direct counterpart: ibogaine *did* attenuate withdrawal signs in rats at higher doses (40–80 mg/kg IP)
+- [Maisonneuve1991_Ibogaine_Morphine_Microdialysis](../1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis.md) — In vivo microdialysis data on ibogaine–morphine dopamine interactions, cited as mechanistic basis
+- [Deecher1992_Radioligand_Binding_Mechanisms](Deecher1992_Radioligand_Binding_Mechanisms.md) — Contemporary receptor binding study establishing ibogaine's multi-target pharmacology
+- [Sershen1992_Ibogaine_Cocaine_Locomotor](Sershen1992_Ibogaine_Cocaine_Locomotor.md) — Parallel 1992 study on ibogaine's effects on cocaine-induced locomotion
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

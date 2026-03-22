@@ -38,6 +38,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # A Case Report SPECT Study and Theoretical Rationale for the Sequential Administration of Ibogaine and 5-MeO-DMT in the Treatment of Alcohol Use Disorder
@@ -111,7 +113,7 @@ This paper is significant as the first published human neuroimaging data for ibo
 
 The notable cerebellar perfusion recovery is particularly relevant given emerging evidence that the cerebellum participates in reward processing, drug-cue conditioning, and emotional regulation — functions historically attributed exclusively to corticostriatal-limbic loops. This cerebellar signal may relate to both ibogaine's known actions on inferior olivary excitability (motor effects) and its receptor activity at NMDA, DAT, and σ₁ sites densely expressed in cerebellar tissue. For clinical programmes, the cerebellar finding invites closer attention to motor monitoring as a potential proxy for therapeutic engagement.
 
-The magnesium sulfate co-administration described here (1 ampule MgSO₄ IV pre-dosing) anticipates the electrolyte co-administration protocols later formalised in the MISTIC paradigm ([[2024/Cherian2024_Magnesium_Ibogaine_TBI]]). While administered primarily for hydration/supportive care in this case, the magnesium component is notable given its known role in mitigating ibogaine-related cardiac risk through QTc stabilisation.
+The magnesium sulfate co-administration described here (1 ampule MgSO₄ IV pre-dosing) anticipates the electrolyte co-administration protocols later formalised in the MISTIC paradigm ([Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md)). While administered primarily for hydration/supportive care in this case, the magnesium component is notable given its known role in mitigating ibogaine-related cardiac risk through QTc stabilisation.
 
 The right insular perfusion increase parallels findings from a SPECT study of ayahuasca's antidepressant effects (Sanches et al., 2016), suggesting a shared serotonergic mechanism across tryptamine psychedelics. For AUD treatment, right insular activation relates to interoceptive awareness and somatic marker processing — disrupted capacities in chronic alcohol dependence. The sequential protocol's combination of ibogaine's dissociative-oneiric processing (trauma/addiction insight) with 5-MeO-DMT's mystical-unitive experience (ego dissolution, spiritual transformation) represents a theoretically coherent two-stage intervention, though the confounded timing precludes causal attribution.
 
@@ -132,10 +134,10 @@ The clinical observation that ibogaine pre-treatment appeared to potentiate 5-Me
 
 ## See Also
 
-**Parent hub:** [[Hubs/BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS]] — Larger veterans cohort (n = 30) using same sequential ibogaine + 5-MeO-DMT protocol with pre/post neuroimaging; direct methodological successor
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol formalising magnesium co-administration in veterans ibogaine treatment; extends the electrolyte support approach described informally here
-- [[2020/Davis2020_SpecialOps_Veterans_Trauma]] — Earlier veterans outcomes data from same treatment group
-- [[2023/Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts]] — Systematic review of combination psychedelic protocols including ibogaine + 5-MeO-DMT
-- [[2018/Rodger2018_Healing_Potential_Ibogaine]] — Phenomenological analysis of ibogaine visionary experience, contextualises the oneiric content described in this case
+- [Davis2023_Ibogaine_5MeO-DMT_for_SEALS](../2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS.md) — Larger veterans cohort (n = 30) using same sequential ibogaine + 5-MeO-DMT protocol with pre/post neuroimaging; direct methodological successor
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol formalising magnesium co-administration in veterans ibogaine treatment; extends the electrolyte support approach described informally here
+- [Davis2020_SpecialOps_Veterans_Trauma](../2020/Davis2020_SpecialOps_Veterans_Trauma.md) — Earlier veterans outcomes data from same treatment group
+- [Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts](../2023/Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts.md) — Systematic review of combination psychedelic protocols including ibogaine + 5-MeO-DMT
+- [Rodger2018_Healing_Potential_Ibogaine](Rodger2018_Healing_Potential_Ibogaine.md) — Phenomenological analysis of ibogaine visionary experience, contextualises the oneiric content described in this case

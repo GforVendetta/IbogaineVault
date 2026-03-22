@@ -42,11 +42,14 @@ contraindications:
   - "Concurrent use of other QT-prolonging substances"
   - "Unsupervised or limited medical supervision settings"
 mortality_count: 27
+mortality_scope: cumulative-review
 dosing_range: "10–25 mg/kg therapeutic; toxicity cases typically >2g; Lambarène 8mg/tablet historical"
 route: oral
 open_access: false
 publisher: "Informa Healthcare"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # How toxic is ibogaine?
@@ -166,10 +169,10 @@ This review establishes that ibogaine cardiotoxicity is not confined to patients
 
 ## See Also
 
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Forensic case series of 19 ibogaine-associated fatalities; primary source for the mortality data synthesised in this review
-- [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — Original hERG channel blockade data cited extensively by Litjens & Brunt as the mechanistic basis for cardiotoxicity
-- [[2016/Alper2016_hERG_Blockade]] — Extended hERG analysis published same year, advancing the mechanistic framework referenced here
-- [[2013/Mazoyer2013_Fatality_Case]] — One of the 27 fatalities tabulated; detailed forensic toxicology with ibogaine/ibogamine tissue distribution
-- [[2015/Marta2015_Ibogaine_Mania_Case_Reports]] — Case series of psychiatric adverse events (mania) cited in the neurotoxicity discussion
-- [[2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020]] — Extends the adverse events literature from 2015–2020, building on the foundation Litjens2016 established
-- [[Hubs/RED_Cardiac_Safety_Hub]] — Central hub for cardiac safety evidence; this review is a cornerstone reference
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Forensic case series of 19 ibogaine-associated fatalities; primary source for the mortality data synthesised in this review
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — Original hERG channel blockade data cited extensively by Litjens & Brunt as the mechanistic basis for cardiotoxicity
+- [Alper2016_hERG_Blockade](Alper2016_hERG_Blockade.md) — Extended hERG analysis published same year, advancing the mechanistic framework referenced here
+- [Mazoyer2013_Fatality_Case](../2013/Mazoyer2013_Fatality_Case.md) — One of the 27 fatalities tabulated; detailed forensic toxicology with ibogaine/ibogamine tissue distribution
+- [Marta2015_Ibogaine_Mania_Case_Reports](../2015/Marta2015_Ibogaine_Mania_Case_Reports.md) — Case series of psychiatric adverse events (mania) cited in the neurotoxicity discussion
+- [Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020](../2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md) — Extends the adverse events literature from 2015–2020, building on the foundation Litjens2016 established
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Central hub for cardiac safety evidence; this review is a cornerstone reference

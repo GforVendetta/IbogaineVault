@@ -35,6 +35,8 @@ route: intravenous
 contraindications: []
 open_access: unknown
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 
 # In Vivo Neurobiological Effects of Ibogaine and Its O-Desmethyl Metabolite, 12-Hydroxyibogamine (Noribogaine), in Rats
@@ -165,8 +167,8 @@ This paper is foundational for the noribogaine safety argument in ibogaine treat
 ---
 
 ## See Also
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — Mash lab's clinical pharmacotherapy programme; same group
-- [[1996/Staley1996_Noribogaine_Receptor_Binding]] — Complementary *in vitro* pharmacological screen of noribogaine binding profile in human tissue
-- [[1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine]] — Glick & Maisonneuve review of antiaddictive mechanisms including noribogaine comparisons
-- [[ORANGE_Mechanisms_Hub]] — Hub file for noribogaine-specific research threads
-- [[ORANGE_Mechanisms_Hub]] — Hub for serotonergic mechanisms of iboga alkaloids
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — Mash lab's clinical pharmacotherapy programme; same group
+- [Staley1996_Noribogaine_Receptor_Binding](../1996/Staley1996_Noribogaine_Receptor_Binding.md) — Complementary *in vitro* pharmacological screen of noribogaine binding profile in human tissue
+- [Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine](../1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md) — Glick & Maisonneuve review of antiaddictive mechanisms including noribogaine comparisons
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Hub file for noribogaine-specific research threads
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Hub for serotonergic mechanisms of iboga alkaloids

@@ -51,6 +51,8 @@ route: oral
 open_access: true
 publisher: "Springer Nature"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Magnesium–ibogaine therapy in veterans with traumatic brain injuries
@@ -192,12 +194,12 @@ The investigators identified several significant constraints. The absence of ran
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[2025/Williams2025_Magnesium_Ibogaine_TBI]] — Follow-up EEG analysis of same MISTIC cohort documenting neural mechanism changes
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Earlier fatality documentation that magnesium protocol was designed to address
-- [[2016/Alper2016_hERG_Blockade]] — hERG mechanism data informing the magnesium cardioprotection strategy
-- [[2020/Davis2020_SpecialOps_Veterans_Trauma]] — Earlier SOF veteran ibogaine observational data this trial builds upon
-- [[2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS]] — Companion study from same research group on ibogaine+5-MeO-DMT protocol
-- [[2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients]] — Contemporaneous pharmacokinetic data informing dosing strategies
-- [[2021/Knuijver2021_Safety_Opioid_Detox]] — Safety review providing context for the magnesium cardioprotection innovation
+- [Williams2025_Magnesium_Ibogaine_TBI](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — Follow-up EEG analysis of same MISTIC cohort documenting neural mechanism changes
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Earlier fatality documentation that magnesium protocol was designed to address
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG mechanism data informing the magnesium cardioprotection strategy
+- [Davis2020_SpecialOps_Veterans_Trauma](../2020/Davis2020_SpecialOps_Veterans_Trauma.md) — Earlier SOF veteran ibogaine observational data this trial builds upon
+- [Davis2023_Ibogaine_5MeO-DMT_for_SEALS](../2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS.md) — Companion study from same research group on ibogaine+5-MeO-DMT protocol
+- [Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients](Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md) — Contemporaneous pharmacokinetic data informing dosing strategies
+- [Knuijver2021_Safety_Opioid_Detox](../2021/Knuijver2021_Safety_Opioid_Detox.md) — Safety review providing context for the magnesium cardioprotection innovation

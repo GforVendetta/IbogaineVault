@@ -35,9 +35,14 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: academic-retained
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Psilocybin and Ibogaine as Therapeutic Candidates for Cocaine Addiction
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 > **Citation:** Koutrouli IRA, Šíchová K, Kacper W, et al. (2026). Psilocybin and Ibogaine as Therapeutic Candidates for Cocaine Addiction: Insights from a Rat Self-Administration Model. *Neuroscience Applied* 5:106393.
 
@@ -105,8 +110,8 @@ Czech Health Research Council (NU21-04-00307, NW24-04-00413), Czech Science Foun
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis|Belgers 2016]] — Meta-analysis of ibogaine in animal addiction models
-- [[2024/Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol|Heinsbroek 2024]] — Tabernanthalog in heroin/alcohol models
-- [[1996/Glick1996_18MC_NonToxic|Glick 1996]] — 18-MC in morphine/cocaine self-administration
+- [Belgers 2016](../2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md) — Meta-analysis of ibogaine in animal addiction models
+- [Heinsbroek 2024](../2024/Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol.md) — Tabernanthalog in heroin/alcohol models
+- [Glick 1996](../1996/Glick1996_18MC_NonToxic.md) — 18-MC in morphine/cocaine self-administration

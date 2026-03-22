@@ -38,6 +38,7 @@ secondary_categories:
 source_pdf: "2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.pdf"
 evidence_level: systematic-review
 mortality_count: 1
+mortality_scope: cumulative-review
 qtc_data: true
 electrolyte_data: true
 herg_data: false
@@ -57,6 +58,8 @@ route: oral
 open_access: false
 publisher: "Springer Nature"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # The Adverse Events of Ibogaine in Humans: An Updated Systematic Review of the Literature (2015–2020)
@@ -178,16 +181,16 @@ This review crystallises the central paradox of ibogaine's safety evidence: the 
 
 ## See Also
 
-**Parent hub:** [[RED_Cardiac_Safety_Hub]]
+**Parent hub:** [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
 
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Foundational 1990–2008 fatality review (n=19) that this paper directly extends; together they form the complete ibogaine fatality surveillance series
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Intermediate 2009–2014 review (n=3 deaths, n=8 SAEs); the three reviews collectively cover 1990–2020
-- [[2016/Alper2016_hERG_Blockade]] — Provides the IC₅₀ values (ibogaine 4.09 μM, noribogaine 2.86 μM) cited by Ona et al. to explain the cardiac mechanism underlying the adverse events documented here
-- [[2013/Mazoyer2013_Fatality_Case]] — French fatality case illustrating the polypharmacy (ibogaine + methadone + diazepam) and uncontrolled-setting risks this review catalogues
-- [[2018/Steinberg2018_Cardiac_Arrest_Case]] — One of the 18 included studies; cardiac arrest with QTc 714 ms
-- [[2016/Meisner2016_Cardiac_Arrest_Death_Case]] — The single fatality within this review's 2015–2020 window
-- [[2015/Glue2015_Ibogaine_CYP2D6_Activity]] — Source of the CYP2D6/paroxetine interaction data (2× exposure) cited as evidence for genotyping
-- [[2016/Glue2016_Noribogaine_Opioid_Patients_Safety]] — The controlled noribogaine trial showing dose-dependent QTc prolongation without SAEs
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Clinical protocol framework designed to prevent the adverse events catalogued here
-- [[2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety]] — Subsequent analysis of setting-based safety factors, directly building on this review's controlled-vs-uncontrolled finding
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — Represents the paradigm shift from "managing cardiac risk" to "eliminating cardiac risk" via magnesium co-administration — addressing the electrolyte-mediated risk this review documents
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Foundational 1990–2008 fatality review (n=19) that this paper directly extends; together they form the complete ibogaine fatality surveillance series
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Intermediate 2009–2014 review (n=3 deaths, n=8 SAEs); the three reviews collectively cover 1990–2020
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Provides the IC₅₀ values (ibogaine 4.09 μM, noribogaine 2.86 μM) cited by Ona et al. to explain the cardiac mechanism underlying the adverse events documented here
+- [Mazoyer2013_Fatality_Case](../2013/Mazoyer2013_Fatality_Case.md) — French fatality case illustrating the polypharmacy (ibogaine + methadone + diazepam) and uncontrolled-setting risks this review catalogues
+- [Steinberg2018_Cardiac_Arrest_Case](../2018/Steinberg2018_Cardiac_Arrest_Case.md) — One of the 18 included studies; cardiac arrest with QTc 714 ms
+- [Meisner2016_Cardiac_Arrest_Death_Case](../2016/Meisner2016_Cardiac_Arrest_Death_Case.md) — The single fatality within this review's 2015–2020 window
+- [Glue2015_Ibogaine_CYP2D6_Activity](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) — Source of the CYP2D6/paroxetine interaction data (2× exposure) cited as evidence for genotyping
+- [Glue2016_Noribogaine_Opioid_Patients_Safety](../2016/Glue2016_Noribogaine_Opioid_Patients_Safety.md) — The controlled noribogaine trial showing dose-dependent QTc prolongation without SAEs
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Clinical protocol framework designed to prevent the adverse events catalogued here
+- [Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety](../2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) — Subsequent analysis of setting-based safety factors, directly building on this review's controlled-vs-uncontrolled finding
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — Represents the paradigm shift from "managing cardiac risk" to "eliminating cardiac risk" via magnesium co-administration — addressing the electrolyte-mediated risk this review documents

@@ -30,6 +30,8 @@ dosing_range: "LD50=1442.6 mg/kg; LD0=784.71 mg/kg; LD100=2000 mg/kg (aqueous ro
 route: oral
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Study of the Acute Toxicity of the Aqueous Extract of *Tabernanthe iboga* (Baill.) (Apocynacea) on Wistar Rats
@@ -124,7 +126,7 @@ This paper has three implications for clinical practice, despite being preclinic
 ---
 
 ## See Also
-- [[2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids]] — Same research group (Boukandou Mounanga); iboga neuroprotection/neurotoxicity mechanisms
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Fatality circumstances; contrast acute overdose toxicology with clinical fatality risk factors
-- [[2021/Shi2021_NAM_Ibogaine_Cardiotoxicity]] — Complementary modelling approach: PBK-derived BMDL₁₀ vs. traditional LD₅₀
-- [[ORANGE_Mechanisms_Hub]]
+- [Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids](../2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md) — Same research group (Boukandou Mounanga); iboga neuroprotection/neurotoxicity mechanisms
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Fatality circumstances; contrast acute overdose toxicology with clinical fatality risk factors
+- [Shi2021_NAM_Ibogaine_Cardiotoxicity](../2021/Shi2021_NAM_Ibogaine_Cardiotoxicity.md) — Complementary modelling approach: PBK-derived BMDL₁₀ vs. traditional LD₅₀
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

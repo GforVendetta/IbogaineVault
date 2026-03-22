@@ -44,12 +44,17 @@ contraindications: []
 open_access: true
 publisher: "Cold Spring Harbor"
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Novel Class of Psychedelic Iboga Alkaloids Disrupts Opioid Addiction States
 
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
+
 > [!note] Vault editorial note
-> This is the **bioRxiv preprint** (March 2021). The peer-reviewed published version appeared three years later as [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use|Havel et al. 2024]] in *Nature Communications* (September 2024). The 3-year preprint-to-publication gap likely reflects a **corporate-strategic delay** rather than slow peer review: the Sames lab's oxa-iboga compounds were being developed commercially through Delix Therapeutics, and the delay is consistent with patent portfolio construction and IP protection prior to full data disclosure. The 2024 published version is substantially expanded with additional *in vivo* models (heroin, fentanyl self-administration; relapse; hyperalgesia reversal) not present in this preprint. **For clinical decision-making, prefer the 2024 published version.**
+> This is the **bioRxiv preprint** (March 2021). The peer-reviewed published version appeared three years later as [Havel et al. 2024](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) in *Nature Communications* (September 2024). The 3-year preprint-to-publication gap likely reflects a **corporate-strategic delay** rather than slow peer review: the Sames lab's oxa-iboga compounds were being developed commercially through Delix Therapeutics, and the delay is consistent with patent portfolio construction and IP protection prior to full data disclosure. The 2024 published version is substantially expanded with additional *in vivo* models (heroin, fentanyl self-administration; relapse; hyperalgesia reversal) not present in this preprint. **For clinical decision-making, prefer the 2024 published version.**
 
 **Authors:** Václav Havel¹#, Andrew C. Kruegel¹#, Benjamin Bechand¹#, Scot McIntosh², Leia Stallings², Alana Hodges, Madalee G. Wulf¹, Melissa Nelson³’⁴, Amanda Hunkele⁵’⁶, Mike Ansonoff, John E. Pintar, Christopher Hwu¹, Najah Abi-Gerges, Saheem A. Zaidi⁹’¹⁰, Vsevolod Katritch⁹’¹⁰, Mu Yang¹¹’¹², Jonathan A. Javitch³’⁴, Susruta Majumdar, Scott E. Hemby² and Dalibor Sames¹’¹³
 
@@ -362,10 +367,10 @@ Currently approved medications for SUDs do not reverse persistent neurocircuitry
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — Oxa-iboga follow-up breakthrough
-- [[1996/Glick1996_18MC_NonToxic]] — Earlier safer analogue approach
-- [[2016/Alper2016_hERG_Blockade]] — Cardiac safety validation methods
-- [[2023/Arias2023_Catharanthine_18-MC]] — Related analogue work
-- [[2024/Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol]] — Tabernanthalog context
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — Oxa-iboga follow-up breakthrough
+- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md) — Earlier safer analogue approach
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Cardiac safety validation methods
+- [Arias2023_Catharanthine_18-MC](../2023/Arias2023_Catharanthine_18-MC.md) — Related analogue work
+- [Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol](../2024/Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol.md) — Tabernanthalog context

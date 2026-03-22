@@ -30,9 +30,14 @@ contraindications: []
 open_access: true
 publisher: "American Chemical Society"
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # What We Have Gained from Ibogaine:  Nicotinic Acetylcholine Receptor Inhibitors as Treatments for Substance Use Disorders
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Journal of Medicinal Chemistry | Perspective**
 
@@ -468,9 +473,9 @@ The authors would like to thank Dr. Terry Moore for constructive and thoughtful 
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human]] — Earlier nicotinic receptor characterisation
-- [[1998/Mah1998_Nicotinic_Receptor_Mechanism]] — Foundational nAChR mechanism work
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Anti-addictive mechanism synthesis
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Receptorome binding context
+- [Arias2010_Interactions_Ibogaine_NicotinicAChR_Human](../2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human.md) — Earlier nicotinic receptor characterisation
+- [Mah1998_Nicotinic_Receptor_Mechanism](../1998/Mah1998_Nicotinic_Receptor_Mechanism.md) — Foundational nAChR mechanism work
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Anti-addictive mechanism synthesis
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Receptorome binding context

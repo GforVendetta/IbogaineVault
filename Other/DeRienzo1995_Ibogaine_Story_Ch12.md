@@ -35,9 +35,14 @@ route: oral
 organisation: "MindVox"
 open_access: true
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # The Ibogaine Story — Chapter 12: VALIS
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 ## Overview
 

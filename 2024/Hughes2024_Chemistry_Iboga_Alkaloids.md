@@ -34,6 +34,8 @@ contraindications: []
 open_access: true
 publisher: "Wiley"
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 
 # Disrupting Substance Use Disorder: The Chemistry of Iboga Alkaloids
@@ -138,9 +140,9 @@ For clinicians: Understanding this landscape helps contextualise why ibogaine re
 
 ## See Also
 
-- [[ORANGE_Mechanisms_Hub]] — Receptor pharmacology and mechanisms
-- [[2016/Alper2016_hERG_Blockade]] — hERG electrophysiology foundation
-- [[RED_Cardiac_Safety_Hub]] — Why cardiac safety drives analogue research
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Receptor pharmacology and mechanisms
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG electrophysiology foundation
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Why cardiac safety drives analogue research
 - Iyer et al. (2021) Natural product review (not in vault)
 
 ---

@@ -41,9 +41,14 @@ aliases:
 contraindications: []
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaína: un psicodélico atípico con potencial antiadictivo
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 *(Ibogaine: An Atypical Psychedelic with Anti-Addictive Potential)*
 
@@ -307,31 +312,31 @@ This review serves as an accessible introduction for **Spanish-speaking healthca
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
 ### Uruguayan Group's Primary Research
-- [[2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression]] — Sleep/EEG study by same group
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — GDNF/BDNF preclinical work
+- [Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression](../2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression.md) — Sleep/EEG study by same group
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — GDNF/BDNF preclinical work
 
 ### Mechanism/Pharmacology
 - Alper (2001) "Ibogaine: A Review" in *The Alkaloids* Vol. 56 (not in vault)
-- [[1995/Popik1995_100Years_Ibogaine_Review]] — Historical pharmacology review
+- [Popik1995_100Years_Ibogaine_Review](../1995/Popik1995_100Years_Ibogaine_Review.md) — Historical pharmacology review
 
 ### Clinical Evidence
-- [[2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes]] — Large open-label study
+- [Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md) — Large open-label study
 - Brown et al. (2018) 12-month follow-up (not in vault)
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — New Zealand observational study
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — New Zealand observational study
 
 ### Cardiac Safety
-- [[2016/Alper2016_hERG_Blockade]] — hERG mechanism
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Fatality analysis
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Cardiac risk review
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG mechanism
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Fatality analysis
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Cardiac risk review
 
 ### Clinical Guidelines
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Safety protocols referenced in this review
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Safety protocols referenced in this review
 
 ### Clare Wilkins Reference
-- [[2017/Wilkins2017_Methadone_Low_Dose]] — Case report cited (low-dose ascending protocol)
+- [Wilkins2017_Methadone_Low_Dose](../2017/Wilkins2017_Methadone_Low_Dose.md) — Case report cited (low-dose ascending protocol)
 
 ---
 

@@ -6,11 +6,12 @@ authors:
   - family-names: Kagalovsky
     given-names: Philip
     orcid: "https://orcid.org/0009-0008-3558-3097"
+version: 1.0.0
 repository-code: "https://github.com/GforVendetta/IbogaineVault"
 abstract: >-
-  The IbogaineVault is a structured evidence map covering approximately 300 ibogaine
+  The IbogaineVault is a structured evidence map covering over 300 ibogaine
   research documents (1957–2026) converted to searchable markdown with
-  standardised YAML metadata, cross-referenced wikilinks, and a six-category
+  standardised YAML metadata, cross-references, and a six-category
   classification system. Built to support systematic evidence retrieval across
   seven decades of fragmented literature, the vault serves as a navigable
   research instrument for the ibogaine research community. Categories span
@@ -29,4 +30,4 @@ keywords:
   - opioid use disorder
   - pharmacology
 license: CC-BY-NC-SA-4.0
-date-released: "2026-03-14"
+date-released: 2026-03-22

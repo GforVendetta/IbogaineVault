@@ -27,6 +27,7 @@ aliases:
   - "Cerebellar Reset Hypothesis"
 evidence_level: qualitative
 mortality_count: 1
+mortality_scope: incidental
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -39,6 +40,8 @@ route: oral
 organisation: "MindVox"
 open_access: true
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # The Ibogaine Story — Chapter 14: Time Is a Child at Play

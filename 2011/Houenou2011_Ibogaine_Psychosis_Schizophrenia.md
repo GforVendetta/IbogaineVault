@@ -40,6 +40,8 @@ route: oral
 open_access: false
 publisher: "Lippincott Williams & Wilkins"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine-Associated Psychosis in Schizophrenia: A Case Report
@@ -106,9 +108,9 @@ This case has direct relevance to screening and exclusion criteria for ibogaine 
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Includes psychological adverse events section citing Houenou; psychosis/schizophrenia exclusion in screening criteria
-- [[2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020]] — Systematic review of adverse events including psychiatric outcomes
-- [[2009/Hoelen2009_Long_QT_Ibogaine]] — Cited by Houenou as example of ibogaine adverse effects (cardiac)
-- [[2008/Maciulaitis2008_Ibogaine_Pharmacology_Narrative_Review]] — Cited by Houenou for pharmacological profile and hallucinogenic mechanism
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Includes psychological adverse events section citing Houenou; psychosis/schizophrenia exclusion in screening criteria
+- [Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020](../2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md) — Systematic review of adverse events including psychiatric outcomes
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — Cited by Houenou as example of ibogaine adverse effects (cardiac)
+- [Maciulaitis2008_Ibogaine_Pharmacology_Narrative_Review](../2008/Maciulaitis2008_Ibogaine_Pharmacology_Narrative_Review.md) — Cited by Houenou for pharmacological profile and hallucinogenic mechanism

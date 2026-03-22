@@ -32,6 +32,8 @@ contraindications: []
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Acute and Chronic Administration of Ibogaine to the Rat Results in Astrogliosis That Is Not Confined to the Cerebellar Vermis
@@ -77,13 +79,13 @@ Acute administration of high doses of ibogaine (IBG) to the male rat results in 
 
 ## Clinical Implications
 
-This study substantially expanded the neurotoxicity picture beyond [[1993/OHearn1993_Purkinje_Cell_Degeneration|O'Hearn & Molliver's]] earlier finding of cerebellar-specific damage, demonstrating that ibogaine-induced gliosis is distributed across multiple brain regions.
+This study substantially expanded the neurotoxicity picture beyond [O'Hearn & Molliver's](../1993/OHearn1993_Purkinje_Cell_Degeneration.md) earlier finding of cerebellar-specific damage, demonstrating that ibogaine-induced gliosis is distributed across multiple brain regions.
 
 The sex-dependent findings are particularly noteworthy for clinical practice. Female rats showed exclusive vulnerability to chronic dosing effects, raising questions about whether sex-specific risk factors should be considered in human ibogaine protocols. The chronic oral regimen — more relevant to potential therapeutic contexts than acute high-dose intraperitoneal injection — showed a fundamentally different pattern of regional vulnerability compared to acute exposure.
 
 The sensitivity of GFAP quantification in detecting neurotoxicity invisible to conventional histopathology underscores the limitations of standard safety assessments. These data were generated under NIDA contract as part of the formal safety evaluation of ibogaine for potential clinical use, and contributed to the cautious regulatory approach toward ibogaine development.
 
-Importantly, [[1996/Molinari1996_Ibogaine_Neurotoxicity_Reevaluation|Molinari et al. (1996)]] demonstrated that the anti-addictive dose (40 mg/kg) produced no Purkinje cell degeneration, suggesting that therapeutic and neurotoxic dose ranges may be dissociable — a crucial distinction for clinical risk–benefit assessment.
+Importantly, [Molinari et al. (1996)](Molinari1996_Ibogaine_Neurotoxicity_Reevaluation.md) demonstrated that the anti-addictive dose (40 mg/kg) produced no Purkinje cell degeneration, suggesting that therapeutic and neurotoxic dose ranges may be dissociable — a crucial distinction for clinical risk–benefit assessment.
 
 ## Limitations
 
@@ -97,8 +99,8 @@ Importantly, [[1996/Molinari1996_Ibogaine_Neurotoxicity_Reevaluation|Molinari et
 ---
 
 ## See Also
-- [[1993/OHearn1993_Purkinje_Cell_Degeneration]] — Earlier work on cerebellar Purkinje cell degeneration that this study extends
-- [[1996/Molinari1996_Ibogaine_Neurotoxicity_Reevaluation]] — Same-year companion study showing anti-addictive dose (40 mg/kg) produces no degeneration
-- [[1996/Glick1996_18MC_NonToxic]] — 18-MC as non-toxic ibogaine analogue, developed partly in response to neurotoxicity concerns
-- [[2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids]] — Modern review of neuroprotection vs neurotoxicity balance
-- [[RED_Cardiac_Safety_Hub]] — Broader safety evidence hub (this paper contributes adverse event data)
+- [OHearn1993_Purkinje_Cell_Degeneration](../1993/OHearn1993_Purkinje_Cell_Degeneration.md) — Earlier work on cerebellar Purkinje cell degeneration that this study extends
+- [Molinari1996_Ibogaine_Neurotoxicity_Reevaluation](Molinari1996_Ibogaine_Neurotoxicity_Reevaluation.md) — Same-year companion study showing anti-addictive dose (40 mg/kg) produces no degeneration
+- [Glick1996_18MC_NonToxic](Glick1996_18MC_NonToxic.md) — 18-MC as non-toxic ibogaine analogue, developed partly in response to neurotoxicity concerns
+- [Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids](../2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md) — Modern review of neuroprotection vs neurotoxicity balance
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Broader safety evidence hub (this paper contributes adverse event data)

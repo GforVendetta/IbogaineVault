@@ -25,6 +25,7 @@ aliases:
   - "Dutch Risk Assessment T. iboga"
 evidence_level: review
 mortality_count: 34
+mortality_scope: cumulative-review
 qtc_data: true
 electrolyte_data: true
 herg_data: false
@@ -54,6 +55,8 @@ organisation: "National Institute for Public Health and the Environment (RIVM), 
 open_access: unknown
 publisher: "RIVM"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Risk Assessment of Herbal Preparations Containing *Tabernanthe iboga*
@@ -232,10 +235,10 @@ The report's conclusion that *T. iboga* is "not safe" for consumer use does not 
 ---
 
 ## See Also
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — comprehensive review of ibogaine cardiac mechanisms, hERG blockade, and QTc prolongation
-- [[2012/Alper2012_Ibogaine_Fatalities]] — systematic review of 19 fatalities temporally associated with ibogaine (source data for this report's Annex II)
-- [[2021/Shi2021_NAM_Ibogaine_Cardiotoxicity]] — new approach methodology for ibogaine/noribogaine cardiotoxicity prediction (BMDL₁₀ values critiqued in this report)
-- [[2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities]] — comprehensive review including additional fatality cases
-- [[2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis]] — systematic review and meta-analysis of ibogaine toxicity in animal models (neurotoxicity data cited extensively)
-- [[RED_Cardiac_Safety_Hub]]
-- [[GREEN_Clinical_Protocols_Hub]]
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — comprehensive review of ibogaine cardiac mechanisms, hERG blockade, and QTc prolongation
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — systematic review of 19 fatalities temporally associated with ibogaine (source data for this report's Annex II)
+- [Shi2021_NAM_Ibogaine_Cardiotoxicity](../2021/Shi2021_NAM_Ibogaine_Cardiotoxicity.md) — new approach methodology for ibogaine/noribogaine cardiotoxicity prediction (BMDL₁₀ values critiqued in this report)
+- [Corkery2018_Ibogaine_Benefits_Dangers_Fatalities](../2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md) — comprehensive review including additional fatality cases
+- [Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis](../2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md) — systematic review and meta-analysis of ibogaine toxicity in animal models (neurotoxicity data cited extensively)
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)

@@ -8,7 +8,7 @@ aliases: ["Getting Started", "Quick Start"]
 
 # Getting Started with This Vault
 
-Welcome to your ibogaine research library — approximately 300 academic papers, clinical documents, and primary source interview transcripts (1957–2026), converted to searchable markdown with structured metadata.
+Welcome to your ibogaine research library — over 300 academic papers, clinical documents, and primary sources (1957–2026), converted to searchable markdown with structured metadata.
 
 ---
 
@@ -23,7 +23,7 @@ All content is readable as standard markdown. For programmatic access to the ful
 
 To find mortality data: filter `papers.json` for `mortality_count > 0` (31 papers). To find cardiac safety evidence: filter for `primary_category: "RED"` (47 papers). To find papers with QTc data: filter for `qtc_data: true` (54 papers).
 
-The vault's internal cross-references (`[[wikilinks]]`) appear as plain text on GitHub — the content is fully readable, but links between papers are not clickable. For the interactive experience with working links, graph view, and queryable databases, open the vault in [Obsidian](https://obsidian.md) (free, v1.4+).
+All cross-references between papers are standard markdown links — clickable on GitHub and in any markdown viewer. For the full interactive experience with graph view, backlinks, and queryable databases, open the vault in [Obsidian](https://obsidian.md) (free, v1.4+).
 
 ### In Obsidian (full interactive experience)
 
@@ -31,6 +31,8 @@ The vault's internal cross-references (`[[wikilinks]]`) appear as plain text on 
 2. Open the folder as an Obsidian vault
 3. Start from HOME.md — the dashboard with links to all Hubs
 4. Bases use native Obsidian Properties (no community plugins needed)
+
+Links use standard markdown format for broad compatibility. A setup script (`setup_obsidian.sh`) to convert to Obsidian's native double-bracket link format for enhanced graph and backlink features is planned for v1.1.
 
 ---
 
@@ -62,7 +64,7 @@ Papers have hierarchical tags describing their content:
 | `mechanism/` | `mechanism/herg-blockade`, `mechanism/sert-inhibition`, `mechanism/kappa-opioid` |
 | `method/` | `method/clinical-trial`, `method/preclinical`, `method/systematic-review` |
 
-See [[_meta/Tag_Taxonomy|Tag Taxonomy]] for the complete 62-tag list.
+See [Tag Taxonomy](_meta/Tag_Taxonomy.md) for the complete 62-tag list.
 
 ---
 
@@ -106,12 +108,12 @@ Press `Cmd + G` to see papers as a colour-coded network. Categories are automati
 - ⚪ Grey nodes = historical
 
 ### Method 4: Hub Navigation
-Start from [[HOME]] and follow links to domain-specific hubs:
-- [[RED_Cardiac_Safety_Hub]] — Start here for safety-critical evidence
-- [[GREEN_Clinical_Protocols_Hub]] — GITA guidelines, screening protocols
-- [[ORANGE_Mechanisms_Hub]] — Receptor pharmacology, GDNF, 18-MC
-- [[Key_Researchers_Hub]] — Navigate by researcher (Alper, Mash, Noller, etc.)
-- [[Clare_Wilkins_MOC]] — Clare Wilkins's complete materials (primary sources + publications)
+Start from [HOME](HOME.md) and follow links to domain-specific hubs:
+- [RED_Cardiac_Safety_Hub](Hubs/RED_Cardiac_Safety_Hub.md) — Start here for safety-critical evidence
+- [GREEN_Clinical_Protocols_Hub](Hubs/GREEN_Clinical_Protocols_Hub.md) — GITA guidelines, screening protocols
+- [ORANGE_Mechanisms_Hub](Hubs/ORANGE_Mechanisms_Hub.md) — Receptor pharmacology, GDNF, 18-MC
+- [Key_Researchers_Hub](Hubs/Key_Researchers_Hub.md) — Navigate by researcher (Alper, Mash, Noller, etc.)
+- [Clare_Wilkins_MOC](MOCs/Clare_Wilkins_MOC.md) — Clare Wilkins's complete materials (primary sources + publications)
 
 ### Method 5: Dataview Queries (Optional Plugin)
 With the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) community plugin, you can query the vault programmatically. For example, to list all RED papers with QTc data:
@@ -123,7 +125,7 @@ WHERE category = "RED" AND qtc_data = true
 SORT year DESC
 ```
 
-See [[_meta/VAULT_ARCHITECTURE|Technical Reference]] for the Bases system and more query patterns.
+See [Technical Reference](_meta/VAULT_ARCHITECTURE.md) for the Bases system and more query patterns.
 
 ---
 
@@ -135,7 +137,7 @@ Each paper contains:
 2. **Title & Citation** — original publication details
 3. **Key Findings** — one-line clinical significance summary
 4. **Full Content** — converted markdown text with tables/figures
-5. **See Also** — wikilinks to related papers
+5. **See Also** — cross-references to related papers
 
 ### Understanding Paper Metadata
 
@@ -159,7 +161,7 @@ Every paper has structured metadata (YAML frontmatter) at the top that enables f
 
 ## Recommended First Steps
 
-1. **Open [[HOME]]** — Dashboard with links to all Hubs and safety essentials
+1. **Open [HOME](HOME.md)** — Dashboard with links to all Hubs and safety essentials
 2. **Read RED papers first** — Cardiac safety is paramount
 3. **Explore the Hubs** — Each hub includes "How We Got Here" research arcs tracing how understanding evolved
 4. **Explore the graph** — `Cmd + G` to visualise connections
@@ -219,7 +221,7 @@ The original research PDFs are not stored in this repository — they live in a 
 
 This vault was created by converting PDFs to searchable markdown with structured metadata.
 
-- **[[_meta/VAULT_ARCHITECTURE|Technical Reference]]** — Bases syntax, folder structure, YAML schema overview
-- **[[_meta/Tag_Taxonomy|Tag Taxonomy]]** — Complete list of 62 canonical tags
-- **[[_meta/VAULT_PRINCIPLES|Design Principles]]** — Quality standards and clinical integrity principles
-- **[[CONTRIBUTING]]** — How to contribute papers, corrections, or improvements
+- **[Technical Reference](_meta/VAULT_ARCHITECTURE.md)** — Bases syntax, folder structure, YAML schema overview
+- **[Tag Taxonomy](_meta/Tag_Taxonomy.md)** — Complete list of 62 canonical tags
+- **[Design Principles](_meta/VAULT_PRINCIPLES.md)** — Quality standards and clinical integrity principles
+- **[CONTRIBUTING](CONTRIBUTING.md)** — How to contribute papers, corrections, or improvements

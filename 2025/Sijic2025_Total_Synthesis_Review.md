@@ -21,6 +21,8 @@ herg_data: false
 contraindications: []
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Totalna Sinteza Ibogaina (Total Synthesis of Ibogaine)
@@ -65,6 +67,6 @@ This synthesis review has limited direct clinical relevance but documents the in
 
 ## See Also
 
-- [[ORANGE_Mechanisms_Hub]]
-- [[2025/Lytychevskyi2025_Ibogaine_Synthesis_Development]] — Concurrent synthesis methodology thesis
-- [[2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release]] — Structure-activity relationships of iboga analogues
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
+- [Lytychevskyi2025_Ibogaine_Synthesis_Development](Lytychevskyi2025_Ibogaine_Synthesis_Development.md) — Concurrent synthesis methodology thesis
+- [Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release](../2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md) — Structure-activity relationships of iboga analogues

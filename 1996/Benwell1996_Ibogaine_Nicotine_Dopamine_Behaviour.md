@@ -36,6 +36,8 @@ dosing_range: "40 mg/kg IP (ibogaine in 25% ethanol/sterile water, 1.0 ml/kg)"
 route: intraperitoneal
 open_access: true
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 # Neurochemical and Behavioural Interactions Between Ibogaine and Nicotine in the Rat
 
@@ -178,9 +180,9 @@ This study provides preclinical evidence that ibogaine can attenuate nicotine's 
 ---
 
 ## See Also
-- [[1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis]] — Same microdialysis methodology applied to morphine-ibogaine interactions
-- [[1996/Reid1996_Local_Ibogaine_Dopamine]] — Local ibogaine effects on dopamine in the same year
-- [[1995/Popik1995_100Years_Ibogaine_Review]] — Comprehensive review cited extensively; NMDA receptor hypothesis
-- [[1996/Staley1996_Noribogaine_Receptor_Binding]] — Noribogaine receptor binding profile (the likely active metabolite discussed)
-- [[1993/OHearn1993_Purkinje_Cell_Degeneration]] — Neurotoxicity findings cited as concern
-- [[ORANGE_Mechanisms_Hub]]
+- [Maisonneuve1991_Ibogaine_Morphine_Microdialysis](../1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis.md) — Same microdialysis methodology applied to morphine-ibogaine interactions
+- [Reid1996_Local_Ibogaine_Dopamine](Reid1996_Local_Ibogaine_Dopamine.md) — Local ibogaine effects on dopamine in the same year
+- [Popik1995_100Years_Ibogaine_Review](../1995/Popik1995_100Years_Ibogaine_Review.md) — Comprehensive review cited extensively; NMDA receptor hypothesis
+- [Staley1996_Noribogaine_Receptor_Binding](Staley1996_Noribogaine_Receptor_Binding.md) — Noribogaine receptor binding profile (the likely active metabolite discussed)
+- [OHearn1993_Purkinje_Cell_Degeneration](../1993/OHearn1993_Purkinje_Cell_Degeneration.md) — Neurotoxicity findings cited as concern
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

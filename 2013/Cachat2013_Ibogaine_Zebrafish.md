@@ -42,6 +42,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Unique and potent effects of acute ibogaine on zebrafish: The developing utility of novel aquatic models for hallucinogenic drug research
@@ -172,10 +174,10 @@ This study's primary contribution is methodological rather than directly clinica
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis]] — Systematic review incorporating zebrafish model data
-- [[2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression]] — Complementary rat behavioural pharmacology
-- [[1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine]] — Earlier animal model cocaine studies
-- [[2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs]] — Neuropharmacology review context
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Mechanism synthesis
+- [Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis](../2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md) — Systematic review incorporating zebrafish model data
+- [Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression](../2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression.md) — Complementary rat behavioural pharmacology
+- [Maisonneuve1997_TimeDependent_Iboga_Cocaine](../1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine.md) — Earlier animal model cocaine studies
+- [Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs](../2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md) — Neuropharmacology review context
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Mechanism synthesis

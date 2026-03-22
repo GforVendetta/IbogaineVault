@@ -33,6 +33,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # A Preliminary Investigation of Ibogaine: Case Reports and Recommendations for Further Study
@@ -240,9 +242,9 @@ Claims by Lotsof (1986, 1991) that hard drug use is interrupted for 6 months cou
 ---
 
 ## See Also
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]] — Lotsof's own case studies and patient management approach
-- [[2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study]] — Later retrospective study with larger sample
-- [[2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities]] — Fatality review contextualising early treatment episodes
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]] — Historical context for the Amsterdam treatment community
-- [[BLUE_Outcomes_Hub]] — Central hub for clinical outcome evidence
-- [[WHITE_Historical_Hub]] — Historical context for early ibogaine use
+- [Lotsof2001_Case_Studies_Patient_Management](../2001/Lotsof2001_Case_Studies_Patient_Management.md) — Lotsof's own case studies and patient management approach
+- [Schenberg2014_Treating_Drug_Dependence_Retrospective_Study](../2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md) — Later retrospective study with larger sample
+- [Corkery2018_Ibogaine_Benefits_Dangers_Fatalities](../2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md) — Fatality review contextualising early treatment episodes
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — Historical context for the Amsterdam treatment community
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Central hub for clinical outcome evidence
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Historical context for early ibogaine use

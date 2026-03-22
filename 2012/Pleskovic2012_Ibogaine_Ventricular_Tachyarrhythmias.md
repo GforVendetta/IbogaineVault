@@ -38,6 +38,8 @@ route: oral
 open_access: false
 publisher: "Informa Healthcare"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine-Associated Ventricular Tachyarrhythmias
@@ -54,7 +56,7 @@ Letter to the editor reporting ventricular fibrillation (VF) and ventricular tac
 - **QTc progression:** 460 ms on admission → 510 ms after amiodarone initiation → 593 ms at 42 hours post-ingestion → normalisation by day 9
 - **Ibogaine pharmacokinetics:** Ibogaine and noribogaine detectable by LC-MS/MS from day 1 to day 9; highest ibogaine level 0.68 mg/L at the time of the last VF
 - **Amiodarone effect:** Administration of amiodarone (300 mg bolus + 1,200 mg/day) appeared to compound QTc prolongation; QTc transiently shortened during amiodarone withdrawal
-- **Vagal trigger:** 2 of 5 VF episodes and 3 of 3 VT episodes occurred during micturition or defecation, supporting the autonomic dysfunction hypothesis proposed by [[2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction|Maas & Strubelt (2006)]]
+- **Vagal trigger:** 2 of 5 VF episodes and 3 of 3 VT episodes occurred during micturition or defecation, supporting the autonomic dysfunction hypothesis proposed by [Maas & Strubelt (2006)](../2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md)
 - **Methadone contribution:** Residual methadone (0.04 mg/L without EDDP metabolite on day 1) may have contributed minimally to initial QTc prolongation
 - **Genetic/structural exclusion:** Long QT syndrome and structural heart disease were excluded
 
@@ -108,10 +110,10 @@ This case carries several direct implications for clinical protocols:
 ---
 
 ## See Also
-- [[2009/Hoelen2009_Long_QT_Ibogaine]] — First published ibogaine-induced long QT case in NEJM, directly cited
-- [[2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction]] — Autonomic dysfunction hypothesis for ibogaine fatalities, directly cited
-- [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — hERG channel mechanism for ibogaine arrhythmia risk (same year)
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Fatality review from the same year
-- [[2012/Paling2012_Life_Threatening_Complications]] — Another life-threatening case report from 2012
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — Pharmacokinetic data cited re: 48-hour half-life
-- [[RED_Cardiac_Safety_Hub]]
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — First published ibogaine-induced long QT case in NEJM, directly cited
+- [Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction](../2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md) — Autonomic dysfunction hypothesis for ibogaine fatalities, directly cited
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — hERG channel mechanism for ibogaine arrhythmia risk (same year)
+- [Alper2012_Ibogaine_Fatalities](Alper2012_Ibogaine_Fatalities.md) — Fatality review from the same year
+- [Paling2012_Life_Threatening_Complications](Paling2012_Life_Threatening_Complications.md) — Another life-threatening case report from 2012
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — Pharmacokinetic data cited re: 48-hour half-life
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

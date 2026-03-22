@@ -36,6 +36,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # A Review of the Mechanisms Involved in the Neuroprotection and Neurotoxicity of Iboga Alkaloids
@@ -139,19 +141,19 @@ The authors do not report systematic limitations, but the following methodologic
 - **Limited original analysis:** The review consolidates existing literature without meta-analysis, novel data synthesis, or quantitative comparison. The seven-alkaloid comparison table (Table 1) is the primary analytical contribution, but it does not include binding affinities (Kᵢ/IC₅₀ values) that would enable rigorous pharmacological comparison.
 - **Incomplete alkaloid coverage:** The review focuses on seven alkaloids from *T. iboga*, but Bading-Taïka et al. identified >30 known and 48 unknown alkaloids — leaving the vast majority of the alkaloid profile uncharacterised.
 - **Gabonese research infrastructure context:** The institutional setting (IPHAMETRA/CENAREST) provides a valuable perspective from iboga's region of origin, but limited access to certain databases may affect literature coverage.
-- **Cardiac toxicity treatment is secondary:** While sufficient for RED secondary classification, the cardiac mechanisms discussion lacks the depth of dedicated cardiac safety reviews (cf. [[2016/Litjens2016_How_Toxic_Is_Ibogaine]] or [[2016/Alper2016_hERG_Blockade]]).
+- **Cardiac toxicity treatment is secondary:** While sufficient for RED secondary classification, the cardiac mechanisms discussion lacks the depth of dedicated cardiac safety reviews (cf. [Litjens2016_How_Toxic_Is_Ibogaine](../2016/Litjens2016_How_Toxic_Is_Ibogaine.md) or [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md)).
 
 ---
 
 ## See Also
 
-**Parent hub:** [[Hubs/ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2006/He2006_Ibogaine_and_GDNF]] — Foundation study establishing GDNF as mediator of ibogaine's anti-addictive action against alcohol; directly supports this review's neuroprotection via neurotrophic factor pathway
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — Original preclinical data on dual BDNF/GDNF modulation in mesocorticolimbic and nigral circuits; provides the experimental basis for this review's neurotrophic claims
-- [[2016/Alper2016_hERG_Blockade_Iboga_Alkaloids]] — Original hERG assay data for iboga alkaloids including structure–activity relationships; the primary evidence underlying this review's hERG blockade discussion
-- [[2024/Uzelac2024_Cardiotoxic_Necrosis_Redox]] — Redox and cardiotoxicity mechanisms extending this review's cardiac pathway discussion
-- [[2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes]] — Antioxidant enzyme modulation data complementing this review's anti-inflammatory/antioxidant neuroprotection claims
-- [[2006/Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism]] — Brain energy metabolism mechanisms relevant to the neurotoxicity pathway via mitochondrial dysfunction
-- [[2016/Litjens2016_How_Toxic_Is_Ibogaine]] — Comprehensive toxicity review; provides the detailed cardiac and neurotoxicity analysis that this review summarises
+- [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — Foundation study establishing GDNF as mediator of ibogaine's anti-addictive action against alcohol; directly supports this review's neuroprotection via neurotrophic factor pathway
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — Original preclinical data on dual BDNF/GDNF modulation in mesocorticolimbic and nigral circuits; provides the experimental basis for this review's neurotrophic claims
+- [Alper2016_hERG_Blockade_Iboga_Alkaloids](../2016/Alper2016_hERG_Blockade_Iboga_Alkaloids.md) — Original hERG assay data for iboga alkaloids including structure–activity relationships; the primary evidence underlying this review's hERG blockade discussion
+- [Uzelac2024_Cardiotoxic_Necrosis_Redox](../2024/Uzelac2024_Cardiotoxic_Necrosis_Redox.md) — Redox and cardiotoxicity mechanisms extending this review's cardiac pathway discussion
+- [Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes](../2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes.md) — Antioxidant enzyme modulation data complementing this review's anti-inflammatory/antioxidant neuroprotection claims
+- [Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism](../2006/Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism.md) — Brain energy metabolism mechanisms relevant to the neurotoxicity pathway via mitochondrial dysfunction
+- [Litjens2016_How_Toxic_Is_Ibogaine](../2016/Litjens2016_How_Toxic_Is_Ibogaine.md) — Comprehensive toxicity review; provides the detailed cardiac and neurotoxicity analysis that this review summarises
 - Bowen2001_Sigma_Receptors_Iboga_Alkaloids — Source data for σ₂ receptor affinity profiles across iboga alkaloids; the mechanistic foundation for this review's σ₂–neurotoxicity correlation

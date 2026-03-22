@@ -33,9 +33,14 @@ contraindications: []
 open_access: false
 publisher: "Wiley"
 body_format: academic-retained
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Underground Ibogaine Use for the Treatment of Substance Use Disorders: A Qualitative Analysis of Subjective Experiences
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Borja J. Rodríguez-Cano** | **Maja Kohek** | **Genís Ona** | **Miguel Ángel Alcázar-Córcoles** | **Rafael G. dos Santos** | **Jaime E. C. Hallak** | **José Carlos Bouso**
 
@@ -386,10 +391,10 @@ Ethical approval was obtained from the Ethics Committee of Universidad Autónoma
 
 ## See Also
 
-**Parent hub:** [[PURPLE_Phenomenology_Hub]]
+**Parent hub:** [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md)
 
-- [[2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine]] — Qualitative subjective effects
-- [[2018/Rodger2018_Healing_Potential_Ibogaine]] — Phenomenological healing potential
-- [[2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety]] — Setting factors analysis
-- [[2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes]] — Clinical outcomes comparison
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — NZ observational study context
+- [Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine](../2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine.md) — Qualitative subjective effects
+- [Rodger2018_Healing_Potential_Ibogaine](../2018/Rodger2018_Healing_Potential_Ibogaine.md) — Phenomenological healing potential
+- [Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety](../2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) — Setting factors analysis
+- [Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md) — Clinical outcomes comparison
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — NZ observational study context

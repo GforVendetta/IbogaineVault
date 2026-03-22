@@ -30,6 +30,8 @@ contraindications: []
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Understanding the Healing Potential of Ibogaine through a Comparative and Interpretive Phenomenology of the Visionary Experience
@@ -133,12 +135,12 @@ The paper argues that Bwiti initiation and Western ibogaine treatment share stru
 
 ## See Also
 
-**Parent hub:** [[PURPLE_Phenomenology_Hub]]
+**Parent hub:** [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md)
 
-- [[2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine]] — Qualitative subjective effects; empirical complement to Rodger's theoretical framework
-- [[2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective]] — IES psychometric validation of the experiential dimensions Rodger describes qualitatively
-- [[2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences]] — Transpersonal phenomenology; extends the relational/intersubjective dimension Rodger identifies
-- [[1996/Lotsof1996_Trauma_Abreaction]] — Trauma processing framework; early conceptualisation of the autobiographical memory retrieval Rodger analyses through psychoanalytic lens
-- [[2004/Bastiaans2004_Life_After_Ibogaine]] — Life outcomes following treatment; empirical data on the post-integration trajectories Rodger theorises
-- [[2001/Alper2001_Ibogaine_Review]] — Comprehensive review; foundational pharmacological and social-historical context for Rodger's phenomenological analysis
-- [[2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context]] — Bwiti ethnographic complement; Fernandez's own comparative analysis of traditional and Western ibogaine use
+- [Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine](../2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine.md) — Qualitative subjective effects; empirical complement to Rodger's theoretical framework
+- [Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective](../2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective.md) — IES psychometric validation of the experiential dimensions Rodger describes qualitatively
+- [Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences](../2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences.md) — Transpersonal phenomenology; extends the relational/intersubjective dimension Rodger identifies
+- [Lotsof1996_Trauma_Abreaction](../1996/Lotsof1996_Trauma_Abreaction.md) — Trauma processing framework; early conceptualisation of the autobiographical memory retrieval Rodger analyses through psychoanalytic lens
+- [Bastiaans2004_Life_After_Ibogaine](../2004/Bastiaans2004_Life_After_Ibogaine.md) — Life outcomes following treatment; empirical data on the post-integration trajectories Rodger theorises
+- [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md) — Comprehensive review; foundational pharmacological and social-historical context for Rodger's phenomenological analysis
+- [Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context](../2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.md) — Bwiti ethnographic complement; Fernandez's own comparative analysis of traditional and Western ibogaine use

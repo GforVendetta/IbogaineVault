@@ -30,6 +30,7 @@ aliases:
 evidence_level: case-report
 sample_size: 1
 mortality_count: 1
+mortality_scope: discrete-cases
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -43,6 +44,8 @@ route: oral
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Determination of ibogaine and noribogaine in biological fluids and hair by LC–MS/MS after *Tabernanthe iboga* abuse: Iboga alkaloids distribution in a drowning death case
@@ -175,9 +178,9 @@ This case contributes critical forensic reference data for ibogaine post-mortem 
 ---
 
 ## See Also
-- [[2006/Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality]] — Directly comparable fatality case (48M); tissue distribution data cited in this paper's comparison table
-- [[2006/Kontrimaviciute2006_LCMS_Method_Ibogaine_Noribogaine]] — LC-MS method for ibogaine/noribogaine in plasma and whole blood; methodological predecessor
-- [[2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction]] — Ibogaine fatalities and cardiac autonomic dysfunction hypothesis; cited by this paper
-- [[2016/Litjens2016_How_Toxic_Is_Ibogaine]] — Systematic review of ibogaine toxicity including fatality compilation
-- [[2016/Meisner2016_Cardiac_Arrest_Death_Case]] — Ibogaine cardiac arrest fatality case report
-- [[RED_Cardiac_Safety_Hub]]
+- [Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality](../2006/Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality.md) — Directly comparable fatality case (48M); tissue distribution data cited in this paper's comparison table
+- [Kontrimaviciute2006_LCMS_Method_Ibogaine_Noribogaine](../2006/Kontrimaviciute2006_LCMS_Method_Ibogaine_Noribogaine.md) — LC-MS method for ibogaine/noribogaine in plasma and whole blood; methodological predecessor
+- [Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction](../2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md) — Ibogaine fatalities and cardiac autonomic dysfunction hypothesis; cited by this paper
+- [Litjens2016_How_Toxic_Is_Ibogaine](../2016/Litjens2016_How_Toxic_Is_Ibogaine.md) — Systematic review of ibogaine toxicity including fatality compilation
+- [Meisner2016_Cardiac_Arrest_Death_Case](../2016/Meisner2016_Cardiac_Arrest_Death_Case.md) — Ibogaine cardiac arrest fatality case report
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

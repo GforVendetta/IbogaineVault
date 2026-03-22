@@ -42,6 +42,8 @@ contraindications: []
 open_access: false
 publisher: "SAGE"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Main targets of ibogaine and noribogaine associated with its putative anti-addictive effects: A mechanistic overview
@@ -140,13 +142,13 @@ The review does not address the considerable inter-individual pharmacokinetic va
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1995/Popik1995_100Years_Ibogaine_Review]] — Foundational pharmacology review that this paper explicitly updates (the prior comprehensive mechanistic overview, published 28 years earlier)
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Receptorome-wide binding data for ibogaine and other psychedelics; source for serotonin receptor K_i values cited here
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Detailed noribogaine profiling establishing NOR's ~10× SERT potency advantage over IBO
-- [[2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms]] — Structural biology of the IBO–SERT complex confirming non-competitive active-site inhibition
+- [Popik1995_100Years_Ibogaine_Review](../1995/Popik1995_100Years_Ibogaine_Review.md) — Foundational pharmacology review that this paper explicitly updates (the prior comprehensive mechanistic overview, published 28 years earlier)
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Receptorome-wide binding data for ibogaine and other psychedelics; source for serotonin receptor K_i values cited here
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Detailed noribogaine profiling establishing NOR's ~10× SERT potency advantage over IBO
+- [Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms](../2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms.md) — Structural biology of the IBO–SERT complex confirming non-competitive active-site inhibition
 - Maillet2015_Noribogaine_G-Protein_Biased_KOR_Agonist — Key study establishing NOR's biased KOR agonism and dynorphin modulation
-- [[2006/He2006_Ibogaine_and_GDNF]] — Foundational GDNF mechanism work
-- [[2016/Alper2016_hERG_Blockade]] — hERG IC₅₀ data for iboga alkaloids (cardiac safety interface)
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — GDNF/BDNF expression in mesocorticolimbic and nigral circuits after IBO administration
+- [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — Foundational GDNF mechanism work
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG IC₅₀ data for iboga alkaloids (cardiac safety interface)
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — GDNF/BDNF expression in mesocorticolimbic and nigral circuits after IBO administration

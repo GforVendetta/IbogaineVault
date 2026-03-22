@@ -24,6 +24,8 @@ clinical_significance: low
 route: not-applicable
 open_access: true
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 ## IBOGAINE
@@ -86,10 +88,10 @@ This sounds utterly fabulous but, during her experience, Laura also saw images o
 
 ## See Also
 
-**Parent hub:** [[WHITE_Historical_Hub]]
+**Parent hub:** [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)
 
-- [[1995/- [[1995/Popik1995_100Years_Ibogaine_Review|Popik 1995]] — Landmark 100-year pharmacological review from NIH team]] — Comprehensive historical review covering early pharmacology
-- [[1996/Layer1996_IbogaineAnalogs_NMDA]] — NMDA receptor mechanism studies from same era
-- [[2002/Freelander2002_Comprehensive_Review]] — Later comprehensive review extending this general review
-- [[2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience]] — Modern DARK Classics update
-- [[2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs]] — Contemporary comprehensive review
+- [Popik 1995 — Landmark 100-year pharmacological review from NIH team](../1995/Popik1995_100Years_Ibogaine_Review.md) — Comprehensive historical review covering early pharmacology
+- [Layer1996_IbogaineAnalogs_NMDA](../1996/Layer1996_IbogaineAnalogs_NMDA.md) — NMDA receptor mechanism studies from same era
+- [Freelander2002_Comprehensive_Review](../2002/Freelander2002_Comprehensive_Review.md) — Later comprehensive review extending this general review
+- [Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience](../2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience.md) — Modern DARK Classics update
+- [Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs](../2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md) — Contemporary comprehensive review

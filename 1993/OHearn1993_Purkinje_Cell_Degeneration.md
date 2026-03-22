@@ -31,6 +31,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Degeneration of Purkinje Cells in Parasagittal Zones of the Cerebellar Vermis after Treatment with Ibogaine or Harmaline
@@ -132,8 +134,8 @@ This paper was historically influential in shaping the regulatory landscape for 
 ---
 
 ## See Also
-- [[1996/Glick1996_18MC_NonToxic]] — directly replicates O'Hearn Purkinje cell assay; confirms 18-MC produces no cerebellar toxicity at effective doses
-- [[2000/Glick2000_18-MC]] — 18-MC developed partly to avoid the cerebellar neurotoxicity demonstrated here
-- [[2001/Alper2001_Ibogaine_Review]] — comprehensive review contextualising neurotoxicity within broader risk-benefit
-- [[2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids]] — modern synthesis of iboga alkaloid neurotoxicity evidence
-- [[ORANGE_Mechanisms_Hub]]
+- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md) — directly replicates O'Hearn Purkinje cell assay; confirms 18-MC produces no cerebellar toxicity at effective doses
+- [Glick2000_18-MC](../2000/Glick2000_18-MC.md) — 18-MC developed partly to avoid the cerebellar neurotoxicity demonstrated here
+- [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md) — comprehensive review contextualising neurotoxicity within broader risk-benefit
+- [Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids](../2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md) — modern synthesis of iboga alkaloid neurotoxicity evidence
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

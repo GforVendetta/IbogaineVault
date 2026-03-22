@@ -30,6 +30,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Inhibitory Effects of Ibogaine on Cocaine Self-Administration in Rats
@@ -96,8 +98,8 @@ This 1993 study provides foundational preclinical evidence for ibogaine's anti-c
 ---
 
 ## See Also
-- [[1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine]] — Comprehensive mechanistic review of ibogaine's anti-addictive properties including cocaine models
-- [[2001/Glick2001_Mechanisms_Action_Ibogaine_18MC]] — Updated mechanisms review covering ibogaine and 18-MC anti-addictive pharmacology
-- [[2000/Glick2000_Legacy_African_Shrub]] — Broad review of ibogaine's anti-addictive evidence
-- [[2004/Bastiaans2004_Life_After_Ibogaine]] — Review citing Cappendijk & Dzoljic 1993 in context of ibogaine's clinical applications
-- [[BLUE_Outcomes_Hub]]
+- [Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine](../1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md) — Comprehensive mechanistic review of ibogaine's anti-addictive properties including cocaine models
+- [Glick2001_Mechanisms_Action_Ibogaine_18MC](../2001/Glick2001_Mechanisms_Action_Ibogaine_18MC.md) — Updated mechanisms review covering ibogaine and 18-MC anti-addictive pharmacology
+- [Glick2000_Legacy_African_Shrub](../2000/Glick2000_Legacy_African_Shrub.md) — Broad review of ibogaine's anti-addictive evidence
+- [Bastiaans2004_Life_After_Ibogaine](../2004/Bastiaans2004_Life_After_Ibogaine.md) — Review citing Cappendijk & Dzoljic 1993 in context of ibogaine's clinical applications
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)

@@ -28,6 +28,8 @@ contraindications: []
 source_pdf: "not-applicable"
 open_access: unknown
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # Clare Wilkins at EntheoScience 2017: Iboga, Cannabis, Ethics and Alliance
@@ -139,9 +141,9 @@ Since the last conference, since the executive director resigned, it has fizzled
 
 ## See Also
 
-**Parent hub:** [[WHITE_Historical_Hub]]
+**Parent hub:** [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)
 
-- [[Clare_Wilkins_MOC]] — Complete index of Clare Wilkins materials
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — GITA clinical guidelines
-- [[Primary_Sources/2017_BC_Clare_Wilkins_Methadone_Detox]] — Related 2017 talk
-- [[Primary_Sources/2017_PS_Clare_Wilkins_Methadone_Detox]] — Related 2017 talk
+- [Clare_Wilkins_MOC](../MOCs/Clare_Wilkins_MOC.md) — Complete index of Clare Wilkins materials
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — GITA clinical guidelines
+- [2017_BC_Clare_Wilkins_Methadone_Detox](2017_BC_Clare_Wilkins_Methadone_Detox.md) — Related 2017 talk
+- [2017_PS_Clare_Wilkins_Methadone_Detox](2017_PS_Clare_Wilkins_Methadone_Detox.md) — Related 2017 talk

@@ -27,6 +27,8 @@ contraindications:
   - "Maintenance regimen beyond 20-25 days without break — jitteriness, sleep disturbance, overstimulation"
 open_access: unknown
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 ## Ibogaine in the 21st Century: Boosters, Tune-ups and Maintenance
@@ -200,11 +202,11 @@ http://www.ibogaine.co.uk
 
 ## See Also
 
-**Parent hub:** [[GREEN_Clinical_Protocols_Hub]]
+**Parent hub:** [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)
 
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]] — Howard Lotsof's earlier patient management approach this booster protocol extends
-- [[1999/Alper1999_Acute_Opioid_Withdrawal]] — Acute treatment data this maintenance approach builds upon
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Later guidelines incorporating booster dose considerations
-- [[2017/Wilkins2017_Methadone_Low_Dose]] — Low-dose methadone detoxification approach in same pragmatic tradition
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — Observational outcomes data supporting sustained treatment effects
+- [Lotsof2001_Case_Studies_Patient_Management](../2001/Lotsof2001_Case_Studies_Patient_Management.md) — Howard Lotsof's earlier patient management approach this booster protocol extends
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — Acute treatment data this maintenance approach builds upon
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Later guidelines incorporating booster dose considerations
+- [Wilkins2017_Methadone_Low_Dose](../2017/Wilkins2017_Methadone_Low_Dose.md) — Low-dose methadone detoxification approach in same pragmatic tradition
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — Observational outcomes data supporting sustained treatment effects
 

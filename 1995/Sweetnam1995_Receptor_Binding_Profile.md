@@ -36,6 +36,8 @@ contraindications: []
 open_access: false
 publisher: "Springer Nature"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Receptor Binding Profile Suggests Multiple Mechanisms of Action Are Responsible for Ibogaine's Putative Anti-Addictive Activity
@@ -109,7 +111,7 @@ For clinical context, this foundational binding data informs several considerati
 
 **Multi-system therapeutic action:** The binding profile supports ibogaine's observed capacity to address multiple dimensions of addiction simultaneously — dopaminergic reward (DAT), glutamatergic learning/memory (NMDA), opioid withdrawal (μ/κ/δ receptors), and serotonergic mood regulation (5-HT₂/5-HT₃/SERT). This multi-target profile may explain why single-receptor medications for addiction have limited efficacy by comparison.
 
-**Noribogaine context:** This study tested only ibogaine, not its active metabolite noribogaine (12-hydroxyibogamine). Subsequent work by [[1995/Pearl1995_Noribogaine_Opioid_Binding|Pearl et al. (1995)]] and [[1995/Mash1995_Noribogaine_SERT_Identification|Mash et al. (1995)]] demonstrated noribogaine has distinct and often higher receptor affinities, particularly at the serotonin transporter and opioid receptors.
+**Noribogaine context:** This study tested only ibogaine, not its active metabolite noribogaine (12-hydroxyibogamine). Subsequent work by [Pearl et al. (1995)](Pearl1995_Noribogaine_Opioid_Binding.md) and [Mash et al. (1995)](Mash1995_Noribogaine_SERT_Identification.md) demonstrated noribogaine has distinct and often higher receptor affinities, particularly at the serotonin transporter and opioid receptors.
 
 ## Limitations
 
@@ -131,8 +133,8 @@ The following OCR/extraction artefacts were identified and corrected during conv
 
 ## See Also
 
-- [[1995/Bowen1995_Sigma_Receptor_Selectivity]] — σ-receptor binding selectivity, same era
-- [[1995/Pearl1995_Noribogaine_Opioid_Binding]] — noribogaine opioid receptor binding (complementary metabolite data)
-- [[1995/Mash1995_Noribogaine_SERT_Identification]] — noribogaine serotonin transporter identification
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — comprehensive noribogaine receptor characterisation
-- [[ORANGE_Mechanisms_Hub]] — pharmacology and mechanisms of action hub
+- [Bowen1995_Sigma_Receptor_Selectivity](Bowen1995_Sigma_Receptor_Selectivity.md) — σ-receptor binding selectivity, same era
+- [Pearl1995_Noribogaine_Opioid_Binding](Pearl1995_Noribogaine_Opioid_Binding.md) — noribogaine opioid receptor binding (complementary metabolite data)
+- [Mash1995_Noribogaine_SERT_Identification](Mash1995_Noribogaine_SERT_Identification.md) — noribogaine serotonin transporter identification
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — comprehensive noribogaine receptor characterisation
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — pharmacology and mechanisms of action hub

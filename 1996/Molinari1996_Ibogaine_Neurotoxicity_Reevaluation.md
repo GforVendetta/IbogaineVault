@@ -30,6 +30,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine Neurotoxicity: A Re-evaluation
@@ -114,7 +116,7 @@ The finding that any motor deficits from high-dose neurotoxicity would preferent
 ---
 
 ## See Also
-- [[1996/Glick1996_18MC_NonToxic]] — companion paper on 18-MC lacking neurotoxicity
-- [[1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine]] — broader review of Glick lab's mechanistic programme, citing this study
-- [[1998/Glick1998_18MC_Nicotine]] — further 18-MC characterisation from same research group
-- [[ORANGE_Mechanisms_Hub]]
+- [Glick1996_18MC_NonToxic](Glick1996_18MC_NonToxic.md) — companion paper on 18-MC lacking neurotoxicity
+- [Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine](../1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md) — broader review of Glick lab's mechanistic programme, citing this study
+- [Glick1998_18MC_Nicotine](../1998/Glick1998_18MC_Nicotine.md) — further 18-MC characterisation from same research group
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

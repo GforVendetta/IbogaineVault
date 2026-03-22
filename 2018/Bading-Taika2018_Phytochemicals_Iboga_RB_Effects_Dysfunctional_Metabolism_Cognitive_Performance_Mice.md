@@ -35,9 +35,14 @@ contraindications: []
 open_access: true
 publisher: "Food Science Publisher"
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Phytochemical characterization of *Tabernanthe iboga* root bark and its effects on dysfunctional metabolism and cognitive performance in high-fat-fed C57BL/6J mice
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Journal of Food Bioactives**
 **International Society for Nutraceuticals and Functional Foods**
@@ -376,10 +381,10 @@ This work was supported by the Gabon-Oregon Center (B.B.-T., C.L.M. and J.F.S.),
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2006/Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism]] — Brain energy metabolism
-- [[2010/Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP]] — ATP adaptation mechanisms
-- [[2024/Ivan2024_Nonclassic_Psychedelic_Ibogaine_Disrupts_Cognitive_Maps]] — Cognitive disruption
-- [[2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids]] — Metabolic mechanisms
-- [[2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs]] — Phytochemistry context
+- [Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism](../2006/Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism.md) — Brain energy metabolism
+- [Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP](../2010/Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP.md) — ATP adaptation mechanisms
+- [Ivan2024_Nonclassic_Psychedelic_Ibogaine_Disrupts_Cognitive_Maps](../2024/Ivan2024_Nonclassic_Psychedelic_Ibogaine_Disrupts_Cognitive_Maps.md) — Cognitive disruption
+- [Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids](../2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md) — Metabolic mechanisms
+- [Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs](../2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md) — Phytochemistry context

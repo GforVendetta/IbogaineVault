@@ -36,6 +36,8 @@ contraindications:
 open_access: false
 publisher: "Taylor & Francis"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Open-label study of consecutive ibogaine and 5-MeO-DMT assisted-therapy for trauma-exposed male Special Operations Forces Veterans
@@ -141,7 +143,7 @@ Self-report surveys were administered at baseline (n = 86), one month (n = 71), 
 
 Participants reported seeking treatment for memory/concentration problems (84.9%), TBI (81.4%), depression (79.1%), anxiety (76.7%), PTSD (72.1%), sleep problems (67.4%), anger/rage (60.5%), and fatigue (57%). Prior interventions attempted included dietary/nutritional approaches (75.6%), nutraceutical supplements (62.8%), yoga (59.3%), acupuncture (54.7%), cannabis (52.3%), psychotherapy (51.2%), and psychiatric medications (46.5%). This extensive prior treatment history positions the cohort as functionally treatment-experienced, though the lack of detailed SSRI data limits characterisation of true treatment resistance.
 
-The improvement in post-concussive symptoms (NSI reduction from 31.48 to 18.84, η² = .389) stands out as one of the study's most distinctive contributions, given the extreme TBI prevalence in this population. Whether this reflects genuine neurological recovery versus resolution of overlapping psychiatric symptomatology remains an open question that the authors appropriately flag for mechanistic investigation — a question subsequently addressed by the [[2024/Cherian2024_Magnesium_Ibogaine_TBI|Cherian et al. (2024)]] MISTIC trial.
+The improvement in post-concussive symptoms (NSI reduction from 31.48 to 18.84, η² = .389) stands out as one of the study's most distinctive contributions, given the extreme TBI prevalence in this population. Whether this reflects genuine neurological recovery versus resolution of overlapping psychiatric symptomatology remains an open question that the authors appropriately flag for mechanistic investigation — a question subsequently addressed by the [Cherian et al. (2024)](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) MISTIC trial.
 
 ## Clinical Implications
 
@@ -149,7 +151,7 @@ The rapidity of onset — measurable within one month of a three-day interventio
 
 The group administration format deserves attention. Ibogaine was delivered in a shared setting with 2–5 co-participants, reflecting indigenous ceremonial practice rather than the individualised dosing model predominant in Western psychedelic clinical trials. The authors suggest this communal element may be particularly well-suited to military populations who value peer connection and shared experience, though the design cannot isolate group effects from pharmacological ones.
 
-The sustained six-month trajectory, achieved without booster sessions, raises important questions about whether these substances facilitate durable neuroplastic or psychological reorganisation — a hypothesis now being explored through neuroimaging approaches in the related [[2025/Williams2025_Magnesium_Ibogaine_TBI|Williams et al. (2025)]] work.
+The sustained six-month trajectory, achieved without booster sessions, raises important questions about whether these substances facilitate durable neuroplastic or psychological reorganisation — a hypothesis now being explored through neuroimaging approaches in the related [Williams et al. (2025)](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) work.
 
 ## Limitations
 
@@ -159,11 +161,11 @@ The authors identify several substantive constraints. No adverse event data were
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[2020/Davis2020_SpecialOps_Veterans_Trauma]] — Retrospective predecessor study (n = 51) with the same population and programme
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol: controlled investigation of ibogaine for TBI in veterans, addressing the mechanistic questions raised here
-- [[2025/Williams2025_Magnesium_Ibogaine_TBI]] — Neuroimaging follow-up exploring neural mechanisms of ibogaine-related TBI improvement
-- [[2018/Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder]] — Case report establishing the sequential ibogaine + 5-MeO-DMT combination protocol with SPECT imaging
-- [[2023/Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts]] — Commentary on methodological challenges of studying combination psychedelic protocols outside clinical trials
-- [[2021/Knuijver2021_Safety_Opioid_Detox]] — Cardiac safety considerations for ibogaine administration relevant to the absence of adverse event reporting in this study
+- [Davis2020_SpecialOps_Veterans_Trauma](../2020/Davis2020_SpecialOps_Veterans_Trauma.md) — Retrospective predecessor study (n = 51) with the same population and programme
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol: controlled investigation of ibogaine for TBI in veterans, addressing the mechanistic questions raised here
+- [Williams2025_Magnesium_Ibogaine_TBI](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — Neuroimaging follow-up exploring neural mechanisms of ibogaine-related TBI improvement
+- [Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder](../2018/Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder.md) — Case report establishing the sequential ibogaine + 5-MeO-DMT combination protocol with SPECT imaging
+- [Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts](Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts.md) — Commentary on methodological challenges of studying combination psychedelic protocols outside clinical trials
+- [Knuijver2021_Safety_Opioid_Detox](../2021/Knuijver2021_Safety_Opioid_Detox.md) — Cardiac safety considerations for ibogaine administration relevant to the absence of adverse event reporting in this study

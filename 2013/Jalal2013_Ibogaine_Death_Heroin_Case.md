@@ -27,6 +27,7 @@ aliases:
 evidence_level: case-report
 sample_size: 1
 mortality_count: 1
+mortality_scope: discrete-cases
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -38,6 +39,8 @@ route: oral
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # A Case of Death Due to Ibogaine Use for Heroin Addiction
@@ -96,8 +99,8 @@ This case powerfully illustrates why pre-treatment cardiac screening protocol is
 ---
 
 ## See Also
-- [[RED_Cardiac_Safety_Hub]]
-- [[2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction]] — Cited in this paper; proposes autonomic dysfunction mechanism for ibogaine cardiac fatalities
-- [[2009/Hoelen2009_Long_QT_Ibogaine]] — Cited in this paper; documents ibogaine-induced Long-QT syndrome
-- [[2013/Mazoyer2013_Fatality_Case]] — Contemporary fatality case report from same year
-- [[2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020]] — Comprehensive adverse events review incorporating this case
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
+- [Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction](../2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md) — Cited in this paper; proposes autonomic dysfunction mechanism for ibogaine cardiac fatalities
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — Cited in this paper; documents ibogaine-induced Long-QT syndrome
+- [Mazoyer2013_Fatality_Case](Mazoyer2013_Fatality_Case.md) — Contemporary fatality case report from same year
+- [Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020](../2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md) — Comprehensive adverse events review incorporating this case

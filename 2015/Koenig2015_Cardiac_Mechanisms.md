@@ -38,6 +38,7 @@ qtc_data: true
 electrolyte_data: true
 herg_data: true
 mortality_count: 22
+mortality_scope: cumulative-review
 contraindications:
   - "hypokalemia"
   - "hypomagnesemia"
@@ -58,6 +59,8 @@ route: oral
 open_access: true
 publisher: "MDPI"
 body_format: hybrid
+licence_type: cc-by
+licence_verified: false
 ---
 
 <!-- image -->
@@ -512,13 +515,13 @@ This review established the framework that the field subsequently built upon for
 
 ## See Also
 
-- [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — Same group's initial hERG blockade characterisation (IC₅₀ 3.9 μM)
-- [[2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile]] — Same group's comprehensive ion channel profiling (hERG, Naᵥ1.5, Caᵥ1.2, 18-MC comparison)
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Fatality documentation this cardiac mechanisms review synthesises
-- [[2016/Alper2016_hERG_Blockade]] — Refined hERG IC₅₀ values (ibogaine 4.09 μM, noribogaine 2.86 μM)
-- [[2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias]] — Clinical case: ibogaine-induced VT
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Protocols implementing the cardiac screening this review recommends
-- [[2024/Uzelac2024_Cardiotoxic_Necrosis_Redox]] — Recent cardiotoxicity mechanisms extending this review
-- [[2018/Steinberg2018_Cardiac_Arrest_Case]] — Documented cardiac arrest case illustrating mechanisms reviewed here
-- [[RED_Cardiac_Safety_Hub]]
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — Same group's initial hERG blockade characterisation (IC₅₀ 3.9 μM)
+- [Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile](../2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile.md) — Same group's comprehensive ion channel profiling (hERG, Naᵥ1.5, Caᵥ1.2, 18-MC comparison)
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Fatality documentation this cardiac mechanisms review synthesises
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Refined hERG IC₅₀ values (ibogaine 4.09 μM, noribogaine 2.86 μM)
+- [Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias](../2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.md) — Clinical case: ibogaine-induced VT
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Protocols implementing the cardiac screening this review recommends
+- [Uzelac2024_Cardiotoxic_Necrosis_Redox](../2024/Uzelac2024_Cardiotoxic_Necrosis_Redox.md) — Recent cardiotoxicity mechanisms extending this review
+- [Steinberg2018_Cardiac_Arrest_Case](../2018/Steinberg2018_Cardiac_Arrest_Case.md) — Documented cardiac arrest case illustrating mechanisms reviewed here
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
 

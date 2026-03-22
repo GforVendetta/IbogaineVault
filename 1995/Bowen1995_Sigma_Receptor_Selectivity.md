@@ -34,6 +34,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine and Its Congeners Are σ Receptor-Selective Ligands with Moderate Affinity
@@ -100,8 +102,8 @@ This paper's direct clinical relevance is limited — it characterises in-vitro 
 ---
 
 ## See Also
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — comprehensive receptorome profiling including σ binding data
-- [[1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine]] — mechanistic review incorporating σ receptor findings
-- [[1999/Glick1999_18MC_Review_CNS_Drugs]] — 18-MC review addressing receptor selectivity and reduced toxicity
-- [[1995/- [[1995/Popik1995_100Years_Ibogaine_Review|Popik 1995]] — Landmark 100-year pharmacological review from NIH team]] — contemporaneous comprehensive review of ibogaine pharmacology
-- [[ORANGE_Mechanisms_Hub]]
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — comprehensive receptorome profiling including σ binding data
+- [Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine](../1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md) — mechanistic review incorporating σ receptor findings
+- [Glick1999_18MC_Review_CNS_Drugs](../1999/Glick1999_18MC_Review_CNS_Drugs.md) — 18-MC review addressing receptor selectivity and reduced toxicity
+- [Popik 1995 — Landmark 100-year pharmacological review from NIH team](Popik1995_100Years_Ibogaine_Review.md) — contemporaneous comprehensive review of ibogaine pharmacology
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

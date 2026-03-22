@@ -59,6 +59,8 @@ contraindications:
   - "Liver enzymes >400% above normal (NIDA threshold)"
 open_access: unknown
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 # Manual for Ibogaine Therapy
 ## Screening, Safety, Monitoring & Aftercare
@@ -87,7 +89,7 @@ This manual represents the **foundational document for ibogaine treatment protoc
 - Documented multi-dose and low-dose regimens alongside single high-dose paradigm
 - Addressed product identity confusion (purified HCl vs. total alkaloid extract vs. root bark)
 
-This manual became the template for [[Clinical_Guidelines/GITA2015_Clinical_Guidelines|GITA Clinical Guidelines]], Ambio protocols, and virtually all subsequent ibogaine treatment standards.
+This manual became the template for [GITA Clinical Guidelines](GITA2015_Clinical_Guidelines.md), Ambio protocols, and virtually all subsequent ibogaine treatment standards.
 
 ---
 
@@ -149,7 +151,7 @@ The primary issue the authors are attempting to address is that no medical testi
 ### Recorded Fatalities and Lessons Learned (as of 2003)
 
 **1. France (1989):** A 40-year-old woman died approximately 4 hours after 8 mg/kg of purified ibogaine administered for psychotherapy. This was the lowest dose associated with an ibogaine-related fatality on record. Autopsy found significant blockage of the main arteries to the heart. The patient had a history of cardiovascular disorders that may not have been investigated.
-**Lesson:** Priority attention to medical history and electrocardiogram (EKG). See also [[2012/Alper2012_Ibogaine_Fatalities]].
+**Lesson:** Priority attention to medical history and electrocardiogram (EKG). See also [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md).
 
 **2. Netherlands:** Woman in her mid-twenties died 16 hours after 29 mg/kg in a split dose (23 mg/kg initial + 6 mg/kg approximately 3 hours later). The autopsy did not determine the cause of death. This brought attention to ibogaine's potentiation of opiate and stimulant toxicity.
 **Lesson:** Concurrent drug use during ibogaine therapy may be fatal. Ibogaine increases the effects and toxicity of opiates and stimulants.
@@ -272,7 +274,7 @@ Two useful surveys that should be included in ibogaine therapy are the **Objecti
 
 ### Comparison: Objective Opiate Withdrawal Signs vs. Ibogaine Signs — Human Observations
 
-*Based on Lotsof, Della Sera and Kaplan, presented at the 37th International Congress on Alcohol and Drug Dependence, University of California San Diego (1995). See also [[1999/Alper1999_Acute_Opioid_Withdrawal]].*
+*Based on Lotsof, Della Sera and Kaplan, presented at the 37th International Congress on Alcohol and Drug Dependence, University of California San Diego (1995). See also [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md).*
 
 | Signs | Opiate Withdrawal | Ibogaine | Ibogaine + Opiates |
 |-------|-------------------|----------|-------------------|
@@ -327,7 +329,7 @@ Reports from ibogaine treatment observations indicate respiratory depression may
 
 ### Religious Exemption to Medical Testing
 
-One author suggests that medical testing should not be included when ibogaine is used as a religious sacrament, arguing for a religious exemption. Persons undergoing religious initiation are questioned at length as to their health, and those who will accompany them during initiation are also questioned and advised as to the possibility of death. Once the possibility of fatalities is mentioned, usually more significant health information is provided. Women initiates are informed they may be at greater risk and are asked, should they find the door that allows them to leave this life, that they must not take that door as it would be destructive for everyone involved. These descriptions appear consistent with Bwiti initiation protocols. See also [[2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context]].
+One author suggests that medical testing should not be included when ibogaine is used as a religious sacrament, arguing for a religious exemption. Persons undergoing religious initiation are questioned at length as to their health, and those who will accompany them during initiation are also questioned and advised as to the possibility of death. Once the possibility of fatalities is mentioned, usually more significant health information is provided. Women initiates are informed they may be at greater risk and are asked, should they find the door that allows them to leave this life, that they must not take that door as it would be destructive for everyone involved. These descriptions appear consistent with Bwiti initiation protocols. See also [Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context](../2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.md).
 
 ### Psychiatric Safety
 
@@ -366,7 +368,7 @@ One author notes: "Testing for sexually transmitted diseases is always important
    - Uric acid: 4.1 to 8.8 mg/dl
    - RBC, WBC, Haematocrit, Haemoglobin (within normal ranges)
 8. **Test Dose:** 100 mg (total) test dose of ibogaine. Should the subject not have an adverse or atypical response, a full therapeutic dose may be considered.
-9. **CYP450 2D6 Testing:** Ibogaine providers following a medical model may require evaluation of cytochrome P450 enzyme activity. Particularly, P450 2D6 (CYP4502D6) plays a significant role in the metabolism of ibogaine to noribogaine, its active metabolite. Testing allows a determination of whether the patient will be a "poor metaboliser" (PM), "intermediate metaboliser" (IM), "extensive metaboliser" (EM) or "ultra-rapid metaboliser" (UM). This testing is now available through commercial laboratories. See also [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]].
+9. **CYP450 2D6 Testing:** Ibogaine providers following a medical model may require evaluation of cytochrome P450 enzyme activity. Particularly, P450 2D6 (CYP4502D6) plays a significant role in the metabolism of ibogaine to noribogaine, its active metabolite. Testing allows a determination of whether the patient will be a "poor metaboliser" (PM), "intermediate metaboliser" (IM), "extensive metaboliser" (EM) or "ultra-rapid metaboliser" (UM). This testing is now available through commercial laboratories. See also [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md).
 
 ---
 
@@ -488,7 +490,7 @@ Three principal forms of ibogaine of diverse purities are in use in ibogaine the
 
 ### Comparative Dose and Strength Tables
 
-*From the chapter by James and Renate Fernandez in Vol. 56 of The Alkaloids series, Academic Press (2001). See also [[2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context]].*
+*From the chapter by James and Renate Fernandez in Vol. 56 of The Alkaloids series, Academic Press (2001). See also [Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context](../2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.md).*
 
 #### Alper et al.
 
@@ -643,7 +645,7 @@ The manual's Second Revision included 24 numbered reference links to supporting 
 9. DSM-IV (Redacted)
 10. Beck Depression Inventory (FDA document)
 11. MMPI-2
-12. **Alper, K.R.** — Ibogaine and Opioid Withdrawal (*paper linked*). See [[1999/Alper1999_Acute_Opioid_Withdrawal]].
+12. **Alper, K.R.** — Ibogaine and Opioid Withdrawal (*paper linked*). See [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md).
 13. **Lotsof, H.S. (1995).** Ibogaine in the Treatment of Chemical Dependence Disorders: Clinical Perspectives. *MAPS Bulletin*, V(3).
 14. Clinical Perspectives on Ibogaine
 15. **Frenken, G.** — Ibogaine Treatment Protocol (*document linked*)
@@ -661,7 +663,7 @@ The manual's Second Revision included 24 numbered reference links to supporting 
 
 ### Clinical Implications
 
-This manual remains the **foundational reference for ibogaine treatment protocol development**. While superseded in specific areas by modern evidence (cardiac screening now includes QTc monitoring not discussed here; [[2024/Cherian2024_Magnesium_Ibogaine_TBI|MISTIC protocol]] offers cardioprotective magnesium co-administration), its core principles endure:
+This manual remains the **foundational reference for ibogaine treatment protocol development**. While superseded in specific areas by modern evidence (cardiac screening now includes QTc monitoring not discussed here; [MISTIC protocol](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) offers cardioprotective magnesium co-administration), its core principles endure:
 
 - **48-hour minimum monitoring** — validated by the UK fatality occurring at 38 hours post-dose after apparent recovery
 - **EKG screening as absolute minimum** — the French fatality at just 8 mg/kg in a patient with undiagnosed coronary artery disease underscores this
@@ -681,10 +683,10 @@ The manual preserves the **only systematic record of multi-author clinical debat
 
 ## Limitations
 
-- **No cardiac-specific monitoring protocols:** EKG is recommended but QTc prolongation, hERG channel blockade, and electrolyte monitoring are not discussed — these were not yet understood as ibogaine-specific risks in 2003. See [[2016/Alper2016_hERG_Blockade]] and [[RED_Cardiac_Safety_Hub]].
+- **No cardiac-specific monitoring protocols:** EKG is recommended but QTc prolongation, hERG channel blockade, and electrolyte monitoring are not discussed — these were not yet understood as ibogaine-specific risks in 2003. See [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) and [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md).
 - **No controlled clinical trial data:** All clinical evidence is anecdotal/observational from underground treatment settings.
 - **Product standardisation absent:** No analytical chemistry verification of ibogaine content was standard practice. Dose calculations relied on manufacturer claims.
-- **Small fatality dataset:** Only 3 documented fatalities as of 2003. The safety profile was subsequently revised as more cases emerged. See [[2012/Alper2012_Ibogaine_Fatalities]].
+- **Small fatality dataset:** Only 3 documented fatalities as of 2003. The safety profile was subsequently revised as more cases emerged. See [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md).
 - **Contributing author perspectives are unblinded:** Authors report their own patient outcomes without independent verification or standardised outcome measures.
 - **No pharmacokinetic data integration:** CYP2D6 testing is recommended but no dose-adjustment algorithms based on metaboliser status are provided.
 - **Gender-specific dosing guidance incomplete:** Female sensitivity is noted but no specific dose-reduction protocols are offered.
@@ -695,29 +697,29 @@ The manual preserves the **only systematic record of multi-author clinical debat
 ## See Also
 
 ### Direct References and Cited Works
-- [[1999/Alper1999_Acute_Opioid_Withdrawal]] — Alper withdrawal paper (cited as document #12)
-- [[2001/Alper2001_Ibogaine_Review]] — Alper comprehensive review
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]] — Historical context
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Expanded fatality analysis
-- [[2016/Alper2016_hERG_Blockade]] — Cardiac mechanism absent from this manual
-- [[2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context]] — Bwiti dose calculations cited
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — Pharmacokinetics referenced
-- [[2001/Mash2001_Ibogaine_Heroin_Withdrawal]] — Clinical observations
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — Alper withdrawal paper (cited as document #12)
+- [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md) — Alper comprehensive review
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — Historical context
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Expanded fatality analysis
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Cardiac mechanism absent from this manual
+- [Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context](../2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.md) — Bwiti dose calculations cited
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — Pharmacokinetics referenced
+- [Mash2001_Ibogaine_Heroin_Withdrawal](../2001/Mash2001_Ibogaine_Heroin_Withdrawal.md) — Clinical observations
 
 ### Related Vault Documents
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]] — Companion case study document
-- [[1996/Lotsof1996_Trauma_Abreaction]] — Lotsof on ibogaine and trauma
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Successor protocol document
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol (cardioprotective advancement)
-- [[2024/Cherian2024_Ibogaine_Primer_Clinicians]] — Modern clinical primer
-- [[2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020]] — Updated adverse event data
-- [[2024/Ona2024_PhD_Thesis_Opioid_Dependence]] — Comprehensive modern review
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — NZ observational study (NZ clinical lineage)
-- [[2004/Bastiaans2004_Life_After_Ibogaine]] — Post-treatment integration outcomes
+- [Lotsof2001_Case_Studies_Patient_Management](../2001/Lotsof2001_Case_Studies_Patient_Management.md) — Companion case study document
+- [Lotsof1996_Trauma_Abreaction](../1996/Lotsof1996_Trauma_Abreaction.md) — Lotsof on ibogaine and trauma
+- [GITA2015_Clinical_Guidelines](GITA2015_Clinical_Guidelines.md) — Successor protocol document
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol (cardioprotective advancement)
+- [Cherian2024_Ibogaine_Primer_Clinicians](../2024/Cherian2024_Ibogaine_Primer_Clinicians.md) — Modern clinical primer
+- [Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020](../2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md) — Updated adverse event data
+- [Ona2024_PhD_Thesis_Opioid_Dependence](../2024/Ona2024_PhD_Thesis_Opioid_Dependence.md) — Comprehensive modern review
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — NZ observational study (NZ clinical lineage)
+- [Bastiaans2004_Life_After_Ibogaine](../2004/Bastiaans2004_Life_After_Ibogaine.md) — Post-treatment integration outcomes
 
 ### Hub and MOC Navigation
-- [[Howard_Lotsof_MOC]] — Lotsof research network
-- [[GREEN_Clinical_Protocols_Hub]] — Clinical guidelines collection
-- [[RED_Cardiac_Safety_Hub]] — Cardiac safety evidence (gaps in this manual)
-- [[WHITE_Historical_Hub]] — Historical context
-- [[PURPLE_Phenomenology_Hub]] — Subjective experience (Stage 1 and 2 descriptions)
+- [Howard_Lotsof_MOC](../MOCs/Howard_Lotsof_MOC.md) — Lotsof research network
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md) — Clinical guidelines collection
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Cardiac safety evidence (gaps in this manual)
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Historical context
+- [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md) — Subjective experience (Stage 1 and 2 descriptions)

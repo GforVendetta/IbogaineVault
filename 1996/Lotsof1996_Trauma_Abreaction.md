@@ -28,9 +28,14 @@ dosing_range: "10 mg/kg (PK study) and 20 mg/kg (therapeutic) oral — Case 2 on
 contraindications: []
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # IBOGAINE, TRAUMA, AND ABREACTION: THE TREATMENT OF CHEMICAL DEPENDENCE
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **H.S. Lotsof¹, C.A. Smith F.², J. Bastiaans³**
 
@@ -209,10 +214,10 @@ Sisko B, Interrupting Drug Dependency with Ibogaine: A Summary of Four Case Hist
 
 ## See Also
 
-**Parent hub:** [[GREEN_Clinical_Protocols_Hub]]
+**Parent hub:** [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)
 
-- [[1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs]] — Naranjo's earlier phenomenological framework this psychological model extends
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]] — Later clinical case studies applying this trauma/abreaction framework
-- [[2004/Bastiaans2004_Life_After_Ibogaine]] — Qualitative outcomes research exploring integration after ibogaine
-- [[2005/Kroupa2005_Boosters_Maintenance]] — Booster protocols extending the therapeutic window Lotsof conceptualised
-- [[2018/Rodger2018_Healing_Potential_Ibogaine]] — Comparative phenomenological analysis building on this framework
+- [Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs](../1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs.md) — Naranjo's earlier phenomenological framework this psychological model extends
+- [Lotsof2001_Case_Studies_Patient_Management](../2001/Lotsof2001_Case_Studies_Patient_Management.md) — Later clinical case studies applying this trauma/abreaction framework
+- [Bastiaans2004_Life_After_Ibogaine](../2004/Bastiaans2004_Life_After_Ibogaine.md) — Qualitative outcomes research exploring integration after ibogaine
+- [Kroupa2005_Boosters_Maintenance](../2005/Kroupa2005_Boosters_Maintenance.md) — Booster protocols extending the therapeutic window Lotsof conceptualised
+- [Rodger2018_Healing_Potential_Ibogaine](../2018/Rodger2018_Healing_Potential_Ibogaine.md) — Comparative phenomenological analysis building on this framework

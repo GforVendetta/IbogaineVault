@@ -31,6 +31,8 @@ contraindications: []
 open_access: true
 publisher: "Preprints.org"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Indole Alkaloids as Biased Opioid Receptor Modulators
@@ -124,12 +126,12 @@ The authors propose indole alkaloids as scaffolds for novel biased opioid recept
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
 - Maillet et al. (2015) — Primary source for noribogaine κ-opioid biased agonism data (not in vault)
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects|Oña 2023]] — Related mechanistic review of anti-addictive targets
-- [[2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation|Antonio 2013]] — G-protein activation at μ-opioid receptors
-- [[2016/Alper2016_hERG_Blockade|Alper 2016]] — Context for cardiac concerns mentioned in review
+- [Oña 2023](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Related mechanistic review of anti-addictive targets
+- [Antonio 2013](../2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation.md) — G-protein activation at μ-opioid receptors
+- [Alper 2016](../2016/Alper2016_hERG_Blockade.md) — Context for cardiac concerns mentioned in review
 
 ---
 

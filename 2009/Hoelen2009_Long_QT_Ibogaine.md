@@ -36,6 +36,8 @@ route: oral
 open_access: false
 publisher: "NEJM Group"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Long-QT Syndrome Induced by the Antiaddiction Drug Ibogaine
@@ -109,9 +111,9 @@ This case is a cornerstone reference for ibogaine cardiac safety protocols. Key 
 ---
 
 ## See Also
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Comprehensive fatality analysis referencing this case
-- [[2012/Paling2012_Life_Threatening_Complications]] — Additional cardiac complication case reports
-- [[2013/Mazoyer2013_Fatality_Case]] — Fatal cardiac case with QT prolongation
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Mechanistic exploration of ibogaine cardiotoxicity
-- [[2024/Mestre2024_Cardiac_Arrest_Case_Report]] — Recent cardiac arrest case
-- [[RED_Cardiac_Safety_Hub]] — Central hub for cardiac safety evidence
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Comprehensive fatality analysis referencing this case
+- [Paling2012_Life_Threatening_Complications](../2012/Paling2012_Life_Threatening_Complications.md) — Additional cardiac complication case reports
+- [Mazoyer2013_Fatality_Case](../2013/Mazoyer2013_Fatality_Case.md) — Fatal cardiac case with QT prolongation
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Mechanistic exploration of ibogaine cardiotoxicity
+- [Mestre2024_Cardiac_Arrest_Case_Report](../2024/Mestre2024_Cardiac_Arrest_Case_Report.md) — Recent cardiac arrest case
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Central hub for cardiac safety evidence

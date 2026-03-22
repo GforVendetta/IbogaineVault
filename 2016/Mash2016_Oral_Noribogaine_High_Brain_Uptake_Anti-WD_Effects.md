@@ -36,6 +36,8 @@ contraindications: []
 open_access: false
 publisher: "SAGE"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Oral noribogaine shows high brain uptake and anti-withdrawal effects not associated with place preference in rodents
@@ -159,10 +161,10 @@ This study provides the strongest preclinical evidence that **noribogaine is the
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Foundational noribogaine neurobiological profiling; establishes PK parameters (Cmax, t½) referenced in this paper's retrospective analysis
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]] — First-in-human ascending-dose study (3–60 mg oral noribogaine); validates safety at dose range predicted by allometric scaling from this study
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Foundational noribogaine neurobiological profiling; establishes PK parameters (Cmax, t½) referenced in this paper's retrospective analysis
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — First-in-human ascending-dose study (3–60 mg oral noribogaine); validates safety at dose range predicted by allometric scaling from this study
 - Maillet2015_Noribogaine_Kappa_Biased_Agonist — Characterises noribogaine's G-protein biased kappa agonism and β-arrestin2 inhibition — the mechanistic basis for the anti-withdrawal/no-CPP dissociation reported here
-- [[2001/Mash2001_Ibogaine_Heroin_Withdrawal]] — Earlier clinical work by same group; the human withdrawal reduction data that this preclinical study was designed to mechanistically explain
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Contemporary synthesis of ibogaine/noribogaine mechanisms incorporating this study's key findings
+- [Mash2001_Ibogaine_Heroin_Withdrawal](../2001/Mash2001_Ibogaine_Heroin_Withdrawal.md) — Earlier clinical work by same group; the human withdrawal reduction data that this preclinical study was designed to mechanistically explain
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Contemporary synthesis of ibogaine/noribogaine mechanisms incorporating this study's key findings

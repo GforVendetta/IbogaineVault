@@ -35,9 +35,14 @@ contraindications: []
 open_access: true
 publisher: "Brazilian Journal Publisher"
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine microdosing in a patient with bipolar depression: a case report
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Journal:** Brazilian Journal of Psychiatry
 
@@ -134,8 +139,8 @@ Fernandes-Nascimento MH, Viana-Ferreira K, Chaves BDR, Negrão AB, Wang Y-P. Ibo
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study]] — Earlier Brazilian ibogaine research
+- [Schenberg2014_Treating_Drug_Dependence_Retrospective_Study](../2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md) — Earlier Brazilian ibogaine research
 - Cameron 2021 (Nature) — Tabernanthalog development (not in vault - different compound)
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Safety protocols
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Safety protocols

@@ -43,6 +43,8 @@ contraindications:
   - "Potassium and magnesium abnormalities"
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Neurorestorative Properties of Ibogaine: Linking Multi-Receptor Affinities to Remyelination and Metabolic Restoration
@@ -131,13 +133,13 @@ This review provides the most comprehensive mechanistic framework to date for un
 ---
 
 ## See Also
-- [[2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination]] — Preclinical evidence for ibogaine upregulating MBP and CNPase, a key evidentiary foundation for this review
-- [[2025/Chen2025_Multiple_Sclerosis_Neuroimaging]] — Case report showing 72% white matter lesion reduction in RRMS, directly cited as clinical evidence
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — Open-label TBI trial with magnesium co-administration, key clinical evidence for neurorestorative potential
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — GDNF and BDNF modulation in mesocorticolimbic circuits, neurotrophic pathway evidence
-- [[2006/He2006_Ibogaine_and_GDNF]] — Foundational GDNF paper establishing ibogaine's neurotrophic factor upregulation
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Multi-receptor mechanistic overview complementing this review's remyelination focus
-- [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — Analogue development addressing cardiac risk, with caveats about lost lipophilicity raised here
-- [[2018/Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder]] — SPECT neuroimaging evidence for cerebral blood flow increases cited in this review
-- [[2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance]] — Comprehensive ibogaine pharmacology reference cited extensively
-- [[ORANGE_Mechanisms_Hub]] — Vault hub for pharmacological mechanism papers
+- [Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination](../2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination.md) — Preclinical evidence for ibogaine upregulating MBP and CNPase, a key evidentiary foundation for this review
+- [Chen2025_Multiple_Sclerosis_Neuroimaging](../2025/Chen2025_Multiple_Sclerosis_Neuroimaging.md) — Case report showing 72% white matter lesion reduction in RRMS, directly cited as clinical evidence
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — Open-label TBI trial with magnesium co-administration, key clinical evidence for neurorestorative potential
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — GDNF and BDNF modulation in mesocorticolimbic circuits, neurotrophic pathway evidence
+- [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — Foundational GDNF paper establishing ibogaine's neurotrophic factor upregulation
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Multi-receptor mechanistic overview complementing this review's remyelination focus
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — Analogue development addressing cardiac risk, with caveats about lost lipophilicity raised here
+- [Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder](../2018/Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder.md) — SPECT neuroimaging evidence for cerebral blood flow increases cited in this review
+- [Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance](../2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md) — Comprehensive ibogaine pharmacology reference cited extensively
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Vault hub for pharmacological mechanism papers

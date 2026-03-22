@@ -35,6 +35,8 @@ route: not-specified
 contraindications: []
 open_access: true
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Interaction of ibogaine with human α3β4-nicotinic acetylcholine receptors in different conformational states
@@ -124,7 +126,7 @@ The shared binding locus between ibogaine, PCP, and tricyclic antidepressants (p
 
 This study's primary clinical significance lies in anchoring the α3β4 nAChR as a mechanistically validated target for ibogaine's anti-addictive activity. The α3β4 subtype is densely expressed in the habenulo-interpeduncular pathway — a circuit increasingly recognised as a critical modulator of reward processing, aversion, and withdrawal. Ibogaine's preferential binding to desensitised α3β4 channels suggests a mechanism by which the alkaloid could selectively suppress nicotinic signalling in recently activated (and therefore desensitised) reward circuits, without broadly silencing resting-state cholinergic transmission.
 
-The overlapping binding site shared by ibogaine, PCP, and tricyclic antidepressants within the α3β4 channel pore has direct implications for drug interaction screening in clinical ibogaine contexts. Patients with concurrent antidepressant use may experience altered ibogaine efficacy at this target, though the clinical magnitude of such interactions remains uncharacterised. For analog development, the study identifies specific structural features — ibogaine's methoxy group hydrogen bonding at the serine ring, optimal fit within the valine/phenylalanine cleft — that future drug design could exploit to achieve higher subtype selectivity while reducing off-target activity. The nine-fold potency advantage over PCP and the sub-micromolar binding affinity establish ibogaine as a lead scaffold worth optimising, as subsequently demonstrated by [[2023/Arias2023_Catharanthine_18-MC|the coronaridine analog programme]].
+The overlapping binding site shared by ibogaine, PCP, and tricyclic antidepressants within the α3β4 channel pore has direct implications for drug interaction screening in clinical ibogaine contexts. Patients with concurrent antidepressant use may experience altered ibogaine efficacy at this target, though the clinical magnitude of such interactions remains uncharacterised. For analog development, the study identifies specific structural features — ibogaine's methoxy group hydrogen bonding at the serine ring, optimal fit within the valine/phenylalanine cleft — that future drug design could exploit to achieve higher subtype selectivity while reducing off-target activity. The nine-fold potency advantage over PCP and the sub-micromolar binding affinity establish ibogaine as a lead scaffold worth optimising, as subsequently demonstrated by [the coronaridine analog programme](../2023/Arias2023_Catharanthine_18-MC.md).
 
 ## Limitations
 
@@ -134,10 +136,10 @@ The authors note several constraints. All experiments used heterologously expres
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1998/Mah1998_Nicotinic_Receptor_Mechanism]] — Earlier nicotinic mechanism work
-- [[2022/Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs]] — Comprehensive review of α3β4 nAChR inhibitors for SUDs, extensively citing this study
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Comprehensive receptor binding context
-- [[2023/Arias2023_Catharanthine_18-MC]] — Coronaridine congeners at the same receptor target, building on the binding site characterisation established here
-- [[2010/Carnicella2010_Noribogaine_18MC_GDNF]] — Complementary mechanism: noribogaine and 18-MC effects on GDNF expression, another pathway relevant to ibogaine's anti-addictive action
+- [Mah1998_Nicotinic_Receptor_Mechanism](../1998/Mah1998_Nicotinic_Receptor_Mechanism.md) — Earlier nicotinic mechanism work
+- [Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs](../2022/Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs.md) — Comprehensive review of α3β4 nAChR inhibitors for SUDs, extensively citing this study
+- [Ray2010_Psychedelics_Human_Receptorome](Ray2010_Psychedelics_Human_Receptorome.md) — Comprehensive receptor binding context
+- [Arias2023_Catharanthine_18-MC](../2023/Arias2023_Catharanthine_18-MC.md) — Coronaridine congeners at the same receptor target, building on the binding site characterisation established here
+- [Carnicella2010_Noribogaine_18MC_GDNF](Carnicella2010_Noribogaine_18MC_GDNF.md) — Complementary mechanism: noribogaine and 18-MC effects on GDNF expression, another pathway relevant to ibogaine's anti-addictive action

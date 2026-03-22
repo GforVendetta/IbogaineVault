@@ -65,6 +65,8 @@ contraindications:
   - "Calcium channel blockers or beta blockers (lower BP/HR dramatically, alter cardiac conduction — beta blockers must be tapered over 7-14 days, not stopped acutely)"
 open_access: unknown
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 
 # Clinical Guidelines for Ibogaine-Assisted Detoxification
@@ -1106,11 +1108,11 @@ This document represents the **gold standard authoritative foundation** for ibog
 
 ## See Also
 
-**Parent hub:** [[GREEN_Clinical_Protocols_Hub]]
+**Parent hub:** [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)
 
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Foundational fatality documentation these guidelines were developed to address
-- [[2016/Alper2016_hERG_Blockade]] — hERG mechanism data supporting cardiac screening requirements
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Cardiac mechanisms review informing electrolyte protocols
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol demonstrating magnesium cardioprotection extends GITA electrolyte approach
-- [[2023/Rocha2023_USP_Safety_Protocols]] — Academic institutional protocols building on GITA framework
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Foundational fatality documentation these guidelines were developed to address
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG mechanism data supporting cardiac screening requirements
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Cardiac mechanisms review informing electrolyte protocols
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol demonstrating magnesium cardioprotection extends GITA electrolyte approach
+- [Rocha2023_USP_Safety_Protocols](../2023/Rocha2023_USP_Safety_Protocols.md) — Academic institutional protocols building on GITA framework
 

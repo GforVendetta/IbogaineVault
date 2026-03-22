@@ -27,6 +27,7 @@ aliases:
   - "Need for Ibogaine in Addiction Treatment"
 evidence_level: review
 mortality_count: 9
+mortality_scope: cumulative-review
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -41,6 +42,8 @@ contraindications:
 open_access: false
 publisher: "Taylor & Francis"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # The Need for Ibogaine in Drug and Alcohol Addiction Treatment
@@ -223,8 +226,8 @@ This paper's primary value to the vault is as a WHITE (historical/policy) docume
 ---
 
 ## See Also
-- [[1999/Alper1999_Acute_Opioid_Withdrawal]] — Primary data source for the Lotsof/Frenken 33-patient series cited extensively in this paper
-- [[2005/Kroupa2005_Boosters_Maintenance]] — Source for the 45-patient booster/tune-up protocol reviewed here
-- [[2008/Maciulaitis2008_Ibogaine_Pharmacology_Narrative_Review]] — Contemporary narrative review covering pharmacology and addiction treatment
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]] — Lotsof's own case study compilation and patient management strategies
-- [[WHITE_Historical_Hub]] — Historical and policy context for ibogaine
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — Primary data source for the Lotsof/Frenken 33-patient series cited extensively in this paper
+- [Kroupa2005_Boosters_Maintenance](../2005/Kroupa2005_Boosters_Maintenance.md) — Source for the 45-patient booster/tune-up protocol reviewed here
+- [Maciulaitis2008_Ibogaine_Pharmacology_Narrative_Review](../2008/Maciulaitis2008_Ibogaine_Pharmacology_Narrative_Review.md) — Contemporary narrative review covering pharmacology and addiction treatment
+- [Lotsof2001_Case_Studies_Patient_Management](../2001/Lotsof2001_Case_Studies_Patient_Management.md) — Lotsof's own case study compilation and patient management strategies
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Historical and policy context for ibogaine

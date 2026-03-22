@@ -31,6 +31,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Dimethyltryptamine (DMT) and ibogaine elicit membrane effects in HEK cells transiently transfected with the human 5-HT2A receptor
@@ -126,6 +128,6 @@ First demonstration that 5-HT2AR transfection in HEK cells produces agonist-acti
 - Platform could screen novel ibogaine analogues for 5-HT2AR activity
 
 ## See Also
-- [[ORANGE_Mechanisms_Hub]] — Receptor pharmacology
-- [[2016/Alper2016_hERG_Blockade]] — Ion channel effects (hERG)
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Serotonin interactions
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Receptor pharmacology
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Ion channel effects (hERG)
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Serotonin interactions

@@ -34,6 +34,8 @@ contraindications: []
 open_access: true
 publisher: "Frontiers"
 body_format: vault-analytical
+licence_type: cc-by
+licence_verified: false
 ---
 
 # Serotonergic Psychedelics in Neural Plasticity
@@ -117,9 +119,9 @@ This review contextualises ibogaine within the broader psychedelic neuroplastici
 ---
 
 ## See Also
-- [[2026/Calvey2026_Neurorestorative_Properties_Ibogaine]]
-- [[2025/Gupta2025_Benzofuran_Iboga_Analogues]]
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]]
-- [[1993/OHearn1993_Purkinje_Cell_Degeneration]]
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]]
-- [[ORANGE_Mechanisms_Hub]]
+- [Calvey2026_Neurorestorative_Properties_Ibogaine](../2026/Calvey2026_Neurorestorative_Properties_Ibogaine.md)
+- [Gupta2025_Benzofuran_Iboga_Analogues](../2025/Gupta2025_Benzofuran_Iboga_Analogues.md)
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md)
+- [OHearn1993_Purkinje_Cell_Degeneration](../1993/OHearn1993_Purkinje_Cell_Degeneration.md)
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md)
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

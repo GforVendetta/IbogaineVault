@@ -32,6 +32,8 @@ contraindications: []
 source_pdf: "not-applicable"
 open_access: unknown
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # Clare Wilkins on MYEBOGA Podcast (2020): 800+ Treatments and Community Reflections
@@ -119,9 +121,9 @@ Jonathan did a wonderful job with GITA over the years. We haven't been able to f
 
 ## See Also
 
-**Parent hub:** [[WHITE_Historical_Hub]]
+**Parent hub:** [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)
 
-- [[Clare_Wilkins_MOC]] — Complete index of Clare Wilkins materials
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Guidelines she co-authored
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Fatality research she contributed to
-- [[Pangea_Ops/Ibogaine_Stories_Transcripts/2018_Oliver_Wilkins_Pangea_Protocol]] — Earlier interview
+- [Clare_Wilkins_MOC](../MOCs/Clare_Wilkins_MOC.md) — Complete index of Clare Wilkins materials
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Guidelines she co-authored
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Fatality research she contributed to
+-  — Earlier interview

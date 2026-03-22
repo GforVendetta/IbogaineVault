@@ -39,6 +39,8 @@ contraindications:
 open_access: true
 publisher: "Taylor & Francis"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Remission of Severe Opioid Use Disorder with Ibogaine: A Case Report
@@ -121,8 +123,8 @@ This case offers several points of relevance for clinical practice:
 ---
 
 ## See Also
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]]
-- [[2020/Wilson2020_Novel_Tx_OUD_Ibogaine_Iboga_Case_Study]]
-- [[2013/Brown2013_Ibogaine_Treatment_Substance_Dependence]]
-- [[2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study]]
-- [[BLUE_Outcomes_Hub]]
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md)
+- [Wilson2020_Novel_Tx_OUD_Ibogaine_Iboga_Case_Study](../2020/Wilson2020_Novel_Tx_OUD_Ibogaine_Iboga_Case_Study.md)
+- [Brown2013_Ibogaine_Treatment_Substance_Dependence](../2013/Brown2013_Ibogaine_Treatment_Substance_Dependence.md)
+- [Schenberg2014_Treating_Drug_Dependence_Retrospective_Study](../2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md)
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)

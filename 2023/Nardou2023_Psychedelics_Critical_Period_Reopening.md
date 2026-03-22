@@ -47,6 +47,8 @@ route: intraperitoneal
 open_access: true
 publisher: "Springer Nature"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Psychedelics Reopen the Social Reward Learning Critical Period
@@ -138,7 +140,7 @@ This study provides a foundational mechanistic framework for understanding iboga
 
 ## Notes
 
-- Senior author Gül Dölen discloses advisory board membership with Pangea Botanica (an entity associated with Pangea Biomedics)
+- Senior author Gül Dölen discloses advisory board membership with Pangea Botanica
 - This paper was published in *Nature* and has become one of the most cited mechanistic frameworks for understanding psychedelic therapy
 - The 2019 precursor paper (Nardou et al., *Nature* 569, 116–120) established the MDMA-specific findings; this 2023 paper generalises across the psychedelic class
 - Ibogaine and ketamine share β-arrestin-2-independent signalling, despite acting on different primary targets (KOR vs. NMDAR) — this is relevant for understanding ibogaine's mechanism relative to other psychedelics
@@ -146,8 +148,8 @@ This study provides a foundational mechanistic framework for understanding iboga
 ---
 
 ## See Also
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — Ibogaine neurotrophin signalling (GDNF/BDNF), complementary neuroplasticity mechanism
-- [[2006/He2006_Ibogaine_and_GDNF]] — Foundational GDNF findings for ibogaine
-- [[2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release]] — Structure-activity for iboga alkaloid GDNF release
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — Clinical outcomes data showing durable ibogaine effects (cited by Nardou et al.)
-- [[ORANGE_Mechanisms_Hub]]
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — Ibogaine neurotrophin signalling (GDNF/BDNF), complementary neuroplasticity mechanism
+- [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — Foundational GDNF findings for ibogaine
+- [Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release](../2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md) — Structure-activity for iboga alkaloid GDNF release
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — Clinical outcomes data showing durable ibogaine effects (cited by Nardou et al.)
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

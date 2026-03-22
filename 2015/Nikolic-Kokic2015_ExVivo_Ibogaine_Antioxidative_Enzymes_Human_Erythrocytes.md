@@ -39,6 +39,8 @@ pmid: "25660330"
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ex vivo effects of ibogaine on the activity of antioxidative enzymes in human erythrocytes
@@ -125,10 +127,10 @@ This study provides foundational mechanistic evidence that ibogaine modulates ce
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2018/Orescanin-Dusic2018_Ibogaine_Uterine_Smooth_Muscle_Contractions_Relation_to_Antioxidant_Enzymes]] — Same research group extending antioxidant enzyme findings to uterine smooth muscle; demonstrates tissue-specificity of ibogaine's redox effects
-- [[2024/Uzelac2024_Cardiotoxic_Necrosis_Redox]] — In vivo rat study from overlapping group showing sex-specific redox/antioxidant effects and dose-dependent cardiotoxic necrosis — critical counterpoint to the pro-antioxidant narrative
-- [[2006/Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism]] — Foundational energy metabolism study in rat brain establishing the ATP-depletion → metabolic upregulation pathway that this paper extends to human tissue
-- [[2010/Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP]] — Yeast model demonstrating ibogaine-induced energy metabolism enzyme induction and SOD1 protein elevation; direct precursor study
-- [[2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids]] — Broader review of neuroprotective and neurotoxic mechanisms including antioxidant pathways
+- [Orescanin-Dusic2018_Ibogaine_Uterine_Smooth_Muscle_Contractions_Relation_to_Antioxidant_Enzymes](../2018/Orescanin-Dusic2018_Ibogaine_Uterine_Smooth_Muscle_Contractions_Relation_to_Antioxidant_Enzymes.md) — Same research group extending antioxidant enzyme findings to uterine smooth muscle; demonstrates tissue-specificity of ibogaine's redox effects
+- [Uzelac2024_Cardiotoxic_Necrosis_Redox](../2024/Uzelac2024_Cardiotoxic_Necrosis_Redox.md) — In vivo rat study from overlapping group showing sex-specific redox/antioxidant effects and dose-dependent cardiotoxic necrosis — critical counterpoint to the pro-antioxidant narrative
+- [Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism](../2006/Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism.md) — Foundational energy metabolism study in rat brain establishing the ATP-depletion → metabolic upregulation pathway that this paper extends to human tissue
+- [Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP](../2010/Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP.md) — Yeast model demonstrating ibogaine-induced energy metabolism enzyme induction and SOD1 protein elevation; direct precursor study
+- [Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids](../2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md) — Broader review of neuroprotective and neurotoxic mechanisms including antioxidant pathways

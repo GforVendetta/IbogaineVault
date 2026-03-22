@@ -35,6 +35,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # (+)-Catharanthine and (-)-18-methoxycoronaridine induce antidepressant-like activity in mice by differently recruiting serotonergic and norepinephrinergic neurotransmission
@@ -149,21 +151,21 @@ The authors note that (+)-catharanthine's rapid clearance (half-life 0.8–1.2 h
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
 **Coronaridine congener pharmacology:**
-- [[1999/Glick1999_18MC_Review_CNS_Drugs]] — Comprehensive 18-MC mechanism and anti-addictive profile review
-- [[1996/Glick1996_18MC_NonToxic]] — Original 18-MC proof-of-concept establishing safety advantage over ibogaine
-- [[2000/Glick2000_18-MC]] — 18-MC mechanism and toxicity characterisation
-- [[2010/Carnicella2010_Noribogaine_18MC_GDNF]] — Noribogaine vs 18-MC divergence on GDNF expression
+- [Glick1999_18MC_Review_CNS_Drugs](../1999/Glick1999_18MC_Review_CNS_Drugs.md) — Comprehensive 18-MC mechanism and anti-addictive profile review
+- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md) — Original 18-MC proof-of-concept establishing safety advantage over ibogaine
+- [Glick2000_18-MC](../2000/Glick2000_18-MC.md) — 18-MC mechanism and toxicity characterisation
+- [Carnicella2010_Noribogaine_18MC_GDNF](../2010/Carnicella2010_Noribogaine_18MC_GDNF.md) — Noribogaine vs 18-MC divergence on GDNF expression
 
 **Transporter binding context:**
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Broader SERT/NET binding landscape for psychedelic compounds
-- [[2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT]] — Tropane-ibogaine hybrid rescuing misfolded SERT/DAT via same inward-facing mechanism
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Broader SERT/NET binding landscape for psychedelic compounds
+- [Bhat2020_Tropane_Ibo_Analog_SERT_DAT](../2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT.md) — Tropane-ibogaine hybrid rescuing misfolded SERT/DAT via same inward-facing mechanism
 
 **Analogue development:**
-- [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — Next-generation oxa-iboga analogues designed to eliminate cardiac liability
-- [[2016/Alper2016_hERG_Blockade]] — hERG cardiac safety validation relevant to analogue safety profiling
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — Next-generation oxa-iboga analogues designed to eliminate cardiac liability
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG cardiac safety validation relevant to analogue safety profiling
 
 **Antidepressant outcomes:**
-- [[2020/Rodriguez2020_Ibogaine_Noribogaine_Antidepressant_Rats]] — Ibogaine and noribogaine antidepressant-like activity in rats that this study builds upon
+- [Rodriguez2020_Ibogaine_Noribogaine_Antidepressant_Rats](../2020/Rodriguez2020_Ibogaine_Noribogaine_Antidepressant_Rats.md) — Ibogaine and noribogaine antidepressant-like activity in rats that this study builds upon

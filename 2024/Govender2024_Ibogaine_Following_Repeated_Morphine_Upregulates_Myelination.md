@@ -32,7 +32,12 @@ contraindications: []
 open_access: true
 publisher: "Frontiers"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 *Frontiers in Neuroscience* 18:1378841 (2024) 1111
 
@@ -232,10 +237,10 @@ These findings indicate that ibogaine is able to upregulate genes and proteins i
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2006/He2006_Ibogaine_and_GDNF]] — Original GDNF neuroplasticity discovery
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — Dual GDNF/BDNF pathway
-- [[2025/Williams2025_Magnesium_Ibogaine_TBI]] — EEG neuroplasticity correlates
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC clinical outcomes this extends
-- [[2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release]] — Structure-activity for GDNF
+- [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — Original GDNF neuroplasticity discovery
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — Dual GDNF/BDNF pathway
+- [Williams2025_Magnesium_Ibogaine_TBI](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — EEG neuroplasticity correlates
+- [Cherian2024_Magnesium_Ibogaine_TBI](Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC clinical outcomes this extends
+- [Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release](../2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md) — Structure-activity for GDNF

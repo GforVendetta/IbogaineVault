@@ -27,6 +27,8 @@ herg_data: false
 contraindications: []
 open_access: unknown
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # Psychotherapeutic Possibilities of New Fantasy-Enhancing Drugs
@@ -279,10 +281,10 @@ I doubt that there is anything that can be achieved with a drug that is not poss
 
 ## See Also
 
-**Parent hub:** [[PURPLE_Phenomenology_Hub]]
+**Parent hub:** [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md)
 
-- [[1995/Popik1995_100Years_Ibogaine_Review|Popik 1995]] — Historical review contextualising this early phenomenological work
-- [[1996/Lotsof1996_Trauma_Abreaction]] — Lotsof's psychological framework building on oneirophrenic concept
-- [[2018/Rodger2018_Healing_Potential_Ibogaine]] — Comparative phenomenological analysis extending this characterisation
-- [[2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences]] — Modern transpersonal phenomenology continuing this tradition
-- [[2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective]] — IES scale operationalising the oneiric qualities described here
+- [Popik 1995](../1995/Popik1995_100Years_Ibogaine_Review.md) — Historical review contextualising this early phenomenological work
+- [Lotsof1996_Trauma_Abreaction](../1996/Lotsof1996_Trauma_Abreaction.md) — Lotsof's psychological framework building on oneirophrenic concept
+- [Rodger2018_Healing_Potential_Ibogaine](../2018/Rodger2018_Healing_Potential_Ibogaine.md) — Comparative phenomenological analysis extending this characterisation
+- [Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences](../2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences.md) — Modern transpersonal phenomenology continuing this tradition
+- [Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective](../2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective.md) — IES scale operationalising the oneiric qualities described here

@@ -7,7 +7,7 @@ aliases: ["Architecture", "Technical Reference"]
 
 # Vault Architecture Reference
 
-> Technical reference for the IbogaineVault's structure, navigation systems, and metadata schema. For the design philosophy underpinning these choices, see [[_meta/VAULT_PRINCIPLES|Vault Principles]]. For getting started as a researcher, see [[GETTING_STARTED]].
+> Technical reference for the IbogaineVault's structure, navigation systems, and metadata schema. For the design philosophy underpinning these choices, see [Vault Principles](VAULT_PRINCIPLES.md). For getting started as a researcher, see [GETTING_STARTED](../GETTING_STARTED.md).
 
 ---
 
@@ -31,7 +31,7 @@ A paper's primary category reflects its *principal contribution*, not every topi
 1. **What question does the paper primarily answer?** A paper measuring QTc intervals during ibogaine treatment is RED (cardiac safety), even if it also reports efficacy outcomes.
 2. **Where would a clinician look for it?** If someone searching for cardiac safety evidence would miss this paper under a different category, it belongs in RED.
 3. **Use `secondary_categories` for secondary contributions.** A mechanisms paper that incidentally reports a treatment-associated death should carry `secondary_categories: [RED]` so it surfaces in cardiac safety queries.
-4. **When in doubt, classify towards safety.** See [[_meta/VAULT_PRINCIPLES#4. Conservative Classification|Principle 4: Conservative Classification]].
+4. **When in doubt, classify towards safety.** See [Principle 4: Conservative Classification](VAULT_PRINCIPLES.md#4-conservative-classification).
 
 **Non-RED boundary examples:**
 
@@ -101,14 +101,14 @@ Hubs are long-form, editorially curated documents that synthesise the evidence w
 
 | Hub | Domain |
 |-----|--------|
-| [[RED_Cardiac_Safety_Hub]] | Cardiac safety, fatalities, hERG, magnesium co-administration |
-| [[GREEN_Clinical_Protocols_Hub]] | GITA guidelines, screening protocols, dosing |
-| [[ORANGE_Mechanisms_Hub]] | Receptor pharmacology, GDNF, noribogaine, 18-MC |
-| [[BLUE_Outcomes_Hub]] | Clinical trials, veterans/TBI outcomes, effect sizes |
-| [[PURPLE_Phenomenology_Hub]] | Subjective experience, the Ibogaine Experience Scale |
-| [[WHITE_Historical_Hub]] | Bwiti tradition, Lotsof discovery narrative, drug policy |
-| [[Hub_PK-PD_Synthesis]] | Pharmacokinetics, noribogaine, CYP2D6, dose-safety relationships |
-| [[Key_Researchers_Hub]] | Cross-category profiles of major contributors to ibogaine science |
+| [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) | Cardiac safety, fatalities, hERG, magnesium co-administration |
+| [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md) | GITA guidelines, screening protocols, dosing |
+| [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) | Receptor pharmacology, GDNF, noribogaine, 18-MC |
+| [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) | Clinical trials, veterans/TBI outcomes, effect sizes |
+| [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md) | Subjective experience, the Ibogaine Experience Scale |
+| [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) | Bwiti tradition, Lotsof discovery narrative, drug policy |
+| [Hub_PK-PD_Synthesis](../Hubs/Hub_PK-PD_Synthesis.md) | Pharmacokinetics, noribogaine, CYP2D6, dose-safety relationships |
+| [Key_Researchers_Hub](../Hubs/Key_Researchers_Hub.md) | Cross-category profiles of major contributors to ibogaine science |
 
 Hubs differ from Bases in that they provide *narrative context* — explaining why papers matter relative to each other, identifying patterns across the literature, and highlighting gaps. A Base answers "what exists"; a Hub answers "what it means."
 
@@ -120,9 +120,9 @@ Maps of Content (MOCs) organise the vault around individual researchers whose wo
 
 | MOC | Focus |
 |-----|-------|
-| [[Kenneth_Alper_MOC\|Kenneth Alper]] | Safety science, hERG pharmacology, fatality documentation |
-| [[Clare_Wilkins_MOC\|Clare Wilkins]] | Clinical practice, 800+ ibogaine treatment sessions |
-| [[Howard_Lotsof_MOC\|Howard Lotsof]] | Discovery, early development, patent history, advocacy |
+| Kenneth Alper | Safety science, hERG pharmacology, fatality documentation |
+| Clare Wilkins | Clinical practice, 800+ ibogaine treatment sessions |
+| Howard Lotsof | Discovery, early development, patent history, advocacy |
 
 ### How the Three Layers Complement Each Other
 
@@ -143,14 +143,14 @@ Obsidian's graph view colours nodes by category using YAML property queries:
 
 ---
 
-## Wikilink Conventions
+## Cross-Reference Conventions
 
-The vault uses Obsidian-style `[[wikilinks]]` to create a navigable research graph. Conventions:
+The vault uses markdown links to create a navigable research graph. Conventions:
 
 - **Paper-to-paper links** connect studies that directly build on, contradict, or extend each other. The link should appear in the body text where the relationship is discussed, not in a standalone "Related Papers" section.
-- **Paper-to-hub backlinks** ensure every paper is reachable from its domain hub. Papers include a backlink to their primary hub (e.g., `Categorised in [[RED_Cardiac_Safety_Hub]]`).
+- **Paper-to-hub backlinks** ensure every paper is reachable from its domain hub. Papers include a backlink to their primary hub (e.g., `Categorised in [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)`).
 - **Hub cross-references** link between hubs when evidence in one domain has implications for another (e.g., the RED hub references GREEN protocol papers that address cardiac screening).
-- **Display text** uses the pipe syntax for readability: `[[Alper2001_Ibogaine_Review|Alper 2001]]`.
+- **Display text** uses the pipe syntax for readability: `[Alper 2001](../2001/Alper2001_Ibogaine_Review.md)`.
 
 ---
 
@@ -206,8 +206,8 @@ This is the public research vault. The IbogaineVault also exists as an internal 
 
 The vault is version-controlled with git. Every paper conversion, hub update, and metadata correction is recorded as a commit with a description and full diff, providing disaster recovery and a forensic audit trail. The repository is hosted on GitHub at `GforVendetta/IbogaineVault`.
 
-For information about proposing corrections or contributing papers, see [[CONTRIBUTING]].
+For information about proposing corrections or contributing papers, see [CONTRIBUTING](../CONTRIBUTING.md).
 
 ---
 
-**See also:** [[GETTING_STARTED]] · [[HOME]] · [[_meta/VAULT_PRINCIPLES|Vault Principles]] · [[_meta/Tag_Taxonomy|Tag Taxonomy]]
+**See also:** [GETTING_STARTED](../GETTING_STARTED.md) · [HOME](../HOME.md) · [Vault Principles](VAULT_PRINCIPLES.md) · [Tag Taxonomy](Tag_Taxonomy.md)

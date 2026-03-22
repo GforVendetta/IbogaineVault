@@ -50,6 +50,8 @@ contraindications:
 route: not-applicable
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Addiction Pharmacology and Ibogaine
@@ -222,11 +224,11 @@ This presentation provides a pharmacist's perspective on ibogaine, notable for:
 ---
 
 ## See Also
-- [[2018/Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine]] — same first author; earlier review of ibogaine for OUD
-- [[2016/Litjens2016_How_Toxic_Is_Ibogaine]] — primary toxicity reference cited throughout
-- [[2012/Alper2012_Ibogaine_Fatalities]] — fatality data source for this presentation
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — contraindications and monitoring protocols referenced directly
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]] — source for noribogaine dose-ranging QTc data presented
-- [[2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine]] — contemporary systematic review from same year
-- [[ORANGE_Mechanisms_Hub]] — pharmacodynamics context
-- [[RED_Cardiac_Safety_Hub]] — cardiac safety evidence context
+- [Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine](../2018/Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine.md) — same first author; earlier review of ibogaine for OUD
+- [Litjens2016_How_Toxic_Is_Ibogaine](../2016/Litjens2016_How_Toxic_Is_Ibogaine.md) — primary toxicity reference cited throughout
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — fatality data source for this presentation
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — contraindications and monitoring protocols referenced directly
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — source for noribogaine dose-ranging QTc data presented
+- [Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine](Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md) — contemporary systematic review from same year
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — pharmacodynamics context
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — cardiac safety evidence context

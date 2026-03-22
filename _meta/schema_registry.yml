@@ -51,6 +51,7 @@ schemas:
       route:            { type: enum, enum_ref: routes, required_when: "category in [RED, GREEN]" }
       sample_size:      { type: integer, required_when: "human study", omit_when: "non-human or review" }
       mortality_count:  { type: integer, required_when: "paper reports ≥1 death", omit_when: "no deaths reported" }
+      mortality_scope:  { type: enum, enum_ref: mortality_scopes, required_when: "mortality_count > 0", omit_when: "no mortality_count" }
 
       # ── Optional ──
       doi:              { type: string, optional: true, omit_if_unavailable: true }
@@ -71,37 +72,18 @@ schemas:
       publisher:        { type: string, optional: true, omit_if_unavailable: true, note: "Publisher name — Elsevier, Wiley, Springer Nature, Frontiers, MDPI, etc." }
       body_format:      { type: enum, enum_ref: body_formats, optional: true, omit_if_unavailable: true, note: "Body structure — vault-analytical (Key Findings/Clinical Implications), academic-retained (Introduction/Methods/Results/Discussion), hybrid (both), or narrative (neither — grey literature, book chapters, primary sources)" }
 
+      # ── Optional — Licence metadata (D18) ──
+      licence_type:     { type: enum, enum_ref: licence_types, optional: true, note: "Copyright licence governing redistribution and adaptation rights. Determines reconversion approach — paywalled papers require aggressive analytical rewrite; permissive OA licences allow verbatim quotation with attribution. Populate from PDF footer/header licence statements during conversion or reconversion." }
+      licence_verified: { type: boolean, optional: true, note: "Whether licence_type was confirmed from the paper's own licence statement (true) or inferred from publisher-level pattern (false). Batch-assigned papers start false; individual audit upgrades to true." }
+
+      # ── Optional — Reconversion metadata (D19) ──
+      references_stripped: { type: boolean, optional: true, note: "True when paper's reference list was removed during vault-analytical reconversion. Indicates reduced discoverability of cited sources. If absent, references status is unknown." }
+
       # ── Forbidden ──
       scope:            { forbidden: true, note: "papers don't need scope — all are inherently published research" }
       participants:     { forbidden: true, note: "use authors for papers" }
       key_decisions:    { forbidden: true, note: "transcript-only field" }
       action_items:     { forbidden: true, note: "transcript-only field" }
-
-  transcript_meeting:
-    description: "Internal meeting transcripts — Pangea team calls, planning sessions"
-    location_patterns:
-      - "Pangea_Ops/Pangea_Internal_Calls/*.md"
-    fields:
-      title:            { type: string, required: true }
-      document_type:    { type: enum, enum_ref: document_types_transcript, required: true }
-      date:             { type: date, required: true }
-      participants:     { type: list_of_strings, required: true }
-      duration:         { type: string, required: true }
-      year:             { type: integer, required: true }
-      category:         { type: enum, enum_ref: categories, required: true }
-      scope:            { type: enum, enum_ref: scopes, required: true }
-      tags:             { type: list_of_enums, enum_ref: tags, required: true }
-      key_findings:     { type: string, required: true, max_chars: 250 }
-      clinical_significance: { type: enum, enum_ref: clinical_significance, required: true }
-      aliases:          { type: list_of_strings, required: true }
-      contraindications: { type: list_of_strings, required: true, allow_empty: true }
-      key_decisions:    { type: list_of_strings, required: true }
-      action_items:     { type: list_of_strings, optional: true }
-      wikilinks:        { type: list_of_strings, optional: true }
-
-      # ── Forbidden ──
-      authors:          { forbidden: true, note: "use participants for meeting transcripts" }
-      evidence_level:   { forbidden: true, note: "meeting transcripts don't have evidence levels" }
 
   transcript_published:
     description: "Published interviews, conference talks, podcasts"
@@ -174,7 +156,6 @@ enums:
     # not-applicable = concept of route doesn't apply (in-vitro, guidelines, qualitative studies)
 
   scopes:
-    - pangea     # Internal/operational
     - published  # Publicly available
 
   open_access_status:
@@ -184,6 +165,22 @@ enums:
     # NOTE: YAML parses bare true/false as booleans. This is INTENTIONAL.
     # Papers will have `open_access: true` (boolean) in frontmatter.
     # Validators must normalise: str(value).lower() before enum check.
+
+  licence_types:
+    # Ordered most-restrictive-first. Determines reconversion posture.
+    - all-rights-reserved # Standard copyright — no redistribution without permission
+    - unknown             # Not yet assessed — TREAT AS all-rights-reserved
+    - cc-by-nc-nd         # CC BY-NC-ND — attribute, non-commercial, no derivatives
+    - cc-by-nd            # CC BY-ND — attribute, no derivatives
+    - cc-by-nc-sa         # CC BY-NC-SA — attribute, non-commercial, share-alike
+    - cc-by-nc            # CC BY-NC — attribute, non-commercial
+    - cc-by-sa            # CC BY-SA — attribute, share-alike
+    - cc-by               # CC BY — attribute, any use including commercial and derivatives
+
+  mortality_scopes:
+    - cumulative-review   # Systematic tally of deaths across literature — DO NOT sum across papers
+    - discrete-cases      # Individual case report(s) or investigative journalism — unique incidents
+    - incidental          # Paper mentions deaths but mortality is not its contribution
 
   body_formats:
     - vault-analytical    # Key Findings / Clinical Implications format

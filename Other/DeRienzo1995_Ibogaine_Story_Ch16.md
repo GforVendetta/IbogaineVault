@@ -37,6 +37,8 @@ route: oral
 organisation: "MindVox"
 open_access: true
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # The Ibogaine Story — Chapter 16: The Passover Plot

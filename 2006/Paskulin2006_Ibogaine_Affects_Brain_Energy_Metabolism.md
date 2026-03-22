@@ -33,6 +33,8 @@ pmid: "17054944"
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine Affects Brain Energy Metabolism
@@ -91,11 +93,11 @@ The 72 h peak also aligns with the clinical observation that ibogaine's mood-ele
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2010/Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP]] — Follow-up study replicating energy-enzyme induction in *S. cerevisiae* and demonstrating acute ATP depletion as the trigger; confirms the metabolic mechanism is conserved across eukaryotes
-- [[2012/Paskulin2012_Metabolic_Plasticity_Ibogaine_Economising_Energy]] — Third paper in the Paškulin series, extending the energy-metabolism hypothesis to metabolic plasticity and antioxidant defence
-- [[2005/He2005_GDNF_Ibogaine_Alcohol]] — GDNF release as a parallel downstream mechanism; energy availability may be required to support the neuroplastic changes GDNF initiates
-- [[2018/Bading-Taika2018_Phytochemicals_Iboga_RB_Effects_Dysfunctional_Metabolism_Cognitive_Performance_Mice]] — Later metabolism/cognition study bridging energy metabolism to functional cognitive outcomes
-- [[2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes]] — Related antioxidant enzyme effects in human erythrocytes, extending the metabolic story to redox equilibrium
-- [[2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids]] — Contemporary review contextualising energy-metabolism findings within broader neuroprotection/neurotoxicity framework
+- [Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP](../2010/Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP.md) — Follow-up study replicating energy-enzyme induction in *S. cerevisiae* and demonstrating acute ATP depletion as the trigger; confirms the metabolic mechanism is conserved across eukaryotes
+- [Paskulin2012_Metabolic_Plasticity_Ibogaine_Economising_Energy](../2012/Paskulin2012_Metabolic_Plasticity_Ibogaine_Economising_Energy.md) — Third paper in the Paškulin series, extending the energy-metabolism hypothesis to metabolic plasticity and antioxidant defence
+- [He2005_GDNF_Ibogaine_Alcohol](../2005/He2005_GDNF_Ibogaine_Alcohol.md) — GDNF release as a parallel downstream mechanism; energy availability may be required to support the neuroplastic changes GDNF initiates
+- [Bading-Taika2018_Phytochemicals_Iboga_RB_Effects_Dysfunctional_Metabolism_Cognitive_Performance_Mice](../2018/Bading-Taika2018_Phytochemicals_Iboga_RB_Effects_Dysfunctional_Metabolism_Cognitive_Performance_Mice.md) — Later metabolism/cognition study bridging energy metabolism to functional cognitive outcomes
+- [Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes](../2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes.md) — Related antioxidant enzyme effects in human erythrocytes, extending the metabolic story to redox equilibrium
+- [Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids](../2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md) — Contemporary review contextualising energy-metabolism findings within broader neuroprotection/neurotoxicity framework

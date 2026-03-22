@@ -38,6 +38,8 @@ contraindications: []
 open_access: false
 publisher: "Wiley"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Mechanisms of Antiaddictive Actions of Ibogaine
@@ -136,8 +138,8 @@ Ibogaine, an alkaloid extracted from *Tabernanthe iboga*, is being studied as a 
 ---
 
 ## See Also
-- [[2000/Glick2000_18-MC]] — Follow-up 18-MC development from same laboratory
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Noribogaine mechanisms
-- [[1998/Glick1998_18MC_Nicotine]] — Companion paper on 18-MC and nicotine
-- [[2022/Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs]] — Modern nicotinic receptor work
-- [[ORANGE_Mechanisms_Hub]] — Central hub for pharmacology and mechanisms
+- [Glick2000_18-MC](../2000/Glick2000_18-MC.md) — Follow-up 18-MC development from same laboratory
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Noribogaine mechanisms
+- [Glick1998_18MC_Nicotine](Glick1998_18MC_Nicotine.md) — Companion paper on 18-MC and nicotine
+- [Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs](../2022/Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs.md) — Modern nicotinic receptor work
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Central hub for pharmacology and mechanisms

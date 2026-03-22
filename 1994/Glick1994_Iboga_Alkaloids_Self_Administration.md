@@ -37,6 +37,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 # Effects of Iboga Alkaloids on Morphine and Cocaine Self-Administration in Rats: Relationship to Tremorigenic Effects and to Effects on Dopamine Release in Nucleus Accumbens and Striatum
 
@@ -100,9 +102,9 @@ For clinical teams, this study is foundational for understanding the pharmacolog
 ---
 
 ## See Also
-- [[1991/Glick1991_Ibogaine_Morphine_Self_Administration]] — predecessor study establishing ibogaine effects on morphine self-administration
-- [[1996/Glick1996_18MC_NonToxic]] — direct follow-up identifying 18-MC as the safer analogue this work predicted
-- [[1992/Deecher1992_Radioligand_Binding_Mechanisms]] — companion radioligand binding study (ref [2]) characterising receptor affinities of these same alkaloids
-- [[1993/Cappendijk1993_Ibogaine_Cocaine_Self_Administration]] — independent replication of ibogaine effects on cocaine self-administration in rats (ref [1])
-- [[2025/Gupta2025_Benzofuran_Iboga_Analogues]] — contemporary analogue development continuing the structure-activity approach pioneered here
-- [[ORANGE_Mechanisms_Hub]]
+- [Glick1991_Ibogaine_Morphine_Self_Administration](../1991/Glick1991_Ibogaine_Morphine_Self_Administration.md) — predecessor study establishing ibogaine effects on morphine self-administration
+- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md) — direct follow-up identifying 18-MC as the safer analogue this work predicted
+- [Deecher1992_Radioligand_Binding_Mechanisms](../1992/Deecher1992_Radioligand_Binding_Mechanisms.md) — companion radioligand binding study (ref [2]) characterising receptor affinities of these same alkaloids
+- [Cappendijk1993_Ibogaine_Cocaine_Self_Administration](../1993/Cappendijk1993_Ibogaine_Cocaine_Self_Administration.md) — independent replication of ibogaine effects on cocaine self-administration in rats (ref [1])
+- [Gupta2025_Benzofuran_Iboga_Analogues](../2025/Gupta2025_Benzofuran_Iboga_Analogues.md) — contemporary analogue development continuing the structure-activity approach pioneered here
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

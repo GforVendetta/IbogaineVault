@@ -29,6 +29,7 @@ aliases:
   - "LC-MS ibogaine noribogaine quantification"
 evidence_level: in-vitro
 mortality_count: 1
+mortality_scope: incidental
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -36,6 +37,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Simultaneous Quantification of Ibogaine and Noribogaine in Human Plasma and Whole Blood by LC-ESI-MS
@@ -144,10 +147,10 @@ The identification of additional iboga alkaloids (ibogamine, ibogaline, ibolutei
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2006/Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality]] — companion paper by same group, tissue distribution analysis from the SAME fatality case
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — therapeutic pharmacokinetic reference used for concentration comparison
-- [[1995/Hearn1995_Noribogaine_Metabolite]] — earlier analytical method for noribogaine (HPLC-fluorescence, plasma only)
-- [[2008/Cheze2008_Ibogaine_Noribogaine_LC-MSMS_Drowning_Death]] — successor LC-MS/MS method by Chèze et al., applied to iboga drowning fatality; cites this paper as methodological predecessor
-- [[2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction]] — contemporary fatality analysis from same year
+- [Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality](Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality.md) — companion paper by same group, tissue distribution analysis from the SAME fatality case
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — therapeutic pharmacokinetic reference used for concentration comparison
+- [Hearn1995_Noribogaine_Metabolite](../1995/Hearn1995_Noribogaine_Metabolite.md) — earlier analytical method for noribogaine (HPLC-fluorescence, plasma only)
+- [Cheze2008_Ibogaine_Noribogaine_LC-MSMS_Drowning_Death](../2008/Cheze2008_Ibogaine_Noribogaine_LC-MSMS_Drowning_Death.md) — successor LC-MS/MS method by Chèze et al., applied to iboga drowning fatality; cites this paper as methodological predecessor
+- [Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction](Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md) — contemporary fatality analysis from same year

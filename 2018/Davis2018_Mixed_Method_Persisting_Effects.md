@@ -38,6 +38,8 @@ contraindications: []
 open_access: true
 publisher: "Taylor & Francis"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # A Mixed-Method Analysis of Persisting Effects Associated with Positive Outcomes Following Ibogaine Detoxification
@@ -115,9 +117,9 @@ Post-treatment challenges dominated (61% of all utterances). Integration difficu
 ---
 
 ## See Also
-- [[2017/Davis2017_Ibogaine_Opioid_Outcomes]] — Parent study from which this secondary analysis derives
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — NZ 12-month observational study of ibogaine for opioid dependence
-- [[2004/Bastiaans2004_Life_After_Ibogaine]] — Earlier qualitative study of long-term ibogaine effects
-- [[2020/Davis2020_SpecialOps_Veterans_Trauma]] — Later Davis et al. study on ibogaine with 5-MeO-DMT for veterans
-- [[BLUE_Outcomes_Hub]]
-- [[PURPLE_Phenomenology_Hub]]
+- [Davis2017_Ibogaine_Opioid_Outcomes](../2017/Davis2017_Ibogaine_Opioid_Outcomes.md) — Parent study from which this secondary analysis derives
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — NZ 12-month observational study of ibogaine for opioid dependence
+- [Bastiaans2004_Life_After_Ibogaine](../2004/Bastiaans2004_Life_After_Ibogaine.md) — Earlier qualitative study of long-term ibogaine effects
+- [Davis2020_SpecialOps_Veterans_Trauma](../2020/Davis2020_SpecialOps_Veterans_Trauma.md) — Later Davis et al. study on ibogaine with 5-MeO-DMT for veterans
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
+- [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md)

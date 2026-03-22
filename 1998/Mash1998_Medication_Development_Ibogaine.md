@@ -39,6 +39,8 @@ contraindications: []
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Medication Development of Ibogaine as a Pharmacotherapy for Drug Dependence
@@ -133,9 +135,9 @@ A critically important finding: one female subject who had received four ibogain
 ---
 
 ## See Also
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]]
-- [[2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes]]
-- [[2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects]]
-- [[1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine]]
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md)
+- [Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md)
+- [Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects](../2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects.md)
+- [Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine](Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md)
 - 
-- [[ORANGE_Mechanisms_Hub]]
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

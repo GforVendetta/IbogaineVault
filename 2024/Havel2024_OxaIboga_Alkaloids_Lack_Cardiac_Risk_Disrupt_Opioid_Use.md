@@ -36,12 +36,17 @@ contraindications: []
 open_access: true
 publisher: "Springer Nature"
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # **Oxa-Iboga alkaloids lack cardiac risk and disrupt opioid use in animal models**
 
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
+
 > [!note] Vault editorial note
-> This is the **peer-reviewed published version** (*Nature Communications*, September 2024). A bioRxiv preprint was deposited ~3 years earlier as [[2021/Havel2021_Oxa-Iboga_Opioid_Addiction|Havel et al. 2021 preprint]]. This version is substantially expanded with additional *in vivo* models (heroin, fentanyl self-administration; relapse; hyperalgesia reversal). The extended preprint-to-publication gap is consistent with Delix Therapeutics patent portfolio construction around the oxa-iboga compounds. **This is the authoritative version for clinical and research reference.**
+> This is the **peer-reviewed published version** (*Nature Communications*, September 2024). A bioRxiv preprint was deposited ~3 years earlier as [Havel et al. 2021 preprint](../2021/Havel2021_Oxa-Iboga_Opioid_Addiction.md). This version is substantially expanded with additional *in vivo* models (heroin, fentanyl self-administration; relapse; hyperalgesia reversal). The extended preprint-to-publication gap is consistent with Delix Therapeutics patent portfolio construction around the oxa-iboga compounds. **This is the authoritative version for clinical and research reference.**
 
 **Václav Havel, Andrew C. Kruegel, Benjamin Bechand, Scot McIntosh, Leia Stallings, Alana Hodges, Madalee G. Wulf, Mel Nelson, Amanda Hunkele, Michael Ansonoff, John E. Pintar, Christopher Hwu, Rohini S. Ople, Najah Abi-Gerges, Saheem A. Zaidi, Vsevolod Katritch, Mu Yang, Jonathan A. Javitch, Susruta Majumdar, Scott E. Hemby & Dalibor Sames**
 Nature Communications 15:8118 (2024)
@@ -376,11 +381,11 @@ Oxa-iboga analogs were synthesized via *de novo* methods involving the catalytic
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1996/Glick1996_18MC_NonToxic]] — Original 18-MC paper establishing safer analogue paradigm
-- [[2021/Havel2021_Oxa-Iboga_Opioid_Addiction]] — Earlier oxa-iboga paper from same research group
-- [[2016/Alper2016_hERG_Blockade]] — hERG data showing why cardiac-safe analogues are needed
-- [[2024/Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol]] — Parallel tabernanthalog analogue development
-- [[2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release]] — Structure-activity work enabling rational analogue design
+- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md) — Original 18-MC paper establishing safer analogue paradigm
+- [Havel2021_Oxa-Iboga_Opioid_Addiction](../2021/Havel2021_Oxa-Iboga_Opioid_Addiction.md) — Earlier oxa-iboga paper from same research group
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG data showing why cardiac-safe analogues are needed
+- [Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol](Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol.md) — Parallel tabernanthalog analogue development
+- [Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release](../2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md) — Structure-activity work enabling rational analogue design
 

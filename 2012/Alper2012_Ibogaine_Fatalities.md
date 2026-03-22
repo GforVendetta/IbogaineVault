@@ -24,6 +24,7 @@ source_pdf: "2012/Alper2012_Ibogaine_Fatalities.pdf"
 evidence_level: systematic-review
 sample_size: 19
 mortality_count: 19
+mortality_scope: cumulative-review
 qtc_data: false
 electrolyte_data: true
 herg_data: false
@@ -44,6 +45,8 @@ route: oral
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Fatalities Temporally Associated with the Ingestion of Ibogaine
@@ -165,11 +168,11 @@ This paper is the foundational epidemiological evidence base for ibogaine cardia
 ---
 
 ## See Also
-- [[RED_Cardiac_Safety_Hub]]
-- [[2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities]] — Extended this series to 33 deaths (1990–2018) with 14 additional cases
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Comprehensive cardiac mechanisms review building on the risk factors identified here
-- [[2016/Alper2016_hERG_Blockade]] — Same first author's follow-up quantifying the hERG mechanism underlying cardiac deaths
-- [[2013/Mazoyer2013_Fatality_Case]] — Detailed French fatality case (case #13 in this series, further analysed)
-- [[2009/Hoelen2009_Long_QT_Ibogaine]] — Long-QT case report referenced in this paper's discussion of arrhythmogenic risk
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Clinical guidelines developed to prevent the types of deaths documented here
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC protocol addressing the electrolyte/cardiac risks identified in this series
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
+- [Corkery2018_Ibogaine_Benefits_Dangers_Fatalities](../2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md) — Extended this series to 33 deaths (1990–2018) with 14 additional cases
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Comprehensive cardiac mechanisms review building on the risk factors identified here
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Same first author's follow-up quantifying the hERG mechanism underlying cardiac deaths
+- [Mazoyer2013_Fatality_Case](../2013/Mazoyer2013_Fatality_Case.md) — Detailed French fatality case (case #13 in this series, further analysed)
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — Long-QT case report referenced in this paper's discussion of arrhythmogenic risk
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Clinical guidelines developed to prevent the types of deaths documented here
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol addressing the electrolyte/cardiac risks identified in this series

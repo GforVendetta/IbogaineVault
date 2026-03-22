@@ -41,9 +41,14 @@ contraindications: []
 open_access: true
 publisher: "PLoS"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
 
 # Effect of Iboga Alkaloids on µ-Opioid Receptor-Coupled G Protein Activation
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Citation:** Antonio T, Childers SR, Rothman RB, Dersch CM, King C, et al. (2013) Effect of Iboga Alkaloids on µ-Opioid Receptor-Coupled G Protein Activation. *PLoS ONE* 8(10): e77262. doi:10.1371/journal.pone.0077262
 
@@ -436,10 +441,10 @@ Ibogaine, noribogaine, and 18-MC were weak antagonists without any agonist or pa
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Receptorome providing binding context for mu-opioid interactions
-- [[2016/Alper2016_hERG_Blockade]] — hERG IC50 values for iboga alkaloids
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Anti-addictive mechanism synthesis including opioid targets
-- [[1996/Reid1996_Local_Ibogaine_Dopamine]] — Kappa receptor mechanism and opioid interactions
-- [[2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms]] — Structural biology of ibogaine binding
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Receptorome providing binding context for mu-opioid interactions
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG IC50 values for iboga alkaloids
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Anti-addictive mechanism synthesis including opioid targets
+- [Reid1996_Local_Ibogaine_Dopamine](../1996/Reid1996_Local_Ibogaine_Dopamine.md) — Kappa receptor mechanism and opioid interactions
+- [Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms](../2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms.md) — Structural biology of ibogaine binding

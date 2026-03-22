@@ -27,6 +27,7 @@ aliases:
   - "Uncovering Ibogaine"
 evidence_level: primary-source
 mortality_count: 2
+mortality_scope: incidental
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -39,6 +40,8 @@ route: oral
 organisation: "Pacifica Radio / WBAI"
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Uncovering Ibogaine: The Deborah Mash Interview
@@ -161,16 +164,16 @@ Her rebuttal of the Johns Hopkins neurotoxicity findings — using three indepen
 
 ## See Also
 
-- [[Pangea_Ops/Ibogaine_Stories_Transcripts/2018_Oliver_Mash_Noribogaine_Discovery]] — Mash interview 22 years later, retrospective account of same events
-- [[1995/Mash1995_Noribogaine_SERT_Identification]] — The noribogaine SERT binding discovery discussed in this interview
-- [[1998/Mash1998_Medication_Development_Ibogaine]] — Mash's formal publication on ibogaine medication development
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — Pharmacokinetics and safety data from the clinical programme
-- [[1991/Glick1991_Ibogaine_Morphine_Self_Administration]] — Glick's animal self-administration work that first drew Mash's attention
-- [[1996/Molinari1996_Ibogaine_Neurotoxicity_Reevaluation]] — Molinari's dose run-up study directly referenced in this interview
-- [[Other/DeRienzo1995_Ibogaine_Story_Ch18]] — DeRienzo & Beal's book chapter covering the same period from an activist perspective
-- [[Primary_Sources/Wachtel2025_Bastiaans_Ibogaine_Historical_Account]] — Boaz Wachtel's firsthand account of the Netherlands ibogaine treatments Mash references
-- [[Howard_Lotsof_MOC]] — Howard Lotsof, whose collaboration with Mash is discussed throughout
-- [[WHITE_Historical_Hub]] — Historical context for ibogaine research and policy
+-  — Mash interview 22 years later, retrospective account of same events
+- [Mash1995_Noribogaine_SERT_Identification](../1995/Mash1995_Noribogaine_SERT_Identification.md) — The noribogaine SERT binding discovery discussed in this interview
+- [Mash1998_Medication_Development_Ibogaine](../1998/Mash1998_Medication_Development_Ibogaine.md) — Mash's formal publication on ibogaine medication development
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — Pharmacokinetics and safety data from the clinical programme
+- [Glick1991_Ibogaine_Morphine_Self_Administration](../1991/Glick1991_Ibogaine_Morphine_Self_Administration.md) — Glick's animal self-administration work that first drew Mash's attention
+- [Molinari1996_Ibogaine_Neurotoxicity_Reevaluation](../1996/Molinari1996_Ibogaine_Neurotoxicity_Reevaluation.md) — Molinari's dose run-up study directly referenced in this interview
+- [DeRienzo1995_Ibogaine_Story_Ch18](../Other/DeRienzo1995_Ibogaine_Story_Ch18.md) — DeRienzo & Beal's book chapter covering the same period from an activist perspective
+- [Wachtel2025_Bastiaans_Ibogaine_Historical_Account](Wachtel2025_Bastiaans_Ibogaine_Historical_Account.md) — Boaz Wachtel's firsthand account of the Netherlands ibogaine treatments Mash references
+- [Howard_Lotsof_MOC](../MOCs/Howard_Lotsof_MOC.md) — Howard Lotsof, whose collaboration with Mash is discussed throughout
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Historical context for ibogaine research and policy
 
 ---
 

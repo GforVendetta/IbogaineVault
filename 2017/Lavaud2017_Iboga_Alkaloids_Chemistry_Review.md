@@ -35,6 +35,8 @@ clinical_significance: moderate
 open_access: false
 publisher: "Springer Nature"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # The Iboga Alkaloids
@@ -165,16 +167,16 @@ The review does not state explicit limitations. The following scope boundaries c
 
 - **Chemistry-first perspective:** The pharmacology and biological activity sections survey rather than critically evaluate receptor binding data — affinities are cited from other reviews, not independently assessed
 - **Pre-neuroplasticity era:** GDNF, BDNF, and the neurotrophic mechanisms now considered central to ibogaine's therapeutic action are entirely absent from this 2017 review
-- **No cardiac safety pharmacology:** hERG channel interactions, QTc prolongation data, and the cardiac risk literature are not addressed — see [[Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac]] and [[Rubi2017_hERG_iPSC_Cardiomyocytes]] for contemporary coverage
+- **No cardiac safety pharmacology:** hERG channel interactions, QTc prolongation data, and the cardiac risk literature are not addressed — see [Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac](Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac.md) and [Rubi2017_hERG_iPSC_Cardiomyocytes](Rubi2017_hERG_iPSC_Cardiomyocytes.md) for contemporary coverage
 - **Biosynthesis section reflects 1970s knowledge** without modern enzyme characterisation or omic data
 
 ## See Also
 
-- [[ORANGE_Mechanisms_Hub]] — Primary hub; this review covers receptor pharmacology, 18-MC, cytotoxicity, and CNS mechanisms
-- [[Hub_PK-PD_Synthesis]] — CYP2D6 metabolism and noribogaine PK discussed in this review
-- [[Popik1995_100Years_Ibogaine_Review]] — Earlier comprehensive field review; complementary pharmacological focus
-- [[Alper2001_Ibogaine_Review]] — Broad ibogaine review with stronger clinical pharmacology coverage
-- [[DosSantos2017_Antiaddictive_Ibogaine_Systematic_Review]] — Systematic review of anti-addictive evidence (same year)
-- [[Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac]] — Detailed toxicokinetics and cardiac safety data absent from this review
-- [[Rubi2017_hERG_iPSC_Cardiomyocytes]] — hERG channel data this review lacks
-- [[Popik1994_Ibogaine_NMDA_MK801_Binding]] — NMDA receptor pharmacology referenced but not detailed here
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Primary hub; this review covers receptor pharmacology, 18-MC, cytotoxicity, and CNS mechanisms
+- [Hub_PK-PD_Synthesis](../Hubs/Hub_PK-PD_Synthesis.md) — CYP2D6 metabolism and noribogaine PK discussed in this review
+- [Popik1995_100Years_Ibogaine_Review](../1995/Popik1995_100Years_Ibogaine_Review.md) — Earlier comprehensive field review; complementary pharmacological focus
+- [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md) — Broad ibogaine review with stronger clinical pharmacology coverage
+- [DosSantos2017_Antiaddictive_Ibogaine_Systematic_Review](DosSantos2017_Antiaddictive_Ibogaine_Systematic_Review.md) — Systematic review of anti-addictive evidence (same year)
+- [Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac](Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac.md) — Detailed toxicokinetics and cardiac safety data absent from this review
+- [Rubi2017_hERG_iPSC_Cardiomyocytes](Rubi2017_hERG_iPSC_Cardiomyocytes.md) — hERG channel data this review lacks
+- [Popik1994_Ibogaine_NMDA_MK801_Binding](../1994/Popik1994_Ibogaine_NMDA_MK801_Binding.md) — NMDA receptor pharmacology referenced but not detailed here

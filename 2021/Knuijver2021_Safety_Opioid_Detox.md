@@ -54,6 +54,8 @@ route: oral
 open_access: true
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Safety of ibogaine administration in detoxification of opioid-dependent individuals: a descriptive open-label observational study
@@ -179,7 +181,7 @@ This study's most consequential contribution is quantifying cardiac risk under c
 
 The data carry several specific implications for clinical protocol design. First, the 8-day morphine conversion protocol successfully eliminated methadone's QT contribution — baseline QTc values were normal — establishing this as a minimum standard for anyone transitioning from methadone to ibogaine. Second, the magnesium rescue protocol (57% utilisation rate) should be considered mandatory infrastructure rather than optional contingency. Third, the persistence of QTc elevation beyond 24 hours in 43% of participants — attributable to noribogaine's long half-life — means that monitoring windows substantially shorter than 24 hours are clinically inadequate, and some individuals may require 48-hour observation. Fourth, CYP2D6 genotyping, while not performed in this study, emerges as a logical pre-treatment measure given the likely role of metaboliser phenotype in driving interindividual variability.
 
-The authors' conclusion that ibogaine's cardiac risks may not be outweighed by its therapeutic benefits reflects the balance of evidence at a single 10 mg/kg dose. Subsequent developments — particularly the [[2024/Cherian2024_Magnesium_Ibogaine_TBI|MISTIC magnesium co-administration protocol]] — have begun to shift this calculus by demonstrating that concurrent magnesium infusion can substantially attenuate QTc prolongation, potentially transforming the risk-benefit equation that Knuijver et al. found unfavourable.
+The authors' conclusion that ibogaine's cardiac risks may not be outweighed by its therapeutic benefits reflects the balance of evidence at a single 10 mg/kg dose. Subsequent developments — particularly the [MISTIC magnesium co-administration protocol](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — have begun to shift this calculus by demonstrating that concurrent magnesium infusion can substantially attenuate QTc prolongation, potentially transforming the risk-benefit equation that Knuijver et al. found unfavourable.
 
 ## Limitations
 
@@ -189,13 +191,13 @@ The authors identify several important constraints. The sample comprised 14 care
 
 ## See Also
 
-**Parent hub:** [[RED_Cardiac_Safety_Hub]]
+**Parent hub:** [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
 
-- [[2012/Alper2012_Ibogaine_Fatalities]] — fatalities review (1990–2008); provides the mortality context against which this trial's safety data should be interpreted
-- [[2016/Alper2016_hERG_Blockade]] — mechanistic basis for the QTc prolongation observed here; ibogaine and noribogaine hERG channel inhibition
-- [[2016/Litjens2016_How_Toxic_Is_Ibogaine]] — comprehensive toxicity review consolidating cardiac, cerebellar, and neurotoxicity evidence
-- [[2012/Paling2012_Life_Threatening_Complications|Paling 2012]] — Dutch case series documenting life-threatening cardiac complications from ibogaine
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI|Cherian 2024]] — MISTIC trial demonstrating magnesium co-administration as cardioprotective strategy, directly addressing the QTc risk quantified here
-- [[2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients|Knuijver 2024]] — pharmacokinetic follow-up from the same research group, correlating ibogaine/noribogaine plasma levels with the QTc and SARA trajectories first described in this study
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — industry screening standards informed by evidence of this kind
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes|Noller 2017]] — New Zealand 12-month follow-up study for longer-term outcome data on ibogaine-assisted opioid detoxification
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — fatalities review (1990–2008); provides the mortality context against which this trial's safety data should be interpreted
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — mechanistic basis for the QTc prolongation observed here; ibogaine and noribogaine hERG channel inhibition
+- [Litjens2016_How_Toxic_Is_Ibogaine](../2016/Litjens2016_How_Toxic_Is_Ibogaine.md) — comprehensive toxicity review consolidating cardiac, cerebellar, and neurotoxicity evidence
+- [Paling 2012](../2012/Paling2012_Life_Threatening_Complications.md) — Dutch case series documenting life-threatening cardiac complications from ibogaine
+- [Cherian 2024](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC trial demonstrating magnesium co-administration as cardioprotective strategy, directly addressing the QTc risk quantified here
+- [Knuijver 2024](../2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md) — pharmacokinetic follow-up from the same research group, correlating ibogaine/noribogaine plasma levels with the QTc and SARA trajectories first described in this study
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — industry screening standards informed by evidence of this kind
+- [Noller 2017](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — New Zealand 12-month follow-up study for longer-term outcome data on ibogaine-assisted opioid detoxification

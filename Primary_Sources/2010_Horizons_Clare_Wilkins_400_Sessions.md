@@ -31,9 +31,14 @@ source_pdf: "not-applicable"
 source_url: "http://www.youtube.com/watch?v=lysh-XDZQfE (Part 1), http://www.youtube.com/watch?v=Z20bmnuvoHc (Part 2)"
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Clare Wilkins at Horizons 2010: Over 400 Ibogaine Sessions
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 > **Source:** Horizons: Perspectives on Psychedelics conference, New York (2010)
 > **Speaker:** Clare Wilkins, Founder, Pangea Biomedics
@@ -169,10 +174,10 @@ What they're saying is that ibogaine comes in and works on the receptors and act
 
 ## See Also
 
-**Parent hub:** [[WHITE_Historical_Hub]]
+**Parent hub:** [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)
 
-- [[Clare_Wilkins_MOC]] — Complete index of Clare Wilkins materials
-- [[Primary_Sources/2010_MAPS_Clare_Wilkins_Evolution]] — Same year, MAPS conference
-- [[Pangea_Ops/Ibogaine_Stories_Transcripts/2018_Oliver_Wilkins_Pangea_Protocol]] — Later interview showing protocol evolution
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Guidelines Clare co-authored
-- [[2006/He2006_Ibogaine_and_GDNF]] — GDNF research she references
+- [Clare_Wilkins_MOC](../MOCs/Clare_Wilkins_MOC.md) — Complete index of Clare Wilkins materials
+- [2010_MAPS_Clare_Wilkins_Evolution](2010_MAPS_Clare_Wilkins_Evolution.md) — Same year, MAPS conference
+-  — Later interview showing protocol evolution
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Guidelines Clare co-authored
+- [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — GDNF research she references

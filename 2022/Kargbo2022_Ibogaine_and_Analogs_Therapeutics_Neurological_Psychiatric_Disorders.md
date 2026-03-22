@@ -30,6 +30,8 @@ contraindications: []
 open_access: true
 publisher: "American Chemical Society"
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine and Their Analogs as Therapeutics for Neurological and Psychiatric Disorders
@@ -248,10 +250,10 @@ The author declares no competing financial interest.
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs]] — Comprehensive chemistry review
-- [[2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience]] — DARK Classics synthesis
-- [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — Oxa-iboga analogues
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Mechanism synthesis
-- [[2006/He2006_Ibogaine_and_GDNF]] — Neuroplasticity mechanisms
+- [Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs](../2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md) — Comprehensive chemistry review
+- [Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience](../2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience.md) — DARK Classics synthesis
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — Oxa-iboga analogues
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Mechanism synthesis
+- [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — Neuroplasticity mechanisms

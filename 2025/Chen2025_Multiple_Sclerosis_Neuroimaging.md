@@ -34,9 +34,14 @@ contraindications: []
 open_access: true
 publisher: "Frontiers"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
 
 # Case report: Significant lesion reduction and neural structural changes following ibogaine treatments for multiple sclerosis
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Authors:** David Qixiang Chen, José Adalberto Inzunza Domínguez, Juan Manuel Valle Uzeta, Abhiram P. Pushparaj, and Jonathan E. Dickinson
 **Affiliations:** Ambio Life Sciences, Vancouver, BC, Canada; +ROI Regulatory Advisory, Toronto, ON, Canada
@@ -54,19 +59,19 @@ Multiple sclerosis (MS) is a debilitating neurodegenerative disease characterize
 
 ## 1. Introduction
 
-Ibogaine is a naturally occurring indole alkaloid with complex neuropharmacology and strong oneirogenic ("waking dream generating") properties. Although most widely discussed as an aid to mitigating withdrawal and cravings from opioids and other drugs (1–3; see [[Alper2001_Ibogaine_Review]], [[Brown2013_Ibogaine_Treatment_Substance_Dependence]], [[Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis]]), ibogaine has recently garnered attention for its potential to alleviate symptoms associated with traumatic brain injury (4; see [[Cherian2024_Magnesium_Ibogaine_TBI]]), neuropathic pain (5; see [[Dickinson2023_Ibogaine_Reduced_Severe_Neuropathic_Pain_Brachial_Plexus_Nerve_Root_Avulsion]]), and other neurodegenerative conditions.
+Ibogaine is a naturally occurring indole alkaloid with complex neuropharmacology and strong oneirogenic ("waking dream generating") properties. Although most widely discussed as an aid to mitigating withdrawal and cravings from opioids and other drugs (1–3; see [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md), [Brown2013_Ibogaine_Treatment_Substance_Dependence](../2013/Brown2013_Ibogaine_Treatment_Substance_Dependence.md), [Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis](../2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md)), ibogaine has recently garnered attention for its potential to alleviate symptoms associated with traumatic brain injury (4; see [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md)), neuropathic pain (5; see [Dickinson2023_Ibogaine_Reduced_Severe_Neuropathic_Pain_Brachial_Plexus_Nerve_Root_Avulsion](../2023/Dickinson2023_Ibogaine_Reduced_Severe_Neuropathic_Pain_Brachial_Plexus_Nerve_Root_Avulsion.md)), and other neurodegenerative conditions.
 
 Ibogaine’s physiological effects appear to involve multiple mechanisms:
 
-* Its interaction with N-methyl-D-aspartate (NMDA), , and opioid receptors influence neural activity and plasticity (1, 6; see [[Koenig2015_Cardiac_Mechanisms]]).
+* Its interaction with N-methyl-D-aspartate (NMDA), , and opioid receptors influence neural activity and plasticity (1, 6; see [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md)).
 
-* Upregulation of both brain-derived neurotrophic factor (BDNF) and glial cell-derived neurotrophic factor (GDNF) promotes neuronal survival and plasticity (7–9; see [[He2005_GDNF_Ibogaine_Alcohol]], [[Marton2019_Ibogaine_GDNF_BDNF]]).
+* Upregulation of both brain-derived neurotrophic factor (BDNF) and glial cell-derived neurotrophic factor (GDNF) promotes neuronal survival and plasticity (7–9; see [He2005_GDNF_Ibogaine_Alcohol](../2005/He2005_GDNF_Ibogaine_Alcohol.md), [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md)).
 
 * Reduction of pro-inflammatory cytokines decreases neuroinflammation (10).
 
 * Improvements in cellular respiration may contribute to structural changes in neuronal cells (11, 12).
 
-* Upregulation of myelination markers 2', 3'-cyclic nucleotide 3'-phosphodiesterase (CNP) and myelin basic protein (MBP) mRNA demonstrate remyelination potential (13; see [[Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination]]).
+* Upregulation of myelination markers 2', 3'-cyclic nucleotide 3'-phosphodiesterase (CNP) and myelin basic protein (MBP) mRNA demonstrate remyelination potential (13; see [Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination](../2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination.md)).
 
 Multiple sclerosis (MS) is a chronic demyelinating disease characterized by neuroinflammation, axonal damage, and progressive neurological deficits (14). Standard treatments aim to modulate immune responses and slow disease progression but often have limited efficacy and significant side effects (15).
 
@@ -112,7 +117,7 @@ Also in February 2023, Ambio received a 44-year-old female ("PB") who was diagno
 
 ### 2.1 Clinical Protocol
 
-Ibogaine is known to block the hERG potassium channel and prolong the cardiac QT interval (see [[Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]]). To avoid complications, both patients underwent a novel ibogaine treatment protocol at Ambio.
+Ibogaine is known to block the hERG potassium channel and prolong the cardiac QT interval (see [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md)). To avoid complications, both patients underwent a novel ibogaine treatment protocol at Ambio.
 
 **Treatment Workflow:**
 
@@ -353,34 +358,34 @@ These case studies suggest that ibogaine may induce neuroplastic and perhaps neu
 ## See Also
 
 ### Neuroplasticity & Neurotrophic Mechanisms
-- [[He2005_GDNF_Ibogaine_Alcohol]] — foundational evidence for ibogaine-mediated GDNF upregulation, a key proposed mechanism for the neuroregenerative effects observed here
-- [[Marton2019_Ibogaine_GDNF_BDNF]] — demonstrates dual BDNF/GDNF upregulation by ibogaine, directly relevant to the neurotrophic hypothesis underlying MS lesion reduction
-- [[Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination]] — preclinical evidence for ibogaine upregulating myelination markers (CNP, MBP), providing mechanistic support for the remyelination findings in Patient A
-- [[Lukasiewicz2021_Serotonergic_Psychedelics_Neuroplasticity]] — broader context for psychedelic-induced neuroplasticity via serotonergic mechanisms
-- [[Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release]] — structure-activity relationships for GDNF release across iboga alkaloid variants
+- [He2005_GDNF_Ibogaine_Alcohol](../2005/He2005_GDNF_Ibogaine_Alcohol.md) — foundational evidence for ibogaine-mediated GDNF upregulation, a key proposed mechanism for the neuroregenerative effects observed here
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — demonstrates dual BDNF/GDNF upregulation by ibogaine, directly relevant to the neurotrophic hypothesis underlying MS lesion reduction
+- [Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination](../2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination.md) — preclinical evidence for ibogaine upregulating myelination markers (CNP, MBP), providing mechanistic support for the remyelination findings in Patient A
+- [Lukasiewicz2021_Serotonergic_Psychedelics_Neuroplasticity](../2021/Lukasiewicz2021_Serotonergic_Psychedelics_Neuroplasticity.md) — broader context for psychedelic-induced neuroplasticity via serotonergic mechanisms
+- [Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release](../2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md) — structure-activity relationships for GDNF release across iboga alkaloid variants
 
 ### Neuroimaging & Structural Brain Changes
-- [[Geoly2026_Cortical_Thickness_Brain_Age_MISTIC]] — parallel neuroimaging study showing cortical thickness changes following magnesium-ibogaine treatment in TBI veterans; complementary FreeSurfer methodology
-- [[Cherian2024_Magnesium_Ibogaine_TBI]] — the landmark TBI study referenced here; demonstrates ibogaine's neuroregenerative potential in a different neurological condition with overlapping mechanisms
-- [[Williams2025_Magnesium_Ibogaine_TBI]] — expanded TBI cohort with additional neuroimaging evidence for ibogaine-mediated brain changes
+- [Geoly2026_Cortical_Thickness_Brain_Age_MISTIC](../2026/Geoly2026_Cortical_Thickness_Brain_Age_MISTIC.md) — parallel neuroimaging study showing cortical thickness changes following magnesium-ibogaine treatment in TBI veterans; complementary FreeSurfer methodology
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — the landmark TBI study referenced here; demonstrates ibogaine's neuroregenerative potential in a different neurological condition with overlapping mechanisms
+- [Williams2025_Magnesium_Ibogaine_TBI](Williams2025_Magnesium_Ibogaine_TBI.md) — expanded TBI cohort with additional neuroimaging evidence for ibogaine-mediated brain changes
 
 ### Neuropathic Pain & Non-Addiction Applications
-- [[Dickinson2023_Ibogaine_Reduced_Severe_Neuropathic_Pain_Brachial_Plexus_Nerve_Root_Avulsion]] — case report from the same clinical group (Ambio) demonstrating ibogaine's efficacy for severe neuropathic pain
-- [[Cherian2024_Ibogaine_Primer_Clinicians]] — comprehensive clinical overview including non-addiction applications and safety considerations
+- [Dickinson2023_Ibogaine_Reduced_Severe_Neuropathic_Pain_Brachial_Plexus_Nerve_Root_Avulsion](../2023/Dickinson2023_Ibogaine_Reduced_Severe_Neuropathic_Pain_Brachial_Plexus_Nerve_Root_Avulsion.md) — case report from the same clinical group (Ambio) demonstrating ibogaine's efficacy for severe neuropathic pain
+- [Cherian2024_Ibogaine_Primer_Clinicians](../2024/Cherian2024_Ibogaine_Primer_Clinicians.md) — comprehensive clinical overview including non-addiction applications and safety considerations
 
 ### Cardiac Safety Context
-- [[Koenig2015_Cardiac_Mechanisms]] — detailed pharmacological profile of ibogaine's cardiac ion channel interactions, relevant to the hERG blockade risk managed in this protocol
-- [[Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — foundational work on hERG channel blockade that informs the cardiac monitoring protocols used here
-- [[Faerman2025_MISTIC_12Month_Followup]] — the MISTIC protocol's magnesium co-administration approach to cardiac safety, contextualising the magnesium pre-treatment used at Ambio
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — detailed pharmacological profile of ibogaine's cardiac ion channel interactions, relevant to the hERG blockade risk managed in this protocol
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — foundational work on hERG channel blockade that informs the cardiac monitoring protocols used here
+- [Faerman2025_MISTIC_12Month_Followup](Faerman2025_MISTIC_12Month_Followup.md) — the MISTIC protocol's magnesium co-administration approach to cardiac safety, contextualising the magnesium pre-treatment used at Ambio
 
 ### Foundational Reviews
-- [[Alper2001_Ibogaine_Review]] — comprehensive pharmacological review referenced in the introduction
-- [[Brown2013_Ibogaine_Treatment_Substance_Dependence]] — early systematic review of ibogaine's therapeutic applications
-- [[Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis]] — systematic review and meta-analysis of preclinical evidence
-- [[Malcolm2022_Addiction_Pharmacology_Ibogaine]] — updated pharmacological review covering ibogaine's multi-target receptor profile
+- [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md) — comprehensive pharmacological review referenced in the introduction
+- [Brown2013_Ibogaine_Treatment_Substance_Dependence](../2013/Brown2013_Ibogaine_Treatment_Substance_Dependence.md) — early systematic review of ibogaine's therapeutic applications
+- [Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis](../2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md) — systematic review and meta-analysis of preclinical evidence
+- [Malcolm2022_Addiction_Pharmacology_Ibogaine](../2022/Malcolm2022_Addiction_Pharmacology_Ibogaine.md) — updated pharmacological review covering ibogaine's multi-target receptor profile
 
 ### Hubs
-- [[BLUE_Outcomes_Hub]] — primary hub; clinical outcomes and efficacy evidence
-- [[ORANGE_Mechanisms_Hub]] — neurotrophic, neuroplastic, and anti-inflammatory mechanisms
-- [[RED_Cardiac_Safety_Hub]] — cardiac safety protocols and monitoring relevant to the clinical methodology
-- [[GREEN_Clinical_Protocols_Hub]] — treatment protocol design including the Ambio workflow described here
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — primary hub; clinical outcomes and efficacy evidence
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — neurotrophic, neuroplastic, and anti-inflammatory mechanisms
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — cardiac safety protocols and monitoring relevant to the clinical methodology
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md) — treatment protocol design including the Ambio workflow described here

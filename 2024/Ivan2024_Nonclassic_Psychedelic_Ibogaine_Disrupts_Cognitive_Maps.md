@@ -35,9 +35,14 @@ contraindications: []
 open_access: true
 publisher: "Elsevier"
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # **The Nonclassic Psychedelic Ibogaine Disrupts Cognitive Maps**
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Victorita E. Ivan, David P. Tomàs-Cuesta, Ingrid M. Esteves, Davor Curic, Majid Mohajerani, Bruce L. McNaughton, Joern Davidsen, and Aaron J. Gruber**
 *Biological Psychiatry: Global Open Science* 4:275–283 (2024)
@@ -207,10 +212,10 @@ The data are consistent with proposals that psychedelics disrupt top-down predic
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression]] — Sleep/wake architecture effects
-- [[2023/Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects]] — Noribogaine sleep effects
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Receptor basis for cognitive effects
-- [[2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects]] — Mechanism synthesis
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — Neuroplasticity underlying cognitive changes
+- [Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression](../2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression.md) — Sleep/wake architecture effects
+- [Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects](../2023/Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects.md) — Noribogaine sleep effects
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Receptor basis for cognitive effects
+- [Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Mechanism synthesis
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — Neuroplasticity underlying cognitive changes

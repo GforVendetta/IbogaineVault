@@ -25,9 +25,14 @@ route: not-applicable
 open_access: false
 publisher: "Springer Nature"
 body_format: academic-retained
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Iboga: Between Myth and Reality
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Original Title:** Iboga: entre mythe et réalité
 
@@ -265,9 +270,9 @@ The research has been done in collaboration with Faculty of Pharmacy and Biotech
 
 ## See Also
 
-**Parent hub:** [[WHITE_Historical_Hub]]
+**Parent hub:** [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)
 
-- [[2025/Samorini2025_Studies_Iboga_Cults_Ethnobotanical_Complex]] — Ethnobotanical studies of iboga cults
-- [[1995/- [[1995/Popik1995_100Years_Ibogaine_Review|Popik 1995]] — Landmark 100-year pharmacological review from NIH team]] — Historical context for iboga traditions
-- [[2018/Rodger2018_Healing_Potential_Ibogaine]] — Healing potential integrating cultural context
-- [[2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance]] — Ibogaine's trajectory in modern context
+- [Samorini2025_Studies_Iboga_Cults_Ethnobotanical_Complex](../2025/Samorini2025_Studies_Iboga_Cults_Ethnobotanical_Complex.md) — Ethnobotanical studies of iboga cults
+- [Popik 1995 — Landmark 100-year pharmacological review from NIH team](../1995/Popik1995_100Years_Ibogaine_Review.md) — Historical context for iboga traditions
+- [Rodger2018_Healing_Potential_Ibogaine](../2018/Rodger2018_Healing_Potential_Ibogaine.md) — Healing potential integrating cultural context
+- [Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance](../2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md) — Ibogaine's trajectory in modern context

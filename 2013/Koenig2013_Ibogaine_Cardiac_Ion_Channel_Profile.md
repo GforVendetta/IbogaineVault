@@ -45,6 +45,8 @@ route: not-applicable
 open_access: true
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Anti-addiction drug ibogaine inhibits voltage-gated ionic currents: A study to assess the drug's cardiac ion channel profile
@@ -160,9 +162,9 @@ This paper provides the foundational cardiac ion channel profile that underpins 
 ---
 
 ## See Also
-- [[RED_Cardiac_Safety_Hub]]
-- [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk|Koenig 2012 — hERG Blockade Brief Communication (precursor study)]]
-- [[2012/Alper2012_Ibogaine_Fatalities|Alper 2012 — Fatalities Temporally Associated with Ibogaine]]
-- [[2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities|Corkery 2018 — Benefits, Dangers and Fatalities]]
-- [[2018/Steinberg2018_Cardiac_Arrest_Case|Steinberg 2018 — Cardiac Arrest Case]]
-- [[2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients|Knuijver 2024 — Pharmacokinetics and Pharmacodynamics in OUD Patients]]
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
+- [Koenig 2012 — hERG Blockade Brief Communication (precursor study)](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md)
+- [Alper 2012 — Fatalities Temporally Associated with Ibogaine](../2012/Alper2012_Ibogaine_Fatalities.md)
+- [Corkery 2018 — Benefits, Dangers and Fatalities](../2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md)
+- [Steinberg 2018 — Cardiac Arrest Case](../2018/Steinberg2018_Cardiac_Arrest_Case.md)
+- [Knuijver 2024 — Pharmacokinetics and Pharmacodynamics in OUD Patients](../2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md)

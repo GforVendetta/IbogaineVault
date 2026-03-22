@@ -17,6 +17,7 @@ publication_date: "2026-02-06"
 journal: "Ecstatic Integration (Substack)"
 evidence_level: journalism
 mortality_count: 5
+mortality_scope: discrete-cases
 qtc_data: false
 herg_data: false
 electrolyte_data: false
@@ -31,6 +32,8 @@ dosing_range: "Not specified (flood dose protocols at various clinics)"
 route: oral
 open_access: true
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Learning from ibogaine fatalities, rather than covering them up
@@ -128,12 +131,12 @@ For ibogaine treatment providers:
 
 ## See Also
 
-- [[2026/Brunt2026_Cardiovascular_Complications_Review]] — Systematic review of cardiac adverse events
-- [[2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020]] — Prior adverse events review
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — GITA guidelines referenced in article
-- [[Other/Busby2024_Beond_Death_Investigation]] — Similar investigative journalism on Beond death
-- [[RED_Cardiac_Safety_Hub]] — Domain hub for cardiac safety evidence
-- [[WHITE_Historical_Hub]] — Domain hub for historical and policy context
+- [Brunt2026_Cardiovascular_Complications_Review](../2026/Brunt2026_Cardiovascular_Complications_Review.md) — Systematic review of cardiac adverse events
+- [Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020](../2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md) — Prior adverse events review
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — GITA guidelines referenced in article
+- [Busby2024_Beond_Death_Investigation](Busby2024_Beond_Death_Investigation.md) — Similar investigative journalism on Beond death
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Domain hub for cardiac safety evidence
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Domain hub for historical and policy context
 
 ## External References
 

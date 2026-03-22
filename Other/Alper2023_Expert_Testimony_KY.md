@@ -32,6 +32,8 @@ herg_data: false
 contraindications: []
 open_access: true
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Expert Testimony: Kentucky Opioid Abatement Advisory Commission Public Hearing
@@ -58,7 +60,7 @@ body_format: vault-analytical
 
 I graduated Medical School from the University Texas at San Antonio with honors in 1984. I completed my residency in the Department of Psychiatry at the New York University School of Medicine, with a subsequent research fellowship that focused on quantitative analysis of the EEG in cocaine users. As a Clinical Associate Professor of Psychiatry and Neurology I served in a full-time role as a neuropsychiatrist with the NYU Comprehensive Epilepsy Center. I presently work in private practice as a clinical psychopharmacologist and I do research on psychedelics at the Nathan Kline Institute for Psychiatric Research, a New York State-funded Research Campus located north of Manhattan. I am among the most frequently cited authors on the subject of ibogaine in the scientific literature.
 
-My work with ibogaine began in 1995 when a colleague introduced me to [[Howard_Lotsof_MOC|Howard Lotsof]]. Howard Lotsof was the first to observe the effect of ibogaine on physical dependence on opioids, which he did in the setting of a group of lay drug experimenters in 1962. He eventually went on to persuade the National Institute on Drug Abuse to undertake its program of research on ibogaine from 1991 to 1995.
+My work with ibogaine began in 1995 when a colleague introduced me to [Howard Lotsof](../MOCs/Howard_Lotsof_MOC.md). Howard Lotsof was the first to observe the effect of ibogaine on physical dependence on opioids, which he did in the setting of a group of lay drug experimenters in 1962. He eventually went on to persuade the National Institute on Drug Abuse to undertake its program of research on ibogaine from 1991 to 1995.
 
 In 1999 I organized the First International Conference on Ibogaine at NYU, with participation by NIH-supported researchers as well as lay providers of ibogaine treatment. The Conference produced the first English language scientific text on the subject, which I edited with Stanley Glick (the leading preclinical researcher on ibogaine and my principal scientific mentor in the field) and Geoffrey Cordell, a leading natural product chemist and expert on plant alkaloids.
 
@@ -235,11 +237,11 @@ The final round will follow a lunch break. This will allow for everyone to decom
 
 ## See Also
 
-- [[Kenneth_Alper_MOC]] — Full research profile
-- [[2012/Alper2012_Ibogaine_Fatalities|Alper 2012 — Ibogaine Fatality Review]] — Forensic toxicology study
+- [Kenneth_Alper_MOC](../MOCs/Kenneth_Alper_MOC.md) — Full research profile
+- [Alper 2012 — Ibogaine Fatality Review](../2012/Alper2012_Ibogaine_Fatalities.md) — Forensic toxicology study
 - Alper 2006 — Ibogaine Medical Subculture (not in vault)
 - Alper 2001 — Contemporary Ibogaine History (not in vault)
-- [[Howard_Lotsof_MOC]] — Discoverer and advocate
-- [[RED_Cardiac_Safety_Hub]] — Cardiac safety evidence
-- [[WHITE_Historical_Hub]] — Historical and policy context
-- [[GREEN_Clinical_Protocols_Hub]] — Clinical protocols and screening
+- [Howard_Lotsof_MOC](../MOCs/Howard_Lotsof_MOC.md) — Discoverer and advocate
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Cardiac safety evidence
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Historical and policy context
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md) — Clinical protocols and screening

@@ -41,9 +41,14 @@ route: oral
 open_access: true
 publisher: "Frontiers"
 body_format: academic-retained
+licence_type: cc-by
+licence_verified: false
 ---
 
 # Ibogaine Detoxification Transitions Opioid and Cocaine Abusers Between Dependence and Abstinence: Clinical Observations and Treatment Outcomes
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Authors:** Deborah C. Mash, Linda Duque, Bryan Page, and Kathleen Allen-Ferdinand
 **Affiliations:**
@@ -448,10 +453,10 @@ Ibogaine reportedly has helped people transition from heroin and cocaine to sobr
 
 ## See Also
 
-**Parent hub:** [[BLUE_Outcomes_Hub]]
+**Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — Same author's earlier PK/safety work this clinical programme built upon
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Safety documentation informing protocols used in this cohort
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — Comparison 12-month observational data from New Zealand
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Industry guidelines implementing this clinical experience
-- [[2020/Davis2020_SpecialOps_Veterans_Trauma]] — Later outcomes research extending to different population
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — Same author's earlier PK/safety work this clinical programme built upon
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Safety documentation informing protocols used in this cohort
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — Comparison 12-month observational data from New Zealand
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Industry guidelines implementing this clinical experience
+- [Davis2020_SpecialOps_Veterans_Trauma](../2020/Davis2020_SpecialOps_Veterans_Trauma.md) — Later outcomes research extending to different population

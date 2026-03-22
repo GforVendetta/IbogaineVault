@@ -31,9 +31,14 @@ contraindications: []
 source_pdf: "not-applicable"
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Clare Wilkins at MAPS 2014: Architecture of Emergency Using Psychedelics During the Anthropocene Era
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 > **Source:** MAPS Psychedelic Science Conference, November 2014
 > **Speaker:** Clare Wilkins, Director, Pangea Biomedics; GITA Board Member
@@ -244,11 +249,11 @@ Because addiction is really a disease of isolation. And it's an adaptogenic resp
 
 ## See Also
 
-- [[Primary_Sources/2010_MAPS_Clare_Wilkins_Evolution]] — Earlier MAPS talk covering evolution of her practice
-- [[Primary_Sources/2010_Horizons_Clare_Wilkins_400_Sessions]] — 400 sessions retrospective from same era
-- [[Primary_Sources/2017_PS_Clare_Wilkins_Methadone_Detox]] — Methadone detoxification protocols
-- [[Pangea_Ops/Ibogaine_Stories_Transcripts/2018_Oliver_Wilkins_Pangea_Protocol]] — Pangea protocol development
-- [[Clare_Wilkins_MOC]] — Complete Clare Wilkins materials index
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — The clinical guidelines Clare co-authored
-- [[RED_Cardiac_Safety_Hub]] — Cardiac safety evidence referenced throughout
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Fatality data Clare references
+- [2010_MAPS_Clare_Wilkins_Evolution](2010_MAPS_Clare_Wilkins_Evolution.md) — Earlier MAPS talk covering evolution of her practice
+- [2010_Horizons_Clare_Wilkins_400_Sessions](2010_Horizons_Clare_Wilkins_400_Sessions.md) — 400 sessions retrospective from same era
+- [2017_PS_Clare_Wilkins_Methadone_Detox](2017_PS_Clare_Wilkins_Methadone_Detox.md) — Methadone detoxification protocols
+-  — Pangea protocol development
+- [Clare_Wilkins_MOC](../MOCs/Clare_Wilkins_MOC.md) — Complete Clare Wilkins materials index
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — The clinical guidelines Clare co-authored
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Cardiac safety evidence referenced throughout
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Fatality data Clare references

@@ -23,9 +23,14 @@ herg_data: false
 contraindications: []
 open_access: true
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Life after Ibogaine
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **An exploratory study of the long-term effects of ibogaine treatment on drug addicts**
 
@@ -531,10 +536,10 @@ The results are encouraging, showing significant drug free periods among two-thi
 
 ## See Also
 
-**Parent hub:** [[PURPLE_Phenomenology_Hub]]
+**Parent hub:** [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md)
 
-- [[1996/Lotsof1996_Trauma_Abreaction]] — Lotsof's psychological framework these outcomes explore
-- [[2005/Kroupa2005_Boosters_Maintenance]] — Booster/integration protocols for long-term outcomes
-- [[2018/Rodger2018_Healing_Potential_Ibogaine]] — Later phenomenological outcomes research
-- [[2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine]] — Qualitative acute effects study
-- [[2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective]] — IES scale for quantifying subjective outcomes
+- [Lotsof1996_Trauma_Abreaction](../1996/Lotsof1996_Trauma_Abreaction.md) — Lotsof's psychological framework these outcomes explore
+- [Kroupa2005_Boosters_Maintenance](../2005/Kroupa2005_Boosters_Maintenance.md) — Booster/integration protocols for long-term outcomes
+- [Rodger2018_Healing_Potential_Ibogaine](../2018/Rodger2018_Healing_Potential_Ibogaine.md) — Later phenomenological outcomes research
+- [Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine](../2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine.md) — Qualitative acute effects study
+- [Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective](../2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective.md) — IES scale for quantifying subjective outcomes

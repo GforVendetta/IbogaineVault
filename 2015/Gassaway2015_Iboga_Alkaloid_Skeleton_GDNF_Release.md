@@ -36,6 +36,8 @@ pmid: "26517751"
 open_access: false
 publisher: "American Chemical Society"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Deconstructing the Iboga Alkaloid Skeleton: Potentiation of FGF2-induced Glial Cell Line-Derived Neurotrophic Factor Release by a Novel Compound
@@ -103,9 +105,9 @@ The study remains in-vitro only (C6 glioma cells), and no clinical translation d
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[2006/He2006_Ibogaine_and_GDNF]] — Original discovery that ibogaine upregulates GDNF in rat VTA; the foundational hypothesis this structure–activity work extends
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — In-vivo validation of ibogaine-induced GDNF/BDNF expression across brain regions (VTA, SN, PFC, NAcc); same Sames/Carrera collaboration
-- [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — Next-generation oxa-iboga analogues from Sames lab retaining GDNF induction while eliminating hERG blockade; direct descendant of the XL-008 programme
-- [[2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs]] — Comprehensive review of iboga analogue chemistry and neuropharmacology contextualising this work
+- [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — Original discovery that ibogaine upregulates GDNF in rat VTA; the foundational hypothesis this structure–activity work extends
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — In-vivo validation of ibogaine-induced GDNF/BDNF expression across brain regions (VTA, SN, PFC, NAcc); same Sames/Carrera collaboration
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — Next-generation oxa-iboga analogues from Sames lab retaining GDNF induction while eliminating hERG blockade; direct descendant of the XL-008 programme
+- [Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs](../2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md) — Comprehensive review of iboga analogue chemistry and neuropharmacology contextualising this work

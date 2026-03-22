@@ -41,6 +41,8 @@ route: oral
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Mania Following Use of Ibogaine: A Case Series
@@ -156,11 +158,11 @@ This paper establishes mania as a clinically significant adverse event of ibogai
 
 ## See Also
 
-**Parent hub:** [[RED_Cardiac_Safety_Hub]]
+**Parent hub:** [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
 
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Systematic adverse events review; mania not identified in this earlier series, suggesting it was previously unrecognised
-- [[2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020]] — Updated adverse events review incorporating this paper's mania findings in broader AE taxonomy
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Psychiatric contraindications section; this paper provides evidence base for those exclusion criteria
-- [[2015/Breuer2015_Herbal_Seizures_Case_Report]] — Other psychiatric/neurological adverse event case report (seizures)
-- [[2018/Rodger2018_Healing_Potential_Ibogaine]] — Psychological outcomes perspective; integration protocols should screen for mania risk identified here
-- [[2016/Alper2016_hERG_Blockade]] — hERG data contextualising the cardiac risks that dominate ibogaine safety literature; this mania paper expands the AE profile beyond cardiac
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Systematic adverse events review; mania not identified in this earlier series, suggesting it was previously unrecognised
+- [Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020](../2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md) — Updated adverse events review incorporating this paper's mania findings in broader AE taxonomy
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Psychiatric contraindications section; this paper provides evidence base for those exclusion criteria
+- [Breuer2015_Herbal_Seizures_Case_Report](Breuer2015_Herbal_Seizures_Case_Report.md) — Other psychiatric/neurological adverse event case report (seizures)
+- [Rodger2018_Healing_Potential_Ibogaine](../2018/Rodger2018_Healing_Potential_Ibogaine.md) — Psychological outcomes perspective; integration protocols should screen for mania risk identified here
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG data contextualising the cardiac risks that dominate ibogaine safety literature; this mania paper expands the AE profile beyond cardiac

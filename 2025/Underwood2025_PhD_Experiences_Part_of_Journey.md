@@ -31,6 +31,8 @@ herg_data: false
 contraindications: []
 open_access: true
 body_format: hybrid
+licence_type: unknown
+licence_verified: false
 ---
 
 # The Use of Ibogaine in the Treatment of Substance Use Disorders: Integrating Psychoactive Experiences as Part of the Recovery Journey
@@ -327,20 +329,20 @@ The thesis advocates for transpersonal framework in ibogaine research/practice:
 
 ## See Also
 
-**Parent hub:** [[PURPLE_Phenomenology_Hub]]
+**Parent hub:** [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md)
 
 ### Related Phenomenology Papers
-- [[2026/Olash2026_Subjective_Experience_Magnesium_Ibogaine|Olash2026 — MISTIC Phenomenology]]
-- [[2020/Barber2020_Consumer_Views_Online_Fora|Barber2020 — Consumer Views]]
-- [[2025/Staveley2025_PhD_Ibogaine_Veterans_PTSD|Staveley2025 — Veterans PhD (gnosis framework)]]
+- [Olash2026 — MISTIC Phenomenology](../2026/Olash2026_Subjective_Experience_Magnesium_Ibogaine.md)
+- [Barber2020 — Consumer Views](../2020/Barber2020_Consumer_Views_Online_Fora.md)
+- [Staveley2025 — Veterans PhD (gnosis framework)](Staveley2025_PhD_Ibogaine_Veterans_PTSD.md)
 
 ### Related Clinical Outcomes
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI|Cherian2024 — MISTIC Protocol]]
-- [[2025/Polanco2025_War_Trauma_Ibogaine_5-MeO|Polanco2025 — War Trauma Veterans]]
+- [Cherian2024 — MISTIC Protocol](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md)
+- [Polanco2025 — War Trauma Veterans](Polanco2025_War_Trauma_Ibogaine_5-MeO.md)
 
 ### Integration and Protocol Papers
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines|GITA 2015 Guidelines]]
-- [[2025/Yockey2025_Reconsidering_Ibogaine|Yockey2025 — Policy Perspective]]
+- [GITA 2015 Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md)
+- [Yockey2025 — Policy Perspective](Yockey2025_Reconsidering_Ibogaine.md)
 
 ---
 

@@ -33,6 +33,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Attenuation of the Reinforcing Efficacy of Morphine by 18-Methoxycoronaridine
@@ -219,9 +221,9 @@ Zito, K.A., Vickers, G., Roberts, D.C., 1985. Disruption of cocaine and heroin s
 
 ## See Also
 
-- [[1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis]] — Companion study: ibogaine–morphine interaction using same paradigm (19 h pretreatment, same brain regions)
-- [[1996/Glick1996_18MC_NonToxic]] — Original 18-MC proof-of-concept this study extends
-- [[1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine]] — Same group's cocaine studies for comparison
-- [[1999/Glick1999_18MC_Review_CNS_Drugs]] — Comprehensive 18-MC review synthesising this data
-- [[2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis]] — Meta-analysis incorporating this animal data
-- [[ORANGE_Mechanisms_Hub]]
+- [Maisonneuve1991_Ibogaine_Morphine_Microdialysis](../1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis.md) — Companion study: ibogaine–morphine interaction using same paradigm (19 h pretreatment, same brain regions)
+- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md) — Original 18-MC proof-of-concept this study extends
+- [Maisonneuve1997_TimeDependent_Iboga_Cocaine](../1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine.md) — Same group's cocaine studies for comparison
+- [Glick1999_18MC_Review_CNS_Drugs](Glick1999_18MC_Review_CNS_Drugs.md) — Comprehensive 18-MC review synthesising this data
+- [Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis](../2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md) — Meta-analysis incorporating this animal data
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

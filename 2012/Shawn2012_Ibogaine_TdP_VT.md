@@ -43,6 +43,8 @@ route: oral
 open_access: false
 publisher: "Informa Healthcare"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 # Pause-dependent ventricular tachycardia and torsades de pointes after ibogaine ingestion
 
@@ -129,9 +131,9 @@ Key implications for clinical screening and monitoring:
 ---
 
 ## See Also
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Co-authored by Kenneth Alper; systematic review of ibogaine fatalities from same year
-- [[2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk]] — hERG blockade mechanism underlying QT prolongation discussed in this case
-- [[2012/Paling2012_Life_Threatening_Complications]] — Another 2012 case report of life-threatening ibogaine cardiac complications
-- [[2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias]] — Ventricular tachyarrhythmias following ibogaine, same year
-- [[2012/Warrick2012_Ibogaine_Fatality]] — Complementary NACCT 2012 abstract: fatal ibogaine case with pre-existing cardiac disease (Abstract #184)
-- [[RED_Cardiac_Safety_Hub]]
+- [Alper2012_Ibogaine_Fatalities](Alper2012_Ibogaine_Fatalities.md) — Co-authored by Kenneth Alper; systematic review of ibogaine fatalities from same year
+- [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — hERG blockade mechanism underlying QT prolongation discussed in this case
+- [Paling2012_Life_Threatening_Complications](Paling2012_Life_Threatening_Complications.md) — Another 2012 case report of life-threatening ibogaine cardiac complications
+- [Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias](Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.md) — Ventricular tachyarrhythmias following ibogaine, same year
+- [Warrick2012_Ibogaine_Fatality](Warrick2012_Ibogaine_Fatality.md) — Complementary NACCT 2012 abstract: fatal ibogaine case with pre-existing cardiac disease (Abstract #184)
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

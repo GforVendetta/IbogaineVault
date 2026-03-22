@@ -29,6 +29,7 @@ aliases:
   - "NOAEL Dose Calculation"
 evidence_level: review
 mortality_count: 19
+mortality_scope: cumulative-review
 qtc_data: true
 electrolyte_data: true
 herg_data: true
@@ -42,6 +43,8 @@ route: oral
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 # Ibogaine for treating drug dependence. What is a safe dose?
 
@@ -116,8 +119,8 @@ The authors acknowledge the extremely limited animal toxicity data available for
 ---
 
 ## See Also
-- [[2016/Alper2016_hERG_Blockade]] — hERG channel blockade by iboga alkaloids; provides the IC₅₀ data cited in this review
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Systematic review of 19 fatalities (1990–2008) referenced extensively here
-- [[2015/Glue2015_Ibogaine_CYP2D6_Activity]] — CYP2D6 pharmacokinetics of 20 mg ibogaine dose cited as safe low-dose evidence
-- [[2019/Grogan2019_Seizures_QT_Prolongation_Cardiac]] — QT prolongation and cardiac safety review building on this work
-- [[RED_Cardiac_Safety_Hub]]
+- [Alper2016_hERG_Blockade](Alper2016_hERG_Blockade.md) — hERG channel blockade by iboga alkaloids; provides the IC₅₀ data cited in this review
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Systematic review of 19 fatalities (1990–2008) referenced extensively here
+- [Glue2015_Ibogaine_CYP2D6_Activity](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) — CYP2D6 pharmacokinetics of 20 mg ibogaine dose cited as safe low-dose evidence
+- [Grogan2019_Seizures_QT_Prolongation_Cardiac](../2019/Grogan2019_Seizures_QT_Prolongation_Cardiac.md) — QT prolongation and cardiac safety review building on this work
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

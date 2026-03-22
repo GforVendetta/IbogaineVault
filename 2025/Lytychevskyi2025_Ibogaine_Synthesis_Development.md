@@ -23,6 +23,8 @@ herg_data: false
 contraindications: []
 open_access: true
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # New Approaches to Old Targets: Re-envisioning the Synthesis of Ibogaine and Immunogenic Glycolipids
@@ -100,6 +102,6 @@ The broader context is significant: ibogaine's controlled substance status in ma
 
 ## See Also
 
-- [[ORANGE_Mechanisms_Hub]]
-- [[2025/Sijic2025_Total_Synthesis_Review]] — Concurrent synthesis review thesis from the same period
-- [[2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release]] — Structure-activity relationships of iboga alkaloid analogues
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
+- [Sijic2025_Total_Synthesis_Review](Sijic2025_Total_Synthesis_Review.md) — Concurrent synthesis review thesis from the same period
+- [Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release](../2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md) — Structure-activity relationships of iboga alkaloid analogues

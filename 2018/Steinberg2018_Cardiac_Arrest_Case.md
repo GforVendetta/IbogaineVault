@@ -37,7 +37,12 @@ route: oral
 open_access: true
 publisher: "Wiley"
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 DOI: 10.1002/joa3.12061
 
@@ -191,11 +196,11 @@ How to cite this article: Steinberg C, Deyell MW. Cardiac arrest after ibogaine 
 
 ## See Also
 
-**Parent hub:** [[RED_Cardiac_Safety_Hub]]
+**Parent hub:** [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
 
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Systematic fatality review providing context for this cardiac arrest case
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Cardiac mechanisms explaining the QTc prolongation observed in this case
-- [[2016/Alper2016_hERG_Blockade]] — hERG blockade mechanism underlying the ventricular arrhythmia
-- [[2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020]] — Updated adverse events review including this case
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Screening protocols designed to identify patients at risk for events like this
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Systematic fatality review providing context for this cardiac arrest case
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Cardiac mechanisms explaining the QTc prolongation observed in this case
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG blockade mechanism underlying the ventricular arrhythmia
+- [Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020](../2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md) — Updated adverse events review including this case
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Screening protocols designed to identify patients at risk for events like this
 

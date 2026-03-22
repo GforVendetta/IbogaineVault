@@ -45,6 +45,8 @@ route: not-applicable
 open_access: false
 publisher: "ASPET"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Mechanism of hERG Channel Block by the Psychoactive Indole Alkaloid Ibogaine
@@ -135,9 +137,9 @@ This paper provides the mechanistic foundation for understanding ibogaine's card
 ---
 
 ## See Also
-- [[2009/Hoelen2009_Long_QT_Ibogaine]] — Clinical case confirming QT prolongation in humans
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Fatality analysis referencing cardiac mechanisms
-- [[2012/Paling2012_Life_Threatening_Complications]] — Cardiac complication case reports
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Follow-up from same group on cardiac mechanisms
-- [[2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use]] — Analogue design avoiding hERG block
-- [[RED_Cardiac_Safety_Hub]] — Central hub for cardiac safety evidence
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — Clinical case confirming QT prolongation in humans
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Fatality analysis referencing cardiac mechanisms
+- [Paling2012_Life_Threatening_Complications](../2012/Paling2012_Life_Threatening_Complications.md) — Cardiac complication case reports
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Follow-up from same group on cardiac mechanisms
+- [Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) — Analogue design avoiding hERG block
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Central hub for cardiac safety evidence

@@ -31,6 +31,7 @@ source_pdf: "2013/Mazoyer2013_Fatality_Case.pdf"
 evidence_level: case-report
 sample_size: 1
 mortality_count: 1
+mortality_scope: discrete-cases
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -45,6 +46,8 @@ route: oral
 open_access: false
 publisher: "Wiley"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Fatal Case of a 27-Year-Old Male After Taking Iboga in Withdrawal Treatment
@@ -139,11 +142,11 @@ This case crystallises the triple-threat polypharmacy scenario that modern iboga
 
 ## See Also
 
-**Parent hub:** [[RED_Cardiac_Safety_Hub]]
+**Parent hub:** [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
 
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Systematic fatality review providing epidemiological context; this case would fall within the series analysed
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — Cardiac mechanisms review explaining QT prolongation and sudden death pathophysiology underlying the proposed mechanism here
-- [[2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020]] — Updated adverse events review including this fatality in broader context
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Protocols designed to prevent fatalities like this case — mandates methadone taper, ECG screening, medical supervision
-- [[2016/Alper2016_hERG_Blockade]] — hERG IC₅₀ data showing ibogaine therapeutic concentrations overlap blockade threshold, mechanistic basis for the QT prolongation proposed here
-- [[2009/Hoelen2009_Long_QT_Ibogaine]] — The QT prolongation case (QTc 616 ms) cited by Mazoyer et al. as supporting evidence for the cardiac mechanism
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Systematic fatality review providing epidemiological context; this case would fall within the series analysed
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Cardiac mechanisms review explaining QT prolongation and sudden death pathophysiology underlying the proposed mechanism here
+- [Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020](../2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md) — Updated adverse events review including this fatality in broader context
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Protocols designed to prevent fatalities like this case — mandates methadone taper, ECG screening, medical supervision
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG IC₅₀ data showing ibogaine therapeutic concentrations overlap blockade threshold, mechanistic basis for the QT prolongation proposed here
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — The QT prolongation case (QTc 616 ms) cited by Mazoyer et al. as supporting evidence for the cardiac mechanism

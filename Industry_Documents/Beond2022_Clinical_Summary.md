@@ -25,9 +25,14 @@ contraindications:
   - "Substances metabolised by CYP450-2D6 (including grapefruit and quinine)"
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine: A Clinical Summary
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **Table of Contents**
 *   Introduction
@@ -336,10 +341,10 @@ In the hours or days after treatment, concurrent with and following the period o
 
 ## See Also
 
-**Parent hub:** [[GREEN_Clinical_Protocols_Hub]]
+**Parent hub:** [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)
 
-- [[Other/Busby2024_Beond_Death_Investigation]] — Rolling Stone investigation of Beond death
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Peer-reviewed fatality data to compare with claims
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Industry guidelines
-- [[2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020]] — Adverse events review
-- [[2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety]] — Setting factors for safety
+- [Busby2024_Beond_Death_Investigation](../Other/Busby2024_Beond_Death_Investigation.md) — Rolling Stone investigation of Beond death
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Peer-reviewed fatality data to compare with claims
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Industry guidelines
+- [Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020](../2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md) — Adverse events review
+- [Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety](../2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) — Setting factors for safety

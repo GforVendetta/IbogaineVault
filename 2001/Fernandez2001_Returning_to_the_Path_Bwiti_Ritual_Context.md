@@ -22,6 +22,8 @@ electrolyte_data: false
 contraindications: []
 open_access: true
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Returning to the Path: The Use of Iboga[ine] in an Equatorial African Ritual Context and the Binding of Time, Space, and Social Relationships
@@ -100,12 +102,12 @@ The chapter includes a dosing comparison table with calculations mediated by How
 
 ## See Also
 
-- [[2001/Alper2001_Ibogaine_Review]] — Companion chapter in the same Alkaloids Vol. 56 volume
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]] — Lotsof's chapter in the same volume; contributed dosing calculations to Table I
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]] — Historical context for the Western ibogaine movement the Fernandezes contrast with Bwiti
-- [[2021/Bekale2021_Holy_Spirit_Iboga_Bwiti]] — Contemporary Bwiti scholarship
-- [[2025/Samorini2025_Studies_Iboga_Cults_Ethnobotanical_Complex]] — Ethnobotanical studies of iboga cults
-- [[2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction]] — Draws on Bwiti protective practices (cites Fernandez 1982); bridges traditional knowledge and cardiac physiology
-- [[2005/Kroupa2005_Boosters_Maintenance]] — Formalised the booster/maintenance concept that Bwiti's pick-up dose practice prefigures
-- [[2025/Soderberg2025_Medical_Subculture_Risk_Management]] — Contemporary ethnography of ibogaine medical subculture — the kind of study the Fernandezes called for
-- [[WHITE_Historical_Hub]] — Domain hub for historical and cultural context
+- [Alper2001_Ibogaine_Review](Alper2001_Ibogaine_Review.md) — Companion chapter in the same Alkaloids Vol. 56 volume
+- [Lotsof2001_Case_Studies_Patient_Management](Lotsof2001_Case_Studies_Patient_Management.md) — Lotsof's chapter in the same volume; contributed dosing calculations to Table I
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — Historical context for the Western ibogaine movement the Fernandezes contrast with Bwiti
+- [Bekale2021_Holy_Spirit_Iboga_Bwiti](../2021/Bekale2021_Holy_Spirit_Iboga_Bwiti.md) — Contemporary Bwiti scholarship
+- [Samorini2025_Studies_Iboga_Cults_Ethnobotanical_Complex](../2025/Samorini2025_Studies_Iboga_Cults_Ethnobotanical_Complex.md) — Ethnobotanical studies of iboga cults
+- [Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction](../2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md) — Draws on Bwiti protective practices (cites Fernandez 1982); bridges traditional knowledge and cardiac physiology
+- [Kroupa2005_Boosters_Maintenance](../2005/Kroupa2005_Boosters_Maintenance.md) — Formalised the booster/maintenance concept that Bwiti's pick-up dose practice prefigures
+- [Soderberg2025_Medical_Subculture_Risk_Management](../2025/Soderberg2025_Medical_Subculture_Risk_Management.md) — Contemporary ethnography of ibogaine medical subculture — the kind of study the Fernandezes called for
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Domain hub for historical and cultural context

@@ -27,6 +27,8 @@ contraindications: []
 secondary_categories: [WHITE]
 open_access: true
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Ibogaine & Eboga Experiences: First-Person Accounts from the MyEboga Community
@@ -145,11 +147,11 @@ These accounts predate modern screening and safety protocols but provide the ric
 ---
 
 ## See Also
-- [[PURPLE_Phenomenology_Hub]]
-- [[2025/LaTorre2025_Phenomenology_Thematic_Analysis]]
-- [[2018/Rodger2018_Healing_Potential_Ibogaine]]
-- [[1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs]]
-- [[2001/Lotsof2001_Case_Studies_Patient_Management]]
-- [[2008/Alper2008_Ibogaine_Medical_Subculture]]
-- [[1996/Lotsof1996_Trauma_Abreaction]]
-- [[Primary_Sources/2020_MYEBOGA_Clare_Wilkins_Interview]]
+- [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md)
+- [LaTorre2025_Phenomenology_Thematic_Analysis](../2025/LaTorre2025_Phenomenology_Thematic_Analysis.md)
+- [Rodger2018_Healing_Potential_Ibogaine](../2018/Rodger2018_Healing_Potential_Ibogaine.md)
+- [Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs](../1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs.md)
+- [Lotsof2001_Case_Studies_Patient_Management](../2001/Lotsof2001_Case_Studies_Patient_Management.md)
+- [Alper2008_Ibogaine_Medical_Subculture](../2008/Alper2008_Ibogaine_Medical_Subculture.md)
+- [Lotsof1996_Trauma_Abreaction](../1996/Lotsof1996_Trauma_Abreaction.md)
+- [2020_MYEBOGA_Clare_Wilkins_Interview](../Primary_Sources/2020_MYEBOGA_Clare_Wilkins_Interview.md)

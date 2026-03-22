@@ -39,6 +39,8 @@ aliases:
 open_access: false
 publisher: "Cambridge University Press"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # The Effect of Ibogaine on Cognitive Functioning
@@ -149,8 +151,8 @@ This study provides preliminary evidence that:
 
 ## See Also
 
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — Full MISTIC trial (Mg+ibogaine for TBI)
-- [[BLUE_Outcomes_Hub]] — Clinical outcomes research
-- [[2020/Davis2020_SpecialOps_Veterans_Trauma]] — Earlier SOV trauma study
-- [[2016/Forsyth2016_Low_Dose_Ibogaine_Mood_State_Psychological_Performance]] — Low-dose cognitive effects
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — BDNF/GDNF mechanism
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — Full MISTIC trial (Mg+ibogaine for TBI)
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Clinical outcomes research
+- [Davis2020_SpecialOps_Veterans_Trauma](../2020/Davis2020_SpecialOps_Veterans_Trauma.md) — Earlier SOV trauma study
+- [Forsyth2016_Low_Dose_Ibogaine_Mood_State_Psychological_Performance](../2016/Forsyth2016_Low_Dose_Ibogaine_Mood_State_Psychological_Performance.md) — Low-dose cognitive effects
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — BDNF/GDNF mechanism

@@ -32,6 +32,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: hybrid
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine and the Inhibition of Morphine Self-Administration: Aftereffects of Ibogaine on Morphine Self-Administration in Rats
@@ -122,7 +124,7 @@ This was the first controlled preclinical study to provide scientific support fo
 ---
 
 ## See Also
-- [[1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis]] — Companion paper from same lab showing prolonged dopamine metabolite decreases
-- [[1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine]] — Later mechanistic review by same group
-- [[2001/Glick2001_Mechanisms_Action_Ibogaine_18MC]] — Comprehensive review of ibogaine and 18-MC mechanisms
-- [[ORANGE_Mechanisms_Hub]]
+- [Maisonneuve1991_Ibogaine_Morphine_Microdialysis](Maisonneuve1991_Ibogaine_Morphine_Microdialysis.md) — Companion paper from same lab showing prolonged dopamine metabolite decreases
+- [Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine](../1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md) — Later mechanistic review by same group
+- [Glick2001_Mechanisms_Action_Ibogaine_18MC](../2001/Glick2001_Mechanisms_Action_Ibogaine_18MC.md) — Comprehensive review of ibogaine and 18-MC mechanisms
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)

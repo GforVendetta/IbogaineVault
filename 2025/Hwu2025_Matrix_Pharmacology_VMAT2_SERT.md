@@ -51,6 +51,8 @@ contraindications: []
 open_access: false
 publisher: "American Chemical Society"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Deciphering Ibogaine's Matrix Pharmacology: Multiple Transporter Modulation at Serotonin Synapses
@@ -210,30 +212,30 @@ The VMAT2 inhibition mechanism (non-substrate inhibitor, partial substrate inhib
 ## See Also
 
 ### Mechanistic Context
-- [[ORANGE_Mechanisms_Hub]] — Central hub for pharmacology research
-- [[1995/Hearn1995_Noribogaine_Metabolite]] — Original noribogaine identification as active metabolite with SERT affinity
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — *In vivo* neurochemical effects of ibogaine/noribogaine in rats; the rodent microdialysis data this study now reinterprets through the VMAT2/SynRI lens
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Central hub for pharmacology research
+- [Hearn1995_Noribogaine_Metabolite](../1995/Hearn1995_Noribogaine_Metabolite.md) — Original noribogaine identification as active metabolite with SERT affinity
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — *In vivo* neurochemical effects of ibogaine/noribogaine in rats; the rodent microdialysis data this study now reinterprets through the VMAT2/SynRI lens
 
 ### Related Analog Research
-- [[2025/Gupta2025_Benzofuran_Iboga_Analogues]] — Oxa-iboga compounds from the same laboratory; KOR-dominant analogs interpreted via matrix pharmacology
-- [[2025/Ali2025_Ibogaine_Analogs_Review|Ali 2025]] — Comprehensive J Med Chem review of iboga analog development
-- [[2025/Iyer2025_Modular_Synthesis_Nature_Chemistry]] — Alternative modular synthetic route to ibogaine and analogs (Olson lab)
+- [Gupta2025_Benzofuran_Iboga_Analogues](Gupta2025_Benzofuran_Iboga_Analogues.md) — Oxa-iboga compounds from the same laboratory; KOR-dominant analogs interpreted via matrix pharmacology
+- [Ali 2025](Ali2025_Ibogaine_Analogs_Review.md) — Comprehensive J Med Chem review of iboga analog development
+- [Iyer2025_Modular_Synthesis_Nature_Chemistry](Iyer2025_Modular_Synthesis_Nature_Chemistry.md) — Alternative modular synthetic route to ibogaine and analogs (Olson lab)
 
 ### GDNF/Neurotrophin Connection
-- [[2019/Marton2019_Ibogaine_GDNF_BDNF]] — Downstream neurotrophic factor modulation interpreted here as "secondary pharmacology" within the matrix model
-- [[2025/Nicolas2025_Reward_System_Transdiagnostic]] — Neuroplasticity mechanisms relevant to the metaplasticity framework
+- [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — Downstream neurotrophic factor modulation interpreted here as "secondary pharmacology" within the matrix model
+- [Nicolas2025_Reward_System_Transdiagnostic](Nicolas2025_Reward_System_Transdiagnostic.md) — Neuroplasticity mechanisms relevant to the metaplasticity framework
 
 ### SERT Structural Pharmacology
-- [[2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms|Coleman 2019]] — Cryo-EM structure of SERT-ibogaine complexes; direct structural evidence for the inward-open conformational stabilisation referenced in the axon-selectivity discussion
-- [[2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT]] — Tropane-based ibogaine analog pharmacochaperone activity at SERT and DAT
+- [Coleman 2019](../2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms.md) — Cryo-EM structure of SERT-ibogaine complexes; direct structural evidence for the inward-open conformational stabilisation referenced in the axon-selectivity discussion
+- [Bhat2020_Tropane_Ibo_Analog_SERT_DAT](../2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT.md) — Tropane-based ibogaine analog pharmacochaperone activity at SERT and DAT
 
 ### VMAT2 Context
-- [[2025/Iyer2025_Modular_Synthesis_Nature_Chemistry|Iyer 2025]] — Modular ibogaine synthesis platform; biological evaluation includes SERT inhibition/efflux data complementary to the binding affinity matrix presented here
+- [Iyer 2025](Iyer2025_Modular_Synthesis_Nature_Chemistry.md) — Modular ibogaine synthesis platform; biological evaluation includes SERT inhibition/efflux data complementary to the binding affinity matrix presented here
 
 ### Clinical Applications
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI]] — MISTIC clinical protocol; the clinical dataset whose large effect sizes this study helps mechanistically contextualise
-- [[2025/Faerman2025_MISTIC_12Month_Followup]] — Long-term outcomes from MISTIC veterans cohort
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC clinical protocol; the clinical dataset whose large effect sizes this study helps mechanistically contextualise
+- [Faerman2025_MISTIC_12Month_Followup](Faerman2025_MISTIC_12Month_Followup.md) — Long-term outcomes from MISTIC veterans cohort
 
 ### Hub Navigation
-- [[Key_Researchers_Hub]] — Sames/Sulzer lab profiles
-- [[RED_Cardiac_Safety_Hub]] — Safety considerations (note: this study does not report cardiac data but references hERG blockade within the matrix pharmacology framework)
+- [Key_Researchers_Hub](../Hubs/Key_Researchers_Hub.md) — Sames/Sulzer lab profiles
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Safety considerations (note: this study does not report cardiac data but references hERG blockade within the matrix pharmacology framework)

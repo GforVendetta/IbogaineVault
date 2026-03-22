@@ -45,6 +45,8 @@ contraindications:
 open_access: true
 publisher: "SAGE"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # The pharmacokinetics and pharmacodynamics of ibogaine in opioid use disorder patients
@@ -116,23 +118,23 @@ The three analytes displayed strikingly different temporal profiles. Ibogaine re
 
 ### CYP2D6 Genotype–Clearance Relationship
 
-The central pharmacogenomic finding is the linear relationship between CYP2D6 activity score and ibogaine clearance to noribogaine. At AS = 0 (poor metaboliser phenotype), clearance was estimated at just 0.82 L/h. Each unit increase in AS added 30.7 L/h of clearance capacity. In practical terms, a poor metaboliser receiving the same weight-based dose as an extensive metaboliser will sustain dramatically higher ibogaine plasma levels for far longer, with correspondingly amplified cardiac and cerebellar toxicity. This finding makes genotype-guided dosing not merely desirable but arguably a prerequisite for responsible ibogaine administration — a conclusion that echoes [[2015/Glue2015_Ibogaine_CYP2D6_Activity|Glue et al. (2015)]] but now extends to a clinical OUD population rather than healthy volunteers.
+The central pharmacogenomic finding is the linear relationship between CYP2D6 activity score and ibogaine clearance to noribogaine. At AS = 0 (poor metaboliser phenotype), clearance was estimated at just 0.82 L/h. Each unit increase in AS added 30.7 L/h of clearance capacity. In practical terms, a poor metaboliser receiving the same weight-based dose as an extensive metaboliser will sustain dramatically higher ibogaine plasma levels for far longer, with correspondingly amplified cardiac and cerebellar toxicity. This finding makes genotype-guided dosing not merely desirable but arguably a prerequisite for responsible ibogaine administration — a conclusion that echoes [Glue et al. (2015)](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) but now extends to a clinical OUD population rather than healthy volunteers.
 
 ### Cardiac Safety Profile
 
 Across 386 ECG measurements, the ibogaine–QTc relationship conformed to a sigmoid Emax model. The estimated ceiling of prolongation was 67.9 ms above baseline, with half-maximal effect at an ibogaine concentration of just 0.195 μM. Since median Cmax was 4.77 μM — roughly 24-fold above the EC50 — virtually all participants spent the majority of the post-dose period at or near the plateau of QTc effect. This saturation kinetics pattern carries an important practical implication: at standard therapeutic doses, further dose escalation would not meaningfully increase QTc risk (it is already maximal), but dose *reduction* would need to be substantial (more than ten-fold) before producing a clinically meaningful decrease in QTc prolongation. Whether such drastically reduced doses retain anti-withdrawal efficacy remains unknown.
 
-Hysteresis analysis provided additional mechanistic insight. QTc showed anticlockwise hysteresis against ibogaine, indicating that repolarisation delay occurs with minimal temporal lag after parent compound exposure rises. In contrast, noribogaine displayed clockwise hysteresis, suggesting its QTc contribution at these concentrations is secondary and delayed. Neither noribogaine nor its glucuronide achieved statistical significance in correlation with QTc (p = 0.109 and p > 0.05, respectively). This dissociation between parent and metabolite cardiac effects has significant implications for the ongoing clinical development of noribogaine as a standalone therapeutic agent, as explored in [[2015/Glue2015_Noribogaine_Ascending_Doses|Glue et al. (2016)]].
+Hysteresis analysis provided additional mechanistic insight. QTc showed anticlockwise hysteresis against ibogaine, indicating that repolarisation delay occurs with minimal temporal lag after parent compound exposure rises. In contrast, noribogaine displayed clockwise hysteresis, suggesting its QTc contribution at these concentrations is secondary and delayed. Neither noribogaine nor its glucuronide achieved statistical significance in correlation with QTc (p = 0.109 and p > 0.05, respectively). This dissociation between parent and metabolite cardiac effects has significant implications for the ongoing clinical development of noribogaine as a standalone therapeutic agent, as explored in [Glue et al. (2016)](../2015/Glue2015_Noribogaine_Ascending_Doses.md).
 
 A protocol-defined magnesium rescue intervention (10 mmol bolus followed by 10 mmol over 10 hours) was available if QTc exceeded 500 ms, reflecting the clinical seriousness with which the investigators approached cardiac monitoring. Tobacco use — prevalent in this OUD population — was permitted during the study; no confounding effect on baseline or post-dose QTc was identified.
 
 ## Clinical Implications
 
-This study fundamentally reframes ibogaine dosing as a pharmacogenomic problem rather than a simple weight-based calculation. The >10-fold clearance variation across CYP2D6 phenotypes means that two patients of identical body mass could experience vastly different drug exposures — and therefore vastly different cardiac risk profiles — from the same milligram-per-kilogram dose. For clinical programmes, the implication is that CYP2D6 genotyping should be integrated into pre-treatment screening alongside the cardiac assessments already recommended by [[Clinical_Guidelines/GITA2015_Clinical_Guidelines|GITA clinical guidelines]].
+This study fundamentally reframes ibogaine dosing as a pharmacogenomic problem rather than a simple weight-based calculation. The >10-fold clearance variation across CYP2D6 phenotypes means that two patients of identical body mass could experience vastly different drug exposures — and therefore vastly different cardiac risk profiles — from the same milligram-per-kilogram dose. For clinical programmes, the implication is that CYP2D6 genotyping should be integrated into pre-treatment screening alongside the cardiac assessments already recommended by [GITA clinical guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md).
 
 The Emax model's saturation at standard doses suggests that the current therapeutic window is poorly optimised: patients are exposed to maximal QTc risk while potentially receiving far more ibogaine than necessary for anti-withdrawal benefit. The absence of any dose–withdrawal correlation at 10 mg/kg is consistent with a ceiling effect, opening space for dose-finding studies at substantially lower exposures. If even a fraction of the anti-withdrawal efficacy is preserved at doses producing plasma levels nearer the EC50, the cardiac risk–benefit calculus would shift dramatically.
 
-The parent-versus-metabolite dissociation for cardiac effects is also clinically actionable. It supports the rationale for developing noribogaine as an independent therapeutic agent — a line of investigation already underway through the [[2015/Glue2015_Noribogaine_Ascending_Doses|Glue ascending-dose study]] — and suggests that protocols aiming to accelerate ibogaine-to-noribogaine conversion (e.g., through CYP2D6 induction or metaboliser selection) might reduce the window of maximal cardiac vulnerability.
+The parent-versus-metabolite dissociation for cardiac effects is also clinically actionable. It supports the rationale for developing noribogaine as an independent therapeutic agent — a line of investigation already underway through the [Glue ascending-dose study](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — and suggests that protocols aiming to accelerate ibogaine-to-noribogaine conversion (e.g., through CYP2D6 induction or metaboliser selection) might reduce the window of maximal cardiac vulnerability.
 
 ## Limitations
 
@@ -142,16 +144,16 @@ The sample (n = 14) is small, though typical for early-phase ibogaine clinical r
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
 **Pharmacokinetics & CYP2D6:**
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — Foundational PK work establishing ibogaine's complex pharmacokinetic profile
-- [[2015/Glue2015_Ibogaine_CYP2D6_Activity]] — CYP2D6 polymorphism impact on ibogaine PK in healthy volunteers; this study extends those findings to OUD patients
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]] — Noribogaine phase I PK data; relevant to the parent-vs-metabolite cardiac dissociation identified here
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](../2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — Foundational PK work establishing ibogaine's complex pharmacokinetic profile
+- [Glue2015_Ibogaine_CYP2D6_Activity](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) — CYP2D6 polymorphism impact on ibogaine PK in healthy volunteers; this study extends those findings to OUD patients
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Noribogaine phase I PK data; relevant to the parent-vs-metabolite cardiac dissociation identified here
 
 **Cardiac safety:**
-- [[2021/Knuijver2021_Safety_Opioid_Detox]] — Companion safety paper from the same Dutch clinical cohort, reporting the broader safety profile
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Fatalities context for PK variability and poor metaboliser risk
+- [Knuijver2021_Safety_Opioid_Detox](../2021/Knuijver2021_Safety_Opioid_Detox.md) — Companion safety paper from the same Dutch clinical cohort, reporting the broader safety profile
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Fatalities context for PK variability and poor metaboliser risk
 
 **Clinical protocols:**
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Clinical PK and cardiac monitoring recommendations; this study provides the quantitative PKPD basis for genotype-guided dosing
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Clinical PK and cardiac monitoring recommendations; this study provides the quantitative PKPD basis for genotype-guided dosing

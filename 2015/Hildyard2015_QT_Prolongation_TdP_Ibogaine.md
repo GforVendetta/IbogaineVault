@@ -38,6 +38,8 @@ route: oral
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # A Case of QT Prolongation and Torsades de Pointes Caused by Ibogaine Toxicity
@@ -119,9 +121,9 @@ This case is highly instructive for clinical protocols on several fronts:
 ---
 
 ## See Also
-- [[2015/Koenig2015_Cardiac_Mechanisms]] — comprehensive review of ibogaine cardiotoxicity mechanisms, directly cited by this paper
-- [[2009/Hoelen2009_Long_QT_Ibogaine]] — earlier ibogaine QT prolongation case report (NEJM)
-- [[2012/Alper2012_Ibogaine_Fatalities]] — systematic review of ibogaine-associated fatalities
-- [[2012/Paling2012_Life_Threatening_Complications]] — three further ibogaine cardiac case reports
-- [[2014/Thurner2014_hERG_Channel_Block_Ibogaine]] — electrophysiological evidence for ibogaine hERG channel blockade
-- [[RED_Cardiac_Safety_Hub]]
+- [Koenig2015_Cardiac_Mechanisms](Koenig2015_Cardiac_Mechanisms.md) — comprehensive review of ibogaine cardiotoxicity mechanisms, directly cited by this paper
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — earlier ibogaine QT prolongation case report (NEJM)
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — systematic review of ibogaine-associated fatalities
+- [Paling2012_Life_Threatening_Complications](../2012/Paling2012_Life_Threatening_Complications.md) — three further ibogaine cardiac case reports
+- [Thurner2014_hERG_Channel_Block_Ibogaine](../2014/Thurner2014_hERG_Channel_Block_Ibogaine.md) — electrophysiological evidence for ibogaine hERG channel blockade
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

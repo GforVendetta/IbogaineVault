@@ -39,6 +39,8 @@ dosing_range: "1800 mg single dose (dried ibogaine extract, 75% purity, encapsul
 route: oral
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 # Ibogaine Effect on Cocaine Craving and Use in Dependent Patients - A Double-Blind, Placebo-Controlled Pilot Study
 
@@ -133,8 +135,8 @@ The 72-hour inpatient monitoring with 6-hourly ECG represents a reasonable safet
 ---
 
 ## See Also
-- [[2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study]] — Brazilian retrospective study of ibogaine for drug dependence (same year, same country)
-- [[2013/Brown2013_Ibogaine_Treatment_Substance_Dependence]] — Observational study of ibogaine for substance dependence outcomes
-- [[2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes]] — Prospective observational study of ibogaine treatment outcomes (opioid focus, 12-month follow-up)
-- [[2014/Kingsley-Brown2014_Ibo_Tx_for_Substance_Dependence]] — Ibogaine treatment for substance dependence (2014)
-- [[BLUE_Outcomes_Hub]]
+- [Schenberg2014_Treating_Drug_Dependence_Retrospective_Study](Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md) — Brazilian retrospective study of ibogaine for drug dependence (same year, same country)
+- [Brown2013_Ibogaine_Treatment_Substance_Dependence](../2013/Brown2013_Ibogaine_Treatment_Substance_Dependence.md) — Observational study of ibogaine for substance dependence outcomes
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — Prospective observational study of ibogaine treatment outcomes (opioid focus, 12-month follow-up)
+- [Kingsley-Brown2014_Ibo_Tx_for_Substance_Dependence](Kingsley-Brown2014_Ibo_Tx_for_Substance_Dependence.md) — Ibogaine treatment for substance dependence (2014)
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)

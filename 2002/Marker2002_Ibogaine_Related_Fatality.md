@@ -24,6 +24,7 @@ aliases:
 evidence_level: case-report
 sample_size: 1
 mortality_count: 1
+mortality_scope: discrete-cases
 qtc_data: false
 electrolyte_data: false
 herg_data: false
@@ -38,6 +39,8 @@ route: not-specified
 open_access: false
 publisher: "EDP Sciences"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Ibogaine Related Fatality
@@ -103,8 +106,8 @@ The extremely high tissue concentrations support the importance of controlled do
 ---
 
 ## See Also
-- [[2016/Litjens2016_How_Toxic_Is_Ibogaine]] — Systematic toxicity review tabulating ibogaine fatalities including this case
-- [[2006/Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality]] — Detailed tissue distribution analysis in another ibogaine fatality, comparable tissue concentrations
-- [[2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction]] — Dutch fatality series examining cardiac mechanisms
-- [[2016/Meisner2016_Cardiac_Arrest_Death_Case]] — Later fatality case with full cardiac workup
-- [[RED_Cardiac_Safety_Hub]]
+- [Litjens2016_How_Toxic_Is_Ibogaine](../2016/Litjens2016_How_Toxic_Is_Ibogaine.md) — Systematic toxicity review tabulating ibogaine fatalities including this case
+- [Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality](../2006/Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality.md) — Detailed tissue distribution analysis in another ibogaine fatality, comparable tissue concentrations
+- [Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction](../2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md) — Dutch fatality series examining cardiac mechanisms
+- [Meisner2016_Cardiac_Arrest_Death_Case](../2016/Meisner2016_Cardiac_Arrest_Death_Case.md) — Later fatality case with full cardiac workup
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

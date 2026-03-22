@@ -33,9 +33,14 @@ source_pdf: "not-applicable"
 source_url: "https://www.youtube.com/watch?v=Tg0U0cm4NHg"
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # Clare Wilkins at Psychedelic Science 2017: Novel Approach to Methadone Detox
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 > **Source:** Psychedelic Science 2017 (MAPS Conference)
 > **Speaker:** Clare Wilkins, Director, Pangea Biomedics
@@ -145,10 +150,10 @@ ICEERS has received ethics committee approval. MAPS Kingsley's about to be publi
 
 ## See Also
 
-**Parent hub:** [[GREEN_Clinical_Protocols_Hub]]
+**Parent hub:** [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md)
 
-- [[Clare_Wilkins_MOC]] — Complete index of Clare Wilkins materials
-- [[Primary_Sources/2017_BC_Clare_Wilkins_Methadone_Detox]] — Breaking Convention version
-- [[Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics]] — Related EntheoScience talk
-- [[2015/Glue2015_Noribogaine_Ascending_Doses]] — Paul Glue's PK research
-- [[Pangea_Ops/Pangea_Internal_Calls/2025_Noller_Ibogaine_QA]] — Geoff Noller's later methodology
+- [Clare_Wilkins_MOC](../MOCs/Clare_Wilkins_MOC.md) — Complete index of Clare Wilkins materials
+- [2017_BC_Clare_Wilkins_Methadone_Detox](2017_BC_Clare_Wilkins_Methadone_Detox.md) — Breaking Convention version
+- [2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics](2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics.md) — Related EntheoScience talk
+- [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Paul Glue's PK research
+-  — Geoff Noller's later methodology

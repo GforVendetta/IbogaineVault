@@ -35,7 +35,12 @@ route: intraperitoneal
 contraindications: []
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 ## Application of Electrophysiological Method to Study Interactions between Ibogaine and Cocaine
 
@@ -94,10 +99,10 @@ Electrophysiological methods may be helpful in studying mechanisms of IBO action
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis]] — Earlier dopamine microdialysis foundational work
-- [[2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression]] — Later rat electrophysiology sleep/wake studies
-- [[2010/Ray2010_Psychedelics_Human_Receptorome]] — Receptor binding for dopamine/serotonin targets
-- [[1996/Reid1996_Local_Ibogaine_Dopamine]] — Local dopamine characterisation
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — Noribogaine neurobiological profiling
+- [Maisonneuve1991_Ibogaine_Morphine_Microdialysis](../1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis.md) — Earlier dopamine microdialysis foundational work
+- [Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression](../2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression.md) — Later rat electrophysiology sleep/wake studies
+- [Ray2010_Psychedelics_Human_Receptorome](../2010/Ray2010_Psychedelics_Human_Receptorome.md) — Receptor binding for dopamine/serotonin targets
+- [Reid1996_Local_Ibogaine_Dopamine](../1996/Reid1996_Local_Ibogaine_Dopamine.md) — Local dopamine characterisation
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Noribogaine neurobiological profiling

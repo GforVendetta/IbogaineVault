@@ -26,9 +26,14 @@ herg_data: false
 contraindications: []
 open_access: unknown
 body_format: academic-retained
+licence_type: unknown
+licence_verified: false
 ---
 
 # 100 Years of Ibogaine: Neurochemical and Pharmacological Actions of a Putative Anti-addictive Drug
+
+> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+
 
 **PIOTR POPIK*, RICHARD T. LAYER, AND PHIL SKOLNICK**
 
@@ -743,10 +748,10 @@ ZHARKOVSKY, A., TOTTERMAN, A. M., MOISIO, J., AND AHTEE, L.: Concurrent nimodipi
 
 ## See Also
 
-**Parent hub:** [[ORANGE_Mechanisms_Hub]]
+**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [[1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs]] — Key early phenomenological work covered in this historical review
-- [[1996/Lotsof1996_Trauma_Abreaction]] — Lotsof's contemporary framework for the period following this review
-- [[2002/Freelander2002_Comprehensive_Review]] — Subsequent comprehensive review extending this literature survey
-- [[2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience]] — DARK Classics "second edition" updating this historical perspective
-- [[2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance]] — Modern historical reflection on ibogaine's trajectory post-2000
+- [Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs](../1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs.md) — Key early phenomenological work covered in this historical review
+- [Lotsof1996_Trauma_Abreaction](../1996/Lotsof1996_Trauma_Abreaction.md) — Lotsof's contemporary framework for the period following this review
+- [Freelander2002_Comprehensive_Review](../2002/Freelander2002_Comprehensive_Review.md) — Subsequent comprehensive review extending this literature survey
+- [Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience](../2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience.md) — DARK Classics "second edition" updating this historical perspective
+- [Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance](../2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md) — Modern historical reflection on ibogaine's trajectory post-2000

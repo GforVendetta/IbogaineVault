@@ -33,6 +33,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 # Attenuation of Alcohol Intake by Ibogaine in Three Strains of Alcohol-Preferring Rats
 
@@ -124,8 +126,8 @@ This study provides foundational preclinical evidence for ibogaine's potential i
 ---
 
 ## See Also
-- [[1995/Hearn1995_Noribogaine_Metabolite]] — Identified noribogaine as primary metabolite of ibogaine (ref 11 in this paper)
-- [[1993/Cappendijk1993_Ibogaine_Cocaine_Self_Administration]] — Parallel finding: ibogaine reduces cocaine self-administration in rats
-- [[1991/Glick1991_Ibogaine_Morphine_Self_Administration]] — Ibogaine decreases morphine self-administration (ref 8 in this paper)
-- [[1995/Popik1995_100Years_Ibogaine_Review]] — Contemporary comprehensive review covering ibogaine pharmacology
-- [[BLUE_Outcomes_Hub]]
+- [Hearn1995_Noribogaine_Metabolite](Hearn1995_Noribogaine_Metabolite.md) — Identified noribogaine as primary metabolite of ibogaine (ref 11 in this paper)
+- [Cappendijk1993_Ibogaine_Cocaine_Self_Administration](../1993/Cappendijk1993_Ibogaine_Cocaine_Self_Administration.md) — Parallel finding: ibogaine reduces cocaine self-administration in rats
+- [Glick1991_Ibogaine_Morphine_Self_Administration](../1991/Glick1991_Ibogaine_Morphine_Self_Administration.md) — Ibogaine decreases morphine self-administration (ref 8 in this paper)
+- [Popik1995_100Years_Ibogaine_Review](Popik1995_100Years_Ibogaine_Review.md) — Contemporary comprehensive review covering ibogaine pharmacology
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)

@@ -39,6 +39,8 @@ contraindications: []
 open_access: false
 publisher: "Taylor & Francis"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Treatment of Opioid Use Disorder with Ibogaine: Detoxification and Drug Use Outcomes
@@ -160,7 +162,7 @@ Prior to ibogaine administration, subjects were stabilised on a short-acting opi
 
 Mean total dose: **1,540 ± 920 mg ibogaine HCl** (94% purity by certificate of analysis). Five subjects additionally received crude *Tabernanthe iboga* root bark extract (mean dose 1,610 ± 1,650 mg; estimated 15–50% total alkaloid content, of which ~25–50% ibogaine).
 
-The protocol followed a three-phase dosing approach representative of the clinical guidelines published by the Global Ibogaine Therapy Alliance ([[Clinical_Guidelines/GITA2015_Clinical_Guidelines|GITA 2016]]):
+The protocol followed a three-phase dosing approach representative of the clinical guidelines published by the Global Ibogaine Therapy Alliance ([GITA 2016](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md)):
 
 1. **Test dose (3 mg/kg):** Administered in the morning after subjects had abstained from opioid use overnight and begun exhibiting ≥3 initial withdrawal signs (restlessness, sweating, yawning, watery eyes). Providers used the response to the test dose to gauge severity of physical dependence.
 
@@ -256,7 +258,7 @@ The paper provides a substantial review of ibogaine's mechanism of action, notin
 
 5. **Safety within structured clinical setting.** Zero cardiovascular adverse events in 30 treatments, with medical screening (EKG, electrolytes, LFTs) and monitoring (continuous pulse oximetry, 3-lead EKG, IV access, ACLS-certified professional ≥24h). While not statistically powered to establish safety, this is consistent with the hypothesis that cardiac risk is manageable through appropriate protocols.
 
-6. **Dosing protocol relevance.** The test-flood-booster protocol described here (test 3 mg/kg → flood ~12 mg/kg → optional booster 3–5 mg/kg) with pre-treatment stabilisation on short-acting opioids (oxycodone 90–270 mg/day ÷ TID for 2–3 days) represents the approach endorsed by the [[Clinical_Guidelines/GITA2015_Clinical_Guidelines|GITA clinical guidelines]], to which Clare Wilkins contributed.
+6. **Dosing protocol relevance.** The test-flood-booster protocol described here (test 3 mg/kg → flood ~12 mg/kg → optional booster 3–5 mg/kg) with pre-treatment stabilisation on short-acting opioids (oxycodone 90–270 mg/day ÷ TID for 2–3 days) represents the approach endorsed by the [GITA clinical guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md), to which Clare Wilkins contributed.
 
 ## Limitations
 
@@ -282,10 +284,10 @@ The study was supported by the Multidisciplinary Association for Psychedelic Stu
 ---
 
 ## See Also
-- [[2013/Brown2013_Ibogaine_Treatment_Substance_Dependence]] — Earlier review by same first author; this study was "ongoing" at that time
-- [[1994/Sheppard1994_Preliminary_Investigation_Ibogaine]] — First case series (N=7); Brown 2018 extends these early observations with prospective design
-- [[2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study]] — Retrospective study (N=75) that preceded this prospective study
-- [[2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities]] — Fatality review contextualising cardiac safety concerns discussed in this paper
-- [[2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe]] — Historical context for ibogaine medical subculture referenced throughout
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Clinical guidelines representative of the treatment approach in this study, co-authored by Clare Wilkins
-- [[BLUE_Outcomes_Hub]] — Central hub for clinical outcome evidence
+- [Brown2013_Ibogaine_Treatment_Substance_Dependence](../2013/Brown2013_Ibogaine_Treatment_Substance_Dependence.md) — Earlier review by same first author; this study was "ongoing" at that time
+- [Sheppard1994_Preliminary_Investigation_Ibogaine](../1994/Sheppard1994_Preliminary_Investigation_Ibogaine.md) — First case series (N=7); Brown 2018 extends these early observations with prospective design
+- [Schenberg2014_Treating_Drug_Dependence_Retrospective_Study](../2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md) — Retrospective study (N=75) that preceded this prospective study
+- [Corkery2018_Ibogaine_Benefits_Dangers_Fatalities](Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md) — Fatality review contextualising cardiac safety concerns discussed in this paper
+- [Alper2001_Contemporary_History_Ibogaine_USA_Europe](../2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md) — Historical context for ibogaine medical subculture referenced throughout
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Clinical guidelines representative of the treatment approach in this study, co-authored by Clare Wilkins
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Central hub for clinical outcome evidence

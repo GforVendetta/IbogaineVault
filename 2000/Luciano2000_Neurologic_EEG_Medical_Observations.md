@@ -38,6 +38,8 @@ dosing_range: "1 mg/kg test dose + 0.5 mg/kg sensitivity test + ~25 mg/kg treatm
 route: oral
 open_access: unknown
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Neurologic, Electroencephalographic and General Medical Observations in Subjects Administered Ibogaine
@@ -124,10 +126,10 @@ The authors explicitly acknowledge: the small sample size (n=5), the limited pos
 ---
 
 See Also
-- [[2000/Mash2000_Ibogaine_Pharmacokinetics_Safety]] — concurrent early-era clinical safety data from St. Kitts, same historical period
-- [[1998/Mash1998_Medication_Development_Ibogaine]] — FDA IND development context for ibogaine as addiction treatment
-- [[2001/Mash2001_Ibogaine_Heroin_Withdrawal]] — larger observational series expanding on withdrawal interruption findings
-- [[1994/Sheppard1994_Preliminary_Investigation_Ibogaine]] — earlier case series referenced in Luciano's introduction
-- [[1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs]] — foundational psychotherapeutic use cited by Luciano for abreactive properties
-- [[BLUE_Outcomes_Hub]]
-- [[RED_Cardiac_Safety_Hub]]
+- [Mash2000_Ibogaine_Pharmacokinetics_Safety](Mash2000_Ibogaine_Pharmacokinetics_Safety.md) — concurrent early-era clinical safety data from St. Kitts, same historical period
+- [Mash1998_Medication_Development_Ibogaine](../1998/Mash1998_Medication_Development_Ibogaine.md) — FDA IND development context for ibogaine as addiction treatment
+- [Mash2001_Ibogaine_Heroin_Withdrawal](../2001/Mash2001_Ibogaine_Heroin_Withdrawal.md) — larger observational series expanding on withdrawal interruption findings
+- [Sheppard1994_Preliminary_Investigation_Ibogaine](../1994/Sheppard1994_Preliminary_Investigation_Ibogaine.md) — earlier case series referenced in Luciano's introduction
+- [Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs](../1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs.md) — foundational psychotherapeutic use cited by Luciano for abreactive properties
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

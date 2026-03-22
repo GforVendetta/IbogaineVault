@@ -41,6 +41,8 @@ contraindications: []
 open_access: true
 publisher: "Springer Nature"
 body_format: vault-analytical
+licence_type: unknown
+licence_verified: false
 ---
 
 # Accelerated Recovery Using Magnesium Ibogaine: Characterizing the Subjective Experience
@@ -59,7 +61,7 @@ body_format: vault-analytical
 
 ## Key Finding
 
-This is the **qualitative companion study** to [[2024/Cherian2024_Magnesium_Ibogaine_TBI|Cherian et al. (2024)]], examining the subjective phenomenology of the same 30 US Special Operations veterans who showed massive clinical improvements (Cohen's d > 3.0) following magnesium-ibogaine treatment.
+This is the **qualitative companion study** to [Cherian et al. (2024)](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md), examining the subjective phenomenology of the same 30 US Special Operations veterans who showed massive clinical improvements (Cohen's d > 3.0) following magnesium-ibogaine treatment.
 
 The central thesis: **ibogaine functions as "accelerated auto-psychotherapy"** — a single-session experience that compresses multiple psychotherapeutic processes into hours rather than months.
 
@@ -180,14 +182,14 @@ The qualitative findings help explain the unprecedented effect sizes (d > 3.0) i
 
 ## See Also
 
-**Parent hub:** [[PURPLE_Phenomenology_Hub]]
+**Parent hub:** [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md)
 
-- [[2024/Cherian2024_Magnesium_Ibogaine_TBI|Cherian 2024]] — **Companion paper**: Quantitative clinical outcomes from same cohort
-- [[2025/Faerman2025_MISTIC_12Month_Followup|Faerman 2025]] — 12-month MISTIC follow-up (84% PTSD remission sustained)
-- [[2025/Williams2025_Magnesium_Ibogaine_TBI|Williams 2025]] — Neural correlates via EEG
-- [[2025/LaTorre2025_Phenomenology_Thematic_Analysis|La Torre 2025]] — Largest ibogaine phenomenology study (n=471)
-- [[2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study|Schenberg 2014]] — Prior phenomenological analysis
-- [[2020/Barber2020_Consumer_Views_Online_Fora|Barber 2020]] — Online community perspectives
+- [Cherian 2024](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — **Companion paper**: Quantitative clinical outcomes from same cohort
+- [Faerman 2025](../2025/Faerman2025_MISTIC_12Month_Followup.md) — 12-month MISTIC follow-up (84% PTSD remission sustained)
+- [Williams 2025](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — Neural correlates via EEG
+- [La Torre 2025](../2025/LaTorre2025_Phenomenology_Thematic_Analysis.md) — Largest ibogaine phenomenology study (n=471)
+- [Schenberg 2014](../2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md) — Prior phenomenological analysis
+- [Barber 2020](../2020/Barber2020_Consumer_Views_Online_Fora.md) — Online community perspectives
 
 ---
 

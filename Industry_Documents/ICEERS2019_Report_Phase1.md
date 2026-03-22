@@ -22,6 +22,8 @@ contraindications: []
 dosing_range: "not-specified"
 open_access: unknown
 body_format: narrative
+licence_type: unknown
+licence_verified: false
 ---
 
 # Iboga Community Engagement Initiative — Phase 1 Report
@@ -1520,9 +1522,9 @@ www.iceers.org
 
 ## See Also
 
-**Parent hub:** [[WHITE_Historical_Hub]]
+**Parent hub:** [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md)
 
-- [[2025/Samorini2025_Studies_Iboga_Cults_Ethnobotanical_Complex]] — Ethnobotanical studies
-- [[2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety]] — Setting factors
-- [[Clinical_Guidelines/GITA2015_Clinical_Guidelines]] — Industry guidelines
-- [[2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance]] — Policy context
+- [Samorini2025_Studies_Iboga_Cults_Ethnobotanical_Complex](../2025/Samorini2025_Studies_Iboga_Cults_Ethnobotanical_Complex.md) — Ethnobotanical studies
+- [Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety](../2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) — Setting factors
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Industry guidelines
+- [Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance](../2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md) — Policy context

@@ -15,7 +15,7 @@ The NonCommercial clause applies to the vault's original infrastructure — its 
 
 ## How Papers Are Represented
 
-The vault contains approximately 300 documents spanning 1957–2026. Each paper's representation depends on its open access status:
+The vault contains over 300 documents spanning 1957–2026. Each paper's representation depends on its open access status:
 
 ### Open Access Papers (~97 papers)
 
@@ -30,7 +30,7 @@ Papers published in subscription journals by major academic publishers (includin
 - **Analytical synthesis** written in the vault curator's own voice, interpreting findings within the context of the broader ibogaine research landscape
 - **Cross-reference annotations** linking each paper to related work across the vault's six research categories
 
-These entries are transformative scholarly works — structured critical analyses, not reproductions. They cannot substitute for reading the original publications and are not intended to do so.
+Most non-open-access papers have been converted to original analytical works — structured critical analyses written in the vault curator's own voice. A subset of papers (primarily open-access publications) retain their original academic structure pending full analytical conversion. These are marked with `body_format: academic-retained` in their YAML frontmatter. All entries, regardless of body format, include full YAML metadata and cross-references. Entries in vault-analytical format are transformative scholarly works, not reproductions. They cannot substitute for reading the original publications and are not intended to do so.
 
 ### Non-OA Papers from Smaller Publishers (~6 papers)
 
@@ -48,7 +48,7 @@ This repository does not contain source PDFs. The `source_pdf` field in each pap
 
 If you use the IbogaineVault in your research, please cite:
 
-> Kagalovsky, P. (2026). *IbogaineVault: A Structured Knowledge Architecture for Ibogaine Research* (approximately 300 publications and clinical documents, 1957–2026, with standardised mortality and safety metadata) [Data set]. GitHub. https://github.com/GforVendetta/IbogaineVault
+> Kagalovsky, P. (2026). *IbogaineVault: A Structured Knowledge Architecture for Ibogaine Research* (over 300 publications and clinical documents, 1957–2026, with standardised mortality and safety metadata) [Data set]. GitHub. https://github.com/GforVendetta/IbogaineVault
 
 ## Takedown Requests
 

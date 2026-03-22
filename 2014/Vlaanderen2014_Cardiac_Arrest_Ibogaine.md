@@ -38,6 +38,8 @@ route: oral
 open_access: false
 publisher: "Informa Healthcare"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 # Cardiac Arrest After Ibogaine Ingestion
 
@@ -100,8 +102,8 @@ As a single case report (Letter to the Editor format), this provides limited evi
 ---
 
 ## See Also
-- [[2014/Thurner2014_hERG_Channel_Block_Ibogaine]] — hERG blockade mechanism cited in this paper
-- [[2012/Alper2012_Ibogaine_Fatalities]] — Fatalities review referenced by the authors
-- [[2009/Hoelen2009_Long_QT_Ibogaine]] — Earlier QTc prolongation case (NEJM), also cited
-- [[2016/Meisner2016_Cardiac_Arrest_Death_Case]] — Another cardiac arrest case report
-- [[RED_Cardiac_Safety_Hub]]
+- [Thurner2014_hERG_Channel_Block_Ibogaine](Thurner2014_hERG_Channel_Block_Ibogaine.md) — hERG blockade mechanism cited in this paper
+- [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Fatalities review referenced by the authors
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — Earlier QTc prolongation case (NEJM), also cited
+- [Meisner2016_Cardiac_Arrest_Death_Case](../2016/Meisner2016_Cardiac_Arrest_Death_Case.md) — Another cardiac arrest case report
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

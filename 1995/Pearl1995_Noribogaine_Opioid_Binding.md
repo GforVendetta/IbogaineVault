@@ -32,6 +32,8 @@ contraindications: []
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Radioligand-binding study of noribogaine, a likely metabolite of ibogaine
@@ -102,8 +104,8 @@ This study establishes that noribogaine is pharmacologically active at opioid re
 ---
 
 ## See Also
-- [[1995/Mash1995_Noribogaine_SERT_Identification]] — companion 1995 paper identifying noribogaine's SERT binding
-- [[1995/Hearn1995_Noribogaine_Metabolite]] — noribogaine identification as ibogaine metabolite
-- [[2001/Baumann2001_Neurobiological_Effects_Noribogaine]] — expanded neurobiological profiling of noribogaine
-- [[2016/Glue2016_Noribogaine_Opioid_Patients_Safety]] — clinical translation of noribogaine pharmacology
-- [[ORANGE_Mechanisms_Hub]]
+- [Mash1995_Noribogaine_SERT_Identification](Mash1995_Noribogaine_SERT_Identification.md) — companion 1995 paper identifying noribogaine's SERT binding
+- [Hearn1995_Noribogaine_Metabolite](Hearn1995_Noribogaine_Metabolite.md) — noribogaine identification as ibogaine metabolite
+- [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — expanded neurobiological profiling of noribogaine
+- [Glue2016_Noribogaine_Opioid_Patients_Safety](../2016/Glue2016_Noribogaine_Opioid_Patients_Safety.md) — clinical translation of noribogaine pharmacology
+- [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
