@@ -223,4 +223,4 @@ Mestre D, Paula A, Gil F P, et al. (June 29, 2024) Multiple Episodes of Cardiac 
 
 ### Hubs
 - [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Primary hub for cardiac safety evidence
-- [Hub_PK-PD_Synthesis](../Hubs/Hub_PK-PD_Synthesis.md) — Pharmacokinetic context for the prolonged QTc normalisation timeline
+- [ORANGE_PK-PD_Hub](../Hubs/ORANGE_PK-PD_Hub.md) — Pharmacokinetic context for the prolonged QTc normalisation timeline

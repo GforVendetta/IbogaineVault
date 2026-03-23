@@ -311,7 +311,7 @@ The authors declare that no Generative AI was used in the creation of this manus
 ### Pharmacokinetics and Safety
 - [Martins2022_Drug_Transporters_Ibogaine_PK](../2022/Martins2022_Drug_Transporters_Ibogaine_PK.md) — ABCB1/ABCG2 transporter roles in ibogaine pharmacokinetics
 - [Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids](../2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md) — CYP2D6 pharmacogenetics and neuroprotection/neurotoxicity balance
-- [Hub_PK-PD_Synthesis](../Hubs/Hub_PK-PD_Synthesis.md) — vault hub integrating pharmacokinetic and pharmacodynamic evidence
+- [ORANGE_PK-PD_Hub](../Hubs/ORANGE_PK-PD_Hub.md) — vault hub integrating pharmacokinetic and pharmacodynamic evidence
 - [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](../2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — hERG channel blockade mechanism underlying cardiac risk
 - [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — expanded hERG electrophysiology data
 - [Meisner2016_Cardiac_Arrest_Death_Case](../2016/Meisner2016_Cardiac_Arrest_Death_Case.md) — case report and fatality literature review

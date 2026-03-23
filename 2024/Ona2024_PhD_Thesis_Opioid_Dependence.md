@@ -162,4 +162,4 @@ The clinical trial data represent only the first-dose arm of an ongoing ascendin
 - [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — mechanisms of action synthesis
 - [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — cardiac safety evidence
 - [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md) — clinical protocols and guidelines
-- [Hub_PK-PD_Synthesis](../Hubs/Hub_PK-PD_Synthesis.md) — pharmacokinetics and pharmacodynamics
+- [ORANGE_PK-PD_Hub](../Hubs/ORANGE_PK-PD_Hub.md) — pharmacokinetics and pharmacodynamics

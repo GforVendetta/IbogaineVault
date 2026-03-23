@@ -189,7 +189,7 @@ IbogaineVault/
 │   ├── ORANGE_Mechanisms_Hub.md
 │   ├── PURPLE_Phenomenology_Hub.md
 │   ├── WHITE_Historical_Hub.md
-│   ├── Hub_PK-PD_Synthesis.md
+│   ├── ORANGE_PK-PD_Hub.md
 │   └── Key_Researchers_Hub.md
 │
 ├── MOCs/                        # Researcher Maps of Content

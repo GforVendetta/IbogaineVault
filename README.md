@@ -96,10 +96,13 @@ sample_size: 30
 qtc_data: true
 herg_data: false
 mortality_count: 0
+mortality_scope: cumulative-review  # cumulative-review | discrete-cases | incidental
 contraindications: ["pre-existing cardiac conditions", "..."]
 ```
 
 This metadata enables systematic queries: "Show all RED papers with hERG data published after 2015" or "List contraindications across all clinical trials with sample size > 20." The full schema is defined in `_meta/schema_registry.yml`.
+
+Papers that report deaths carry a `mortality_scope` field that classifies *how* the paper reports mortality: `cumulative-review` (a systematic tally drawing on the broader literature), `discrete-cases` (original case reports of individual deaths), or `incidental` (deaths mentioned but not the paper's primary contribution). This distinction is critical for accurate mortality analysis — naïvely summing `mortality_count` across papers without filtering by scope will produce inflated totals, because cumulative reviews already include deaths reported in discrete case papers. Any systematic count must deduplicate by scope.
 
 ## Navigation layers
 

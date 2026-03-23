@@ -220,4 +220,4 @@ Lotsof walked up to Glick afterwards and said: "Listening to your presentation, 
 - ORANGE_Mechanisms_Hub — Dopamine modulation, receptor binding, metabolite hypothesis
 - BLUE_Outcomes_Hub — Preclinical efficacy: morphine, cocaine, amphetamine
 - WHITE_Historical_Hub — NIDA politics, Kleber opposition, buprenorphine conflict
-- Hub_PK-PD_Synthesis — Noribogaine as resolution of "long-lasting metabolite" mystery
+- ORANGE_PK-PD_Hub — Noribogaine as resolution of "long-lasting metabolite" mystery

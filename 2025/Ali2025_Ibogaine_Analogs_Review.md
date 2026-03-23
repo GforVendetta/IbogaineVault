@@ -318,4 +318,4 @@ This work was partly supported by grants R01 DA038446 and R01 DA060228 from the 
 - [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Vault hub for pharmacological mechanisms and structure-activity relationships
 - [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Vault hub for cardiac safety evidence (hERG, QTc, arrhythmia risk)
 - [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Vault hub for clinical treatment outcomes
-- [Hub_PK-PD_Synthesis](../Hubs/Hub_PK-PD_Synthesis.md) — Vault hub for pharmacokinetics and pharmacodynamics
+- [ORANGE_PK-PD_Hub](../Hubs/ORANGE_PK-PD_Hub.md) — Vault hub for pharmacokinetics and pharmacodynamics
