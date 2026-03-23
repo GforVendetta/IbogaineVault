@@ -229,7 +229,7 @@ def generate_json(papers, output_path):
     """Write papers.json to the specified directory."""
     envelope = {
         "vault": "IbogaineVault",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "paper_count": len(papers),
         "schema_reference": "_meta/schema_registry.yml",
