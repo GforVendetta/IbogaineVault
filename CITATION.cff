@@ -6,7 +6,7 @@ authors:
   - family-names: Kagalovsky
     given-names: Philip
     orcid: "https://orcid.org/0009-0008-3558-3097"
-version: 1.0.0
+version: 1.0.1
 doi: "10.5281/zenodo.19159665"
 repository-code: "https://github.com/GforVendetta/IbogaineVault"
 abstract: >-
