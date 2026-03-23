@@ -168,7 +168,7 @@ Bwiti traditional use, Howard Lotsof's legacy, regulatory landscape.
 ### 🔬 PK/PD Synthesis
 Cross-domain hub: pharmacokinetics, noribogaine persistence, CYP2D6 variability, dose-safety modelling.
 
-**[Hub_PK-PD_Synthesis](Hubs/Hub_PK-PD_Synthesis.md)**
+**[ORANGE_PK-PD_Hub](Hubs/ORANGE_PK-PD_Hub.md)**
 
 ---
 

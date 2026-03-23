@@ -173,7 +173,7 @@ The review does not state explicit limitations. The following scope boundaries c
 ## See Also
 
 - [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Primary hub; this review covers receptor pharmacology, 18-MC, cytotoxicity, and CNS mechanisms
-- [Hub_PK-PD_Synthesis](../Hubs/Hub_PK-PD_Synthesis.md) — CYP2D6 metabolism and noribogaine PK discussed in this review
+- [ORANGE_PK-PD_Hub](../Hubs/ORANGE_PK-PD_Hub.md) — CYP2D6 metabolism and noribogaine PK discussed in this review
 - [Popik1995_100Years_Ibogaine_Review](../1995/Popik1995_100Years_Ibogaine_Review.md) — Earlier comprehensive field review; complementary pharmacological focus
 - [Alper2001_Ibogaine_Review](../2001/Alper2001_Ibogaine_Review.md) — Broad ibogaine review with stronger clinical pharmacology coverage
 - [DosSantos2017_Antiaddictive_Ibogaine_Systematic_Review](DosSantos2017_Antiaddictive_Ibogaine_Systematic_Review.md) — Systematic review of anti-addictive evidence (same year)

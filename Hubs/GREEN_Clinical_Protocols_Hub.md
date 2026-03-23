@@ -301,7 +301,7 @@ The story of ibogaine's clinical protocols is a seven-act drama — part pharmac
 - **[ORANGE_Mechanisms_Hub](ORANGE_Mechanisms_Hub.md)** — How ibogaine works: the pharmacology underlying dosing decisions and drug interaction management
 - **[PURPLE_Phenomenology_Hub](PURPLE_Phenomenology_Hub.md)** — The experiential dimension: set, setting, and the visionary experience that protocols must accommodate
 - **[WHITE_Historical_Hub](WHITE_Historical_Hub.md)** — The historical context: how we arrived at this point, from Bwiti to clinical trials
-- **[Hub_PK-PD_Synthesis](Hub_PK-PD_Synthesis.md)** — Pharmacokinetic/pharmacodynamic synthesis: the data that informs dosing, timing, and metabolic considerations
+- **[ORANGE_PK-PD_Hub](ORANGE_PK-PD_Hub.md)** — Pharmacokinetic/pharmacodynamic synthesis: the data that informs dosing, timing, and metabolic considerations
 
 ### Key MOCs
 - **[Clare_Wilkins_MOC](../MOCs/Clare_Wilkins_MOC.md)** — Complete map of Clare Wilkins' contributions to protocol development

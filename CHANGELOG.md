@@ -18,6 +18,12 @@ Initial public release of the IbogaineVault Tier 1 research support repository.
 
 ## Planned — v1.1
 
-- **Obsidian setup script:** `setup_obsidian.sh` to convert markdown links to Obsidian's native double-bracket link format for users who prefer the full Obsidian experience (graph view, backlinks)
+- **OA format consistency:** Extending vault analytical format (Key Findings, Clinical Implications, Methodology, Data Tables, Limitations) to all open-access papers — the centrepiece of v1.1
+- **`oa_class` copyright classification:** Per-paper open-access classification field (`open-access`, `subscription`, `grey-literature`, `small-publisher`) for transparent copyright status
+- **`mortality_scope` documentation:** Full methodological documentation of the `mortality_scope` enum that prevents naïve-sum errors when aggregating mortality counts across papers
+- **Hub naming standardisation:** All hubs now follow `{CATEGORY}_{Topic}_Hub.md` convention (completed: `Hub_PK-PD_Synthesis.md` → `ORANGE_PK-PD_Hub.md`)
 - **Quartz web layer:** Navigable research website with category-coloured graph and filtered clinical pages
-- **OA format consistency:** Extending vault analytical format to all open-access papers
+- **Enhanced validation and schema consistency:** Expanded `validate_vault.py` rules covering new fields, enum consistency audits, and link verification tooling
+- **Obsidian setup script:** `setup_obsidian.sh` to convert markdown links to Obsidian's native wikilink format for users who prefer the full Obsidian experience
+- **`references_stripped` metadata field:** Boolean flag indicating whether a paper's reference list was removed during conversion, enabling future systematic restoration
+- **Resolver exclusion list:** Identifier resolution tooling now skips papers with known cross-match conflicts to prevent incorrect auto-assignment

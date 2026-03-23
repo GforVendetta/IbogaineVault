@@ -107,7 +107,7 @@ Hubs are long-form, editorially curated documents that synthesise the evidence w
 | [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) | Clinical trials, veterans/TBI outcomes, effect sizes |
 | [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md) | Subjective experience, the Ibogaine Experience Scale |
 | [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) | Bwiti tradition, Lotsof discovery narrative, drug policy |
-| [Hub_PK-PD_Synthesis](../Hubs/Hub_PK-PD_Synthesis.md) | Pharmacokinetics, noribogaine, CYP2D6, dose-safety relationships |
+| [ORANGE_PK-PD_Hub](../Hubs/ORANGE_PK-PD_Hub.md) | Pharmacokinetics, noribogaine, CYP2D6, dose-safety relationships |
 | [Key_Researchers_Hub](../Hubs/Key_Researchers_Hub.md) | Cross-category profiles of major contributors to ibogaine science |
 
 Hubs differ from Bases in that they provide *narrative context* — explaining why papers matter relative to each other, identifying patterns across the literature, and highlighting gaps. A Base answers "what exists"; a Hub answers "what it means."
@@ -176,7 +176,7 @@ IbogaineVault/
 │   ├── PURPLE_Phenomenology_Hub.md
 │   ├── WHITE_Historical_Hub.md
 │   ├── Key_Researchers_Hub.md
-│   └── Hub_PK-PD_Synthesis.md
+│   └── ORANGE_PK-PD_Hub.md
 ├── MOCs/                        # Researcher-centred navigation
 │   ├── Kenneth_Alper_MOC.md
 │   ├── Clare_Wilkins_MOC.md

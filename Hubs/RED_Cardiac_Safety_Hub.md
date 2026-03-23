@@ -361,7 +361,7 @@ The clinical and computational data converged. [Schep 2016](../2016/Schep2016_Ib
 - **[GREEN_Clinical_Protocols_Hub](GREEN_Clinical_Protocols_Hub.md)** — The protocols that prevent what this hub documents: screening, contraindications, monitoring
 - **[ORANGE_Mechanisms_Hub](ORANGE_Mechanisms_Hub.md)** — The receptor pharmacology underlying hERG blockade and cardiotoxicity
 - **[BLUE_Outcomes_Hub](BLUE_Outcomes_Hub.md)** — The clinical outcomes that justify accepting cardiac risk under controlled conditions
-- **[Hub_PK-PD_Synthesis](Hub_PK-PD_Synthesis.md)** — Pharmacokinetic/pharmacodynamic data: dosing, noribogaine persistence, CYP2D6 variability
+- **[ORANGE_PK-PD_Hub](ORANGE_PK-PD_Hub.md)** — Pharmacokinetic/pharmacodynamic data: dosing, noribogaine persistence, CYP2D6 variability
 - **[Kenneth_Alper_MOC](../MOCs/Kenneth_Alper_MOC.md)** — Alper's contributions spanning fatality documentation, hERG characterisation, and clinical overview
 
 ---

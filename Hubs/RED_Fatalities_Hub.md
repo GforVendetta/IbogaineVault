@@ -162,5 +162,5 @@ The widely cited 1:427 death-to-treatment ratio (Alper et al. 2008, via Corkery2
 - [GREEN_Clinical_Protocols_Hub](GREEN_Clinical_Protocols_Hub.md) — Clinical screening and monitoring protocols that operationalise the safety evidence
 - [ORANGE_Mechanisms_Hub](ORANGE_Mechanisms_Hub.md) — Pharmacological mechanisms of ibogaine and noribogaine including CYP2D6 metabolism
 - [BLUE_Outcomes_Hub](BLUE_Outcomes_Hub.md) — Treatment outcome evidence across addiction, depression, and other indications
-- [Hub_PK-PD_Synthesis](Hub_PK-PD_Synthesis.md) — Pharmacokinetic and pharmacodynamic synthesis including noribogaine's extended half-life
+- [ORANGE_PK-PD_Hub](ORANGE_PK-PD_Hub.md) — Pharmacokinetic and pharmacodynamic synthesis including noribogaine's extended half-life
 - [Kenneth_Alper_MOC](../MOCs/Kenneth_Alper_MOC.md) — Researcher map centred on the foundational contributor to ibogaine fatality research
