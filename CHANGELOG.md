@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.0.1 — 2026-03-23
+
+Documentation and repository polish.
+
+- Added `mortality_scope` field documentation to README (deduplication methodology for fatality counts)
+- Standardised hub naming: `Hub_PK-PD_Synthesis.md` → `ORANGE_PK-PD_Hub.md`
+- Expanded CHANGELOG with v1.1 roadmap details
+- README rewrite: Quick Start section, Python query examples, programmatic access guidance, roadmap preview
+- Updated CITATION.cff to v1.0.1 with Zenodo version-specific DOI
+- Added `vault_grep.sh` search tooling with exclusion list for maintenance queries
+- Sync pipeline fixes for edge cases in `_meta/` allowlist handling
+
 ## v1.0.0 — 2026-03-22
 
 Initial public release of the IbogaineVault Tier 1 research support repository.
