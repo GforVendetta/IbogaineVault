@@ -1,7 +1,7 @@
 {
   "vault": "IbogaineVault",
-  "version": "1.0.0",
-  "generated_at": "2026-03-23T11:06:31Z",
+  "version": "1.0.1",
+  "generated_at": "2026-03-23T11:41:24Z",
   "paper_count": 303,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
