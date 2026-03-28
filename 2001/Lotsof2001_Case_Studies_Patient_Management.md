@@ -35,11 +35,11 @@ herg_data: false
 contraindications: []
 dosing_range: "0.14–19 mg/kg oral (1962 group); 100 mg test dose + 1200 mg therapeutic (ICASH, ~1989); 100 mg + 25 mg test doses, 10 mg/kg experimental, 20 mg/kg therapeutic (Panama clinical)"
 route: oral
-open_access: true
+open_access: false
 publisher: "Elsevier"
 body_format: hybrid
-licence_type: unknown
-licence_verified: false
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Case Studies of Ibogaine Treatment: Implications for Patient Management Strategies

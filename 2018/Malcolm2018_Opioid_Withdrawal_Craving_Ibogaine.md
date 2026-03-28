@@ -47,6 +47,8 @@ contraindications:
   - "Impaired hepatic or renal function"
   - "Alcohol, amphetamines, cocaine, or psychiatric medications within 1 week"
   - "Buprenorphine or methadone within 4 weeks"
+dosing_range: "18–20 mg/kg ibogaine HCl (Voacanga-derived, GMP-certified); test dose 100 mg followed by remainder within 2 hours; booster 1–5 mg/kg if post-acute withdrawal at 72h"
+route: oral
 open_access: false
 publisher: "Taylor & Francis"
 body_format: vault-analytical

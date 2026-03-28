@@ -110,4 +110,4 @@ Contributors and collaborators working with the vault should verify:
 
 ---
 
-**See also:** [Vault Architecture](VAULT_ARCHITECTURE.md) · [Tag Taxonomy](Tag_Taxonomy.md) · [Schema Registry](_meta/schema_registry.yml)
+**See also:** [Vault Architecture](VAULT_ARCHITECTURE.md) · [Methodology](METHODOLOGY.md) · [Tag Taxonomy](Tag_Taxonomy.md) · [Schema Registry](_meta/schema_registry.yml)

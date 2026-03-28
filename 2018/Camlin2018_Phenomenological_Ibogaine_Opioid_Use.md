@@ -38,7 +38,7 @@ dosing_range: "15–20 mg/kg therapeutic dose referenced; LD50 264 mg/kg"
 route: oral
 open_access: true
 publisher: "Akadémiai Kiadó"
-body_format: hybrid
+body_format: vault-analytical
 licence_type: cc-by-nc
 licence_verified: false
 ---

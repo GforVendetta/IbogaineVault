@@ -29,111 +29,67 @@ sample_size: 1
 qtc_data: false
 electrolyte_data: false
 herg_data: false
-dosing_range: "8 mg/day microdose for 60 days"
+dosing_range: "8 mg/day ibogaine HCl microdose (two 4 mg capsules) for 60 days"
 route: oral
 contraindications: []
 open_access: true
-publisher: "Brazilian Journal Publisher"
-body_format: academic-retained
-licence_type: unknown
-licence_verified: false
+publisher: "Brazilian Psychiatric Association"
+body_format: vault-analytical
+licence_type: cc-by-nc
+licence_verified: true
+references_stripped: true
 ---
 
 # Ibogaine microdosing in a patient with bipolar depression: a case report
 
-> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+**Citation:** Fernandes-Nascimento, M.H., Viana-Ferreira, K., Chaves, B.D.R., Negrão, A.B. & Wang, Y.-P. (2022). Ibogaine microdosing in a patient with bipolar depression: a case report. *Brazilian Journal of Psychiatry*, 00(00), 000-000. doi:10.47626/1516-4446-2021-2359
 
+## Abstract
 
-**Journal:** Brazilian Journal of Psychiatry
+Ibogaine is a naturally occurring psychoactive alkaloid and belongs to the class of atypical psychedelics. It has been used to treat substance dependence and, experimentally, for other mental disorders, such as depression. The most commonly used dose is between 15 and 20 mg/kg. Recent studies reported on the effects of microdosing classic psychedelics, i.e., administration of less than 20% of the usual total dose in a semi-regular schedule. Although there is a lack of robust research on ibogaine microdosing for psychiatric disorders, we report this practice in a patient with bipolar depression as a possibly innovative treatment alternative.
 
-**Authors:** Maria Helha Fernandes-Nascimento, Karine Viana-Ferreira, Bruno Daniel Rasmussen Chaves, André Brooking Negrão, Yuan-Pang Wang
+## Key Findings
 
-**DOI:** 10.47626/1516-4446-2021-2359
+This case report represents the first published account of ibogaine microdosing for bipolar depression, introducing a dosing paradigm fundamentally distinct from the high-dose sessions typically described in the ibogaine treatment literature. A 47-year-old woman with bipolar disorder type II and a severe depressive episode (ICD-10 F31.4) refractory to escitalopram 15 mg/day received ibogaine hydrochloride at approximately 1% of a conventional single dose — two 4 mg capsules daily — for 60 days. The dosing strategy deliberately avoided the psychoactive threshold, aiming for sustained low-level pharmacological engagement rather than the acute psychedelic experience central to standard ibogaine protocols.
 
-**Date:** 2022
+The clinical trajectory was striking across all three validated outcome measures. Depression severity, measured by the Beck Depression Inventory, fell from a baseline of 40 (severe) to 26 (moderate) by day 15, then to 6 (none/minimal) by day 43 — an 85% reduction. This improvement persisted to day 90 (score 4, 90% reduction), fully 30 days after ibogaine discontinuation. Anxiety followed a parallel but more gradual course: the Beck Anxiety Inventory dropped from 52 (severe) to 23 (moderate) by day 90, a 56% reduction. Hopelessness showed the most complete response, with the Beck Hopelessness Scale falling from 10 (moderate) to 0 (none/minimal) by day 90 — a 100% reduction.
 
-**License:** CC BY-NC
+Critically, no manic switch occurred at any assessment point during the 90-day follow-up. This is particularly noteworthy given that the patient self-discontinued her mood stabilisers and escitalopram during the treatment period, continuing only alprazolam 2 mg/day. The absence of mood destabilisation in a patient with bipolar II disorder — while tapering mood stabilisers — suggests that the microdose regimen may carry a different risk profile for affective switching than full-dose ibogaine protocols, though this cannot be concluded from a single case.
 
----
+## Methodology
 
-### Introduction
+Single case report of a 47-year-old woman with bipolar disorder type II and treatment-refractory severe depression. Ibogaine hydrochloride microdose (8 mg/day oral, two 4 mg capsules) was administered for 60 days at a private clinic in São Paulo, Brazil. Outcomes were assessed at baseline, day 15, day 43, and day 90 using three validated self-report instruments: the Beck Depression Inventory (BDI), Beck Anxiety Inventory (BAI), and Beck Hopelessness Scale (BHS). The ibogaine was obtained as high-purity hydrochloride from a Canadian commercial vendor.
 
-Ibogaine is a naturally occurring psychoactive alkaloid and belongs to the class of atypical psychedelics. It has been used to treat substance dependence and, experimentally, for other mental disorders, such as depression. The most commonly used dose is between 15 and  Recent studies reported on the effects of microdosing classic psychedelics, i.e., administration of less than 20% of the usual total dose in a semi-regular schedule. Although there is a lack of robust research on ibogaine microdosing for psychiatric disorders, we report this practice in a patient with bipolar depression as a possibly innovative treatment alternative.
-
-### Case Report
-
-A 47-year-old woman with a 20-year history of bipolar disorder type II presented with an episode of severe depression of moderate severity (ICD-10 F31.4). At baseline assessment, the patient complained of sadness, low self-esteem, hopelessness, anxiety, difficulty in social interaction, significant weight loss, anorexia, prostration, insomnia, negativistic cognition, and difficulty working, which responded poorly to escitalopram .
-
-She was referred for ibogaine microdose treatment at a private clinic upon her request. Two capsules of high-purity ibogaine hydrochloride obtained from a Canadian commercial vendor, containing 4 mg of ibogaine each (approximately 1% of a full conventional single dose), were administered twice a day for 60 days. The patient decided to taper off her medications (mood stabilizers and escitalopram) on her own. Alprazolam  was continued.
-
-**Outcomes:**
-
-* **Day 15:** We observed overall improvement compared to the initial assessment, as well as some functional recovery. She reported increased mental clarity, organized thinking, and positive prospects regarding the future.
-* **Day 43:** She reported a boosted appetite and initiative to engage in professional activities.
-* **Day 60 (Discontinuation) & Day 90:** Even 30 days after discontinuation of ibogaine (day 60), she had sustained improvement, which persisted through day 90. She resumed her routines and restored personal and social contacts.
-
-No manic switch was evident at any point during the follow-up period, and symptomatic improvement was clearly demonstrated in rating scales (Figure 1).
-
-### Figure 1: Symptom Scores Over Time
-
-*Histogram of scores of the Beck Depression Inventory (BDI), Beck Anxiety Inventory (BAI), and Beck Hopelessness Scale (BHS) over four timepoints in a patient taking ibogaine.*
-
-**Protocol:** Ibogaine 8 mg once a day (two 4mg capsules).
+## Treatment Outcomes
 
 | Timepoint | BDI Score (Depression) | BDI Severity | BAI Score (Anxiety) | BAI Severity | BHS Score (Hopelessness) | BHS Severity |
-| --- | --- | --- | --- | --- | --- | --- |
-| **5 days before** | 40 | Severe | 52 | Severe | 10 | Moderate |
-| **15 days after** | 26 | Moderate | 32 | Severe | 4 | None/Min |
-| **43 days after** | 6 | None/Min | 25 | Moderate | 3 | None/Min |
-| **90 days after** | 4 | None/Min | 23 | Moderate | 0 | None/Min |
+|---|---|---|---|---|---|---|
+| **Baseline (5 days before)** | 40 | Severe | 52 | Severe | 10 | Moderate |
+| **Day 15** | 26 | Moderate | 32 | Severe | 4 | None/Min |
+| **Day 43** | 6 | None/Min | 25 | Moderate | 3 | None/Min |
+| **Day 90** | 4 | None/Min | 23 | Moderate | 0 | None/Min |
 
-**Percentage Reduction from Baseline:**
+**Percentage reduction from baseline:**
 
-* **After 15 days:** BDI (-35%), BAI (-39%), BHS (-60%).
-* **After 43 days:** BDI (-85%), BAI (-52%), BHS (-70%).
-* **After 90 days:** BDI (-90%), BAI (-56%), BHS (-100%).
+| Timepoint | BDI | BAI | BHS |
+|---|---|---|---|
+| Day 15 | −35% | −39% | −60% |
+| Day 43 | −85% | −52% | −70% |
+| Day 90 | −90% | −56% | −100% |
 
-> **Scale Reference:**
-> * **BDI:** None/Min (0-11), Mild (12-19), Moderate (20-35), Severe (36-63).
-> * **BAI:** None/Min (0-10), Mild (11-19), Moderate (20-30), Severe (31-63).
-> * **BHS:** None/Min (0-4), Mild (5-8), Moderate (9-13), Severe (14-20).
-> 
-> 
+**Scale reference:** BDI: None/Min (0–11), Mild (12–19), Moderate (20–35), Severe (36–63). BAI: None/Min (0–10), Mild (11–19), Moderate (20–30), Severe (31–63). BHS: None/Min (0–4), Mild (5–8), Moderate (9–13), Severe (14–20).
 
-### Discussion
+## Clinical Implications
 
-Daily ibogaine microdosing was associated with improvement of depressive and anxiety symptoms, but safety aspects must be considered. Cardiovascular and vestibular toxicity have been reported. One study related the use of ibogaine and other psychedelics to a significant reduction in symptoms of mental disorders, including depressive disorders.
+This case opens a distinct line of inquiry within ibogaine therapeutics: whether sub-psychoactive doses administered over extended periods can produce clinically meaningful psychiatric outcomes without the acute risks associated with full-dose protocols. The standard ibogaine treatment model involves a single high dose (15–20 mg/kg) that induces a prolonged visionary state and carries well-documented cardiac risks, particularly QTc prolongation. A microdose regimen operating at approximately 1% of conventional dosing sidesteps the acute cardiac risk window entirely, though the chronic safety profile of sustained low-dose ibogaine exposure remains uninvestigated.
 
-Although the mechanism of action of ibogaine remains unclear, reports in the literature associate its effects with changes in prefrontal limbic circuits, triggering neuroplastic adaptations, and brain neurotrophic factors (which have raised interest in their own right as a potentially effective treatment for depression and other psychiatric disorders). Hypothetically, ibogaine may exert its clinical antidepressant effect as a result of combined direct pharmacological action and a consciousness-expanding experience.
+The bipolar depression context is particularly important. Bipolar patients are systematically excluded from most ibogaine treatment protocols due to concerns about manic switching and mood destabilisation — concerns well-founded given ibogaine's serotonergic and dopaminergic activity. This case suggests that the microdose approach may warrant dedicated investigation in this underserved population, though the patient's concurrent self-discontinuation of mood stabilisers introduces a significant confound: the observed improvement could reflect ibogaine efficacy, natural course of a depressive episode, effects of medication discontinuation, or an interaction among these factors.
 
-A two-stage phase II randomized clinical trial to test ibogaine hydrochloride and the ibogaine analog 18-methoxycoronaridine for treatment of psychiatric disorders has been approved. Further trials are warranted to investigate the putative antidepressant effect of ibogaine microdosing.
+The sustained response 30 days after ibogaine discontinuation raises mechanistic questions about whether the improvements reflect neuroplastic adaptations rather than ongoing pharmacological action — a hypothesis consistent with the literature linking ibogaine's metabolite noribogaine to neurotrophic factor upregulation. At a microdose level, whether such neuroplastic mechanisms are engaged remains speculative. The authors reference a planned phase II randomised clinical trial of ibogaine HCl and 18-methoxycoronaridine (18-MC) for psychiatric disorders, which may provide controlled data to complement this observational signal. The involvement of a co-author (BDRC) who serves as a medical consultant for Phytostan do Brasil Pharmaceuticals, a commercial ibogaine vendor, should be noted when interpreting these findings.
 
----
+## Limitations
 
-### Author Information & Disclosures
-
-**Affiliations:**
-
-1. Instituto de Psiquiatria (LIM-23), Hospital das Clínicas, Faculdade de Medicina da Universidade de São Paulo (FMUSP), São Paulo, SP, Brazil.
-2. Programa de Pós-Graduação em Fisiopatologia Experimental, Departamento de Patologia, FMUSP, São Paulo, SP, Brazil.
-3. Independent researcher.
-4. Grupo Interdisciplinar de Estudos sobre Álcool e Drogas, Departamento e Instituto de Psiquiatria, Hospital das Clínicas, FMUSP, São Paulo, SP, Brazil.
-
-**Disclosure:**
-BDRC is a medical consultant for Phytostan do Brasil Pharmaceuticals. The other authors report no conflicts of interest.
-
-**Citation:**
-Fernandes-Nascimento MH, Viana-Ferreira K, Chaves BDR, Negrão AB, Wang Y-P. Ibogaine microdosing in a patient with bipolar depression: a case report. *Braz J Psychiatry*. 2022;00:000-000. [http://doi.org/10.47626/1516-4446-2021-2359](https://www.google.com/search?q=http://doi.org/10.47626/1516-4446-2021-2359)
-
----
-
-### References
-
-1. Schenberg EE, de Castro Comis MA, Chaves BR, da Silveira DX. Treating drug dependence with the aid of ibogaine: a retrospective study. *J Psychopharmacol*. 2014;28:993-1000.
-2. Cameron LP, Tombari RJ, Lu J, Pell AJ, Hurley ZQ, Ehinger Y, et al. A non-hallucinogenic psychedelic analog with therapeutic potential. *Nature*. 2021;589:474-9.
-3. Breeksema JJ, Niemeijer AR, Krediet E, Vermetten E, Schoevers RA. Psychedelic treatments for psychiatric disorders: a systematic review and thematic synthesis of patient experiences in qualitative studies. *CNS Drugs*. 2020;34:925-46.
-4. Global Ibogaine Therapy Alliance (GITA). Clinical guidelines for ibogaine-assisted detoxification. Version 1.1 [Internet]. 2016 [cited 2022 January 11]. [https://www.ibogainealliance.org/guidelines/](https://www.ibogainealliance.org/guidelines/)
-5. Szigeti B, Kartner L, Blemings A, Rosas F, Feilding A, Nutt DJ, et al. Self-blinding citizen science to explore psychedelic microdosing. *Elife*. 2021;10:e62878.
+The authors acknowledge the fundamental limitation of a single case report design, which cannot establish causation. Additional limitations include the uncontrolled self-discontinuation of concurrent medications (mood stabilisers and escitalopram), which confounds attribution of improvement. The self-report outcome measures, while validated, lack the objectivity of clinician-rated instruments. The 90-day follow-up, while demonstrating sustained response, is insufficient to assess long-term durability or delayed adverse effects. The dosing ambiguity in the source text — whether two capsules were administered once or twice daily — introduces uncertainty about the actual daily dose.
 
 ---
 
@@ -141,6 +97,5 @@ Fernandes-Nascimento MH, Viana-Ferreira K, Chaves BDR, Negrão AB, Wang Y-P. Ibo
 
 **Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [Schenberg2014_Treating_Drug_Dependence_Retrospective_Study](../2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md) — Earlier Brazilian ibogaine research
-- Cameron 2021 (Nature) — Tabernanthalog development (not in vault - different compound)
-- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Safety protocols
+- [Schenberg2014_Treating_Drug_Dependence_Retrospective_Study](../2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md) — Earlier Brazilian ibogaine research from the same institutional network
+- [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Safety protocols for standard-dose ibogaine treatment

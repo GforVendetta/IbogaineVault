@@ -4,22 +4,20 @@ authors:
   - "Staveley, Courtney D."
 year: 2025
 category: BLUE
+secondary_categories: [PURPLE]
 tags:
   - topic/veterans
   - topic/ptsd
   - topic/tbi
   - topic/phenomenology
   - topic/psychiatric
-  - topic/protocol
   - topic/combination
   - method/qualitative
 key_findings: "N=12 special ops veterans, 10-36 months post-treatment. 100% reported immediate PTSD relief. Grounded theory identifies 'gnosis' as healing mechanism—direct experiential knowledge via transpersonal encounter enables sustained transformation."
 source_pdf: "2025/Staveley2025_PhD_Ibogaine_Veterans_PTSD.pdf"
 document_type: thesis
-peer_reviewed: false
-institution: "University of West Georgia"
-evidence_level: cohort
 clinical_significance: high
+evidence_level: qualitative
 sample_size: 12
 qtc_data: false
 electrolyte_data: false
@@ -30,412 +28,173 @@ aliases:
   - "Veterans PTSD Ibogaine PhD"
 contraindications: []
 open_access: true
-body_format: narrative
-licence_type: unknown
-licence_verified: false
+body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
+references_stripped: true
 ---
 
 # Exploring Ibogaine/5-MeO-DMT as Treatment for the Relief of PTSD Symptoms in Veterans
 
-**Author:** Courtney D. Staveley  
-**Institution:** University of West Georgia  
-**Degree:** Doctor of Philosophy  
-**Year:** 2025  
-**Pages:** 297
-
----
+**Citation:** Staveley, C.D. (2025). *Exploring Ibogaine/5-MeO-DMT as Treatment for the Relief of PTSD Symptoms in Veterans* [Doctoral dissertation, University of West Georgia].
 
 ## Abstract
 
-This constructivist grounded theory study explored the experiences of 12 special operations military veterans who received ibogaine and 5-MeO-DMT treatment for PTSD at a clinical facility in Tijuana, Mexico. Through 17 semi-structured interviews (12 initial + 5 follow-ups) ranging from 70-120 minutes, the research examined motivations for seeking treatment, subjective experiences during the psychedelic sessions, and long-term outcomes spanning 10 months to 3 years post-treatment.
+This study examines the use of ibogaine followed by 5-MeO-DMT for treating Post-Traumatic Stress Disorder (PTSD) in special operations veterans, focusing on the subjective experience and therapeutic efficacy of these substances. Twelve participants underwent semi-structured interviews, with five follow-ups conducted. Long-term data (10 months to three years post-treatment) was available for eleven participants. Using a constructivist grounded theory approach, the analysis explores participants' motivations, treatment experiences, and outcomes. The researcher introduces the theory of gnosis to explain the sustained positive effects observed in all participants. Efforts were made to identify individuals with negative or harmful outcomes, but none were found. Findings have significant implications for psychedelic-assisted therapy (PAT), PTSD treatment, and the broader application of psychedelics in mental health care.
 
-The study proposes "gnosis"—direct experiential knowledge of divine truths beyond rational understanding—as the theoretical mechanism underlying sustained healing. All 12 participants reported immediate relief from PTSD symptoms, with benefits extending across intrapersonal (emotional regulation, self-forgiveness), interpersonal (relationship repair, presence with family), and transpersonal (spiritual awakening, shifted worldview) domains.
+## Key Findings
 
----
+This doctoral dissertation provides the first in-depth qualitative investigation of combined ibogaine/5-MeO-DMT treatment specifically for PTSD in special operations veterans. All twelve participants reported immediate symptom relief, with benefits persisting across the full follow-up window of 10 to 36 months. The study's principal theoretical contribution is the concept of *gnosis* — direct experiential knowledge obtained through transpersonal encounter during the psychedelic sessions — which Staveley proposes as the mechanism underlying sustained therapeutic transformation.
+
+Outcomes clustered across three distinct domains. Intrapersonally, participants described enhanced emotional regulation, reduced intrusive thoughts, decreased substance use, adoption of new contemplative practices, and a marked capacity for self-forgiveness. Interpersonally, the veterans reported restored presence and emotional availability within their families, reduced explosive reactivity, and a process of generational healing through understanding the trauma histories of their own parents and grandparents. In the transpersonal domain, nine of twelve participants described spiritual transformation — including new religious engagement, shifted worldviews regarding mortality and interconnectedness, and ongoing relationships with a sense of the sacred that had not existed prior to treatment.
+
+A notable methodological finding is that most participants denied having PTSD despite displaying clear symptomatology. Several distinguished themselves from suicidal peers as though only active suicidality would qualify their suffering as legitimate. This pattern of denial and normalisation has direct implications for how PTSD screening instruments are calibrated for this population.
+
+The study also documents a deep and systemic failure of authentic care within the US Veterans Administration system, where participants consistently described feeling over-medicated, unheard, and betrayed — a pattern that drove them to seek alternatives outside the conventional medical system entirely.
 
 ## Methodology
 
-### Design
-- **Approach:** Constructivist grounded theory (Charmaz)
-- **Sampling:** Snowball sampling through veteran networks
-- **IRB approval:** University of West Georgia
+Staveley employed a constructivist grounded theory approach (following Charmaz), which positions the researcher and data in a co-constructive relationship rather than treating the researcher as a detached observer. This epistemological stance is explicitly acknowledged and reflexively examined at multiple points throughout the dissertation.
 
-### Participants
-- **N = 12** special operations military veterans
-- **Demographics:** All male, ages 40-55, nearly all Caucasian
-- **Military background:** Career special operations, high deployment rates
-- **Comorbidities:** TBI common, substance use (alcohol/cannabis)
-- **Follow-up range:** 10 months to 3 years post-treatment (11/12 participants)
+Twelve retired special operations veterans (all male, ages 40–55, nearly all Caucasian) were recruited through snowball sampling via veteran networks. All had attended the same clinic in Tijuana, Mexico, receiving a standardised 5-day combined ibogaine/5-MeO-DMT protocol. The study conducted 17 semi-structured interviews — 12 initial interviews and 5 follow-ups — totalling approximately 27 hours of recorded conversation. Interview durations ranged from 70 to 120 minutes each. Follow-up timepoints ranged from 10 to 36 months post-treatment, providing longitudinal data for 11 of the 12 participants.
 
-### Data Collection
-- **17 semi-structured interviews** (12 initial + 5 follow-ups)
-- **Duration:** 70-120 minutes each
-- **Total audio:** ~27 hours
-- **Method:** In-depth phenomenological exploration
+Data analysis proceeded through the standard grounded theory coding sequence: initial (open) coding, focused (axial) coding, and theoretical (selective) coding, with iterative memo-writing at each stage. The overarching theory of gnosis emerged from the selective coding process during results composition. Theoretical sampling was used to refine emerging categories, with saturation confirmed when the final participant's (P12) data produced no new themes or adjustments.
 
-### Treatment Setting
-All participants attended "The Clinic" in Tijuana, Mexico—a medically supervised facility offering combined ibogaine/5-MeO-DMT treatment.
+| Parameter | Value |
+|-----------|-------|
+| **N** | 12 special operations veterans |
+| **Interviews** | 17 total (12 initial + 5 follow-up) |
+| **Total audio** | ~27 hours |
+| **Interview duration** | 70–120 minutes |
+| **Follow-up range** | 10 months to 3 years post-treatment |
+| **Treatment dates** | May 2021 – November 2024 |
+| **Design** | Constructivist grounded theory (Charmaz) |
+| **Sampling** | Snowball, then theoretical |
+| **IRB** | University of West Georgia |
 
----
+## Treatment Protocol
 
-## The Clinical Protocol at The Clinic
+All twelve participants underwent the same 5-day programme at a medically supervised clinic in Tijuana, Mexico. The protocol integrated pharmacological, psychological, and ritual elements in a structured sequence.
 
-### 5-Day Program Structure
+**Pre-arrival:** Participants completed cardiac screening (EKG), medical evaluation, and 3–4 preparation counselling sessions. Alcohol and dietary restrictions were required.
 
-| Day | Activities |
-|-----|------------|
-| **Day 1** | Arrival, sweat lodge ceremony, preparation |
-| **Day 2** | Fire ceremony, ibogaine journey (begins ~8pm, lasts 15-20 hours) |
-| **Day 3** | "Gray day" — rest and recovery |
-| **Day 4** | 5-MeO-DMT session (20-30 minutes) |
-| **Day 5** | Return home |
+**Day 1 (Monday):** Arrival, medical re-screening, confiscation of medications and mobile phones, orientation to the facility. A sweat lodge ceremony in the afternoon initiated the therapeutic frame.
 
-### Medical Safeguards
-- EKG monitoring required
-- IV hydration during ibogaine journey
-- Comprehensive medical screening
-- 3-4 preparation sessions pre-treatment
-- 3-4 integration sessions post-treatment
+**Day 2 (Tuesday):** Morning yoga, breathwork training, and individual/group counselling focused on intention-setting. In the evening, a fire ceremony preceded ibogaine administration. Participants wrote down things they wished to release and burned them in the fire. Ibogaine was administered orally as a series of 4–5 pills given at 15–30 minute intervals beginning around 8 pm. By approximately 10 pm, participants moved to a prepared room with individual mattresses, eye masks, maracas, flowers, and purging bins. Traditional Bwiti music was played throughout. EKG monitoring and IV hydration were maintained continuously. The ibogaine journey lasted 14–20 hours.
 
-### Pharmacological Notes
-- Ibogaine metabolises to noribogaine
-- Noribogaine remains active 4-6 weeks post-treatment
-- This extended window may contribute to sustained neuroplasticity
+**Day 3 (Wednesday):** The "grey day" — rest and recovery. Minimal appetite, intermittent sleep. Massage and reiki offered. Some participants continued to experience significant visions during rest periods.
 
----
+**Day 4 (Thursday):** Integration counselling followed by 5-MeO-DMT administration in the afternoon, conducted outdoors when weather permitted. The 5-MeO-DMT experience lasted 20–30 minutes. Participants were attended by three support staff.
 
-## Pre-Treatment: Motivations and Context
+**Day 5 (Friday):** Return to San Diego airport and travel home.
 
-### Why Veterans Sought Treatment
+**Post-treatment:** 3–4 Zoom-based integration sessions over subsequent weeks, with access to veteran meditation groups and support communities. The noribogaine metabolite of ibogaine remains active in the body for 4–6 weeks following treatment, a window that participants and clinicians recognised as a period of continued neuroplastic vulnerability and therapeutic opportunity.
 
-Participants reported seeking treatment for:
-- Depression and anxiety
-- Uncontrollable rage
-- Sleep disturbances
-- Chronic migraines
-- Relationship deterioration
-- Substance abuse (primarily alcohol)
+A distinctive feature of the programme was that all clinic staff — physicians, counsellors, chefs, massage therapists — had themselves undergone the ibogaine/5-MeO-DMT protocol. Participants consistently identified this experiential credibility as foundational to the trust environment that enabled deep emotional work.
 
-### Critical Discovery
-> Most participants anticipated addressing battle trauma but discovered that **childhood and family trauma** required healing first. The ibogaine experience frequently directed attention to pre-military wounds.
+## Pre-Treatment Context: Why Veterans Sought This Treatment
 
-### Relationship with VA System
-- Deep distrust of conventional treatment ("the answer is always pills")
-- Feeling unheard and over-medicated
-- Sense of betrayal by the system meant to support them
+The motivational landscape that brought these twelve men to a clinic in Mexico reveals a convergence of occupational shaping, systemic failure, and familial desperation that is clinically significant in its own right.
 
-### Pathway to Treatment
-- Strong trust in fellow veterans who had undergone treatment
-- Referrals through veteran networks were the primary recruitment pathway
-- Motivation often centred on becoming better fathers and husbands
+**The special operations career as risk factor.** Career special operators undergo decades of training that selectively reinforces hypervigilance, emotional suppression, and a bias toward worst-case scenario scanning. These traits are adaptive in combat zones but profoundly maladaptive in family life. Several participants described the paradox of being trained to run toward gunfire while finding themselves unable to load a dishwasher without a sense of existential futility. Many also entered military service carrying pre-existing childhood trauma — and several recognised during treatment that their capacity for emotional compartmentalisation had made them both better soldiers and more damaged human beings. Traumatic brain injury from blast exposure was common across the cohort, with one participant reporting 10–15 concussive events from sonic overpressure during his career.
 
-### Denial of PTSD
-Many participants denied having PTSD despite displaying clear symptoms—a significant finding for clinical assessment.
+**PTSD denial as a clinical phenomenon.** A striking finding was the prevalence of PTSD denial among participants who clearly met diagnostic criteria. Veterans would disclaim PTSD whilst simultaneously describing fits of rage, social withdrawal, substance dependence, chronic sleep disturbance, and suicidal ideation. The threshold for self-acknowledged suffering appeared calibrated against the suicide rate in their community — if they were not actively planning to kill themselves, they minimised their distress as manageable. This denial has significant implications for clinical assessment instruments, which may systematically undercount PTSD in populations where the reference point for suffering is normalised against extreme distress.
 
----
+**Family as primary motivation.** Across the cohort, the dominant reason for seeking treatment was not personal relief but rather the desire to be better fathers and spouses. Participants described creating environments of volatile unpredictability in their homes, where family members walked on eggshells around their emotional dysregulation. The decision to travel to Mexico for an illegal, unregulated psychedelic treatment represented a desperate act of love — a willingness to try anything to stop hurting the people they cared about most.
 
-## The Ibogaine Experience
+**VA system failure and the trust pathway.** Deep distrust of the Veterans Administration permeated the interviews. Participants described a system that defaulted to pharmaceutical management, failed to provide authentic care, and in some cases actively endangered them (one veteran's prescriptions were abruptly discontinued due to an administrative error, forcing cold-turkey withdrawal from venlafaxine and gabapentin). The pathway to psychedelic treatment was almost universally mediated by trust in fellow veterans — the same operant trust that these men had relied upon in combat was repurposed to navigate a decision that their institutional support systems could not facilitate.
 
-### Phenomenological Characteristics
+## Phenomenological Experiences
 
-| Aspect | Description |
-|--------|-------------|
-| **Duration** | 15-20 hours |
-| **Quality** | Oneiric (dreamlike), closed-eye visions |
-| **Physical effects** | Ataxia, nausea, vomiting (experienced as purging/healing) |
-| **Orientation** | Participants could re-orient to reality when needed |
-| **Comparison** | Less frightening than other psychedelics |
+### The Ibogaine Journey
 
-### The Transpersonal Other
-- Present in **11 of 12** journeys
-- Distinctly **masculine** presence
-- Interactive, sometimes sarcastic in tone
-- Participants could "ask questions" of the medicine
-- Provided guidance and revealed hidden truths
+The ibogaine experience was consistently described as a 14–20 hour oneiric (dreamlike) journey characterised by closed-eye visions of extraordinary vividness and detail. Unlike heroic doses of psilocybin or LSD, where participants may lose their sense of identity and location, ibogaine maintained a quality of lucidity — veterans could re-orient to the room, recognise their surroundings, and communicate with attendants when needed, before returning to the visionary state under their eye masks.
 
-### Common Visionary Content
-1. **Third-person perspective on childhood** — viewing one's own early life from outside
-2. **Parents' and grandparents' lives** — witnessing generational patterns
-3. **Generational trauma** — understanding inherited wounds
-4. **Battle trauma** — processing combat experiences
-5. **Moral injury** — confronting ethical violations
+A defining feature was the presence of a transpersonal other — reported in 11 of the 12 journeys. This entity was consistently perceived as masculine, interactive, and sometimes wryly humorous. Participants described being able to address questions to this presence and receive answers that felt both coherent and revelatory. The quality of the encounter was not of hallucination in the conventional sense, but of guided dialogue — as though a knowing intelligence was orchestrating what the participant needed to see.
 
-### Emotional Processing
-- Deep crying and emotional catharsis
-- Release of "dark energy"
-- Confrontation with suppressed material
-- Some participants described feeling ibogaine "working through neurons"
+The most common visionary content involved third-person observation of one's own childhood, witnessing the lives of parents and grandparents, confronting generational trauma patterns, and processing combat experiences and moral injury. Most participants anticipated working on battle trauma but discovered instead that pre-military childhood wounds required attention first — a finding with significant implications for trauma treatment sequencing. The ibogaine experience frequently functioned as an archaeological excavation, peeling back layers of compartmentalised emotion from the earliest strata forward.
 
----
+Physical effects included ataxia (universal), nausea and vomiting (variable), and general exhaustion. Notably, these physical symptoms were reframed by participants as purging — a somatic release of stored trauma that was experienced as necessary and even welcome rather than distressing.
 
-## The 5-MeO-DMT Experience
+### The 5-MeO-DMT Experience
 
-### Phenomenological Characteristics
+Administered 36 hours after ibogaine (Day 4), the 5-MeO-DMT session was phenomenologically distinct — a 20–30 minute journey characterised by ego dissolution, non-duality, and mystical experience. Where ibogaine was analytical, extended, and masculine in quality, 5-MeO-DMT was described as brief, overwhelming, feminine (often associated with "Mother Earth"), and oriented toward unity rather than narrative insight.
 
-| Aspect | Description |
-|--------|-------------|
-| **Duration** | 20-30 minutes |
-| **Quality** | Ego dissolution, non-duality, mystical |
-| **Intensity** | Described as most powerful psychedelic |
-| **Brevity** | Much shorter than ibogaine but profoundly intense |
+The subjective intensity was extreme. Participants described the experience as the most powerful they had ever encountered — simultaneously terrifying and blissful, involving a felt experience of dying and being reborn, of dissolving into something vastly larger than the individual self, and of interacting with a divine or cosmic intelligence. Several described the transition from terror to surrender as a threshold moment, where releasing the impulse to control the experience was itself the mechanism of healing.
 
-### The Transpersonal Other
-- Distinctly **feminine** presence (often "Mother Earth")
-- Contrast with ibogaine's masculine quality
+The complementary relationship between the two substances was captured repeatedly in participant accounts: ibogaine as an analytical unpacking of trauma, and 5-MeO-DMT as a restorative re-integration. The metaphorical framing — ibogaine unzips, 5-MeO zips back up — arose independently across the cohort. From a pharmacological standpoint, ibogaine's extended noribogaine window may create a state of heightened neuroplastic vulnerability that amplifies the integrative effects of 5-MeO-DMT administered during that window.
 
-### Experience Range
-- Terrifying struggle to surrender
-- Pure bliss and unity
-- Interaction with God/Source
-- Understanding of interconnectedness
-- Profound love and gratitude
-- Experiences of "dying" followed by rebirth
+## Treatment Outcomes
 
-### Complementary Relationship with Ibogaine
-> "Ibogaine unzips you, 5-MeO zips you back up."
+### Short-Term Outcomes (1–4 Months)
 
-The combination appears synergistic:
-- Ibogaine: masculine, chaotic, analytical, extended duration
-- 5-MeO-DMT: feminine, clarity, integration, brief intensity
-- Neurologically: Ibogaine's long critical period window (weeks) + 5-MeO's intense reset during that vulnerable period
+All twelve participants reported immediate relief from PTSD symptoms following treatment. The short-term changes were described in remarkably consistent terms across the cohort: dramatically improved sleep quality, decreased migraines, enhanced sensory perception, cognitive clarity, a profound sense of peace, the experience of internal silence (reduced or absent negative self-talk), and newfound emotional availability to family members. Several participants described the post-treatment period as the first time they could remember feeling genuinely at peace.
 
----
+The 4–6 week noribogaine window appeared to function as a sustained pharmacological scaffold for consolidating these initial changes. Participants described this period as qualitatively different from normal consciousness — not an ongoing psychedelic state, but a sustained openness and emotional fluidity that facilitated the formation of new relational and behavioural patterns.
 
-## Outcomes: Short-Term (1-4 Months)
+### Long-Term Outcomes (10–36 Months)
 
-**100% of participants reported immediate relief.**
+Long-term follow-up data was available for 11 of the 12 participants. Outcomes organised into three domains that map onto the theoretical framework of gnosis and the broader psychedelic therapy literature on intrapersonal, interpersonal, and transpersonal dimensions of change.
 
-### Reported Changes
-- Dramatically improved sleep
-- Decreased migraines
-- Enhanced sensory perception
-- Cognitive clarity
-- Profound sense of peace
-- "Silence" in the mind
-- Absence of negative self-talk
-- Emotional availability to family
+**Intrapersonal outcomes.** The most consistently reported change was the development of emotional awareness and regulation — capacities that had been systematically trained out of these men during their military careers. Participants described being able to recognise, name, and modulate their emotional responses for the first time. Intrusive thoughts decreased markedly. Self-forgiveness — particularly around moral injury from combat — was a recurring theme, with participants describing a release of self-hatred and shame that had been carried for years or decades. Substance use patterns shifted dramatically: participants who had been using alcohol and cannabis as self-medication reported substantial reductions or cessation, often without deliberate effort. Many adopted new contemplative practices including meditation, breathwork, and journaling as ongoing maintenance strategies.
 
-### The Noribogaine Window
-The 4-6 week period of active noribogaine metabolism appeared to provide sustained benefits and a window for consolidating changes.
+**Interpersonal outcomes.** The relational changes were among the most clinically significant findings. Veterans described a transformation from emotional absence to presence — the capacity to be genuinely available to their wives and children in ways that had not been possible during or after their military careers. Explosive anger responses diminished. Relationships that had been deteriorating were repaired. A particularly striking pattern was generational healing: through the ibogaine experience, participants gained insight into the trauma histories of their own parents and grandparents, which enabled forgiveness and the interruption of intergenerational transmission patterns. Connection with a community of healing veterans provided ongoing social support that replaced the lost camaraderie of active service.
 
----
+**Transpersonal outcomes.** Nine of the twelve participants reported spiritual transformation that they described as permanent and among the most significant experiences of their lives. Previously non-religious individuals began attending church, praying, or developing personal spiritual practices. Worldviews shifted toward a sense of interconnectedness with nature, the cosmos, and other people. Relationships with mortality changed — death was no longer feared but understood within a larger framework of meaning. These transpersonal changes were not experienced as belief adoption but as direct knowledge — the quality of certainty that Staveley identifies as gnosis.
 
-## Outcomes: Long-Term (10+ Months)
-
-### Intrapersonal Domain
-
-| Change | Description |
-|--------|-------------|
-| Emotional awareness | Ability to recognise and name emotions |
-| Emotional regulation | Capacity to modulate responses |
-| Quieter mind | Reduced intrusive thoughts |
-| Self-forgiveness | Release of self-hatred and shame |
-| Reduced substance use | Dramatic decreases in alcohol and cannabis |
-| New practices | Adoption of meditation and breathwork |
-| Sustained awareness | Continued recognition of thought patterns |
-
-### Interpersonal Domain
-
-| Change | Description |
-|--------|-------------|
-| Presence | Ability to be emotionally present with family |
-| Emotional availability | Capacity for connection and intimacy |
-| Reduced reactivity | Less explosive anger responses |
-| Relationship repair | Improved marriages and parenting |
-| Generational healing | Forgiveness of parents through understanding their trauma |
-| Community | Connection with other healing veterans |
-
-### Transpersonal Domain
-
-**Spiritual transformation reported in 9 of 12 participants.**
-
-| Change | Description |
-|--------|-------------|
-| Religious engagement | Previously non-religious participants now attend church, pray, meditate |
-| Shifted worldview | New relationship with nature, cosmos, divine |
-| Interconnectedness | Sense of unity with all things |
-| Death relationship | Changed understanding of mortality |
-
-### Neurological Observations
-
-Participants reported subjective sense of neural repair:
-- Improved TBI symptoms in some cases
-- Reduced chronic migraines
-- Enhanced sensory function
-- Aligns with critical period theory—psychedelics may reopen neuroplasticity windows proportional to journey duration
-
----
+**Nervous system-related outcomes.** Several participants reported improvements in symptoms associated with traumatic brain injury, including reduced chronic migraines, improved sensory function, and enhanced cognitive clarity. While the dissertation is not designed to evaluate neurological outcomes and these reports are subjective, they align with emerging research on ibogaine's neuroplastic properties and the critical period hypothesis — specifically [Nardou et al., 2023](../2023/Nardou2023_Psychedelics_Critical_Period_Reopening.md)'s finding that psychedelic-induced critical periods are proportional to the duration of the subjective experience, which would theoretically position ibogaine's 15–20 hour journey as producing the longest neuroplastic window of any psychedelic compound.
 
 ## Theoretical Framework: Gnosis
 
-### Definition
-**Gnosis** = direct experiential knowledge of divine truths beyond rational understanding. Not mere awareness or insight, but embodied, transformative knowing.
+The dissertation's principal theoretical contribution is the concept of *gnosis* as the mechanism underlying sustained therapeutic transformation from psychedelic-assisted treatment. Staveley defines gnosis as direct experiential knowledge of truths that transcend rational understanding — not intellectual insight or cognitive reframing, but an embodied, transformative knowing that arises through transpersonal encounter.
 
-### Philosophical Foundations
+The construct draws from multiple philosophical and psychological traditions. Plato's theory of Forms provides the notion of accessing a higher plane of reality. Gnostic philosophy contributes the idea of a divine spark within the individual, liberated through direct knowledge rather than through doctrine or intermediaries. William James's characterisation of the noetic quality of mystical experience — the sense that what is revealed carries the authority of direct knowing — maps closely onto participant descriptions. Abraham Maslow's peak experience and self-actualisation framework provides the developmental context. Carl Jung's individuation process and Richard Schwartz's Internal Family Systems model contribute the psychological mechanism of healing fragmented parts of the self through compassionate encounter.
 
-| Tradition | Contribution |
-|-----------|--------------|
-| **Plato** | Theory of Forms—access to higher reality |
-| **Gnosticism** | Divine spark within, liberation through direct knowledge |
-| **William James** | Noetic quality of mystical experience |
-| **Abraham Maslow** | Peak experiences and self-actualisation |
-| **Carl Jung** | Integration of fragmented self |
-| **Richard Schwartz** | Internal Family Systems—healing exiled parts |
+What distinguishes gnosis from insight or awareness in Staveley's formulation is the quality of encounter with a transpersonal intelligence. Participants did not describe arriving at therapeutic understanding through reflection or analysis. They described being *shown* things by an entity that possessed knowledge the participant could not have generated independently — the lives of their grandparents, the causal chains linking childhood trauma to adult behaviour patterns, the somatic locations where unprocessed grief was stored in the body. The mechanism of healing was not cognitive restructuring but direct witnessing from an omniscient third-person perspective, which enabled confrontation with traumatic material without re-traumatisation.
 
-### Mechanism of Healing
-The psychedelic experience provides an **omniscient third-person perspective** on one's own life, enabling:
-1. Witnessing of traumatic events without re-traumatisation
-2. Understanding of causal chains (why parents acted as they did)
-3. Integration of fragmented self-parts
-4. Direct encounter with transpersonal wisdom
-
-### Transpersonal Encounters
-The wisdom received through encounters with the "transpersonal other" appears unattainable through conventional talk therapy—participants described receiving information they could not have known or generated themselves.
-
----
+Staveley frames the psychedelic session as providing access to a mode of knowing that conventional talk therapy cannot replicate. The therapeutic relationship in psychedelic treatment is not primarily between patient and therapist, but between the participant and whatever transpersonal intelligence mediates the visionary experience. The therapist's role shifts from interpretive authority to safety container — creating the conditions under which gnosis can occur and supporting integration afterward.
 
 ## Integration and Maintenance
 
-### Maslow's Framework: Peak vs. Plateau
+Staveley draws on Maslow's distinction between peak and plateau experiences to frame the post-treatment trajectory. The psychedelic sessions constitute peak experiences — intense, time-limited, and transformative. But sustained benefit requires the transition to plateau experience — the ongoing practice of integration that transforms acute insight into durable change.
 
-| Type | Characteristics |
-|------|-----------------|
-| **Peak experience** | The psychedelic journey—fleeting but transformative |
-| **Plateau experience** | Sustained integration requiring ongoing work |
+Participants who maintained the greatest benefit over the follow-up period were those who actively engaged in maintenance practices: regular meditation, journaling, lifestyle modification, community connection with other healing veterans, and time in nature. Those who did not engage in active integration saw some attenuation of benefits, though no participant reported returning to their pre-treatment baseline. The implication — consistent with the broader psychedelic therapy literature — is that the psychedelic experience opens a door, but walking through it requires sustained conscious effort.
 
-### Maintenance Practices
-Participants who maintained benefits engaged in:
-- Regular meditation
-- Journaling
-- Lifestyle changes
-- Community connection
-- Time in nature
-- Continued self-reflection
+Stanislav Grof's concept of spiritual emergency was relevant for understanding the integration challenges that some participants experienced. The rapid and profound shift in worldview, spiritual understanding, and emotional processing that these sessions produced could itself be destabilising, particularly for men whose prior self-concept had been built around emotional control and self-sufficiency.
 
-### Key Finding
-> Participants who "do the work" maintain benefits longer. The psychedelic experience opens the door; integration walks through it.
+## Clinical Implications
 
-### Spiritual Emergency
-Grof's spiritual emergency framework relevant for understanding integration challenges—some participants experienced difficult periods requiring support.
+This dissertation carries significant implications for clinical practice across multiple domains.
 
----
+The combination protocol warrants dedicated research attention. The ibogaine/5-MeO-DMT pairing appears to produce a synergistic therapeutic architecture — ibogaine providing the extended analytical processing of specific traumatic material (15–20 hours), followed by 5-MeO-DMT's brief but intense integrative experience (20–30 minutes) during the noribogaine neuroplastic window. This sequential design may offer advantages over single-substance protocols, and the 5-day programme structure integrating ritual, community, and clinical care represents a holistic treatment model that conventional psychiatric settings struggle to replicate.
 
-## Implications for PTSD Treatment
+The finding that childhood and generational trauma frequently emerged as the primary therapeutic target — rather than battle trauma — has implications for how PTSD treatment is conceptualised for military populations. Exposure-based therapies that focus on combat-specific traumatic memories may be addressing a secondary layer while leaving the foundational developmental wounds untouched. The ibogaine experience, by contrast, appeared to naturally sequence trauma processing from earliest to most recent, a pattern that aligns with somatic trauma theories ([Noller et al., 2017](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) similarly found that ibogaine treatment outcomes extended well beyond the presenting complaint).
 
-### Current System Inadequacies
+The PTSD denial phenomenon has direct implications for assessment. Standard screening instruments may systematically undercount PTSD in special operations populations where the threshold for acknowledging suffering is calibrated against suicidality. Reframing assessment questions away from symptom acknowledgement and toward functional impact — relationships, parenting capacity, substance use patterns — may improve detection in populations where admitting vulnerability is culturally prohibited.
 
-1. **Childhood trauma overlooked** — Battle trauma often not the primary wound
-2. **Exposure therapy concerns** — Forcing detailed battle trauma recall may cause harm
-3. **Suicidality assessment** — Veterans deny suicidal ideation but wish for death; assessment questions need reframing
-4. **VA system failures** — Veterans feel betrayed, medicated, not authentically heard
+The role of authentic care — the therapeutic environment at The Clinic, where staff had personal experience with the medicines and where the setting prioritised genuine human connection over procedural efficiency — emerged as a critical facilitator of therapeutic outcomes. Veterans explicitly contrasted this with their experiences in the VA system, warning that institutional adoption of psychedelic therapy without preserving the relational and ritual elements would diminish its effectiveness. This finding aligns with the broader set-and-setting literature and carries implications for how psychedelic therapy is scaled within healthcare systems.
 
-### Somatic Approaches Validated
-Participant experiences support nervous system-focused approaches:
-- Porges (polyvagal theory)
-- van der Kolk (The Body Keeps the Score)
-- Levine (somatic experiencing)
-
-### Psychedelic Therapy Potential
-This research suggests psychedelic therapy offers profound healing unavailable through traditional methods, particularly for treatment-resistant veteran populations.
-
----
-
-## Participant Voices
-
-> **P1:** "I was never a person of faith... I found a belief that there is something intangible that is bigger than all of us. It changed my life, saved my life, saved the lives of my children and my wife."
-
-> **P2:** "I didn't even like myself... Now I have the whole spectrum [of emotions]. I feel great."
-
-> **P4:** "To be able to say that I spent a day without depression and anxiety symptoms is enough—it was a miracle."
-
-> **P9:** "It's made me a better husband, better father, just better human. This is probably the most profound thing I've ever done."
-
-> **P11:** "I wasn't religious or spiritual going into this... this kind of has changed me."
-
-> **P12:** "Courtney, I don't hate myself anymore and that's enough to work with right now."
-
----
+The study also highlights the potential of ibogaine and 5-MeO-DMT to address comorbid substance use disorders simultaneously with PTSD — a dual-target therapeutic property that conventional pharmacological approaches cannot match. The anti-addictive properties of ibogaine in particular, mediated through its interaction with opioid, dopamine, and serotonin systems, may make this combination protocol especially suited to the high rates of comorbid substance use disorder in veteran PTSD populations.
 
 ## Limitations
 
-- **Homogeneous sample:** Male, 40-55, Caucasian, special operations
-- **Positive sampling bias:** No participants with negative outcomes found despite searching
-- **Cannot separate effects:** Ibogaine vs. 5-MeO-DMT contributions unclear
-- **Variable integration:** Differing levels of preparation and follow-up work
-- **Small sample:** N=12 limits generalisability (though rich qualitative data supports transferability)
+The study's limitations are acknowledged by the author and are significant. The sample is homogeneous: all male, ages 40–55, nearly all Caucasian, all career special operations veterans. Generalisability to other veteran populations, non-veteran PTSD populations, women, younger cohorts, and diverse ethnic backgrounds is unknown. The sample size (N=12) is appropriate for qualitative grounded theory research and produced rich data, but cannot support quantitative claims about treatment efficacy or prevalence of specific outcomes.
 
----
+A positive sampling bias is possible — participants who experienced transformative benefit may be more likely to volunteer for research, and active efforts to recruit individuals with negative outcomes were unsuccessful. The dissertation cannot determine the relative contributions of ibogaine versus 5-MeO-DMT to the observed outcomes, as all participants received both substances in sequence. Variable levels of preparation and integration work across participants introduce another confound, with one participant having received transcranial magnetic stimulation as part of a separate research protocol prior to attending The Clinic.
 
-## Future Research Directions
-
-- Younger veteran cohorts
-- Non-veteran PTSD populations
-- Cases with negative outcomes
-- Ibogaine alone vs. combined protocol
-- Different psychedelic combinations
-- Optimal integration protocols
-- Contraindications and safety parameters
-- Female participants
-- Diverse ethnic backgrounds
-
----
-
-## Safety Context
-
-### Medical Screening
-All participants underwent:
-- EKG monitoring
-- Comprehensive medical evaluation
-- Controlled clinical environment
-
-### Cardiac Risk Awareness
-Ibogaine carries cardiac risks (hERG blockade, QTc prolongation)—controlled clinical settings essential. Per the broader literature, no fatalities occur in properly supervised clinical contexts.
-
-### Participant Safety Experience
-All participants reported feeling physically safe throughout, which enabled the emotional vulnerability necessary for deep healing work.
-
----
+The qualitative methodology, while appropriate for theory generation and phenomenological exploration, does not include validated symptom measures, clinician assessment, or biological markers. The constructivist epistemological stance, while methodologically rigorous within its own framework, means that the researcher's evolving personal relationship with psychedelics (documented transparently through iterative reflexivity) is a constitutive feature of the findings rather than a bias to be eliminated — a position that will be epistemologically uncomfortable for clinicians trained in positivist paradigms.
 
 ## Researcher Reflexivity
 
-Staveley documents her own journey:
-- Initial scepticism of psychedelics-as-medicine rhetoric
-- Concern about the field's toxic positivity
-- Observed 50+ participants across 4 weekends of 5-MeO ceremonies
-- Personal worldview shift from reductionist to transpersonal
-- Now advocates for psychedelic therapy while maintaining critical perspective on ethics and safety
-
----
-
-## Dissertation Structure
-
-| Chapter | Content |
-|---------|---------|
-| I | Introduction, personal journey, statement of problem |
-| II | Literature review (trauma, PTSD, veterans, psychedelics, ibogaine, 5-MeO-DMT, ritual) |
-| III | Methodology (grounded theory, sampling, data collection/analysis, reflexivity) |
-| IV | Results (motivations, experiences, outcomes by domain) |
-| V | Discussion (gnosis framework, Foucault on soldier identity, liberation psychology, Maslow, integration) |
-| VI | Conclusions and future research |
-
-### Appendices
-- IRB approval documents
-- Consent forms
-- NIH Certificate of Confidentiality
+Staveley documents her own epistemological journey with notable honesty. She entered the project sceptical of psychedelic therapy, grew increasingly concerned about safety and ethical issues in the field after attending the 2023 Psychedelic Science convention, and shifted her dissertation focus multiple times before being introduced to ibogaine treatment through a serendipitous chain of personal connections. Over the course of observing approximately 50 5-MeO-DMT ceremonies and conducting 27 hours of veteran interviews, her worldview shifted from reductionist materialism to an openness to transpersonal experience. She acknowledges this shift explicitly as a feature of the constructivist grounded theory approach, not as a methodological weakness.
 
 ---
 
 ## See Also
 
-- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol for veterans with TBI
-- Davis et al. (2017) 5-MeO-DMT psychopharmacology (not in vault - different compound)
-- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — Observational methodology for ibogaine outcomes
-- Barsuglia et al. (2024) Ibogaine/5-MeO veterans research (not in vault)
-- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Safety protocols for ibogaine treatment
-- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Clinical outcomes literature
-
----
-
-## Citation
-
-Staveley, C.D. (2025). *Exploring Ibogaine/5-MeO-DMT as Treatment for the Relief of PTSD Symptoms in Veterans* [Doctoral dissertation, University of West Georgia].
+- [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol for veterans with TBI; complementary evidence on ibogaine treatment in veteran populations
+- [Nardou2023_Psychedelics_Critical_Period_Reopening](../2023/Nardou2023_Psychedelics_Critical_Period_Reopening.md) — Critical period hypothesis directly relevant to Staveley's theoretical framing of ibogaine's extended neuroplastic window
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — Observational methodology for ibogaine outcomes with 12-month follow-up; comparable long-term design
+- [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md) — Safety protocols for ibogaine treatment; the dissertation notes cardiac screening as essential
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Clinical outcomes literature; this study contributes rich qualitative data to the BLUE evidence base
+- [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md) — The phenomenological depth of participant accounts makes this a significant PURPLE cross-reference

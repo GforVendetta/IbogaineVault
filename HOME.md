@@ -16,7 +16,7 @@ cssclass: dashboard
 
 ## Before Treatment: Safety Essentials
 
-> [!warning] Start Here
+> [!WARNING] Start Here
 > The cardiac safety evidence in this vault exists because people have died. Read the RED papers first.
 
 | Essential Reading | Why It Matters |

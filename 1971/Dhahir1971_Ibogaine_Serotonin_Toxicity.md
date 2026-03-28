@@ -31,9 +31,10 @@ contraindications: []
 dosing_range: "Acute LD₅₀: 145 mg/kg i.p. (rat), 175 mg/kg i.p. (mouse), 327 mg/kg i.g. (rat). Chronic: 10–50 mg/kg i.p. (30 days), 40 mg/kg i.p. (12 days). Cardiovascular: 2–32 mg/kg i.v."
 route: intraperitoneal
 open_access: true
-body_format: hybrid
-licence_type: unknown
-licence_verified: false
+body_format: vault-analytical
+references_stripped: true
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # A Comparative Study on the Toxicity of Ibogaine and Serotonin

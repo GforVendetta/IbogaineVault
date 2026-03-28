@@ -177,6 +177,35 @@ This review crystallises the central paradox of ibogaine's safety evidence: the 
 - **Five-year window** — the review intentionally captures only 2015–2020 to extend prior reviews, meaning it cannot independently assess longitudinal trends across the full 1990–2020 evidence base
 - **No grey literature or provider data** — the review excluded non-peer-reviewed sources, meaning adverse events reported by ibogaine providers but not published in journals are not captured
 
+## Supplementary Data Summary
+
+The following data are drawn from Ona et al. (2021) supplementary materials, which provide individual-level case data not included in the main text.
+
+### Consolidated QTc Values from Included Studies
+
+Eight case studies reported specific QTc measurements across the 18-study corpus (seven distinct values, as Hildyard and Meisner both recorded 730 ms):
+
+| Study | QTc (ms) | Context |
+|-------|----------|---------|
+| Grogan et al. 2019 | 788 | Internet-purchased ibogaine; seizures and TdP |
+| Meisner et al. 2016 | 730 | Fatal case; cardiac arrest after ibogaine + naloxone/vasopressors |
+| Hildyard et al. 2016 | 730 | Ibogaine toxicity with seizures and TdP |
+| Steinberg & Deyell 2018 | 714 | Ibogaine intoxication; cardiac arrest with TdP |
+| Henstra et al. 2017 | 647 | Internet-purchased ibogaine; prolonged multiple arrhythmias |
+| O'Connell et al. 2015 | 527 | Internet-purchased ibogaine; toxicity confirmed via serum/urine |
+| Knuijver et al. 2018 | 516 | Phase II trial participant; HPPD post-treatment |
+| Wilson et al. 2021 | 512 | Low-dose treatment (725 mg); resolved with monitoring |
+
+The range (512–788 ms) and the 5/8 TdP progression rate underscore the severity of QTc prolongation in ibogaine case reports, though ascertainment bias means these represent the most extreme end of the distribution.
+
+### Quality Assessment Scores (Supplementary Material 4)
+
+NIH quality assessment checklists were applied to all 18 included studies. Mean quality scores by study design: case reports averaged 0.80 (reflecting generally adequate reporting of individual cases), RCTs averaged 0.78, and observational studies averaged 0.64 (the lowest, reflecting limitations in study design and control). These scores confirm the overall low-to-moderate evidence quality inherent to a literature dominated by case reports from uncontrolled settings.
+
+### Key Interventions for Adverse Events
+
+Across the 18 studies, documented interventions for ibogaine-related adverse events included benzodiazepines (for seizure management and sedation), antipsychotics (for psychiatric complications), magnesium and IV fluids (for electrolyte correction and supportive care), and cardioversion or temporary pacing in 5 cases presenting with haemodynamically significant arrhythmias. The frequency of cardioversion/pacing reflects the severity of cardiac events in this case literature and reinforces the requirement for cardiac monitoring capability at any ibogaine treatment facility.
+
 ---
 
 ## See Also

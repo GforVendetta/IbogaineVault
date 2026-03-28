@@ -10,6 +10,7 @@ Over 300 documents · 1957–2026 · 6 categories · 3,400+ cross-references · 
 ![Status](https://img.shields.io/badge/status-active_development-green)
 ![Papers](https://img.shields.io/badge/papers-303-brightgreen)
 ![License](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-lightgrey)
+![CI](https://github.com/GforVendetta/IbogaineVault/actions/workflows/validate.yml/badge.svg)
 
 v1.1 in active development — analytical format expansion, web publishing, enhanced tooling. See [CHANGELOG](CHANGELOG.md) for the roadmap.
 
@@ -109,6 +110,8 @@ This metadata enables systematic queries: "Show all RED papers with hERG data pu
 > **Mortality scope — why this matters for accurate fatality counts**
 >
 > Papers that report deaths carry a `mortality_scope` field that classifies *how* the paper reports mortality: `cumulative-review` (a systematic tally drawing on the broader literature), `discrete-cases` (original case reports of individual deaths), or `incidental` (deaths mentioned but not the paper's primary contribution). This distinction is critical for accurate mortality analysis — naïvely summing `mortality_count` across papers without filtering by scope will produce inflated totals, because cumulative reviews already include deaths reported in discrete case papers. Any systematic count must deduplicate by scope.
+>
+> For a complete navigable index of all ibogaine fatality literature — including cumulative reviews, discrete case reports, and baseline reference papers — see the [Fatalities Hub](Hubs/RED_Fatalities_Hub.md).
 
 ## Navigation layers
 
@@ -140,6 +143,7 @@ IbogaineVault/
 │   ├── Tag_Taxonomy.md          # 62 canonical tags
 │   ├── VAULT_ARCHITECTURE.md    # Three-layer navigation design
 │   ├── VAULT_PRINCIPLES.md      # Design philosophy and clinical principles
+│   ├── METHODOLOGY.md           # Conversion methodology and copyright compliance
 │   └── README.md                # _meta/ directory guide
 ├── HOME.md              # Dashboard and entry point
 ├── GETTING_STARTED.md   # Orientation guide
@@ -178,7 +182,7 @@ Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 ## Copyright and licence
 
-This vault contains **analytical summaries** of published research, not the original publications. Source PDFs are not included. Papers from major publishers have been converted to original analytical works — structured critical analyses written in the vault curator's own voice, with reconstructed data tables and cross-reference annotations. All entries include complete YAML metadata and cross-references.
+This vault contains **analytical summaries** of published research, not the original publications. Source PDFs are not included. Papers from major publishers have been converted to original analytical works — structured critical analyses written in the vault curator's own voice, with reconstructed data tables and cross-reference annotations. All entries include complete YAML metadata and cross-references. For detailed methodology including copyright compliance, licence-aware conversion posture, and n-gram validation, see [METHODOLOGY](_meta/METHODOLOGY.md).
 
 All original vault content (metadata schemas, cross-references, hub syntheses, analytical commentary) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Individual papers retain their original copyright and are referenced via DOI. See [COPYRIGHT.md](COPYRIGHT.md) for full details and [LICENSE](LICENSE) for the vault licence.
 

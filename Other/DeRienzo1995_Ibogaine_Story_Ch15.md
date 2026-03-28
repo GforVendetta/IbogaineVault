@@ -37,7 +37,7 @@ dosing_range: "100 mg/kg sub-lethal in rats (~80% LD50); 25 mg/kg minimal toxici
 route: oral
 organisation: "MindVox"
 open_access: true
-body_format: vault-analytical
+body_format: narrative
 licence_type: unknown
 licence_verified: false
 ---

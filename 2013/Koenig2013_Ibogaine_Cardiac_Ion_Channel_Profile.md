@@ -45,8 +45,8 @@ route: not-applicable
 open_access: true
 publisher: "Elsevier"
 body_format: vault-analytical
-licence_type: unknown
-licence_verified: false
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Anti-addiction drug ibogaine inhibits voltage-gated ionic currents: A study to assess the drug's cardiac ion channel profile

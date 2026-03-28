@@ -54,8 +54,8 @@ route: oral
 open_access: true
 publisher: "Wiley"
 body_format: vault-analytical
-licence_type: unknown
-licence_verified: false
+licence_type: cc-by-nc
+licence_verified: true
 ---
 
 # Safety of ibogaine administration in detoxification of opioid-dependent individuals: a descriptive open-label observational study

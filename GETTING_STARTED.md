@@ -23,6 +23,20 @@ All content is readable as standard markdown. For programmatic access to the ful
 
 To find mortality data: filter `papers.json` for `mortality_count > 0` (31 papers). To find cardiac safety evidence: filter for `primary_category: "RED"` (47 papers). To find papers with QTc data: filter for `qtc_data: true` (54 papers).
 
+#### Understanding mortality data: the `mortality_scope` field
+
+**Do not sum `mortality_count` values across papers.** The vault's mortality data requires deduplication because cumulative review papers overlap massively — a 2022 review tallying 38 deaths and a 2018 review tallying 33 deaths are largely counting the same incidents. A naïve sum across all papers with `mortality_count > 0` would report approximately 250 deaths when the deduplicated estimate is approximately 45.
+
+Each paper that reports fatalities carries a `mortality_scope` field with one of three values:
+
+- **`cumulative-review`** — The paper tallies deaths across the published literature. These reviews overlap with each other and with discrete case reports. Do not sum across cumulative reviews; instead, identify the most comprehensive and recent review as a baseline.
+- **`discrete-cases`** — The paper reports individual incidents (typically case reports). These may or may not already be included in cumulative reviews. Only deaths occurring after the baseline review's search cut-off date, or demonstrably absent from it, should be added to the total.
+- **`incidental`** — The paper mentions deaths reported elsewhere but does not contribute new mortality data. Exclude entirely from any count.
+
+**The deduplication algorithm in practice:** The vault uses Kock et al. (2022) as the mortality baseline: 38 deaths, covering literature through 7 December 2020, with the most rigorous cross-referencing against earlier reviews. Post-baseline discrete cases (Acimovic 2021, Busby 2024, Evans 2026) add 7 further deaths, producing an estimated total of approximately 45 ibogaine-associated deaths in the published literature. Note that this figure reflects published reports only — unreported deaths in unregulated settings remain a known coverage gap.
+
+For the full worked example with per-paper provenance, see the [RED Cardiac Safety Hub](Hubs/RED_Cardiac_Safety_Hub.md) and the [Methodology](_meta/METHODOLOGY.md) documentation on cross-paper consistency.
+
 All cross-references between papers are standard markdown links — clickable on GitHub and in any markdown viewer. For the full interactive experience with graph view, backlinks, and queryable databases, open the vault in [Obsidian](https://obsidian.md) (free, v1.4+).
 
 ### In Obsidian (full interactive experience)
@@ -207,13 +221,14 @@ IbogaineVault/
 ├── _meta/                       # Administrative documents
 │   ├── schema_registry.yml      # Single source of truth for YAML schemas
 │   ├── Tag_Taxonomy.md          # 62 canonical tags
+│   ├── METHODOLOGY.md           # Conversion methodology and copyright compliance
 │   └── README.md                # Directory guide
 └── .gitignore
 ```
 
 ### Source PDFs
 
-The original research PDFs are not stored in this repository — they live in a shared Google Drive folder. Each paper's YAML frontmatter includes a `doi` field for independent access. If you need PDFs that are not available via DOI, request access to the shared collection from Philip.
+The original research PDFs are not stored in this repository — they live in a shared Google Drive folder. Each paper's YAML frontmatter includes a `doi` field for independent access. If you need PDFs that are not available via DOI, you can request access to the shared collection by [opening a PDF request issue](https://github.com/GforVendetta/IbogaineVault/issues/new?title=PDF+request&labels=pdf-request) on GitHub or emailing [admin@ibogaine.space](mailto:admin@ibogaine.space).
 
 ---
 
@@ -222,6 +237,7 @@ The original research PDFs are not stored in this repository — they live in a 
 This vault was created by converting PDFs to searchable markdown with structured metadata.
 
 - **[Technical Reference](_meta/VAULT_ARCHITECTURE.md)** — Bases syntax, folder structure, YAML schema overview
+- **[Methodology](_meta/METHODOLOGY.md)** — Conversion process, copyright compliance, quality assurance
 - **[Tag Taxonomy](_meta/Tag_Taxonomy.md)** — Complete list of 62 canonical tags
 - **[Design Principles](_meta/VAULT_PRINCIPLES.md)** — Quality standards and clinical integrity principles
 - **[CONTRIBUTING](CONTRIBUTING.md)** — How to contribute papers, corrections, or improvements

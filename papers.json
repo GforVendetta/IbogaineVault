@@ -1,8 +1,8 @@
 {
   "vault": "IbogaineVault",
   "version": "1.0.1",
-  "generated_at": "2026-03-23T11:41:24Z",
-  "paper_count": 303,
+  "generated_at": "2026-03-28T20:29:33Z",
+  "paper_count": 304,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
     {
@@ -14,6 +14,7 @@
       "year": 1957,
       "doi": "10.1111/j.1749-6632.1957.tb40765.x",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -48,6 +49,7 @@
       "issn": "1749-6632",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1957/Schneider1957_Neuropharmacological_Studies_Ibogaine.md"
     },
     {
@@ -58,6 +60,7 @@
       "year": 1969,
       "doi": "10.3109/15563656908990930",
       "primary_category": "PURPLE",
+      "document_type": "case-series",
       "secondary_categories": [
         "WHITE",
         "ORANGE"
@@ -95,6 +98,7 @@
       "issn": "0009-9309",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1969/Naranjo1969_Psychotherapeutic_Possibilities_Fantasy-Enhancing_Drugs.md"
     },
     {
@@ -105,6 +109,7 @@
       "year": 1971,
       "doi": null,
       "primary_category": "RED",
+      "document_type": "thesis",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -143,10 +148,11 @@
       "pmcid": null,
       "open_access": true,
       "publisher": null,
-      "body_format": "hybrid",
+      "body_format": "vault-analytical",
       "issn": null,
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "1971/Dhahir1971_Ibogaine_Serotonin_Toxicity.md"
     },
     {
@@ -161,6 +167,7 @@
       "year": 1991,
       "doi": "10.1016/0014-2999(91)90474-5",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -195,6 +202,7 @@
       "issn": "0014-2999",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1991/Glick1991_Ibogaine_Morphine_Self_Administration.md"
     },
     {
@@ -207,6 +215,7 @@
       "year": 1991,
       "doi": "10.1016/0014-2999(91)90634-3",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "BLUE"
       ],
@@ -243,6 +252,7 @@
       "issn": "0014-2999",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1991/Maisonneuve1991_Ibogaine_Morphine_Microdialysis.md"
     },
     {
@@ -258,6 +268,7 @@
       "year": 1992,
       "doi": "10.1016/0006-8993(92)90661-R",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -294,6 +305,7 @@
       "issn": "0006-8993",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1992/Deecher1992_Radioligand_Binding_Mechanisms.md"
     },
     {
@@ -307,6 +319,7 @@
       "year": 1992,
       "doi": "10.1111/j.1472-8206.1992.tb00127.x",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -341,6 +354,7 @@
       "issn": "1472-8206",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1992/Frances1992_Ibogaine_Morphine_Withdrawal_Mice.md"
     },
     {
@@ -355,6 +369,7 @@
       "year": 1992,
       "doi": "10.1016/0028-3908(92)90089-8",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -390,6 +405,7 @@
       "issn": "0028-3908",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1992/Glick1992_Ibogaine_Morphine_Withdrawal_Rats.md"
     },
     {
@@ -403,6 +419,7 @@
       "year": 1992,
       "doi": "10.1016/0024-3205(92)90344-O",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -437,6 +454,7 @@
       "issn": "0024-3205",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1992/Sershen1992_Ibogaine_Cocaine_Locomotor.md"
     },
     {
@@ -448,6 +466,7 @@
       "year": 1993,
       "doi": "10.1016/0014-2999(93)90212-Z",
       "primary_category": "BLUE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -483,6 +502,7 @@
       "issn": "0014-2999",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1993/Cappendijk1993_Ibogaine_Cocaine_Self_Administration.md"
     },
     {
@@ -495,6 +515,7 @@
       "year": 1993,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "review",
       "secondary_categories": [
         "ORANGE",
         "PURPLE"
@@ -537,6 +558,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1993/Goutarel1993_Ibogaine_Pharmacodynamics_Therapeutic_Applications.md"
     },
     {
@@ -548,6 +570,7 @@
       "year": 1993,
       "doi": "10.1016/0306-4522(93)90500-f",
       "primary_category": "ORANGE",
+      "document_type": "brief-communication",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -583,6 +606,7 @@
       "issn": "0306-4522",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1993/OHearn1993_Purkinje_Cell_Degeneration.md"
     },
     {
@@ -599,6 +623,7 @@
       "year": 1994,
       "doi": "10.1016/0006-8993(94)90948-2",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "BLUE"
       ],
@@ -636,6 +661,7 @@
       "issn": "0006-8993",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1994/Glick1994_Iboga_Alkaloids_Self_Administration.md"
     },
     {
@@ -648,6 +674,7 @@
       "year": 1994,
       "doi": "10.1007/bf02245000",
       "primary_category": "ORANGE",
+      "document_type": "brief-communication",
       "secondary_categories": [],
       "evidence_level": "in-vitro",
       "tags": [
@@ -682,6 +709,7 @@
       "issn": "1432-2072",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1994/Popik1994_Ibogaine_NMDA_MK801_Binding.md"
     },
     {
@@ -694,6 +722,7 @@
       "year": 1994,
       "doi": "10.1016/0091-3057(94)90105-8",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -728,6 +757,7 @@
       "issn": "0091-3057",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1994/Sershen1994_Ibogaine_Cocaine_Preference_Mice.md"
     },
     {
@@ -738,6 +768,7 @@
       "year": 1994,
       "doi": "10.1016/0740-5472(94)90049-3",
       "primary_category": "BLUE",
+      "document_type": "case-series",
       "secondary_categories": [
         "WHITE",
         "PURPLE"
@@ -747,6 +778,7 @@
         "topic/opioid",
         "topic/adverse-event",
         "topic/harm-reduction",
+        "topic/withdrawal",
         "method/case-series"
       ],
       "clinical_significance": "landmark",
@@ -758,8 +790,8 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": null,
-      "route": null,
+      "dosing_range": "700–1,800 mg ibogaine hydrochloride (11.7–25 mg/kg); 100–200 mg trial dose followed by remainder",
+      "route": "oral",
       "source_pdf": "1994/Sheppard1994_Preliminary_Investigation_Ibogaine.pdf",
       "journal": "Journal of Substance Abuse Treatment",
       "aliases": [
@@ -773,10 +805,11 @@
       "pmcid": null,
       "open_access": false,
       "publisher": "Elsevier",
-      "body_format": "hybrid",
+      "body_format": "vault-analytical",
       "issn": "0740-5472",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": true,
       "filepath": "1994/Sheppard1994_Preliminary_Investigation_Ibogaine.md"
     },
     {
@@ -792,6 +825,7 @@
       "year": 1995,
       "doi": "10.1016/0014-2999(95)00247-I",
       "primary_category": "ORANGE",
+      "document_type": "brief-communication",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -826,6 +860,7 @@
       "issn": "0014-2999",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1995/Bowen1995_Sigma_Receptor_Selectivity.md"
     },
     {
@@ -840,6 +875,7 @@
       "year": 1995,
       "doi": "10.1007/bf02246099",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -875,6 +911,7 @@
       "issn": "1432-2072",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1995/Dworkin1995_Ibogaine_Food_Cocaine_Heroin_Rats.md"
     },
     {
@@ -888,6 +925,7 @@
       "year": 1995,
       "doi": "10.1093/jat/19.6.427",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -922,6 +960,7 @@
       "issn": "1945-2403",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1995/Hearn1995_Noribogaine_Metabolite.md"
     },
     {
@@ -936,6 +975,7 @@
       "year": 1995,
       "doi": "10.1016/0024-3205(95)00273-9",
       "primary_category": "ORANGE",
+      "document_type": "brief-communication",
       "secondary_categories": [
         "BLUE"
       ],
@@ -975,6 +1015,7 @@
       "issn": "0024-3205",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1995/Mash1995_Noribogaine_SERT_Identification.md"
     },
     {
@@ -988,6 +1029,7 @@
       "year": 1995,
       "doi": "10.1016/0006-8993(95)00123-8",
       "primary_category": "ORANGE",
+      "document_type": "brief-communication",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -1022,6 +1064,7 @@
       "issn": "0006-8993",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1995/Pearl1995_Noribogaine_Opioid_Binding.md"
     },
     {
@@ -1034,15 +1077,20 @@
       "year": 1995,
       "doi": "10.1016/s0031-6997(25)06842-5",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
         "topic/mechanism",
-        "method/review",
-        "topic/history"
+        "topic/receptor",
+        "topic/opioid",
+        "topic/dopamine",
+        "topic/history",
+        "mechanism/nmda-antagonism",
+        "method/review"
       ],
       "clinical_significance": "high",
-      "key_findings": "LANDMARK REVIEW: Comprehensive 100-year overview of ibogaine pharmacology from NIH team. Covers NMDA antagonism, sigma receptor binding, dopamine modulation. Essential reference for mechanism understanding.",
+      "key_findings": "Landmark review: comprehensive 100-year overview of ibogaine pharmacology covering NMDA antagonism (Ki ~1 μM), σ receptor binding (IC₅₀ ~3 nM), κ opioid affinity (Ki ~2.1 μM), and dopamine modulation across ten neurotransmitter systems",
       "sample_size": null,
       "mortality_count": null,
       "mortality_scope": null,
@@ -1051,7 +1099,7 @@
       "electrolyte_data": false,
       "contraindications": [],
       "dosing_range": null,
-      "route": null,
+      "route": "not-applicable",
       "source_pdf": "1995/Popik1995_100Years_Ibogaine_Review.pdf",
       "journal": "Pharmacological Reviews",
       "aliases": [
@@ -1062,14 +1110,15 @@
         "Popik1995_100_Years_Ibogaine"
       ],
       "source_url": null,
-      "pmid": null,
+      "pmid": "7568327",
       "pmcid": null,
-      "open_access": "unknown",
-      "publisher": "Elsevier BV",
-      "body_format": "academic-retained",
+      "open_access": false,
+      "publisher": "American Society for Pharmacology and Experimental Therapeutics",
+      "body_format": "vault-analytical",
       "issn": "0031-6997",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "1995/Popik1995_100Years_Ibogaine_Review.md"
     },
     {
@@ -1082,6 +1131,7 @@
       "year": 1995,
       "doi": "10.1016/0091-3057(95)00152-m",
       "primary_category": "BLUE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -1119,6 +1169,7 @@
       "issn": "0091-3057",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1995/Rezvani1995_Ibogaine_Alcohol_Preferring_Rats.md"
     },
     {
@@ -1135,6 +1186,7 @@
       "year": 1995,
       "doi": "10.1007/BF02245936",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -1170,6 +1222,7 @@
       "issn": "1432-2072",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1995/Sweetnam1995_Receptor_Binding_Profile.md"
     },
     {
@@ -1183,6 +1236,7 @@
       "year": 1996,
       "doi": "10.1111/j.1476-5381.1996.tb15253.x",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "BLUE"
       ],
@@ -1216,10 +1270,11 @@
       "pmcid": "PMC1909352",
       "open_access": true,
       "publisher": "Wiley",
-      "body_format": "hybrid",
+      "body_format": "vault-analytical",
       "issn": "1476-5381",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1996/Benwell1996_Ibogaine_Nicotine_Dopamine_Behaviour.md"
     },
     {
@@ -1234,6 +1289,7 @@
       "year": 1996,
       "doi": "10.1016/0028-3908(96)84107-4",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": [
         "RED"
       ],
@@ -1271,6 +1327,7 @@
       "issn": "0028-3908",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1996/Chen1996_Ibogaine_NMDA_Receptor_Block.md"
     },
     {
@@ -1283,6 +1340,7 @@
       "year": 1996,
       "doi": "10.1016/0006-8993(96)00056-x",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "RED"
       ],
@@ -1321,6 +1379,7 @@
       "issn": "0006-8993",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1996/Glick1996_18MC_NonToxic.md"
     },
     {
@@ -1333,6 +1392,7 @@
       "year": 1996,
       "doi": "10.1016/0024-3205(95)02322-4",
       "primary_category": "ORANGE",
+      "document_type": "brief-communication",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -1367,6 +1427,7 @@
       "issn": "0024-3205",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1996/Hough1996_Tissue_Distribution.md"
     },
     {
@@ -1382,6 +1443,7 @@
       "year": 1996,
       "doi": "10.1016/0014-2999(96)00304-4",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "BLUE"
       ],
@@ -1418,6 +1480,7 @@
       "issn": "0014-2999",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1996/Layer1996_IbogaineAnalogs_NMDA.md"
     },
     {
@@ -1430,6 +1493,7 @@
       "year": 1996,
       "doi": null,
       "primary_category": "GREEN",
+      "document_type": "commentary",
       "secondary_categories": [
         "PURPLE"
       ],
@@ -1467,6 +1531,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1996/Lotsof1996_Trauma_Abreaction.md"
     },
     {
@@ -1479,6 +1544,7 @@
       "year": 1996,
       "doi": "10.1016/0006-8993(96)00739-1",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -1512,6 +1578,7 @@
       "issn": "0006-8993",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1996/Molinari1996_Ibogaine_Neurotoxicity_Reevaluation.md"
     },
     {
@@ -1525,6 +1592,7 @@
       "year": 1996,
       "doi": "10.1111/j.1749-6632.1996.tb17443.x",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "RED"
       ],
@@ -1560,6 +1628,7 @@
       "issn": "1749-6632",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1996/OCallaghan1996_Astrogliosis_Neurotoxicity.md"
     },
     {
@@ -1574,6 +1643,7 @@
       "year": 1996,
       "doi": "10.1007/bf01291787",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -1608,6 +1678,7 @@
       "issn": "1435-1463",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1996/Reid1996_Local_Ibogaine_Dopamine.md"
     },
     {
@@ -1622,6 +1693,7 @@
       "year": 1996,
       "doi": "10.1111/j.1749-6632.1996.tb17444.x",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [],
       "evidence_level": "preclinical",
       "tags": [
@@ -1655,6 +1727,7 @@
       "issn": "1749-6632",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1996/Scallet1996_Ibogaine_Neurodegeneration_Rat_Mouse_Cerebellum.md"
     },
     {
@@ -1672,6 +1745,7 @@
       "year": 1996,
       "doi": "10.1007/BF02805969",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": [
         "BLUE"
       ],
@@ -1710,6 +1784,7 @@
       "issn": "1432-2072",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1996/Staley1996_Noribogaine_Receptor_Binding.md"
     },
     {
@@ -1725,6 +1800,7 @@
       "year": 1997,
       "doi": "10.1016/s0014-2999(97)01231-4",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -1760,6 +1836,7 @@
       "issn": "0014-2999",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1997/Maisonneuve1997_TimeDependent_Iboga_Cocaine.md"
     },
     {
@@ -1775,6 +1852,7 @@
       "year": 1998,
       "doi": "10.1007/s002130050716",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "BLUE"
       ],
@@ -1812,6 +1890,7 @@
       "issn": "1432-2072",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1998/Glick1998_18MC_Nicotine.md"
     },
     {
@@ -1823,6 +1902,7 @@
       "year": 1998,
       "doi": "10.1111/j.1749-6632.1998.tb08237.x",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": [
         "BLUE"
       ],
@@ -1866,6 +1946,7 @@
       "issn": "1749-6632",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1998/Glick1998_Mechanisms_Antiaddictive_Actions_Ibogaine.md"
     },
     {
@@ -1876,6 +1957,7 @@
       "year": 1998,
       "doi": "10.1111/j.1521-0391.1998.tb00472.x",
       "primary_category": "GREEN",
+      "document_type": "brief-communication",
       "secondary_categories": [
         "BLUE"
       ],
@@ -1912,6 +1994,7 @@
       "issn": "1521-0391",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1998/Luciano1998_Observations_Ibogaine_Treatment.md"
     },
     {
@@ -1922,6 +2005,7 @@
       "year": 1998,
       "doi": "10.1016/s0006-8993(98)00207-8",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -1955,6 +2039,7 @@
       "issn": "0006-8993",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1998/Mah1998_Nicotinic_Receptor_Mechanism.md"
     },
     {
@@ -1971,6 +2056,7 @@
       "year": 1998,
       "doi": "10.1111/j.1749-6632.1998.tb08242.x",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": [
         "BLUE",
         "GREEN"
@@ -2010,6 +2096,7 @@
       "issn": "1749-6632",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1998/Mash1998_Medication_Development_Ibogaine.md"
     },
     {
@@ -2022,6 +2109,7 @@
       "year": 1998,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -2056,6 +2144,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1998/Obach1998_CYP2D6_Ibogaine_Metabolism.md"
     },
     {
@@ -2067,6 +2156,7 @@
       "year": 1998,
       "doi": "10.1097/00001756-199801050-00022",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -2102,6 +2192,7 @@
       "issn": "0959-4965",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1998/Pablo1998_Noribogaine_MuOpioid_Agonist.md"
     },
     {
@@ -2112,6 +2203,7 @@
       "year": 1998,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "journalism",
       "secondary_categories": [
         "PURPLE"
       ],
@@ -2147,6 +2239,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "1998/Wittier1998_Ibogaine_GeneralReview.md"
     },
     {
@@ -2161,17 +2254,19 @@
       "year": 1999,
       "doi": "10.1080/105504999305848",
       "primary_category": "BLUE",
+      "document_type": "case-series",
       "secondary_categories": [
         "RED"
       ],
       "evidence_level": "case-series",
       "tags": [
         "topic/opioid",
-        "method/case-series",
-        "topic/efficacy"
+        "topic/withdrawal",
+        "topic/efficacy",
+        "method/case-series"
       ],
       "clinical_significance": "high",
-      "key_findings": "LANDMARK CASE SERIES: n=33 opioid-dependent patients (avg 0.64g heroin/day IV). 76% (25/33) achieved complete withdrawal resolution within 24h sustained 72h. One fatality (possible surreptitious heroin use).",
+      "key_findings": "Landmark case series: n=33 opioid-dependent patients (avg 0.64 g heroin/day IV). 76% (25/33) achieved complete withdrawal resolution within 24h sustained 72h. One fatality (possible surreptitious heroin use).",
       "sample_size": 33,
       "mortality_count": 1,
       "mortality_scope": "incidental",
@@ -2187,17 +2282,18 @@
         "Alper 1999",
         "Alper",
         "Alper Withdrawal 1999",
-        "Alper1999_Ibogaine_Review"
+        "Alper1999_Opioid_Withdrawal"
       ],
       "source_url": null,
       "pmid": null,
       "pmcid": null,
-      "open_access": "unknown",
+      "open_access": false,
       "publisher": "Wiley",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "1521-0391",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "1999/Alper1999_Acute_Opioid_Withdrawal.md"
     },
     {
@@ -2212,6 +2308,7 @@
       "year": 1999,
       "doi": "10.1111/j.1527-3458.1999.tb00084.x",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": [
         "RED"
       ],
@@ -2252,6 +2349,7 @@
       "issn": "1080-563X",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1999/Glick1999_18MC_Review_CNS_Drugs.md"
     },
     {
@@ -2263,6 +2361,7 @@
       "year": 1999,
       "doi": "10.1016/S0014-2999(99)00560-9",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -2298,6 +2397,7 @@
       "issn": "0014-2999",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "1999/Maisonneuve1999_18MC_Morphine_Reinforcement.md"
     },
     {
@@ -2312,6 +2412,7 @@
       "year": 2000,
       "doi": "10.1111/j.1749-6632.2000.tb06687.x",
       "primary_category": "BLUE",
+      "document_type": "case-series",
       "secondary_categories": [
         "RED"
       ],
@@ -2349,6 +2450,7 @@
       "issn": "1749-6632",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2000/Alper2000_Ibogaine_Acute_Opioid_Withdrawal.md"
     },
     {
@@ -2365,6 +2467,7 @@
       "year": 2000,
       "doi": "10.1111/j.1749-6632.2000.tb05212.x",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -2399,6 +2502,7 @@
       "issn": "1749-6632",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2000/Binienda2000_Electrophysiology_IBO_Cocaine.md"
     },
     {
@@ -2411,6 +2515,7 @@
       "year": 2000,
       "doi": "10.1111/j.1749-6632.2000.tb05211.x",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": [
         "RED"
       ],
@@ -2450,6 +2555,7 @@
       "issn": "1749-6632",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2000/Glick2000_18-MC.md"
     },
     {
@@ -2461,6 +2567,7 @@
       "year": 2000,
       "doi": "10.1111/j.1749-6632.2000.tb06677.x",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": [
         "RED"
       ],
@@ -2500,6 +2607,7 @@
       "issn": "1749-6632",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2000/Glick2000_Legacy_African_Shrub.md"
     },
     {
@@ -2512,6 +2620,7 @@
       "year": 2000,
       "doi": null,
       "primary_category": "BLUE",
+      "document_type": "case-series",
       "secondary_categories": [
         "RED"
       ],
@@ -2557,6 +2666,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2000/Luciano2000_Neurologic_EEG_Medical_Observations.md"
     },
     {
@@ -2574,6 +2684,7 @@
       "year": 2000,
       "doi": "10.1111/j.1749-6632.2000.tb05213.x",
       "primary_category": "ORANGE",
+      "document_type": "brief-communication",
       "secondary_categories": [
         "BLUE"
       ],
@@ -2609,6 +2720,7 @@
       "issn": "1749-6632",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md"
     },
     {
@@ -2624,6 +2736,7 @@
       "year": 2000,
       "doi": "10.1038/sj.bjp.0703227",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -2658,6 +2771,7 @@
       "issn": "1476-5381",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2000/Mundey2000_Ibogaine_18MC_Smooth_Muscle.md"
     },
     {
@@ -2673,6 +2787,7 @@
       "year": 2000,
       "doi": "10.1093/toxsci/57.1.95",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "GREEN"
       ],
@@ -2710,6 +2825,7 @@
       "issn": "1096-0929",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2000/Xu2000_Ibogaine_Neuropathology_Rat_Cerebellum.md"
     },
     {
@@ -2722,6 +2838,7 @@
       "year": 2001,
       "doi": "10.1016/s0099-9598(01)56018-6",
       "primary_category": "WHITE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -2756,6 +2873,7 @@
       "issn": "1099-4831",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2001/Alper2001_Contemporary_History_Ibogaine_USA_Europe.md"
     },
     {
@@ -2766,6 +2884,7 @@
       "year": 2001,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": [
         "RED",
         "BLUE"
@@ -2791,7 +2910,7 @@
       ],
       "clinical_significance": "moderate",
       "key_findings": "Comprehensive ibogaine pharmacology synthesis: NMDA, opioid, 5-HT, nicotinic interactions. Novel mechanism distinct from existing treatments. 10 μM brain levels validate in vitro activities.",
-      "sample_size": 39,
+      "sample_size": 41,
       "mortality_count": 3,
       "mortality_scope": "incidental",
       "qtc_data": false,
@@ -2818,6 +2937,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2001/Alper2001_Ibogaine_Review.md"
     },
     {
@@ -2831,6 +2951,7 @@
       "year": 2001,
       "doi": "10.1016/s0022-3565(24)29567-7",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "RED"
       ],
@@ -2868,6 +2989,7 @@
       "issn": "0022-3565",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2001/Baumann2001_Neurobiological_Effects_Noribogaine.md"
     },
     {
@@ -2879,6 +3001,7 @@
       "year": 2001,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "book-chapter",
       "secondary_categories": null,
       "evidence_level": "qualitative",
       "tags": [
@@ -2913,6 +3036,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.md"
     },
     {
@@ -2923,6 +3047,7 @@
       "year": 2001,
       "doi": "10.1016/s0099-9598(01)56019-8",
       "primary_category": "WHITE",
+      "document_type": "book-chapter",
       "secondary_categories": null,
       "evidence_level": "qualitative",
       "tags": [
@@ -2961,6 +3086,7 @@
       "issn": "1099-4831",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2001/Frenken2001_RootsUp_INTASH_SelfHelp.md"
     },
     {
@@ -2973,6 +3099,7 @@
       "year": 2001,
       "doi": "10.1016/S0099-9598(01)56006-X",
       "primary_category": "ORANGE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "BLUE"
       ],
@@ -3017,6 +3144,7 @@
       "issn": "1099-4831",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2001/Glick2001_Mechanisms_Action_Ibogaine_18MC.md"
     },
     {
@@ -3028,6 +3156,7 @@
       "year": 2001,
       "doi": "10.1016/s0099-9598(01)56020-4",
       "primary_category": "BLUE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "GREEN",
         "PURPLE",
@@ -3065,12 +3194,13 @@
       "source_url": null,
       "pmid": "11705114",
       "pmcid": null,
-      "open_access": true,
+      "open_access": false,
       "publisher": "Elsevier",
       "body_format": "hybrid",
       "issn": "1099-4831",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2001/Lotsof2001_Case_Studies_Patient_Management.md"
     },
     {
@@ -3087,6 +3217,7 @@
       "year": 2001,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "BLUE"
       ],
@@ -3106,7 +3237,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "8–12 mg/kg oral ibogaine (human)",
+      "dosing_range": "800 mg (10 mg/kg) ibogaine HCl fixed dose (n=32 cohort); broader Mash programme used 8, 10, or 12 mg/kg across >150 subjects",
       "route": "oral",
       "source_pdf": "2001/Mash2001_Ibogaine_Heroin_Withdrawal.pdf",
       "journal": "The Alkaloids: Chemistry and Biology",
@@ -3123,6 +3254,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2001/Mash2001_Ibogaine_Heroin_Withdrawal.md"
     },
     {
@@ -3133,6 +3265,7 @@
       "year": 2002,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "thesis",
       "secondary_categories": [
         "WHITE",
         "RED"
@@ -3171,6 +3304,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2002/Freelander2002_Comprehensive_Review.md"
     },
     {
@@ -3182,6 +3316,7 @@
       "year": 2002,
       "doi": "10.1051/ata/2002012",
       "primary_category": "RED",
+      "document_type": "brief-communication",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -3223,6 +3358,7 @@
       "issn": "0768-598X",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2002/Marker2002_Ibogaine_Related_Fatality.md"
     },
     {
@@ -3234,6 +3370,7 @@
       "year": 2003,
       "doi": "10.1002/hlca.200390125",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -3266,6 +3403,7 @@
       "issn": "1522-2675",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2003/Hoeck2003_Enantioselective_Synthesis_Iboga_Intermediates.md"
     },
     {
@@ -3276,6 +3414,7 @@
       "year": 2004,
       "doi": null,
       "primary_category": "PURPLE",
+      "document_type": "thesis",
       "secondary_categories": [
         "BLUE"
       ],
@@ -3311,6 +3450,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2004/Bastiaans2004_Life_After_Ibogaine.md"
     },
     {
@@ -3322,6 +3462,7 @@
       "year": 2004,
       "doi": "10.1080/02791072.2004.10399729",
       "primary_category": "BLUE",
+      "document_type": "review",
       "secondary_categories": [
         "GREEN"
       ],
@@ -3362,6 +3503,7 @@
       "issn": "2159-9777",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2004/Hittner2004_Ibogaine_Treatment_Recommendations_Model_Fitting.md"
     },
     {
@@ -3379,6 +3521,7 @@
       "year": 2005,
       "doi": "10.1523/JNEUROSCI.3959-04.2005",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -3410,10 +3553,11 @@
       "pmcid": "PMC1193648",
       "open_access": true,
       "publisher": "Society for Neuroscience",
-      "body_format": "hybrid",
+      "body_format": "vault-analytical",
       "issn": "1529-2401",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2005/He2005_GDNF_Ibogaine_Alcohol.md"
     },
     {
@@ -3425,13 +3569,17 @@
       "year": 2005,
       "doi": null,
       "primary_category": "GREEN",
+      "document_type": "guideline",
       "secondary_categories": [
         "BLUE"
       ],
       "evidence_level": "case-series",
       "tags": [
         "topic/protocol",
-        "topic/noribogaine"
+        "topic/noribogaine",
+        "topic/opioid",
+        "topic/harm-reduction",
+        "topic/withdrawal"
       ],
       "clinical_significance": "high",
       "key_findings": "Landmark MAPS Bulletin introducing booster/maintenance protocols: 500-800mg follow-up doses during noribogaine window extend benefits, reduce relapse. Clean maintenance (drug-free) vs dirty maintenance (harm reduction) protocols.",
@@ -3459,10 +3607,11 @@
       "pmcid": null,
       "open_access": "unknown",
       "publisher": null,
-      "body_format": "narrative",
+      "body_format": "vault-analytical",
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": true,
       "filepath": "2005/Kroupa2005_Boosters_Maintenance.md"
     },
     {
@@ -3473,6 +3622,7 @@
       "year": 2005,
       "doi": "10.1126/science.308.5720.345",
       "primary_category": "WHITE",
+      "document_type": "journalism",
       "secondary_categories": [
         "ORANGE",
         "BLUE"
@@ -3515,6 +3665,7 @@
       "issn": "1095-9203",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2005/Vastag2005_Ibogaine_Vast_Uncontrolled_Experiment.md"
     },
     {
@@ -3526,6 +3677,7 @@
       "year": 2006,
       "doi": "10.1096/fj.06-6394fje",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": [
         "BLUE"
       ],
@@ -3564,6 +3716,7 @@
       "issn": "1530-6860",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2006/He2006_Ibogaine_and_GDNF.md"
     },
     {
@@ -3578,6 +3731,7 @@
       "year": 2006,
       "doi": "10.1016/j.jchromb.2006.05.035",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": [
         "RED"
       ],
@@ -3615,6 +3769,7 @@
       "issn": "1570-0232",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2006/Kontrimaviciute2006_LCMS_Method_Ibogaine_Noribogaine.md"
     },
     {
@@ -3631,6 +3786,7 @@
       "year": 2006,
       "doi": "10.1093/jat/30.7.434",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -3671,6 +3827,7 @@
       "issn": "1945-2403",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2006/Kontrimaviciute2006_Tissue_Distribution_Ibogaine_Fatality.md"
     },
     {
@@ -3682,6 +3839,7 @@
       "year": 2006,
       "doi": "10.1016/j.mehy.2006.02.050",
       "primary_category": "RED",
+      "document_type": "commentary",
       "secondary_categories": [
         "WHITE"
       ],
@@ -3723,6 +3881,7 @@
       "issn": "0306-9877",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md"
     },
     {
@@ -3737,6 +3896,7 @@
       "year": 2006,
       "doi": "10.1016/j.ejphar.2006.09.008",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -3772,6 +3932,7 @@
       "issn": "0014-2999",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2006/Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism.md"
     },
     {
@@ -3783,6 +3944,7 @@
       "year": 2007,
       "doi": null,
       "primary_category": "BLUE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "GREEN",
         "ORANGE"
@@ -3790,19 +3952,30 @@
       "evidence_level": "review",
       "tags": [
         "topic/efficacy",
+        "topic/opioid",
         "topic/mechanism",
+        "topic/withdrawal",
+        "topic/history",
+        "topic/protocol",
+        "topic/pharmacokinetics",
+        "topic/phenomenology",
         "method/review"
       ],
       "clinical_significance": "high",
-      "key_findings": "DEFINITIVE CLINICAL OVERVIEW: Comprehensive Alper/Lotsof chapter covering mechanisms, dosing protocols, safety considerations, global treatment landscape, and NIDA research history. Key reference for ibogaine clinical practice.",
+      "key_findings": "Comprehensive Alper–Lotsof review: 65 patients across two case series showing opioid withdrawal resolution within 24h, dosing protocols (10–25 mg/kg oral), pharmacology, mechanisms, and the global treatment landscape as of 2007.",
       "sample_size": null,
-      "mortality_count": null,
-      "mortality_scope": null,
+      "mortality_count": 8,
+      "mortality_scope": "incidental",
       "qtc_data": false,
       "herg_data": false,
       "electrolyte_data": false,
-      "contraindications": [],
-      "dosing_range": "15–25 mg/kg (reviewed protocols)",
+      "contraindications": [
+        "Pre-existing cardiovascular disease",
+        "Cardiac arrhythmia history",
+        "Prior endocarditis (especially intravenous drug users)",
+        "Concurrent drug use during treatment"
+      ],
+      "dosing_range": "10–25 mg/kg oral (single dose); boosters at half-dose; low-dose regimens 25–50 mg/day",
       "route": "oral",
       "source_pdf": "2007/Alper2007_Ibogaine_Treatment_Addictions.pdf",
       "journal": null,
@@ -3814,12 +3987,13 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
-      "open_access": true,
+      "open_access": false,
       "publisher": "Praeger/Greenwood Publishing Group",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": null,
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2007/Alper2007_Ibogaine_Treatment_Addictions.md"
     },
     {
@@ -3832,6 +4006,7 @@
       "year": 2008,
       "doi": "10.1016/j.jep.2007.08.034",
       "primary_category": "WHITE",
+      "document_type": "observational",
       "secondary_categories": [
         "RED",
         "BLUE",
@@ -3876,6 +4051,7 @@
       "issn": "0378-8741",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2008/Alper2008_Ibogaine_Medical_Subculture.md"
     },
     {
@@ -3889,6 +4065,7 @@
       "year": 2008,
       "doi": "10.1016/j.forsciint.2007.08.013",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -3932,6 +4109,7 @@
       "issn": "0379-0738",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2008/Cheze2008_Ibogaine_Noribogaine_LC-MSMS_Drowning_Death.md"
     },
     {
@@ -3945,6 +4123,7 @@
       "year": 2008,
       "doi": "10.1177/0960327107087802",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": [
         "GREEN",
         "BLUE",
@@ -3989,6 +4168,7 @@
       "issn": "1477-0903",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2008/Maciulaitis2008_Ibogaine_Pharmacology_Narrative_Review.md"
     },
     {
@@ -4001,6 +4181,7 @@
       "year": 2009,
       "doi": "10.1056/NEJMc0804248",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -4038,6 +4219,7 @@
       "issn": "1533-4406",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2009/Hoelen2009_Long_QT_Ibogaine.md"
     },
     {
@@ -4048,6 +4230,7 @@
       "year": 2009,
       "doi": "10.1007/s10298-009-0366-y",
       "primary_category": "WHITE",
+      "document_type": "review",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -4083,6 +4266,7 @@
       "issn": "1765-2847",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2009/Paskulin2009_Translated_French_Iboga_Between_Myth_Reality.md"
     },
     {
@@ -4100,6 +4284,7 @@
       "year": 2010,
       "doi": "10.1016/j.biocel.2010.05.011",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -4134,6 +4319,7 @@
       "issn": "1357-2725",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human.md"
     },
     {
@@ -4148,6 +4334,7 @@
       "year": 2010,
       "doi": "10.1111/j.1369-1600.2010.00251.x",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -4184,6 +4371,7 @@
       "issn": "1369-1600",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2010/Carnicella2010_Noribogaine_18MC_GDNF.md"
     },
     {
@@ -4198,6 +4386,7 @@
       "year": 2010,
       "doi": "10.1016/j.ejphar.2009.10.032",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -4231,6 +4420,7 @@
       "issn": "0014-2999",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2010/Paskulin2010_Yeast_Enzymes_Ibogaine_Adaptation_ATP.md"
     },
     {
@@ -4241,13 +4431,14 @@
       "year": 2010,
       "doi": "10.1371/journal.pone.0009019",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
-        "topic/pharmacokinetics",
         "topic/receptor",
-        "topic/noribogaine",
-        "mechanism/sigma-receptor"
+        "topic/mechanism",
+        "mechanism/sigma-receptor",
+        "method/in-vitro"
       ],
       "clinical_significance": "high",
       "key_findings": "NIMH-PDSP receptorome study: 35 psychedelics at 51 receptor sites. Table S1 comprehensive ibogaine/noribogaine Ki data: high σ2, κ-opioid, SERT affinity. Novel Ki normalization method for comparing multi-receptor profiles.",
@@ -4258,8 +4449,8 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "N/A (receptor binding Ki values)",
-      "route": "not-specified",
+      "dosing_range": null,
+      "route": "not-applicable",
       "source_pdf": "2010/Ray2010_Psychedelics_Human_Receptorome.pdf",
       "journal": "PLoS ONE",
       "aliases": [
@@ -4272,10 +4463,11 @@
       "pmcid": "PMC2814854",
       "open_access": true,
       "publisher": "PLoS",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "1932-6203",
       "licence_type": "cc-by",
-      "licence_verified": false,
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2010/Ray2010_Psychedelics_Human_Receptorome.md"
     },
     {
@@ -4288,6 +4480,7 @@
       "year": 2011,
       "doi": "10.1016/j.jep.2011.12.006",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -4322,6 +4515,7 @@
       "issn": "0378-8741",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2011/Alper2011_Ibogaine_Inhibition_AChE.md"
     },
     {
@@ -4332,6 +4526,7 @@
       "year": 2011,
       "doi": "10.1080/01947648.2011.550832",
       "primary_category": "WHITE",
+      "document_type": "commentary",
       "secondary_categories": [
         "BLUE",
         "RED"
@@ -4380,6 +4575,7 @@
       "issn": "1521-057X",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2011/Donnelly2011_Ibogaine_Drug_Alcohol_Addiction_Legal.md"
     },
     {
@@ -4393,6 +4589,7 @@
       "year": 2011,
       "doi": "10.1097/JCP.0b013e31822c6509",
       "primary_category": "BLUE",
+      "document_type": "case-report",
       "secondary_categories": [
         "GREEN"
       ],
@@ -4434,6 +4631,7 @@
       "issn": "0271-0749",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2011/Houenou2011_Ibogaine_Psychosis_Schizophrenia.md"
     },
     {
@@ -4444,6 +4642,7 @@
       "year": 2011,
       "doi": "10.1108/17459261111174037",
       "primary_category": "WHITE",
+      "document_type": "commentary",
       "secondary_categories": null,
       "evidence_level": "qualitative",
       "tags": [
@@ -4480,6 +4679,7 @@
       "issn": "1745-9265",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2011/Rodger2011_SocialContext_Subcultural_DrugPolicy.md"
     },
     {
@@ -4492,6 +4692,7 @@
       "year": 2012,
       "doi": "10.1111/j.1556-4029.2011.02008.x",
       "primary_category": "RED",
+      "document_type": "systematic-review",
       "secondary_categories": [
         "GREEN"
       ],
@@ -4508,7 +4709,7 @@
       "mortality_scope": "cumulative-review",
       "qtc_data": false,
       "herg_data": false,
-      "electrolyte_data": true,
+      "electrolyte_data": false,
       "contraindications": [
         "cardiovascular disease",
         "coronary artery atherosclerosis",
@@ -4540,6 +4741,7 @@
       "issn": "1556-4029",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2012/Alper2012_Ibogaine_Fatalities.md"
     },
     {
@@ -4550,6 +4752,7 @@
       "year": 2012,
       "doi": null,
       "primary_category": "RED",
+      "document_type": "brief-communication",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -4586,12 +4789,13 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
-      "open_access": "unknown",
+      "open_access": true,
       "publisher": null,
       "body_format": "vault-analytical",
       "issn": null,
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2012/Booze2012_MPC_Ibogaine_Toxicity.md"
     },
     {
@@ -4606,6 +4810,7 @@
       "year": 2012,
       "doi": "10.1111/j.1369-1600.2012.00447.x",
       "primary_category": "RED",
+      "document_type": "brief-communication",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -4642,8 +4847,9 @@
       "publisher": "Wiley",
       "body_format": "vault-analytical",
       "issn": "1369-1600",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2012/Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md"
     },
     {
@@ -4657,6 +4863,7 @@
       "year": 2012,
       "doi": null,
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": [
         "GREEN"
       ],
@@ -4666,7 +4873,7 @@
         "topic/toxicity",
         "topic/opioid",
         "topic/alcohol",
-        "mechanism/herg-blockade",
+        "topic/cardiac",
         "method/case-report"
       ],
       "clinical_significance": "high",
@@ -4684,10 +4891,10 @@
         "alcohol dependence",
         "benzodiazepine dependence"
       ],
-      "dosing_range": "3.5g ibogaine 15% (case 2)",
+      "dosing_range": "3.5 g ibogaine 15% (case 2)",
       "route": "oral",
       "source_pdf": "2012/Paling2012_Life_Threatening_Complications.pdf",
-      "journal": "The Journal of Medicine (Netherlands)",
+      "journal": "The Netherlands Journal of Medicine",
       "aliases": [
         "Paling 2012",
         "Dutch Case Reports 2012"
@@ -4695,12 +4902,13 @@
       "source_url": null,
       "pmid": "23123541",
       "pmcid": null,
-      "open_access": "unknown",
+      "open_access": false,
       "publisher": null,
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": null,
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2012/Paling2012_Life_Threatening_Complications.md"
     },
     {
@@ -4718,6 +4926,7 @@
       "year": 2012,
       "doi": "10.1016/j.jep.2012.06.039",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -4753,6 +4962,7 @@
       "issn": "0378-8741",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2012/Paskulin2012_Metabolic_Plasticity_Ibogaine_Economising_Energy.md"
     },
     {
@@ -4766,6 +4976,7 @@
       "year": 2012,
       "doi": "10.3109/15563650.2011.647031",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -4804,6 +5015,7 @@
       "issn": "1556-9519",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.md"
     },
     {
@@ -4820,6 +5032,7 @@
       "year": 2012,
       "doi": "10.3109/15563650.2012.700015",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -4862,6 +5075,7 @@
       "issn": "1556-9519",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2012/Shawn2012_Ibogaine_TdP_VT.md"
     },
     {
@@ -4872,6 +5086,7 @@
       "year": 2012,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "conference-talk",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -4905,6 +5120,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2012/Sisko2012_Vanishing_World_Iboga_Sustainability.md"
     },
     {
@@ -4916,6 +5132,7 @@
       "year": 2012,
       "doi": "10.3109/15563650.2012.700015",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -4958,6 +5175,7 @@
       "issn": "1556-9519",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2012/Warrick2012_Ibogaine_Fatality.md"
     },
     {
@@ -4979,6 +5197,7 @@
       "year": 2013,
       "doi": "10.1371/journal.pone.0077262",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -5015,6 +5234,7 @@
       "issn": "1932-6203",
       "licence_type": "cc-by",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2013/Antonio2013_Iboga_Alkaloids_mu-Opioid-Receptor_Coupled_G-Protein_Activation.md"
     },
     {
@@ -5025,6 +5245,7 @@
       "year": 2013,
       "doi": "10.1093/bja/aet396",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": [
         "GREEN"
       ],
@@ -5066,6 +5287,7 @@
       "issn": "0007-0912",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2013/Asua2013_Ibogaine_Toxicity_UK_Case.md"
     },
     {
@@ -5076,6 +5298,7 @@
       "year": 2013,
       "doi": "10.2174/15672050113109990001",
       "primary_category": "BLUE",
+      "document_type": "review",
       "secondary_categories": [
         "RED",
         "WHITE",
@@ -5121,6 +5344,7 @@
       "issn": "1874-4737",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2013/Brown2013_Ibogaine_Treatment_Substance_Dependence.md"
     },
     {
@@ -5142,6 +5366,7 @@
       "year": 2013,
       "doi": "10.1016/j.bbr.2012.08.041",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -5177,6 +5402,7 @@
       "issn": "0166-4328",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2013/Cachat2013_Ibogaine_Zebrafish.md"
     },
     {
@@ -5189,6 +5415,7 @@
       "year": 2013,
       "doi": "10.1111/j.1521-0391.2012.00330.x",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": [],
       "evidence_level": "case-report",
       "tags": [
@@ -5226,6 +5453,7 @@
       "issn": "1521-0391",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2013/Jalal2013_Ibogaine_Death_Heroin_Case.md"
     },
     {
@@ -5244,6 +5472,7 @@
       "year": 2013,
       "doi": "10.1016/j.taap.2013.05.012",
       "primary_category": "RED",
+      "document_type": "in-vitro",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -5283,8 +5512,9 @@
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
       "issn": "0041-008X",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2013/Koenig2013_Ibogaine_Cardiac_Ion_Channel_Profile.md"
     },
     {
@@ -5300,6 +5530,7 @@
       "year": 2013,
       "doi": "10.1111/1556-4029.12250",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": [
         "GREEN"
       ],
@@ -5342,6 +5573,7 @@
       "issn": "1556-4029",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2013/Mazoyer2013_Fatality_Case.md"
     },
     {
@@ -5356,6 +5588,7 @@
       "year": 2013,
       "doi": "10.1016/j.jflm.2013.06.032",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": [
         "GREEN"
       ],
@@ -5398,6 +5631,7 @@
       "issn": "1752-928X",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2013/Papadodima2013_Ibogaine_Sudden_Death_Case.md"
     },
     {
@@ -5408,6 +5642,7 @@
       "year": 2014,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "commentary",
       "secondary_categories": [
         "BLUE"
       ],
@@ -5443,6 +5678,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2014/Kingsley-Brown2014_Ibo_Tx_for_Substance_Dependence.md"
     },
     {
@@ -5454,6 +5690,7 @@
       "year": 2014,
       "doi": null,
       "primary_category": "BLUE",
+      "document_type": "clinical-trial",
       "secondary_categories": [
         "GREEN"
       ],
@@ -5500,6 +5737,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2014/Prior2014_Ibogaine_Cocaine_Pilot_RCT.md"
     },
     {
@@ -5513,6 +5751,7 @@
       "year": 2014,
       "doi": "10.1177/0269881114552713",
       "primary_category": "BLUE",
+      "document_type": "observational",
       "secondary_categories": [
         "RED"
       ],
@@ -5563,6 +5802,7 @@
       "issn": "1461-7285",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md"
     },
     {
@@ -5582,6 +5822,7 @@
       "year": 2014,
       "doi": "10.1124/jpet.113.209643",
       "primary_category": "RED",
+      "document_type": "in-vitro",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -5623,6 +5864,7 @@
       "issn": "0022-3565",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2014/Thurner2014_hERG_Channel_Block_Ibogaine.md"
     },
     {
@@ -5638,6 +5880,7 @@
       "year": 2014,
       "doi": "10.3109/15563650.2014.927477",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": [],
       "evidence_level": "case-report",
       "tags": [
@@ -5672,6 +5915,7 @@
       "issn": "1556-9519",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2014/Vlaanderen2014_Cardiac_Arrest_Ibogaine.md"
     },
     {
@@ -5687,6 +5931,7 @@
       "year": 2015,
       "doi": "10.1186/s13256-015-0731-4",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": [
         "GREEN"
       ],
@@ -5695,10 +5940,10 @@
         "topic/toxicity",
         "topic/adverse-event",
         "method/case-report",
-        "topic/protocol"
+        "topic/mechanism"
       ],
       "clinical_significance": "high",
-      "key_findings": "SEIZURE CASE: 22yo male, extreme 38g dose triggered generalised tonic-clonic seizures. Suggests ibogaine proconvulsive at high doses. Treated with midazolam/levetiracetam.",
+      "key_findings": "Seizure case report: 22yo male, extreme 38 g dose triggered generalised tonic-clonic seizures. Suggests ibogaine proconvulsive at high doses. Treated with midazolam/levetiracetam.",
       "sample_size": 1,
       "mortality_count": null,
       "mortality_scope": null,
@@ -5709,7 +5954,7 @@
         "Seizure disorders or epilepsy",
         "High-dose iboga root bark ingestion (proconvulsive at high doses)"
       ],
-      "dosing_range": "38g root bark (~35mg/kg estimated at 7% ibogaine content)",
+      "dosing_range": "38 g root bark (~35 mg/kg estimated at 7% ibogaine content)",
       "route": "oral",
       "source_pdf": "2015/Breuer2015_Herbal_Seizures_Case_Report.pdf",
       "journal": "Journal of Medical Case Reports",
@@ -5723,10 +5968,11 @@
       "pmcid": "PMC4628299",
       "open_access": true,
       "publisher": "BioMed Central",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "1752-1947",
       "licence_type": "cc-by",
-      "licence_verified": false,
+      "licence_verified": true,
+      "references_stripped": false,
       "filepath": "2015/Breuer2015_Herbal_Seizures_Case_Report.md"
     },
     {
@@ -5744,6 +5990,7 @@
       "year": 2015,
       "doi": "10.1021/acschembio.5b00678",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -5780,6 +6027,7 @@
       "issn": "1554-8937",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md"
     },
     {
@@ -5796,6 +6044,7 @@
       "year": 2015,
       "doi": "10.1002/jcph.471",
       "primary_category": "ORANGE",
+      "document_type": "clinical-trial",
       "secondary_categories": [
         "GREEN"
       ],
@@ -5834,6 +6083,7 @@
       "issn": "0091-2700",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2015/Glue2015_Ibogaine_CYP2D6_Activity.md"
     },
     {
@@ -5849,6 +6099,7 @@
       "year": 2015,
       "doi": "10.1002/jcph.404",
       "primary_category": "ORANGE",
+      "document_type": "clinical-trial",
       "secondary_categories": null,
       "evidence_level": "rct",
       "tags": [
@@ -5885,6 +6136,7 @@
       "issn": "0091-2700",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2015/Glue2015_Noribogaine_Ascending_Doses.md"
     },
     {
@@ -5898,6 +6150,7 @@
       "year": 2015,
       "doi": "10.1016/j.jemermed.2015.06.051",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -5936,6 +6189,7 @@
       "issn": "0736-4679",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2015/Hildyard2015_QT_Prolongation_TdP_Ibogaine.md"
     },
     {
@@ -5947,6 +6201,7 @@
       "year": 2015,
       "doi": "10.3390/molecules20022208",
       "primary_category": "RED",
+      "document_type": "review",
       "secondary_categories": [
         "GREEN"
       ],
@@ -5958,6 +6213,7 @@
         "topic/electrolytes",
         "topic/noribogaine",
         "topic/pharmacokinetics",
+        "topic/18-mc",
         "mechanism/herg-blockade",
         "mechanism/ion-channel",
         "method/review"
@@ -5971,8 +6227,8 @@
       "herg_data": true,
       "electrolyte_data": true,
       "contraindications": [
-        "hypokalemia",
-        "hypomagnesemia",
+        "hypokalaemia",
+        "hypomagnesaemia",
         "cardiovascular disease",
         "prolonged baseline QT interval",
         "bradycardia",
@@ -5986,7 +6242,7 @@
         "concurrent QT-prolonging medications",
         "unsupervised or unmonitored administration"
       ],
-      "dosing_range": "4.5–29mg/kg (fatality cases); therapeutic 10–25mg/kg",
+      "dosing_range": "4.5–29 mg/kg (fatality cases); therapeutic 10–25 mg/kg",
       "route": "oral",
       "source_pdf": "2015/Koenig2015_Cardiac_Mechanisms.pdf",
       "journal": "Molecules",
@@ -6003,10 +6259,11 @@
       "pmcid": "PMC4382526",
       "open_access": true,
       "publisher": "MDPI",
-      "body_format": "hybrid",
+      "body_format": "vault-analytical",
       "issn": "1420-3049",
       "licence_type": "cc-by",
-      "licence_verified": false,
+      "licence_verified": true,
+      "references_stripped": false,
       "filepath": "2015/Koenig2015_Cardiac_Mechanisms.md"
     },
     {
@@ -6020,6 +6277,7 @@
       "year": 2015,
       "doi": "10.1111/ajad.12209",
       "primary_category": "RED",
+      "document_type": "case-series",
       "secondary_categories": [
         "GREEN",
         "PURPLE"
@@ -6062,6 +6320,7 @@
       "issn": "1521-0391",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2015/Marta2015_Ibogaine_Mania_Case_Reports.md"
     },
     {
@@ -6080,6 +6339,7 @@
       "year": 2015,
       "doi": "10.1016/j.jep.2015.01.037",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -6113,6 +6373,7 @@
       "issn": "0378-8741",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes.md"
     },
     {
@@ -6126,6 +6387,7 @@
       "year": 2015,
       "doi": "10.1016/j.ajem.2014.12.023",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -6166,6 +6428,7 @@
       "issn": "0735-6757",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2015/OConnell2015_Internet_Ibogaine_Toxicity.md"
     },
     {
@@ -6182,6 +6445,7 @@
       "year": 2016,
       "doi": "10.1007/s12012-015-9311-5",
       "primary_category": "RED",
+      "document_type": "in-vitro",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -6231,6 +6495,7 @@
       "issn": "1559-0259",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2016/Alper2016_hERG_Blockade.md"
     },
     {
@@ -6246,25 +6511,29 @@
       "year": 2016,
       "doi": "10.1038/tp.2016.71",
       "primary_category": "BLUE",
+      "document_type": "systematic-review",
       "secondary_categories": [
         "RED"
       ],
       "evidence_level": "systematic-review",
       "tags": [
+        "topic/efficacy",
+        "topic/toxicity",
+        "topic/dopamine",
         "method/systematic-review",
         "method/preclinical"
       ],
       "clinical_significance": "high",
       "key_findings": "SYRCLE META-ANALYSIS: 27 studies show ibogaine reduces drug self-administration especially in first 24h. No effect on CPP. Motor impairment and cerebellar toxicity noted. Warrants clinical trials with monitoring.",
-      "sample_size": 27,
+      "sample_size": null,
       "mortality_count": null,
       "mortality_scope": null,
       "qtc_data": false,
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": null,
-      "route": null,
+      "dosing_range": "Animal: low 0–40 mg/kg, medium 40–80 mg/kg, high >80 mg/kg (mostly i.p.); human equivalent 10–25 mg/kg oral",
+      "route": "not-applicable",
       "source_pdf": "2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.pdf",
       "journal": "Translational Psychiatry",
       "aliases": [
@@ -6278,10 +6547,11 @@
       "pmcid": "PMC5545647",
       "open_access": true,
       "publisher": "Springer Nature",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "2158-3188",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "cc-by",
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md"
     },
     {
@@ -6296,6 +6566,7 @@
       "year": 2016,
       "doi": "10.1080/02791072.2016.1180467",
       "primary_category": "BLUE",
+      "document_type": "case-report",
       "secondary_categories": [
         "RED",
         "GREEN",
@@ -6321,8 +6592,8 @@
         "Concurrent QTc-prolonging substances",
         "Electrolyte imbalances (hypokalemia)"
       ],
-      "dosing_range": null,
-      "route": null,
+      "dosing_range": "2300 mg (32 mg/kg) ibogaine HCl total, 4-day protocol (test doses up to 2.5 mg/kg, flood up to 20 mg/kg, boosters 5 mg/kg/day)",
+      "route": "oral",
       "source_pdf": "2016/CloutierGill2016_Ibogaine_OUD_Case_Report.pdf",
       "journal": "Journal of Psychoactive Drugs",
       "aliases": [
@@ -6338,6 +6609,7 @@
       "issn": "2159-9777",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2016/CloutierGill2016_Ibogaine_OUD_Case_Report.md"
     },
     {
@@ -6354,6 +6626,7 @@
       "year": 2016,
       "doi": "10.1016/j.jep.2016.05.022",
       "primary_category": "BLUE",
+      "document_type": "clinical-trial",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -6392,6 +6665,7 @@
       "issn": "0378-8741",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2016/Forsyth2016_Low_Dose_Ibogaine_Mood_State_Psychological_Performance.md"
     },
     {
@@ -6416,6 +6690,7 @@
       "year": 2016,
       "doi": "10.1002/cpdd.254",
       "primary_category": "RED",
+      "document_type": "clinical-trial",
       "secondary_categories": [
         "BLUE",
         "ORANGE"
@@ -6459,6 +6734,7 @@
       "issn": "2160-7648",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2016/Glue2016_Noribogaine_Opioid_Patients_Safety.md"
     },
     {
@@ -6481,6 +6757,7 @@
       "year": 2016,
       "doi": "10.1002/jcph.704",
       "primary_category": "GREEN",
+      "document_type": "clinical-trial",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -6518,6 +6795,7 @@
       "issn": "1552-4604",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2016/Glue2016b_Methadone_Morphine_Switch.md"
     },
     {
@@ -6529,6 +6807,7 @@
       "year": 2016,
       "doi": "10.3109/15563650.2016.1138226",
       "primary_category": "RED",
+      "document_type": "review",
       "secondary_categories": [
         "ORANGE",
         "GREEN"
@@ -6578,6 +6857,7 @@
       "issn": "1556-9519",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2016/Litjens2016_How_Toxic_Is_Ibogaine.md"
     },
     {
@@ -6592,6 +6872,7 @@
       "year": 2016,
       "doi": "10.1177/0269881116641331",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "BLUE"
       ],
@@ -6629,6 +6910,7 @@
       "issn": "1461-7285",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2016/Mash2016_Oral_Noribogaine_High_Brain_Uptake_Anti-WD_Effects.md"
     },
     {
@@ -6641,10 +6923,12 @@
       "year": 2016,
       "doi": "10.1177/2045125315626073",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
         "topic/adverse-event",
+        "topic/cardiac",
         "topic/toxicity",
         "topic/opioid",
         "method/case-report"
@@ -6676,10 +6960,11 @@
       "pmcid": "PMC4837967",
       "open_access": true,
       "publisher": "SAGE",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "2045-1261",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "cc-by-nc",
+      "licence_verified": true,
+      "references_stripped": false,
       "filepath": "2016/Meisner2016_Cardiac_Arrest_Death_Case.md"
     },
     {
@@ -6693,6 +6978,7 @@
       "year": 2016,
       "doi": "10.1016/j.drugalcdep.2016.07.005",
       "primary_category": "RED",
+      "document_type": "review",
       "secondary_categories": [
         "ORANGE",
         "GREEN"
@@ -6737,6 +7023,7 @@
       "issn": "0376-8716",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2016/Schep2016_Ibogaine_Safe_Dose.md"
     },
     {
@@ -6751,6 +7038,7 @@
       "year": 2017,
       "doi": "10.1556/2054.01.2017.009",
       "primary_category": "BLUE",
+      "document_type": "observational",
       "secondary_categories": null,
       "evidence_level": "observational",
       "tags": [
@@ -6807,6 +7095,7 @@
       "issn": "2559-9283",
       "licence_type": "cc-by-nc",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2017/Davis2017_Ibogaine_Opioid_Outcomes.md"
     },
     {
@@ -6819,6 +7108,7 @@
       "year": 2017,
       "doi": "10.1556/2054.01.2016.001",
       "primary_category": "BLUE",
+      "document_type": "systematic-review",
       "secondary_categories": [
         "RED"
       ],
@@ -6860,6 +7150,7 @@
       "issn": "2559-9283",
       "licence_type": "cc-by-nc",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2017/DosSantos2017_Antiaddictive_Ibogaine_Systematic_Review.md"
     },
     {
@@ -6872,6 +7163,7 @@
       "year": 2017,
       "doi": "10.1080/02791072.2017.1290855",
       "primary_category": "PURPLE",
+      "document_type": "qualitative",
       "secondary_categories": [
         "BLUE"
       ],
@@ -6909,6 +7201,7 @@
       "issn": "2159-9777",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2017/Heink2017_Phenomenology_Ibogaine_ASC.md"
     },
     {
@@ -6924,6 +7217,7 @@
       "year": 2017,
       "doi": "10.1080/15563650.2017.1287372",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -6965,6 +7259,7 @@
       "issn": "1556-9519",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2017/Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac.md"
     },
     {
@@ -6976,6 +7271,7 @@
       "year": 2017,
       "doi": "10.1007/978-3-319-49712-9_2",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -7014,6 +7310,7 @@
       "issn": "2192-4309",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2017/Lavaud2017_Iboga_Alkaloids_Chemistry_Review.md"
     },
     {
@@ -7026,6 +7323,7 @@
       "year": 2017,
       "doi": "10.1080/00952990.2017.1310218",
       "primary_category": "BLUE",
+      "document_type": "observational",
       "secondary_categories": [
         "RED",
         "GREEN"
@@ -7073,6 +7371,7 @@
       "issn": "1097-9891",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md"
     },
     {
@@ -7087,6 +7386,7 @@
       "year": 2017,
       "doi": "10.1007/s12012-016-9366-y",
       "primary_category": "RED",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -7106,7 +7406,7 @@
       "electrolyte_data": false,
       "contraindications": [],
       "dosing_range": "3µM test concentration (therapeutic range)",
-      "route": "not-specified",
+      "route": "not-applicable",
       "source_pdf": "2017/Rubi2017_hERG_iPSC_Cardiomyocytes.pdf",
       "journal": "Cardiovascular Toxicology",
       "aliases": [
@@ -7118,10 +7418,11 @@
       "pmcid": "PMC5334404",
       "open_access": true,
       "publisher": "Springer Nature",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "1559-0259",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "cc-by",
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2017/Rubi2017_hERG_iPSC_Cardiomyocytes.md"
     },
     {
@@ -7140,6 +7441,7 @@
       "year": 2017,
       "doi": "10.1556/2054.01.2017.005",
       "primary_category": "GREEN",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -7177,6 +7479,7 @@
       "issn": "2559-9283",
       "licence_type": "cc-by-nc",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2017/Wilkins2017_Methadone_Low_Dose.md"
     },
     {
@@ -7191,6 +7494,7 @@
       "year": 2018,
       "doi": "10.31665/JFB.2018.3154",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -7226,6 +7530,7 @@
       "issn": "2637-8779",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2018/Bading-Taika2018_Phytochemicals_Iboga_RB_Effects_Dysfunctional_Metabolism_Cognitive_Performance_Mice.md"
     },
     {
@@ -7241,6 +7546,7 @@
       "year": 2018,
       "doi": "10.1016/bs.pbr.2018.08.002",
       "primary_category": "BLUE",
+      "document_type": "case-report",
       "secondary_categories": [
         "ORANGE",
         "PURPLE"
@@ -7279,6 +7585,7 @@
       "issn": "0079-6123",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2018/Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder.md"
     },
     {
@@ -7290,6 +7597,7 @@
       "year": 2018,
       "doi": "10.1080/00952990.2017.1320802",
       "primary_category": "BLUE",
+      "document_type": "observational",
       "secondary_categories": [
         "PURPLE",
         "RED"
@@ -7332,6 +7640,7 @@
       "issn": "1097-9891",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2018/Brown2018_OUD_Detoxification_Outcomes.md"
     },
     {
@@ -7347,6 +7656,7 @@
       "year": 2018,
       "doi": "10.1556/2054.2018.004",
       "primary_category": "PURPLE",
+      "document_type": "qualitative",
       "secondary_categories": [
         "BLUE"
       ],
@@ -7382,10 +7692,11 @@
       "pmcid": null,
       "open_access": true,
       "publisher": "Akadémiai Kiadó",
-      "body_format": "hybrid",
+      "body_format": "vault-analytical",
       "issn": "2559-9283",
       "licence_type": "cc-by-nc",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2018/Camlin2018_Phenomenological_Ibogaine_Opioid_Use.md"
     },
     {
@@ -7396,6 +7707,7 @@
       "year": 2018,
       "doi": "10.1016/bs.pbr.2018.08.005",
       "primary_category": "RED",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "ORANGE",
         "GREEN"
@@ -7444,12 +7756,13 @@
       "source_url": null,
       "pmid": "30471681",
       "pmcid": null,
-      "open_access": true,
+      "open_access": false,
       "publisher": "Elsevier",
       "body_format": "vault-analytical",
       "issn": "0079-6123",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md"
     },
     {
@@ -7464,6 +7777,7 @@
       "year": 2018,
       "doi": "10.1080/02791072.2018.1487607",
       "primary_category": "BLUE",
+      "document_type": "observational",
       "secondary_categories": [
         "PURPLE"
       ],
@@ -7502,6 +7816,7 @@
       "issn": "2159-9777",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2018/Davis2018_Mixed_Method_Persisting_Effects.md"
     },
     {
@@ -7522,14 +7837,18 @@
       "year": 2018,
       "doi": "10.3389/fphar.2018.00374",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
         "topic/sleep",
-        "topic/motor"
+        "topic/motor",
+        "topic/noribogaine",
+        "topic/serotonin",
+        "method/preclinical"
       ],
       "clinical_significance": "moderate",
-      "key_findings": "SLEEP ARCHITECTURE: Ibogaine promotes wakefulness, robust long-lasting REM suppression, dose-dependent motor profile (tremor, flat posture at high dose). No head-shake (5HT2A marker). Uruguay polysomnography.",
+      "key_findings": "Sleep architecture: Ibogaine promotes wakefulness, robust long-lasting REM suppression, dose-dependent motor profile (tremor, flat posture at high dose). No head-shake (5HT2A marker). Uruguay polysomnography.",
       "sample_size": null,
       "mortality_count": null,
       "mortality_scope": null,
@@ -7551,10 +7870,11 @@
       "pmcid": "PMC5934978",
       "open_access": true,
       "publisher": "Frontiers",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "1663-9812",
       "licence_type": "cc-by",
-      "licence_verified": false,
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2018/Gonzalez2018_Ibogaine_Rats_Wakefulness_REM_Suppression.md"
     },
     {
@@ -7570,6 +7890,7 @@
       "year": 2018,
       "doi": "10.1097/JCP.0000000000000966",
       "primary_category": "BLUE",
+      "document_type": "case-report",
       "secondary_categories": [
         "RED"
       ],
@@ -7589,8 +7910,8 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": null,
-      "route": null,
+      "dosing_range": "700 mg (10 mg/kg) ibogaine HCl single dose",
+      "route": "oral",
       "source_pdf": "2018/Knuijver2018_HPPD_Ibogaine_Case_Report.pdf",
       "journal": "Journal of Clinical Psychopharmacology",
       "aliases": [
@@ -7607,6 +7928,7 @@
       "issn": "1533-712X",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2018/Knuijver2018_HPPD_Ibogaine_Case_Report.md"
     },
     {
@@ -7632,6 +7954,7 @@
       "year": 2018,
       "doi": "10.1016/j.celrep.2018.05.022",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -7668,6 +7991,7 @@
       "issn": "2211-1247",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2018/Ly2018_Psychedelics_Neural_Plasticity.md"
     },
     {
@@ -7680,6 +8004,7 @@
       "year": 2018,
       "doi": "10.1080/02791072.2018.1447175",
       "primary_category": "BLUE",
+      "document_type": "observational",
       "secondary_categories": [
         "GREEN"
       ],
@@ -7717,8 +8042,8 @@
         "Alcohol, amphetamines, cocaine, or psychiatric medications within 1 week",
         "Buprenorphine or methadone within 4 weeks"
       ],
-      "dosing_range": null,
-      "route": null,
+      "dosing_range": "18–20 mg/kg ibogaine HCl (Voacanga-derived, GMP-certified); test dose 100 mg followed by remainder within 2 hours; booster 1–5 mg/kg if post-acute withdrawal at 72h",
+      "route": "oral",
       "source_pdf": "2018/Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine.pdf",
       "journal": "Journal of Psychoactive Drugs",
       "aliases": [
@@ -7734,6 +8059,7 @@
       "issn": "2159-9777",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2018/Malcolm2018_Opioid_Withdrawal_Craving_Ibogaine.md"
     },
     {
@@ -7747,6 +8073,7 @@
       "year": 2018,
       "doi": "10.3389/fphar.2018.00529",
       "primary_category": "BLUE",
+      "document_type": "observational",
       "secondary_categories": [
         "GREEN"
       ],
@@ -7755,10 +8082,12 @@
         "topic/opioid",
         "topic/stimulant",
         "topic/withdrawal",
-        "topic/efficacy"
+        "topic/efficacy",
+        "topic/pharmacokinetics",
+        "method/observational"
       ],
       "clinical_significance": "high",
-      "key_findings": "MAJOR COHORT: n=191 opioid/cocaine dependent patients (St. Kitts clinic). Ibogaine (10-25mg/kg) effectively blocked withdrawal symptoms, reduced drug craving, improved mood. Safe in dose range studied with medical monitoring.",
+      "key_findings": "Major cohort study: n=191 opioid/cocaine dependent patients (St. Kitts clinic). Ibogaine (8–12 mg/kg) effectively blocked withdrawal symptoms, reduced drug craving, improved mood. Safe in dose range studied with medical monitoring.",
       "sample_size": 191,
       "mortality_count": null,
       "mortality_scope": null,
@@ -7771,9 +8100,11 @@
         "Axis I psychotic disorders",
         "Cardiovascular pathology",
         "Liver pathology",
-        "HIV/AIDS"
+        "HIV/AIDS",
+        "Bradycardic heart rate below 50 bpm",
+        "Long QT syndrome"
       ],
-      "dosing_range": "10–25 mg/kg ibogaine HCl",
+      "dosing_range": "8–12 mg/kg ibogaine HCl (500–1000 mg absolute)",
       "route": "oral",
       "source_pdf": "2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.pdf",
       "journal": "Frontiers in Pharmacology",
@@ -7788,10 +8119,11 @@
       "pmcid": "PMC5996271",
       "open_access": true,
       "publisher": "Frontiers",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "1663-9812",
       "licence_type": "cc-by",
-      "licence_verified": false,
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md"
     },
     {
@@ -7811,6 +8143,7 @@
       "year": 2018,
       "doi": "10.1155/2018/5969486",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -7843,6 +8176,7 @@
       "issn": "1942-0994",
       "licence_type": "cc-by",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2018/Orescanin-Dusic2018_Ibogaine_Uterine_Smooth_Muscle_Contractions_Relation_to_Antioxidant_Enzymes.md"
     },
     {
@@ -7853,6 +8187,7 @@
       "year": 2018,
       "doi": "10.1111/anoc.12088",
       "primary_category": "PURPLE",
+      "document_type": "qualitative",
       "secondary_categories": [
         "WHITE"
       ],
@@ -7891,6 +8226,7 @@
       "issn": "1053-4202",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2018/Rodger2018_Healing_Potential_Ibogaine.md"
     },
     {
@@ -7902,6 +8238,7 @@
       "year": 2018,
       "doi": "10.1002/joa3.12061",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -7939,10 +8276,11 @@
       "pmcid": "PMC6111465",
       "open_access": true,
       "publisher": "Wiley",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "1883-2148",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "cc-by-nc",
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2018/Steinberg2018_Cardiac_Arrest_Case.md"
     },
     {
@@ -7955,6 +8293,7 @@
       "year": 2018,
       "doi": "10.1021/acschemneuro.8b00294",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": [
         "WHITE",
         "RED"
@@ -7999,6 +8338,7 @@
       "issn": "1948-7193",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience.md"
     },
     {
@@ -8012,6 +8352,7 @@
       "year": 2019,
       "doi": "10.1590/0101-60830000000231",
       "primary_category": "GREEN",
+      "document_type": "observational",
       "secondary_categories": [
         "RED"
       ],
@@ -8049,6 +8390,7 @@
       "issn": "1806-938X",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2019/Bouso2019_Product_Quality.md"
     },
     {
@@ -8061,6 +8403,7 @@
       "year": 2019,
       "doi": "10.1080/02791072.2019.1598603",
       "primary_category": "PURPLE",
+      "document_type": "observational",
       "secondary_categories": [
         "BLUE"
       ],
@@ -8104,6 +8447,7 @@
       "issn": "2159-9777",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2019/Brown2019_Ibogaine_Subjective_Experience_OUD.md"
     },
     {
@@ -8120,6 +8464,7 @@
       "year": 2019,
       "doi": "10.1038/s41586-019-1135-1",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -8154,6 +8499,7 @@
       "issn": "1476-4687",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms.md"
     },
     {
@@ -8167,6 +8513,7 @@
       "year": 2019,
       "doi": "10.1016/j.jemermed.2019.06.052",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -8207,6 +8554,7 @@
       "issn": "0736-4679",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2019/Grogan2019_Seizures_QT_Prolongation_Cardiac.md"
     },
     {
@@ -8220,6 +8568,7 @@
       "year": 2019,
       "doi": "10.1039/d0np00033g",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": [
         "WHITE"
       ],
@@ -8256,6 +8605,7 @@
       "issn": "1460-4752",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2019/Iyer2019_Iboga_Enigma_Chemistry_Neuropharmacology_Alkaloids_Analogs.md"
     },
     {
@@ -8278,6 +8628,7 @@
       "year": 2019,
       "doi": "10.3389/fphar.2019.00193",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -8312,6 +8663,7 @@
       "issn": "1663-9812",
       "licence_type": "cc-by",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2019/Marton2019_Ibogaine_GDNF_BDNF.md"
     },
     {
@@ -8325,6 +8677,7 @@
       "year": 2020,
       "doi": "10.1016/j.drugpo.2020.102857",
       "primary_category": "PURPLE",
+      "document_type": "qualitative",
       "secondary_categories": null,
       "evidence_level": "qualitative",
       "tags": [
@@ -8359,6 +8712,7 @@
       "issn": "0955-3959",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2020/Barber2020_Consumer_Views_Online_Fora.md"
     },
     {
@@ -8379,6 +8733,7 @@
       "year": 2020,
       "doi": "10.1021/acsptsci.0c00102",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": [
         "BLUE"
       ],
@@ -8415,7 +8770,69 @@
       "issn": "2575-9108",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT.md"
+    },
+    {
+      "title": "An Analytical Study of Iboga Alkaloids Contained in Tabernanthe iboga-Derived Products Offered by Ibogaine Treatment Providers",
+      "authors": [
+        "Bouso, José Carlos",
+        "Fornís, Ivan",
+        "Ventura Vilamala, Mireia",
+        "De Loenen, Benjamin",
+        "Sainz-Cort, Alberto",
+        "Jiménez-Garrido, Daniel F.",
+        "Dos Santos, Rafael Guimarães",
+        "Hallak, Jaime E. C.",
+        "Alcázar-Córcoles, Miguel Ángel",
+        "Jenks, Christopher W."
+      ],
+      "year": 2020,
+      "doi": "10.1590/0101-60830000000231",
+      "primary_category": "GREEN",
+      "document_type": "observational",
+      "secondary_categories": [
+        "RED"
+      ],
+      "evidence_level": "observational",
+      "tags": [
+        "topic/harm-reduction",
+        "topic/policy",
+        "topic/adverse-event",
+        "topic/toxicity",
+        "method/observational"
+      ],
+      "clinical_significance": "high",
+      "key_findings": "CRITICAL: n=16 products from 5 vendors - purity ranged 0-73.4% ibogaine. One sample contained ZERO ibogaine. Extreme variability makes dose calculation impossible without analysis.",
+      "sample_size": 16,
+      "mortality_count": null,
+      "mortality_scope": null,
+      "qtc_data": false,
+      "herg_data": false,
+      "electrolyte_data": false,
+      "contraindications": [
+        "Unverified ibogaine product purity (0-73% range found across vendors)"
+      ],
+      "dosing_range": "Product analysis only — ibogaine content ranged 0.6%–73.7% across 16 samples; therapeutic dose calculation requires independent GC/MS verification",
+      "route": "oral",
+      "source_pdf": "2020/Bouso2020_Product_Quality.pdf",
+      "journal": "Archives of Clinical Psychiatry",
+      "aliases": [
+        "Bouso 2020",
+        "Bouso",
+        "Product Quality Crisis 2020"
+      ],
+      "source_url": null,
+      "pmid": null,
+      "pmcid": null,
+      "open_access": true,
+      "publisher": "SciELO",
+      "body_format": "vault-analytical",
+      "issn": "1806-938X",
+      "licence_type": "unknown",
+      "licence_verified": false,
+      "references_stripped": true,
+      "filepath": "2020/Bouso2020_Product_Quality.md"
     },
     {
       "title": "Ibogaine and Noribogaine in the Treatment of Drug Dependency: A State of the Art Review about Safety and Efficacy",
@@ -8425,6 +8842,7 @@
       "year": 2020,
       "doi": null,
       "primary_category": "BLUE",
+      "document_type": "thesis",
       "secondary_categories": [
         "RED",
         "GREEN"
@@ -8432,21 +8850,33 @@
       "evidence_level": "systematic-review",
       "tags": [
         "topic/efficacy",
+        "topic/opioid",
+        "topic/cardiac",
+        "topic/withdrawal",
         "topic/harm-reduction",
         "topic/noribogaine",
         "method/review"
       ],
       "clinical_significance": "moderate",
       "key_findings": "MSc dissertation systematic review (2000-2020): ibogaine/noribogaine safety and efficacy in substance use disorders. Confirms anti-addictive properties, cardiac risks, need for medical supervision.",
-      "sample_size": null,
+      "sample_size": 193,
       "mortality_count": null,
       "mortality_scope": null,
-      "qtc_data": false,
+      "qtc_data": true,
       "herg_data": false,
       "electrolyte_data": false,
-      "contraindications": [],
-      "dosing_range": null,
-      "route": null,
+      "contraindications": [
+        "Past medical history of epilepsy",
+        "History of stroke",
+        "Axis I psychotic disorders",
+        "Significant cardiovascular conditions",
+        "Hepatic or renal impairment",
+        "Hypertension or hypotension",
+        "Endocrine disorders",
+        "Motor neurone disease"
+      ],
+      "dosing_range": "7.40–55 mg/kg ibogaine HCl (mean 21.7 mg/kg; Noller 55 mg/kg was cumulative over 24–96h); noribogaine 60–180 mg",
+      "route": "oral",
       "source_pdf": "2020/Canessa2020_Ibogaine_Noribogaine_in_Tx_Review_Safety_Efficacy.pdf",
       "journal": null,
       "aliases": [
@@ -8457,12 +8887,13 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
-      "open_access": true,
+      "open_access": false,
       "publisher": null,
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": null,
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2020/Canessa2020_Ibogaine_Noribogaine_in_Tx_Review_Safety_Efficacy.md"
     },
     {
@@ -8477,6 +8908,7 @@
       "year": 2020,
       "doi": "10.1177/2470547020939564",
       "primary_category": "BLUE",
+      "document_type": "observational",
       "secondary_categories": [
         "RED",
         "GREEN"
@@ -8503,9 +8935,11 @@
         "Bipolar I disorder",
         "Symptoms of impaired reality testing",
         "Contraindicated medications without proper taper",
-        "Cardiac abnormalities on ECG screening"
+        "Cardiac abnormalities on ECG screening",
+        "Positive urine toxicology or alcohol screen on treatment day",
+        "Obesity or age >55 without passing stress test"
       ],
-      "dosing_range": "not specified (retrospective survey)",
+      "dosing_range": "Ibogaine HCl 10 mg/kg oral; 5-MeO-DMT ~50 mg inhaled (5 + 15 + 30 mg, optional 4th dose 30 mg, possible 5th up to 45 mg)",
       "route": "oral",
       "source_pdf": "2020/Davis2020_SpecialOps_Veterans_Trauma.pdf",
       "journal": "Chronic Stress",
@@ -8519,10 +8953,11 @@
       "pmcid": "PMC7359647",
       "open_access": true,
       "publisher": "SAGE",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "2470-5470",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "cc-by-nc",
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2020/Davis2020_SpecialOps_Veterans_Trauma.md"
     },
     {
@@ -8537,6 +8972,7 @@
       "year": 2020,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -8570,6 +9006,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2020/Ekaghba2020_Acute_Toxicity_Aqueous_Iboga_TA.md"
     },
     {
@@ -8584,6 +9021,7 @@
       "year": 2020,
       "doi": "10.1111/anoc.12119",
       "primary_category": "PURPLE",
+      "document_type": "qualitative",
       "secondary_categories": null,
       "evidence_level": "qualitative",
       "tags": [
@@ -8618,6 +9056,7 @@
       "issn": "1556-3537",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine.md"
     },
     {
@@ -8636,6 +9075,7 @@
       "year": 2020,
       "doi": "10.1021/acschemneuro.0c00152",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "BLUE"
       ],
@@ -8673,6 +9113,7 @@
       "issn": "1948-7193",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2020/Rodriguez2020_Ibogaine_Noribogaine_Antidepressant_Rats.md"
     },
     {
@@ -8685,6 +9126,7 @@
       "year": 2020,
       "doi": "10.1556/2054.2020.00133",
       "primary_category": "BLUE",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -8719,6 +9161,7 @@
       "issn": "2060-5587",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2020/Wilson2020_Novel_Tx_OUD_Ibogaine_Iboga_Case_Study.md"
     },
     {
@@ -8734,6 +9177,7 @@
       "year": 2021,
       "doi": "10.1007/s12024-020-00342-0",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -8772,6 +9216,7 @@
       "issn": "1556-2891",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2021/Acimovic2021_Ibogaine_Death_Case_Report.md"
     },
     {
@@ -8783,6 +9228,7 @@
       "year": 2021,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -8817,6 +9263,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2021/Bekale2021_Holy_Spirit_Iboga_Bwiti.md"
     },
     {
@@ -8855,6 +9302,7 @@
       "year": 2021,
       "doi": "10.1038/s41586-020-3008-z",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "RED",
         "BLUE"
@@ -8894,6 +9342,7 @@
       "issn": "1476-4687",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2021/Cameron2021_Tabernanthalog_Non_Hallucinogenic_Analog.md"
     },
     {
@@ -8923,6 +9372,7 @@
       "year": 2021,
       "doi": "10.1101/2021.07.22.453441",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "RED"
       ],
@@ -8958,6 +9408,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2021/Havel2021_Oxa-Iboga_Opioid_Addiction.md"
     },
     {
@@ -8974,6 +9425,7 @@
       "year": 2021,
       "doi": "10.1111/add.15448",
       "primary_category": "RED",
+      "document_type": "clinical-trial",
       "secondary_categories": [
         "GREEN",
         "BLUE"
@@ -9026,8 +9478,9 @@
       "publisher": "Wiley",
       "body_format": "vault-analytical",
       "issn": "1360-0443",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "cc-by-nc",
+      "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2021/Knuijver2021_Safety_Opioid_Detox.md"
     },
     {
@@ -9038,6 +9491,7 @@
       "year": 2021,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "primary-source",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -9070,6 +9524,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2021/Lotsof2021_To_Have_or_Have_Not.md"
     },
     {
@@ -9083,6 +9538,7 @@
       "year": 2021,
       "doi": "10.3389/fnmol.2021.748359",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -9118,6 +9574,7 @@
       "issn": "1662-5099",
       "licence_type": "cc-by",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2021/Lukasiewicz2021_Serotonergic_Psychedelics_Neuroplasticity.md"
     },
     {
@@ -9129,6 +9586,7 @@
       "year": 2021,
       "doi": "10.1080/17425255.2021.1944099",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": [
         "RED"
       ],
@@ -9168,6 +9626,7 @@
       "issn": "1744-7607",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2021/Luz2021_Toxicity_Therapeutic_Potential.md"
     },
     {
@@ -9184,6 +9643,7 @@
       "year": 2021,
       "doi": "10.1007/s00213-021-05964-y",
       "primary_category": "RED",
+      "document_type": "systematic-review",
       "secondary_categories": [
         "ORANGE",
         "GREEN"
@@ -9239,6 +9699,7 @@
       "issn": "1432-2072",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md"
     },
     {
@@ -9252,6 +9713,7 @@
       "year": 2021,
       "doi": "10.14573/altex.2103311",
       "primary_category": "RED",
+      "document_type": "in-vitro",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -9290,12 +9752,13 @@
       "source_url": null,
       "pmid": "34271588",
       "pmcid": null,
-      "open_access": "unknown",
+      "open_access": true,
       "publisher": "Bentham Open",
       "body_format": "vault-analytical",
       "issn": "1868-596X",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "cc-by",
+      "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2021/Shi2021_NAM_Ibogaine_Cardiotoxicity.md"
     },
     {
@@ -9308,6 +9771,7 @@
       "year": 2021,
       "doi": "10.1556/2054.2021.00152",
       "primary_category": "BLUE",
+      "document_type": "review",
       "secondary_categories": [
         "ORANGE",
         "WHITE",
@@ -9347,6 +9811,7 @@
       "issn": "2559-9283",
       "licence_type": "cc-by-nc",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2021/Underwood2021_Narrative_Review_Ibogaine_Literature.md"
     },
     {
@@ -9361,6 +9826,7 @@
       "year": 2022,
       "doi": "10.47626/1516-4446-2021-2359",
       "primary_category": "BLUE",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -9378,7 +9844,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "8 mg/day microdose for 60 days",
+      "dosing_range": "8 mg/day ibogaine HCl microdose (two 4 mg capsules) for 60 days",
       "route": "oral",
       "source_pdf": "2022/Fernandes-Nascimento2022_Microdosing_Bipolar.pdf",
       "journal": "Brazilian Journal of Psychiatry",
@@ -9390,11 +9856,12 @@
       "pmid": "35896190",
       "pmcid": "PMC9375667",
       "open_access": true,
-      "publisher": "Brazilian Journal Publisher",
-      "body_format": "academic-retained",
+      "publisher": "Brazilian Psychiatric Association",
+      "body_format": "vault-analytical",
       "issn": "1809-452X",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "cc-by-nc",
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2022/Fernandes-Nascimento2022_Microdosing_Bipolar.md"
     },
     {
@@ -9405,6 +9872,7 @@
       "year": 2022,
       "doi": "10.1021/acsmedchemlett.2c00214",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -9440,6 +9908,7 @@
       "issn": "1948-5875",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2022/Kargbo2022_Ibogaine_and_Analogs_Therapeutics_Neurological_Psychiatric_Disorders.md"
     },
     {
@@ -9454,6 +9923,7 @@
       "year": 2022,
       "doi": "10.1016/j.jsat.2021.108717",
       "primary_category": "BLUE",
+      "document_type": "systematic-review",
       "secondary_categories": [
         "RED",
         "ORANGE"
@@ -9490,6 +9960,7 @@
       "issn": "0740-5472",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md"
     },
     {
@@ -9500,6 +9971,7 @@
       "year": 2022,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "educational",
       "secondary_categories": [
         "RED",
         "GREEN",
@@ -9563,6 +10035,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2022/Malcolm2022_Addiction_Pharmacology_Ibogaine.md"
     },
     {
@@ -9581,6 +10054,7 @@
       "year": 2022,
       "doi": "10.3389/fphar.2022.855000",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "RED"
       ],
@@ -9619,6 +10093,7 @@
       "issn": "1663-9812",
       "licence_type": "cc-by",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2022/Martins2022_Drug_Transporters_Ibogaine_PK.md"
     },
     {
@@ -9635,6 +10110,7 @@
       "year": 2022,
       "doi": "10.1111/dar.13587",
       "primary_category": "PURPLE",
+      "document_type": "qualitative",
       "secondary_categories": [
         "BLUE"
       ],
@@ -9653,8 +10129,8 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": null,
-      "route": null,
+      "dosing_range": "not-applicable",
+      "route": "not-applicable",
       "source_pdf": "2022/Rodriguez-Cano2022_Underground_Ibogaine_Use_for_SUD_Tx_Qualitative_Analysis_Subjective_Experiences.pdf",
       "journal": "Drug and Alcohol Review",
       "aliases": [
@@ -9666,10 +10142,11 @@
       "pmcid": null,
       "open_access": false,
       "publisher": "Wiley",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "1465-3362",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2022/Rodriguez-Cano2022_Underground_Ibogaine_Use_for_SUD_Tx_Qualitative_Analysis_Subjective_Experiences.md"
     },
     {
@@ -9683,6 +10160,7 @@
       "year": 2022,
       "doi": "10.1021/acs.jmedchem.2c01562",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -9715,6 +10193,7 @@
       "issn": "1520-4804",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2022/Straub2022_Ibogaine_Nicotinic_Acetylcholine_Receptor_Inhibitors_Tx_SUDs.md"
     },
     {
@@ -9731,6 +10210,7 @@
       "year": 2023,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -9773,6 +10253,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2023/Alfonso2023_Ibogaine_Atypical_Psychedelic_Review_ES.md"
     },
     {
@@ -9790,6 +10271,7 @@
       "year": 2023,
       "doi": "10.1016/j.ejphar.2022.175454",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "BLUE"
       ],
@@ -9827,6 +10309,7 @@
       "issn": "0014-2999",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2023/Arias2023_Catharanthine_18-MC.md"
     },
     {
@@ -9838,6 +10321,7 @@
       "year": 2023,
       "doi": "10.1016/j.prenap.2023.100006",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": [
         "RED"
       ],
@@ -9880,6 +10364,7 @@
       "issn": "2950-1997",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md"
     },
     {
@@ -9897,6 +10382,7 @@
       "year": 2023,
       "doi": "10.1017/S1355617723011049",
       "primary_category": "BLUE",
+      "document_type": "observational",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -9934,6 +10420,7 @@
       "issn": "1469-7661",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2023/Cherian2023_Ibogaine_Cognitive_Functioning.md"
     },
     {
@@ -9947,6 +10434,7 @@
       "year": 2023,
       "doi": "10.1080/00952990.2023.2220874",
       "primary_category": "BLUE",
+      "document_type": "observational",
       "secondary_categories": [
         "RED",
         "GREEN"
@@ -9989,6 +10477,7 @@
       "issn": "1097-9891",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS.md"
     },
     {
@@ -10003,25 +10492,29 @@
       "year": 2023,
       "doi": "10.3389/fpain.2023.1256396",
       "primary_category": "BLUE",
+      "document_type": "case-report",
       "secondary_categories": [
-        "ORANGE"
+        "ORANGE",
+        "PURPLE"
       ],
       "evidence_level": "case-report",
       "tags": [
         "topic/efficacy",
-        "method/case-report",
-        "topic/gdnf"
+        "topic/noribogaine",
+        "topic/gdnf",
+        "topic/phenomenology",
+        "method/case-report"
       ],
       "clinical_significance": "high",
-      "key_findings": "FIRST DOCUMENTED: 53yo male, 20-year intractable brachial plexus nerve root avulsion pain. High-dose inpatient + low-dose outpatient ibogaine protocol achieved sustained pain reduction and functional improvement.",
+      "key_findings": "First documented: 53yo male, 20-year intractable brachial plexus nerve root avulsion pain. High-dose inpatient + low-dose outpatient ibogaine protocol achieved sustained pain reduction and functional improvement.",
       "sample_size": 1,
       "mortality_count": null,
       "mortality_scope": null,
       "qtc_data": false,
       "herg_data": false,
-      "electrolyte_data": false,
+      "electrolyte_data": true,
       "contraindications": [],
-      "dosing_range": "15 mg/kg flood + 38 mg/kg saturation protocol; outpatient 3–12 mg/kg",
+      "dosing_range": "13.03 mg/kg flood dose (ibogaine HCl); 42.27 mg/kg cumulative saturation over 7 days; outpatient 10–250 mg/day",
       "route": "oral",
       "source_pdf": "2023/Dickinson2023_Ibogaine_Reduced_Severe_Neuropathic_Pain_Brachial_Plexus_Nerve_Root_Avulsion.pdf",
       "journal": "Frontiers in Pain Research",
@@ -10035,10 +10528,11 @@
       "pmcid": "PMC10502345",
       "open_access": true,
       "publisher": "Frontiers",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "2673-561X",
       "licence_type": "cc-by",
-      "licence_verified": false,
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2023/Dickinson2023_Ibogaine_Reduced_Severe_Neuropathic_Pain_Brachial_Plexus_Nerve_Root_Avulsion.md"
     },
     {
@@ -10049,6 +10543,7 @@
       "year": 2023,
       "doi": "10.1111/anoc.12172",
       "primary_category": "PURPLE",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -10081,6 +10576,7 @@
       "issn": "1556-3537",
       "licence_type": "cc-by-nc-nd",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2023/Dickinson2023_Transpersonal_Intersubjectivity_in_Ibogaine_Experiences.md"
     },
     {
@@ -10095,6 +10591,7 @@
       "year": 2023,
       "doi": "10.1093/sleep/zsad077.0665",
       "primary_category": "BLUE",
+      "document_type": "commentary",
       "secondary_categories": null,
       "evidence_level": "cohort",
       "tags": [
@@ -10131,6 +10628,7 @@
       "issn": "1550-9109",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2023/Faerman2023_Ibogaine_Veterans_PTSD.md"
     },
     {
@@ -10145,6 +10643,7 @@
       "year": 2023,
       "doi": "10.1080/02791072.2023.2276230",
       "primary_category": "WHITE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -10178,6 +10677,7 @@
       "issn": "2159-9777",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2023/Fernandes-Nascimento2023_Scientometric_Analysis_Three_Decades_of_Ibogaine_Research.md"
     },
     {
@@ -10189,6 +10689,7 @@
       "year": 2023,
       "doi": "10.1080/00952990.2023.2246637",
       "primary_category": "BLUE",
+      "document_type": "commentary",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -10225,6 +10726,7 @@
       "issn": "1097-9891",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2023/Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts.md"
     },
     {
@@ -10235,6 +10737,7 @@
       "year": 2023,
       "doi": "10.1016/j.phrs.2022.106620",
       "primary_category": "WHITE",
+      "document_type": "review",
       "secondary_categories": [
         "GREEN",
         "ORANGE"
@@ -10271,6 +10774,7 @@
       "issn": "1043-6618",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2023/Mash2023_Ibogaine_Legacy_Psychedelic_Renaissance.md"
     },
     {
@@ -10291,6 +10795,7 @@
       "year": 2023,
       "doi": "10.2174/1570159X21666221017085612",
       "primary_category": "BLUE",
+      "document_type": "systematic-review",
       "secondary_categories": [
         "RED"
       ],
@@ -10329,6 +10834,7 @@
       "issn": "1570-159X",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2023/Mosca2023_Ibogaine_Noribogaine_SUDs_Systematic_Review.md"
     },
     {
@@ -10350,6 +10856,7 @@
       "year": 2023,
       "doi": "10.1038/s41586-023-06204-3",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "BLUE"
       ],
@@ -10387,6 +10894,7 @@
       "issn": "1476-4687",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2023/Nardou2023_Psychedelics_Critical_Period_Reopening.md"
     },
     {
@@ -10403,6 +10911,7 @@
       "year": 2023,
       "doi": "10.1177/02698811231200882",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -10444,6 +10953,7 @@
       "issn": "1461-7285",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md"
     },
     {
@@ -10458,6 +10968,7 @@
       "year": 2023,
       "doi": "10.1007/s00406-023-01590-1",
       "primary_category": "GREEN",
+      "document_type": "systematic-review",
       "secondary_categories": [
         "RED"
       ],
@@ -10512,6 +11023,7 @@
       "issn": "1433-8491",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md"
     },
     {
@@ -10527,13 +11039,17 @@
       "year": 2023,
       "doi": "10.3390/psychoactives2040024",
       "primary_category": "GREEN",
+      "document_type": "guideline",
       "secondary_categories": [
         "RED"
       ],
       "evidence_level": "guideline",
       "tags": [
         "topic/protocol",
-        "topic/electrolytes"
+        "topic/cardiac",
+        "topic/electrolytes",
+        "topic/harm-reduction",
+        "method/review"
       ],
       "clinical_significance": "high",
       "key_findings": "USP/LEAPS clinical protocols: 72h cardiac monitoring, electrolyte targets K+ 4.5-5.5/Mg 1.5-2.5, medication tapering schedules, 3-person minimum team, trauma-informed approach framework.",
@@ -10547,11 +11063,15 @@
         "QTc >450ms (males) or >470ms (females)",
         "K+ outside 4.5-5.5 mEq/L",
         "Mg outside 1.5-2.5 mEq/L",
-        "Uncontrolled psychiatric conditions",
         "Personal or family history of psychosis, bipolar disorder, or schizophrenia",
         "Recent cardiac, renal, or hepatic pathology",
         "Pregnancy or lactation",
-        "Concurrent psychotropic medication use (especially uncontrolled)"
+        "Concurrent uncontrolled psychotropic medication use",
+        "Severe dissociative symptoms or severe personality disorders",
+        "Active suicidality requiring pharmacological treatment",
+        "Manic episodes (current or historical, including antidepressant-induced)",
+        "Drug-induced psychosis history",
+        "Uncontrolled general medical pathologies"
       ],
       "dosing_range": "Per GITA guidelines; 72h monitoring minimum",
       "route": "oral",
@@ -10567,10 +11087,11 @@
       "pmcid": null,
       "open_access": true,
       "publisher": "MDPI",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "2813-1851",
       "licence_type": "cc-by",
-      "licence_verified": false,
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2023/Rocha2023_USP_Safety_Protocols.md"
     },
     {
@@ -10584,6 +11105,7 @@
       "year": 2024,
       "doi": "10.1038/s41398-024-02773-7",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -10616,6 +11138,7 @@
       "issn": "2158-3188",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2024/Biosca-Brull2024_Transcriptomic_Analysis_Single_Ibogaine_Dose.md"
     },
     {
@@ -10632,6 +11155,7 @@
       "year": 2024,
       "doi": "10.1007/s00213-024-06572-2",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -10667,6 +11191,7 @@
       "issn": "1432-2072",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2024/Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects.md"
     },
     {
@@ -10677,6 +11202,7 @@
       "year": 2024,
       "doi": "10.21945/RIVM-2024-0030",
       "primary_category": "RED",
+      "document_type": "policy-report",
       "secondary_categories": [
         "WHITE",
         "GREEN"
@@ -10733,12 +11259,13 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
-      "open_access": "unknown",
+      "open_access": true,
       "publisher": "RIVM",
       "body_format": "vault-analytical",
       "issn": null,
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2024/Chen2024_RIVM_Iboga_Risk_Assessment.md"
     },
     {
@@ -10756,6 +11283,7 @@
       "year": 2024,
       "doi": "10.1097/MJT.0000000000001723",
       "primary_category": "GREEN",
+      "document_type": "review",
       "secondary_categories": [
         "RED",
         "BLUE"
@@ -10778,7 +11306,7 @@
       "mortality_count": null,
       "mortality_scope": null,
       "qtc_data": true,
-      "herg_data": true,
+      "herg_data": false,
       "electrolyte_data": true,
       "contraindications": [
         "Pre-existing cardiac conditions (coronary artery sclerosis, hypertension, myocardial infarct, cardiac hypertrophy, dilated cardiomyopathy)",
@@ -10804,10 +11332,11 @@
       "pmcid": null,
       "open_access": false,
       "publisher": "Lippincott Williams & Wilkins",
-      "body_format": "narrative",
+      "body_format": "vault-analytical",
       "issn": "1075-2765",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2024/Cherian2024_Ibogaine_Primer_Clinicians.md"
     },
     {
@@ -10833,6 +11362,7 @@
       "year": 2024,
       "doi": "10.1038/s41591-023-02705-w",
       "primary_category": "BLUE",
+      "document_type": "clinical-trial",
       "secondary_categories": [
         "RED",
         "GREEN"
@@ -10876,6 +11406,7 @@
       "issn": "1546-170X",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2024/Cherian2024_Magnesium_Ibogaine_TBI.md"
     },
     {
@@ -10891,6 +11422,7 @@
       "year": 2024,
       "doi": "10.3389/fnins.2024.1378841",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -10924,6 +11456,7 @@
       "issn": "1662-453X",
       "licence_type": "cc-by",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination.md"
     },
     {
@@ -10940,6 +11473,7 @@
       "year": 2024,
       "doi": "10.1038/s41467-024-51856-y",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "RED",
         "BLUE"
@@ -10948,6 +11482,7 @@
       "tags": [
         "topic/analogues",
         "topic/cardiac",
+        "topic/gdnf",
         "mechanism/kappa-opioid",
         "topic/opioid"
       ],
@@ -10974,10 +11509,11 @@
       "pmcid": "PMC11415492",
       "open_access": true,
       "publisher": "Springer Nature",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "2041-1723",
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "cc-by",
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md"
     },
     {
@@ -10992,6 +11528,7 @@
       "year": 2024,
       "doi": "10.1089/psymed.2023.0009",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -11027,6 +11564,7 @@
       "issn": "2831-4433",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2024/Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol.md"
     },
     {
@@ -11039,6 +11577,7 @@
       "year": 2024,
       "doi": "10.1002/ejoc.202400432",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -11072,10 +11611,11 @@
       "pmcid": "PMC12393092",
       "open_access": true,
       "publisher": "Wiley",
-      "body_format": "hybrid",
+      "body_format": "vault-analytical",
       "issn": "1099-0690",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2024/Hughes2024_Chemistry_Iboga_Alkaloids.md"
     },
     {
@@ -11093,6 +11633,7 @@
       "year": 2024,
       "doi": "10.1016/j.bpsgos.2023.07.008",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": [
         "PURPLE"
       ],
@@ -11129,6 +11670,7 @@
       "issn": "2667-1743",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2024/Ivan2024_Nonclassic_Psychedelic_Ibogaine_Disrupts_Cognitive_Maps.md"
     },
     {
@@ -11146,6 +11688,7 @@
       "year": 2024,
       "doi": "10.1101/2024.06.30.601415",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -11181,6 +11724,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2024/Kamileen2024_Pachysiphine_Synthase.md"
     },
     {
@@ -11200,6 +11744,7 @@
       "year": 2024,
       "doi": "10.1177/02698811241237873",
       "primary_category": "ORANGE",
+      "document_type": "clinical-trial",
       "secondary_categories": [
         "BLUE",
         "RED"
@@ -11246,6 +11791,7 @@
       "issn": "1461-7285",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md"
     },
     {
@@ -11256,6 +11802,7 @@
       "year": 2024,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "thesis",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -11301,6 +11848,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2024/Kobr2024_PhD_Ibogaine_Addiction_Treatment_Review.md"
     },
     {
@@ -11314,17 +11862,19 @@
       "year": 2024,
       "doi": "10.7759/cureus.63487",
       "primary_category": "RED",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
         "topic/adverse-event",
         "topic/toxicity",
+        "topic/cardiac",
         "topic/opioid",
         "mechanism/herg-blockade",
         "method/case-report"
       ],
       "clinical_significance": "high",
-      "key_findings": "Portuguese case: Multiple cardiac arrests after only 200mg ibogaine (2.6mg/kg test dose). QTc 636ms, torsade de pointes, 3 defibrillations. Demonstrates even low doses can be lethal. No structural heart disease.",
+      "key_findings": "Portuguese case: 4 cardiac arrests after only 200 mg ibogaine (2.6 mg/kg test dose). QTc 636 ms, torsade de pointes, 4 defibrillations. Demonstrates even low doses can be lethal. No structural heart disease.",
       "sample_size": 1,
       "mortality_count": null,
       "mortality_scope": null,
@@ -11332,7 +11882,7 @@
       "herg_data": false,
       "electrolyte_data": true,
       "contraindications": [],
-      "dosing_range": "200mg (2.6mg/kg test dose)",
+      "dosing_range": "200 mg (2.6 mg/kg test dose)",
       "route": "oral",
       "source_pdf": "2024/Mestre2024_Cardiac_Arrest_Case_Report.pdf",
       "journal": "Cureus",
@@ -11345,10 +11895,11 @@
       "pmcid": "PMC11287021",
       "open_access": true,
       "publisher": "Cureus",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "2168-8184",
       "licence_type": "cc-by",
-      "licence_verified": false,
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2024/Mestre2024_Cardiac_Arrest_Case_Report.md"
     },
     {
@@ -11359,6 +11910,7 @@
       "year": 2024,
       "doi": null,
       "primary_category": "BLUE",
+      "document_type": "review",
       "secondary_categories": [
         "ORANGE",
         "GREEN"
@@ -11400,6 +11952,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2024/Ona2024_PhD_Thesis_Opioid_Dependence.md"
     },
     {
@@ -11416,6 +11969,7 @@
       "year": 2024,
       "doi": "10.1556/2054.2024.00322",
       "primary_category": "PURPLE",
+      "document_type": "qualitative",
       "secondary_categories": [
         "BLUE"
       ],
@@ -11453,6 +12007,7 @@
       "issn": "2559-9283",
       "licence_type": "cc-by-nc",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2024/Ozmat2024_Subjective_Ibogaine_Experiences_Intersection_Social-Ecological_Dimensions.md"
     },
     {
@@ -11470,6 +12025,7 @@
       "year": 2024,
       "doi": "10.3390/ijms25126527",
       "primary_category": "RED",
+      "document_type": "preclinical",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -11502,10 +12058,11 @@
       "pmcid": "PMC11203496",
       "open_access": true,
       "publisher": "MDPI",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "1422-0067",
       "licence_type": "cc-by",
-      "licence_verified": false,
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2024/Uzelac2024_Cardiotoxic_Necrosis_Redox.md"
     },
     {
@@ -11522,6 +12079,7 @@
       "year": 2025,
       "doi": "10.21203/rs.3.rs-8387313/v1",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -11556,6 +12114,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Acuna2025_Ibogaine_Visual_Cortex_Plasticity.md"
     },
     {
@@ -11569,6 +12128,7 @@
       "year": 2025,
       "doi": "10.1021/acs.jmedchem.5c02510",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -11607,6 +12167,7 @@
       "issn": "1520-4804",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Ali2025_Ibogaine_Analogs_Review.md"
     },
     {
@@ -11633,6 +12194,7 @@
       "year": 2025,
       "doi": "10.1016/j.jad.2025.120722",
       "primary_category": "PURPLE",
+      "document_type": "observational",
       "secondary_categories": [
         "BLUE"
       ],
@@ -11678,6 +12240,7 @@
       "issn": "0165-0327",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2025/Brown2025_Mystical_Experience_PTSD_Veterans.md"
     },
     {
@@ -11690,6 +12253,7 @@
       "year": 2025,
       "doi": "10.46919/archv6n4espec-16449",
       "primary_category": "BLUE",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -11724,6 +12288,7 @@
       "issn": "2675-4711",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Carlucci2025_Microdosing_Bipolar_Depression.md"
     },
     {
@@ -11738,12 +12303,13 @@
       "year": 2025,
       "doi": "10.3389/fimmu.2025.1535782",
       "primary_category": "BLUE",
+      "document_type": "case-report",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
         "topic/multiple-sclerosis",
         "topic/neuroimaging",
-        "topic/gdnf",
+        "topic/neuroplasticity",
         "topic/efficacy",
         "method/case-report"
       ],
@@ -11754,10 +12320,10 @@
       "mortality_scope": null,
       "qtc_data": false,
       "herg_data": false,
-      "electrolyte_data": false,
+      "electrolyte_data": true,
       "contraindications": [],
-      "dosing_range": null,
-      "route": null,
+      "dosing_range": "500–1200 mg ibogaine HCl flood dose; 20 mg/day maintenance microdose",
+      "route": "oral",
       "source_pdf": "2025/Chen2025_Multiple_Sclerosis_Neuroimaging.pdf",
       "journal": "Frontiers in Immunology",
       "aliases": [
@@ -11769,10 +12335,11 @@
       "pmcid": "PMC11839422",
       "open_access": true,
       "publisher": "Frontiers",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "1664-3224",
       "licence_type": "cc-by",
-      "licence_verified": false,
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2025/Chen2025_Multiple_Sclerosis_Neuroimaging.md"
     },
     {
@@ -11788,6 +12355,7 @@
       "year": 2025,
       "doi": "10.1080/15563650.2024.2447500",
       "primary_category": "RED",
+      "document_type": "case-series",
       "secondary_categories": null,
       "evidence_level": "case-series",
       "tags": [
@@ -11829,6 +12397,7 @@
       "issn": "1556-9519",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2025/Edwards2025_UK_NPIS_Ibogaine_Toxicity_Case_Series.md"
     },
     {
@@ -11841,6 +12410,7 @@
       "year": 2025,
       "doi": "10.1016/j.brainres.2024.149425",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -11875,6 +12445,7 @@
       "issn": "0006-8993",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2025/Eliasen2025_Ibogaine_DMT_5-HT2A_HEK_Electrophysiology.md"
     },
     {
@@ -11889,6 +12460,7 @@
       "year": 2025,
       "doi": "10.1016/j.neuroscience.2025.10.001",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -11924,6 +12496,7 @@
       "issn": "0306-4522",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2025/Eliasen2025_Ibogaine_Sex-Dependent_Firing_Rate.md"
     },
     {
@@ -11934,6 +12507,7 @@
       "year": 2025,
       "doi": null,
       "primary_category": "GREEN",
+      "document_type": "thesis",
       "secondary_categories": [
         "PURPLE"
       ],
@@ -11970,6 +12544,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Enginsoy2025_PhD_Practitioners_Experiences.md"
     },
     {
@@ -11983,6 +12558,7 @@
       "year": 2025,
       "doi": "10.1556/2054.2025.00478",
       "primary_category": "BLUE",
+      "document_type": "case-report",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -12022,6 +12598,7 @@
       "issn": "2559-9283",
       "licence_type": "cc-by-nc",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Erny2025_Parkinsons_Case_Report.md"
     },
     {
@@ -12041,6 +12618,7 @@
       "year": 2025,
       "doi": "10.1371/journal.pone.0333296",
       "primary_category": "PURPLE",
+      "document_type": "observational",
       "secondary_categories": null,
       "evidence_level": "observational",
       "tags": [
@@ -12074,6 +12652,7 @@
       "issn": "1932-6203",
       "licence_type": "cc-by",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective.md"
     },
     {
@@ -12102,6 +12681,7 @@
       "year": 2025,
       "doi": "10.21203/rs.3.rs-6909189/v1",
       "primary_category": "BLUE",
+      "document_type": "observational",
       "secondary_categories": [
         "GREEN"
       ],
@@ -12114,15 +12694,23 @@
         "method/observational"
       ],
       "clinical_significance": "high",
-      "key_findings": "12-month follow-up of MISTIC trial (n=25). Sustained large effect sizes (d>0.8) for disability, PTSD, depression, anxiety. 84% PTSD remission at 12 months. Dedicated to Nolan Williams (posthumous).",
+      "key_findings": "12-month follow-up of MISTIC trial (n=25). Sustained large effect sizes (d>0.8) for disability, PTSD, depression, anxiety. 84% PTSD remission at 12 months.",
       "sample_size": 25,
       "mortality_count": null,
       "mortality_scope": null,
       "qtc_data": false,
       "herg_data": false,
-      "electrolyte_data": false,
-      "contraindications": [],
-      "dosing_range": "8–12 mg/kg ibogaine HCl",
+      "electrolyte_data": true,
+      "contraindications": [
+        "History of neurological disorders (except TBI)",
+        "Psychotic symptoms or disorders",
+        "Risk for suicidal behaviour",
+        "Cardiovascular problems",
+        "Liver or kidney problems",
+        "Pregnancy",
+        "Clinical abnormalities on screening physical exam"
+      ],
+      "dosing_range": "2–3 mg/kg test dose, total <14 mg/kg oral ibogaine HCl",
       "route": "oral",
       "source_pdf": "2025/Faerman2025_MISTIC_12Month_Followup.pdf",
       "journal": "Preprint",
@@ -12136,10 +12724,11 @@
       "pmcid": null,
       "open_access": true,
       "publisher": "Springer Science and Business Media LLC",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": null,
-      "licence_type": "unknown",
+      "licence_type": "cc-by",
       "licence_verified": false,
+      "references_stripped": true,
       "filepath": "2025/Faerman2025_MISTIC_12Month_Followup.md"
     },
     {
@@ -12151,6 +12740,7 @@
       "year": 2025,
       "doi": "10.1163/9789004729759_021",
       "primary_category": "BLUE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "GREEN",
         "ORANGE",
@@ -12197,12 +12787,13 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
-      "open_access": true,
+      "open_access": false,
       "publisher": "Brill",
       "body_format": "hybrid",
       "issn": null,
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2025/Gomes2025_Ibogaine_Tool_Substance_Addiction.md"
     },
     {
@@ -12222,6 +12813,7 @@
       "year": 2025,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -12259,6 +12851,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Gupta2025_Benzofuran_Iboga_Analogues.md"
     },
     {
@@ -12274,6 +12867,7 @@
       "year": 2025,
       "doi": "10.1002/cpt.3459",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": [
         "GREEN"
       ],
@@ -12319,6 +12913,7 @@
       "issn": "1532-6535",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Halman2025_Pharmacogenomics_Psychedelic_Therapy.md"
     },
     {
@@ -12351,6 +12946,7 @@
       "year": 2025,
       "doi": "10.1021/jacs.5c06325",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -12389,6 +12985,7 @@
       "issn": "1520-5126",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2025/Hwu2025_Matrix_Pharmacology_VMAT2_SERT.md"
     },
     {
@@ -12408,6 +13005,7 @@
       "year": 2025,
       "doi": "10.1038/s41557-024-01714-7",
       "primary_category": "ORANGE",
+      "document_type": "in-vitro",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -12443,6 +13041,7 @@
       "issn": "1755-4349",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Iyer2025_Modular_Synthesis_Nature_Chemistry.md"
     },
     {
@@ -12456,6 +13055,7 @@
       "year": 2025,
       "doi": "10.21203/rs.3.rs-8022144/v1",
       "primary_category": "PURPLE",
+      "document_type": "qualitative",
       "secondary_categories": null,
       "evidence_level": "qualitative",
       "tags": [
@@ -12490,6 +13090,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/LaTorre2025_Phenomenology_Thematic_Analysis.md"
     },
     {
@@ -12500,6 +13101,7 @@
       "year": 2025,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "thesis",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -12534,6 +13136,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Lytychevskyi2025_Ibogaine_Synthesis_Development.md"
     },
     {
@@ -12546,6 +13149,7 @@
       "year": 2025,
       "doi": "10.1080/10826084.2025.2604213",
       "primary_category": "WHITE",
+      "document_type": "commentary",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -12583,6 +13187,7 @@
       "issn": "1082-6084",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2025/Moore2025_Ancient_Alkaloid_Modern_Opioid_Dependence.md"
     },
     {
@@ -12593,6 +13198,7 @@
       "year": 2025,
       "doi": "10.3389/fphar.2025.1744383",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -12630,6 +13236,7 @@
       "issn": "1663-9812",
       "licence_type": "cc-by",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Nicolas2025_Reward_System_Transdiagnostic.md"
     },
     {
@@ -12641,6 +13248,7 @@
       "year": 2025,
       "doi": "10.1163/9789004729759_022",
       "primary_category": "GREEN",
+      "document_type": "guideline",
       "secondary_categories": [
         "BLUE"
       ],
@@ -12692,6 +13300,7 @@
       "issn": null,
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2025/Polanco2025_War_Trauma_Ibogaine_5-MeO.md"
     },
     {
@@ -12702,6 +13311,7 @@
       "year": 2025,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "thesis",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -12737,10 +13347,11 @@
       "pmcid": null,
       "open_access": true,
       "publisher": null,
-      "body_format": "hybrid",
+      "body_format": "vault-analytical",
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/QuinnWilliams2025_PhD_Ibogaine_Buproprion_Monoamine_Transporters.md"
     },
     {
@@ -12753,6 +13364,7 @@
       "year": 2025,
       "doi": "10.11606/t.17.2025.tde-14072025-135706",
       "primary_category": "BLUE",
+      "document_type": "clinical-trial",
       "secondary_categories": [
         "RED"
       ],
@@ -12798,6 +13410,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Rocha2025_PhD_Ibogaine_Alcohol_AUD.md"
     },
     {
@@ -12808,6 +13421,7 @@
       "year": 2025,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -12841,6 +13455,7 @@
       "issn": "1973-2880",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Samorini2025_Studies_Iboga_Cults_Ethnobotanical_Complex.md"
     },
     {
@@ -12851,6 +13466,7 @@
       "year": 2025,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -12885,6 +13501,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Sijic2025_Total_Synthesis_Review.md"
     },
     {
@@ -12896,6 +13513,7 @@
       "year": 2025,
       "doi": "10.1057/s41285-025-00220-1",
       "primary_category": "WHITE",
+      "document_type": "qualitative",
       "secondary_categories": [
         "GREEN"
       ],
@@ -12933,6 +13551,7 @@
       "issn": "1477-822X",
       "licence_type": "cc-by",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2025/Soderberg2025_Medical_Subculture_Risk_Management.md"
     },
     {
@@ -12943,15 +13562,17 @@
       "year": 2025,
       "doi": null,
       "primary_category": "BLUE",
-      "secondary_categories": null,
-      "evidence_level": "cohort",
+      "document_type": "thesis",
+      "secondary_categories": [
+        "PURPLE"
+      ],
+      "evidence_level": "qualitative",
       "tags": [
         "topic/veterans",
         "topic/ptsd",
         "topic/tbi",
         "topic/phenomenology",
         "topic/psychiatric",
-        "topic/protocol",
         "topic/combination",
         "method/qualitative"
       ],
@@ -12978,10 +13599,11 @@
       "pmcid": null,
       "open_access": true,
       "publisher": null,
-      "body_format": "narrative",
+      "body_format": "vault-analytical",
       "issn": null,
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2025/Staveley2025_PhD_Ibogaine_Veterans_PTSD.md"
     },
     {
@@ -12995,6 +13617,7 @@
       "year": 2025,
       "doi": "10.1080/02791072.2025.2491385",
       "primary_category": "BLUE",
+      "document_type": "systematic-review",
       "secondary_categories": [
         "GREEN"
       ],
@@ -13023,7 +13646,7 @@
         "Concurrent methadone use without stable dosing (trial-specific)",
         "Abnormal baseline ECG findings (QTcF >450 ms in NCT06480981)"
       ],
-      "dosing_range": "Ibogaine: 20–600 mg fixed or 3–12 mg/kg weight-based; Noribogaine: 3–180 mg (across 9 trials)",
+      "dosing_range": "Ibogaine: 20–600 mg fixed or 3–15 mg/kg weight-based; Noribogaine: 3–180 mg (across 9 trials)",
       "route": "oral",
       "source_pdf": "2025/Swieczkowski2025_Clinical_Trials_Landscape.pdf",
       "journal": "Journal of Psychoactive Drugs",
@@ -13040,6 +13663,7 @@
       "issn": "2159-9777",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2025/Swieczkowski2025_Clinical_Trials_Landscape.md"
     },
     {
@@ -13050,6 +13674,7 @@
       "year": 2025,
       "doi": null,
       "primary_category": "PURPLE",
+      "document_type": "thesis",
       "secondary_categories": [
         "BLUE"
       ],
@@ -13086,10 +13711,11 @@
       "pmcid": null,
       "open_access": true,
       "publisher": null,
-      "body_format": "hybrid",
+      "body_format": "vault-analytical",
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2025/Underwood2025_PhD_Experiences_Part_of_Journey.md"
     },
     {
@@ -13110,6 +13736,7 @@
       "year": 2025,
       "doi": "10.1038/s44220-025-00463-x",
       "primary_category": "BLUE",
+      "document_type": "observational",
       "secondary_categories": [
         "RED"
       ],
@@ -13152,6 +13779,7 @@
       "issn": "2731-6076",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2025/Williams2025_Magnesium_Ibogaine_TBI.md"
     },
     {
@@ -13162,6 +13790,7 @@
       "year": 2025,
       "doi": "10.1016/j.glmedi.2025.100213",
       "primary_category": "WHITE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -13199,6 +13828,7 @@
       "issn": "2949-916X",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2025/Yockey2025_Reconsidering_Ibogaine.md"
     },
     {
@@ -13209,6 +13839,7 @@
       "year": 2026,
       "doi": "10.1111/add.70319",
       "primary_category": "RED",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -13253,6 +13884,7 @@
       "issn": "1360-0443",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2026/Brunt2026_Cardiovascular_Complications_Review.md"
     },
     {
@@ -13270,6 +13902,7 @@
       "year": 2026,
       "doi": "10.1017/neu.2026.10059",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": [
         "RED",
         "BLUE"
@@ -13316,6 +13949,7 @@
       "issn": "1601-5215",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2026/Calvey2026_Neurorestorative_Properties_Ibogaine.md"
     },
     {
@@ -13328,6 +13962,7 @@
       "year": 2026,
       "doi": "10.3390/molecules31030545",
       "primary_category": "RED",
+      "document_type": "systematic-review",
       "secondary_categories": null,
       "evidence_level": "systematic-review",
       "tags": [
@@ -13371,6 +14006,7 @@
       "issn": "1420-3049",
       "licence_type": "cc-by",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2026/Esperanca2026_Cardiac_Safety_Translational_Perspectives_Scoping_Review.md"
     },
     {
@@ -13399,6 +14035,7 @@
       "year": 2026,
       "doi": "10.1016/j.isci.2026.115121",
       "primary_category": "BLUE",
+      "document_type": "observational",
       "secondary_categories": [
         "RED",
         "ORANGE"
@@ -13443,6 +14080,7 @@
       "issn": "2589-0042",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2026/Geoly2026_Cortical_Thickness_Brain_Age_MISTIC.md"
     },
     {
@@ -13454,6 +14092,7 @@
       "year": 2026,
       "doi": "10.20944/preprints202601.2298.v1",
       "primary_category": "ORANGE",
+      "document_type": "review",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -13490,6 +14129,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2026/Grundmann2026_Indole_Alkaloids_Biased_Opioid_Receptor_Modulators.md"
     },
     {
@@ -13508,16 +14148,16 @@
       "year": 2026,
       "doi": "10.1016/j.nsa.2025.106393",
       "primary_category": "ORANGE",
+      "document_type": "preclinical",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
         "topic/stimulant",
         "topic/efficacy",
-        "topic/combination",
         "method/preclinical"
       ],
       "clinical_significance": "moderate",
-      "key_findings": "Rat IVSA: ibogaine (10+40mg/kg) and psilocybin reduced cocaine-seeking and facilitated extinction. Novel two-dose protocol. No reinstatement effects.",
+      "key_findings": "Rat IVSA: ibogaine (10 + 40 mg/kg) and psilocybin reduced cocaine-seeking and facilitated extinction. Novel two-dose protocol. No reinstatement effects.",
       "sample_size": null,
       "mortality_count": null,
       "mortality_scope": null,
@@ -13525,8 +14165,8 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": null,
-      "route": null,
+      "dosing_range": "ibogaine 10 + 40 mg/kg i.p.; psilocybin 1.25 + 5 mg/kg i.p.",
+      "route": "intraperitoneal",
       "source_pdf": "2026/Koutrouli2026_Psilocybin_Ibogaine_Cocaine_Addiction.pdf",
       "journal": "Neuroscience Applied",
       "aliases": [
@@ -13538,10 +14178,11 @@
       "pmcid": null,
       "open_access": false,
       "publisher": "Elsevier",
-      "body_format": "academic-retained",
+      "body_format": "vault-analytical",
       "issn": "2772-4085",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": true,
       "filepath": "2026/Koutrouli2026_Psilocybin_Ibogaine_Cocaine_Addiction.md"
     },
     {
@@ -13560,6 +14201,7 @@
       "year": 2026,
       "doi": "10.1038/s44184-026-00185-7",
       "primary_category": "PURPLE",
+      "document_type": "qualitative",
       "secondary_categories": null,
       "evidence_level": "qualitative",
       "tags": [
@@ -13596,6 +14238,7 @@
       "issn": "2731-4251",
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "2026/Olash2026_Subjective_Experience_Magnesium_Ibogaine.md"
     },
     {
@@ -13608,6 +14251,7 @@
       "year": 2026,
       "doi": "10.1097/ADM.0000000000001645",
       "primary_category": "WHITE",
+      "document_type": "commentary",
       "secondary_categories": [
         "RED",
         "BLUE"
@@ -13647,6 +14291,7 @@
       "issn": "1935-3227",
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "2026/Terasaki2026_Ibogaine_OUD_Unrecognised_Risk.md"
     },
     {
@@ -13657,11 +14302,15 @@
       "year": 2014,
       "doi": null,
       "primary_category": "GREEN",
+      "document_type": "guideline",
       "secondary_categories": null,
       "evidence_level": "guideline",
       "tags": [
         "topic/harm-reduction",
-        "topic/protocol"
+        "topic/protocol",
+        "topic/opioid",
+        "topic/withdrawal",
+        "topic/adverse-event"
       ],
       "clinical_significance": "moderate",
       "key_findings": "NZ client preparation document: informed consent, treatment expectations, safety protocols for ibogaine therapy.",
@@ -13689,10 +14338,11 @@
       "pmcid": null,
       "open_access": true,
       "publisher": null,
-      "body_format": "narrative",
+      "body_format": "vault-analytical",
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": true,
       "filepath": "Clinical_Guidelines/Aotearoa2014_Client_Info_Sheet.md"
     },
     {
@@ -13710,6 +14360,7 @@
       "year": 2015,
       "doi": null,
       "primary_category": "GREEN",
+      "document_type": "guideline",
       "secondary_categories": null,
       "evidence_level": "guideline",
       "tags": [
@@ -13781,6 +14432,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Clinical_Guidelines/GITA2015_Clinical_Guidelines.md"
     },
     {
@@ -13803,6 +14455,7 @@
       "year": 2003,
       "doi": null,
       "primary_category": "GREEN",
+      "document_type": "guideline",
       "secondary_categories": [
         "RED",
         "WHITE",
@@ -13864,6 +14517,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Clinical_Guidelines/Lotsof2003_Ibogaine_Therapy_Manual.md"
     },
     {
@@ -13874,6 +14528,7 @@
       "year": 2014,
       "doi": null,
       "primary_category": "GREEN",
+      "document_type": "guideline",
       "secondary_categories": null,
       "evidence_level": "guideline",
       "tags": [
@@ -13929,6 +14584,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Clinical_Guidelines/Patterson2014_IACT_Aotearoa_NZ_Guidelines_Integrated_Therapy.md"
     },
     {
@@ -13939,6 +14595,7 @@
       "year": 2003,
       "doi": null,
       "primary_category": "GREEN",
+      "document_type": "guideline",
       "secondary_categories": null,
       "evidence_level": "guideline",
       "tags": [
@@ -13984,6 +14641,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Clinical_Guidelines/Wells2003_Notes_for_Ibogaine_Treatment_Providers.md"
     },
     {
@@ -13995,6 +14653,7 @@
       "year": 1996,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "interview-transcript",
       "secondary_categories": [
         "ORANGE",
         "BLUE",
@@ -14043,6 +14702,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Primary_Sources/1996_WBAI_Mash_FDA_Trials_Ibogaine.md"
     },
     {
@@ -14053,6 +14713,7 @@
       "year": 2010,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "conference-talk",
       "secondary_categories": [
         "GREEN",
         "BLUE"
@@ -14093,6 +14754,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Primary_Sources/2010_Horizons_Clare_Wilkins_400_Sessions.md"
     },
     {
@@ -14103,6 +14765,7 @@
       "year": 2010,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "conference-talk",
       "secondary_categories": [
         "GREEN",
         "RED"
@@ -14143,6 +14806,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Primary_Sources/2010_MAPS_Clare_Wilkins_Evolution.md"
     },
     {
@@ -14153,6 +14817,7 @@
       "year": 2014,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "conference-talk",
       "secondary_categories": [
         "GREEN",
         "RED"
@@ -14194,6 +14859,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Primary_Sources/2014_11_MAPS_Clare_Wilkins_Architecture_of_Emergency.md"
     },
     {
@@ -14204,6 +14870,7 @@
       "year": 2017,
       "doi": null,
       "primary_category": "GREEN",
+      "document_type": "conference-talk",
       "secondary_categories": [
         "BLUE",
         "RED"
@@ -14244,6 +14911,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Primary_Sources/2017_BC_Clare_Wilkins_Methadone_Detox.md"
     },
     {
@@ -14254,6 +14922,7 @@
       "year": 2017,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "conference-talk",
       "secondary_categories": [
         "GREEN"
       ],
@@ -14292,6 +14961,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics.md"
     },
     {
@@ -14302,6 +14972,7 @@
       "year": 2017,
       "doi": null,
       "primary_category": "GREEN",
+      "document_type": "conference-talk",
       "secondary_categories": [
         "BLUE",
         "RED"
@@ -14342,6 +15013,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Primary_Sources/2017_PS_Clare_Wilkins_Methadone_Detox.md"
     },
     {
@@ -14353,6 +15025,7 @@
       "year": 2020,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "interview-transcript",
       "secondary_categories": [
         "GREEN",
         "RED"
@@ -14393,6 +15066,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Primary_Sources/2020_MYEBOGA_Clare_Wilkins_Interview.md"
     },
     {
@@ -14403,6 +15077,7 @@
       "year": 2021,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "conference-talk",
       "secondary_categories": [
         "PURPLE"
       ],
@@ -14440,6 +15115,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Primary_Sources/2021_Microdose_Clare_Wilkins_Holotropic_Perspective.md"
     },
     {
@@ -14450,6 +15126,7 @@
       "year": 1990,
       "doi": null,
       "primary_category": "PURPLE",
+      "document_type": "primary-source",
       "secondary_categories": [
         "WHITE"
       ],
@@ -14489,6 +15166,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Primary_Sources/INTASH1990_Ibogaine_Experience_Reflections.md"
     },
     {
@@ -14499,6 +15177,7 @@
       "year": 2025,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "primary-source",
       "secondary_categories": [
         "GREEN",
         "BLUE"
@@ -14537,6 +15216,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Primary_Sources/Wachtel2025_Bastiaans_Ibogaine_Historical_Account.md"
     },
     {
@@ -14547,6 +15227,7 @@
       "year": 2008,
       "doi": null,
       "primary_category": "PURPLE",
+      "document_type": "primary-source",
       "secondary_categories": [
         "WHITE"
       ],
@@ -14586,6 +15267,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/Albert2008_MyEboga_Experience_Reports.md"
     },
     {
@@ -14596,6 +15278,7 @@
       "year": 2023,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "primary-source",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -14637,6 +15320,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/Alper2023_Expert_Testimony_KY.md"
     },
     {
@@ -14647,10 +15331,12 @@
       "year": 2024,
       "doi": null,
       "primary_category": "RED",
+      "document_type": "journalism",
       "secondary_categories": null,
       "evidence_level": "journalism",
       "tags": [
         "topic/adverse-event",
+        "topic/cardiac",
         "topic/protocol",
         "topic/policy",
         "method/journalism"
@@ -14678,10 +15364,11 @@
       "pmcid": null,
       "open_access": true,
       "publisher": null,
-      "body_format": "narrative",
+      "body_format": "vault-analytical",
       "issn": null,
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": true,
       "filepath": "Other/Busby2024_Beond_Death_Investigation.md"
     },
     {
@@ -14693,6 +15380,7 @@
       "year": 1997,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "book-chapter",
       "secondary_categories": null,
       "evidence_level": "qualitative",
       "tags": [
@@ -14729,6 +15417,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch1.md"
     },
     {
@@ -14740,6 +15429,7 @@
       "year": 1995,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "GREEN"
       ],
@@ -14780,6 +15470,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch10.md"
     },
     {
@@ -14791,6 +15482,7 @@
       "year": 1995,
       "doi": null,
       "primary_category": "PURPLE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "WHITE",
         "GREEN"
@@ -14836,6 +15528,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch11.md"
     },
     {
@@ -14847,6 +15540,7 @@
       "year": 1995,
       "doi": null,
       "primary_category": "PURPLE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "WHITE",
         "ORANGE"
@@ -14891,6 +15585,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch12.md"
     },
     {
@@ -14902,6 +15597,7 @@
       "year": 1995,
       "doi": null,
       "primary_category": "PURPLE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "WHITE",
         "ORANGE"
@@ -14946,6 +15642,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch13.md"
     },
     {
@@ -14957,6 +15654,7 @@
       "year": 1995,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "WHITE",
         "PURPLE",
@@ -15006,6 +15704,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch14.md"
     },
     {
@@ -15017,6 +15716,7 @@
       "year": 1995,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "WHITE",
         "RED"
@@ -15061,10 +15761,11 @@
       "pmcid": null,
       "open_access": true,
       "publisher": null,
-      "body_format": "vault-analytical",
+      "body_format": "narrative",
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch15.md"
     },
     {
@@ -15076,6 +15777,7 @@
       "year": 1995,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "ORANGE",
         "PURPLE"
@@ -15123,6 +15825,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch16.md"
     },
     {
@@ -15134,6 +15837,7 @@
       "year": 1995,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "ORANGE",
         "PURPLE",
@@ -15183,6 +15887,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch17.md"
     },
     {
@@ -15194,6 +15899,7 @@
       "year": 1995,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "RED",
         "ORANGE",
@@ -15243,6 +15949,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch18.md"
     },
     {
@@ -15254,6 +15961,7 @@
       "year": 1997,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "PURPLE",
         "ORANGE"
@@ -15294,6 +16002,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch2.md"
     },
     {
@@ -15305,6 +16014,7 @@
       "year": 1997,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "book-chapter",
       "secondary_categories": null,
       "evidence_level": "qualitative",
       "tags": [
@@ -15342,6 +16052,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch3.md"
     },
     {
@@ -15353,6 +16064,7 @@
       "year": 1997,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "PURPLE"
       ],
@@ -15392,6 +16104,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch4.md"
     },
     {
@@ -15403,6 +16116,7 @@
       "year": 1995,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "ORANGE"
       ],
@@ -15443,6 +16157,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch5.md"
     },
     {
@@ -15454,6 +16169,7 @@
       "year": 1995,
       "doi": null,
       "primary_category": "BLUE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "PURPLE",
         "WHITE"
@@ -15498,10 +16214,11 @@
       "pmcid": null,
       "open_access": true,
       "publisher": null,
-      "body_format": "narrative",
+      "body_format": "vault-analytical",
       "issn": null,
-      "licence_type": "unknown",
+      "licence_type": "freely-distributed",
       "licence_verified": false,
+      "references_stripped": true,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch6.md"
     },
     {
@@ -15513,6 +16230,7 @@
       "year": 1995,
       "doi": null,
       "primary_category": "ORANGE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "WHITE",
         "BLUE"
@@ -15558,6 +16276,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch7.md"
     },
     {
@@ -15569,6 +16288,7 @@
       "year": 1995,
       "doi": null,
       "primary_category": "PURPLE",
+      "document_type": "book-chapter",
       "secondary_categories": [
         "WHITE",
         "BLUE"
@@ -15610,6 +16330,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/DeRienzo1995_Ibogaine_Story_Ch8.md"
     },
     {
@@ -15620,6 +16341,7 @@
       "year": 2024,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "journalism",
       "secondary_categories": [
         "BLUE",
         "PURPLE"
@@ -15662,6 +16384,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/Evans2024_Soneira_Ibogaine_Scramble.md"
     },
     {
@@ -15672,6 +16395,7 @@
       "year": 2026,
       "doi": null,
       "primary_category": "RED",
+      "document_type": "journalism",
       "secondary_categories": [
         "WHITE"
       ],
@@ -15707,8 +16431,9 @@
       "publisher": null,
       "body_format": "vault-analytical",
       "issn": null,
-      "licence_type": "unknown",
-      "licence_verified": false,
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": null,
       "filepath": "Other/Evans2026_Ibogaine_Fatalities_Cover_Ups.md"
     },
     {
@@ -15719,6 +16444,7 @@
       "year": 2008,
       "doi": null,
       "primary_category": "PURPLE",
+      "document_type": "primary-source",
       "secondary_categories": [
         "WHITE"
       ],
@@ -15760,6 +16486,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Other/MyEboga2008_Experience_Reports.md"
     },
     {
@@ -15770,6 +16497,7 @@
       "year": 2018,
       "doi": null,
       "primary_category": "RED",
+      "document_type": "primary-source",
       "secondary_categories": [
         "WHITE"
       ],
@@ -15820,6 +16548,7 @@
       "issn": null,
       "licence_type": "all-rights-reserved",
       "licence_verified": true,
+      "references_stripped": null,
       "filepath": "Other/MyEboga2018_Fatalities_1990-2010.md"
     },
     {
@@ -15830,6 +16559,7 @@
       "year": 2022,
       "doi": null,
       "primary_category": "GREEN",
+      "document_type": "industry-report",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -15866,6 +16596,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Industry_Documents/Beond2022_Clinical_Summary.md"
     },
     {
@@ -15877,6 +16608,7 @@
       "year": 2019,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "policy-report",
       "secondary_categories": null,
       "evidence_level": "qualitative",
       "tags": [
@@ -15910,6 +16642,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Industry_Documents/ICEERS2019_Report_Phase1.md"
     },
     {
@@ -15921,6 +16654,7 @@
       "year": 2020,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "policy-report",
       "secondary_categories": [
         "PURPLE",
         "GREEN"
@@ -15961,6 +16695,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Industry_Documents/ICEERS2020_Future_Iboga_Gabon.md"
     },
     {
@@ -15971,6 +16706,7 @@
       "year": 2025,
       "doi": null,
       "primary_category": "WHITE",
+      "document_type": "policy-report",
       "secondary_categories": null,
       "evidence_level": "review",
       "tags": [
@@ -16007,6 +16743,7 @@
       "issn": null,
       "licence_type": "unknown",
       "licence_verified": false,
+      "references_stripped": null,
       "filepath": "Industry_Documents/LAPPA2025_Ibogaine_Legislative_Analysis.md"
     }
   ]

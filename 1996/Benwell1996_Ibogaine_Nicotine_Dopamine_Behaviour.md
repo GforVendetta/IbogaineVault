@@ -35,7 +35,7 @@ contraindications: []
 dosing_range: "40 mg/kg IP (ibogaine in 25% ethanol/sterile water, 1.0 ml/kg)"
 route: intraperitoneal
 open_access: true
-body_format: hybrid
+body_format: vault-analytical
 licence_type: unknown
 licence_verified: false
 ---

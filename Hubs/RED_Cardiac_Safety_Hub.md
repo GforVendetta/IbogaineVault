@@ -17,6 +17,23 @@ herg_data: false
 
 > **This is life-or-death territory.** Every fatality in the ibogaine literature traces back to cardiac mechanisms—specifically hERG channel blockade causing QTc prolongation. These papers document the problem AND the emerging solutions.
 
+### Contents
+
+- [The Core Problem: hERG Blockade](#the-core-problem-herg-blockade)
+- [Foundational Toxicology](#foundational-toxicology)
+- [Authoritative Reviews](#authoritative-reviews)
+- [Foundational Electrophysiology](#foundational-electrophysiology)
+- [Controlled Clinical Safety Data](#controlled-clinical-safety-data)
+- [Fatality Case Reports](#fatality-case-reports)
+- [Clinical Toxicology & Pharmacokinetics](#clinical-toxicology-pharmacokinetics)
+- [Adverse Events Reviews](#adverse-events-reviews)
+- [Preclinical Safety Data](#preclinical-safety-data)
+- [The Solution: Magnesium Cardioprotection](#the-solution-magnesium-cardioprotection)
+- [Cross-References: Secondary RED Papers](#cross-references-secondary-red-papers)
+- [Clinical Implications Summary](#clinical-implications-summary)
+- [How We Got Here: The Cardiac Safety Story](#how-we-got-here-the-cardiac-safety-story)
+- [Related Hubs](#related-hubs)
+
 ---
 
 ## The Core Problem: hERG Blockade
@@ -284,7 +301,7 @@ These papers have a different primary category but contain clinically significan
 - [GITA 2015 Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — Industry gold standard for cardiac screening protocols
 - [Rocha 2023: USP Safety Protocols](../2023/Rocha2023_USP_Safety_Protocols.md) — K+ 4.5-5.5, Mg 1.5-2.5 targets
 - [Rocha 2023: Setting Factors](../2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) — Systematic review of what makes ibogaine safer
-- [Bouso 2019](../2019/Bouso2019_Product_Quality.md) — Product quality analysis relevant to dose accuracy and cardiac risk
+- [Bouso 2020](../2020/Bouso2020_Product_Quality.md) — Product quality analysis relevant to dose accuracy and cardiac risk
 - [Cherian 2024 (Primer)](../2024/Cherian2024_Ibogaine_Primer_Clinicians.md) — Clinical primer including cardiac screening recommendations
 
 ### WHITE — History & Policy
@@ -350,7 +367,7 @@ The clinical and computational data converged. [Schep 2016](../2016/Schep2016_Ib
 
 ---
 
-> [!warning] Never Forget
+> [!WARNING] Never Forget
 > Every death in this literature was preventable with proper screening and monitoring. The evidence shows controlled clinical settings achieve ZERO serious cardiac events. The deaths occur in uncontrolled settings without protocols. But even the best screening cannot eliminate all risk ([Shawn 2012](../2012/Shawn2012_Ibogaine_TdP_VT.md)); continuous cardiac monitoring and magnesium co-administration remain essential.
 
 ---

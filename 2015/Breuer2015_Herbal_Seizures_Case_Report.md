@@ -13,8 +13,8 @@ tags:
   - topic/toxicity
   - topic/adverse-event
   - method/case-report
-  - topic/protocol
-key_findings: "SEIZURE CASE: 22yo male, extreme 38g dose triggered generalised tonic-clonic seizures. Suggests ibogaine proconvulsive at high doses. Treated with midazolam/levetiracetam."
+  - topic/mechanism
+key_findings: "Seizure case report: 22yo male, extreme 38 g dose triggered generalised tonic-clonic seizures. Suggests ibogaine proconvulsive at high doses. Treated with midazolam/levetiracetam."
 doi: "10.1186/s13256-015-0731-4"
 pmid: "26518760"
 pmcid: "PMC4628299"
@@ -30,22 +30,20 @@ sample_size: 1
 qtc_data: false
 electrolyte_data: false
 herg_data: false
-dosing_range: "38g root bark (~35mg/kg estimated at 7% ibogaine content)"
+dosing_range: "38 g root bark (~35 mg/kg estimated at 7% ibogaine content)"
 route: oral
 contraindications:
   - "Seizure disorders or epilepsy"
   - "High-dose iboga root bark ingestion (proconvulsive at high doses)"
 open_access: true
 publisher: "BioMed Central"
-body_format: academic-retained
+body_format: vault-analytical
 licence_type: cc-by
-licence_verified: false
+licence_verified: true
+references_stripped: false
 ---
 
-# “Herbal seizures” – atypical symptoms after ibogaine intoxication: a case report
-
-> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
-
+# "Herbal seizures" – atypical symptoms after ibogaine intoxication: a case report
 
 **Journal of Medical Case Reports** (2015) 9:243
 **DOI:** 10.1186/s13256-015-0731-4
@@ -66,37 +64,22 @@ licence_verified: false
 
 ---
 
-## Introduction
+## Key Findings
 
-The use of synthetic legal or semi-legal substances is increasing rapidly, especially in patients under the age of 30 years. One such substance is ibogaine, a natural alkaloid extracted from the roots of the rain forest shrub *Tabernanthe iboga*.
+Knowledge about the potential side effects of ibogaine is sparse. Sudden deaths have been related to ibogaine use, usually due to concomitant medication, comorbidities, or self-treatment for detoxification. Most reports note fatal cardiac symptoms with QT prolongation and arrhythmias. In contrast, this patient survived without severe ECG abnormalities.
 
-Ibogaine is known in alternative and rural medicine. In Gabon, it is used for initiation ceremonies to induce a near-death experience for psychological purposes and to produce a rural-spiritual contact with the ancestors. It acts as a traditional "high" that includes hallucinations and feelings of depersonalization.
+Alper et al. reported a patient with seizures directly related to ibogaine (not used for detox). In our case, the patient had no history of drug abuse or interaction with prescribed substances, excluding those as triggers.
 
-In Western countries, the substance is used off-label and experimentally for the specific indication of detoxification from opiates, stimulants, alcohol and nicotine; in particular, it is used to treat withdrawal symptoms.
+**Dosage Analysis:**
+While the exact concentration in the dried root bark is unknown, a dose of **38 g** is high compared to literature reports of 2 to 30 g.
 
-**Pharmacology and Mechanism:**
+* Assuming a 7% ibogaine concentration, this corresponds to **2260 mg** or **35 mg/kg**.
 
-* 
-**Anticonvulsive/Stimulant Effects:** Anticonvulsive and stimulant *in vitro* and *in vivo* effects were described for ibogaine.
-
-* 
-**Forms:** The most commonly used form is the hydrochloride salt of ibogaine (HCl), but alkaloid extracts or dried root bark are also used.
-
-* 
-**Neurotransmission:** Experimental findings suggested that ibogaine elevates plasma prolactin and corticosterone levels and that it is involved in decreasing dopamine (DA) neurotransmission. It also decreases neurotransmission of serotonin receptors (5-hydroxytryptamine; 5-HT) in the striatum.
-
-* 
-**NMDA Antagonism:** The anticonvulsive mode of action occurs via an N-methyl-d-aspartate (NMDA) receptor antagonism, a finding that has been well documented in experimental and therapeutic examinations.
-
-**Psychoactive State:**
-The psychoactive state associated with ibogaine has been likened to a waking dream/dreamy state that sometimes includes interrogatory verbal exchanges. Another described experience is panoramic memory or the recall of rapid dense successions of autobiographical visual memories. These experiences have been associated with functional muscarinic cholinergic effects, which are prominent in the mechanisms of dreaming and memory.
-
-**Dosage and Legality:**
-Ibogaine is used most frequently as a single oral dose in the range of 10 to  of body weight. In the USA and most European countries, ibogaine is classified as an illegal drug.
+* It is assumed that at this high dose, ibogaine acted as a **proconvulsive drug**, whereas in lower doses it is generally supposed to be anticonvulsive.
 
 ---
 
-## Case Presentation
+## Case Details
 
 **Patient Profile:** A 22-year-old white man in good physical health (height 184 cm; weight 76.6 kg) used ibogaine for the first time.
 
@@ -168,7 +151,7 @@ timeline
 
 ---
 
-## Laboratory Findings
+## Laboratory and Diagnostic Findings
 
 **Table 1: Apparatus and laboratory findings during the observation period after ibogaine intoxication**
 
@@ -194,14 +177,37 @@ Note: Pathological findings are marked in **bold** (represented here by bold tex
 
 ---
 
-## Discussion
+## Pharmacological Background
 
-Knowledge about the potential side effects of ibogaine is sparse.
+The use of synthetic legal or semi-legal substances is increasing rapidly, especially in patients under the age of 30 years. One such substance is ibogaine, a natural alkaloid extracted from the roots of the rain forest shrub *Tabernanthe iboga*.
 
-* **Cardiovascular Risks:** Sudden deaths have been related to ibogaine use, usually due to concomitant medication, comorbidities, or self-treatment for detoxification. Most reports note fatal cardiac symptoms with QT prolongation and arrhythmias. In contrast, this patient survived without severe ECG abnormalities.
+Ibogaine is known in alternative and rural medicine. In Gabon, it is used for initiation ceremonies to induce a near-death experience for psychological purposes and to produce a rural-spiritual contact with the ancestors. It acts as a traditional "high" that includes hallucinations and feelings of depersonalization.
+
+In Western countries, the substance is used off-label and experimentally for the specific indication of detoxification from opiates, stimulants, alcohol and nicotine; in particular, it is used to treat withdrawal symptoms.
+
+**Pharmacology and Mechanism:**
 
 * 
-**Seizures:** Alper et al. reported a patient with seizures directly related to ibogaine (not used for detox). In our case, the patient had no history of drug abuse or interaction with prescribed substances, excluding those as triggers.
+**Anticonvulsive/Stimulant Effects:** Anticonvulsive and stimulant *in vitro* and *in vivo* effects were described for ibogaine.
+
+* 
+**Forms:** The most commonly used form is the hydrochloride salt of ibogaine (HCl), but alkaloid extracts or dried root bark are also used.
+
+* 
+**Neurotransmission:** Experimental findings suggested that ibogaine elevates plasma prolactin and corticosterone levels and that it is involved in decreasing dopamine (DA) neurotransmission. It also decreases neurotransmission of serotonin receptors (5-hydroxytryptamine; 5-HT) in the striatum.
+
+* 
+**NMDA Antagonism:** The anticonvulsive mode of action occurs via an N-methyl-d-aspartate (NMDA) receptor antagonism, a finding that has been well documented in experimental and therapeutic examinations.
+
+**Psychoactive State:**
+The psychoactive state associated with ibogaine has been likened to a waking dream/dreamy state that sometimes includes interrogatory verbal exchanges. Another described experience is panoramic memory or the recall of rapid dense successions of autobiographical visual memories. These experiences have been associated with functional muscarinic cholinergic effects, which are prominent in the mechanisms of dreaming and memory.
+
+**Dosage and Legality:**
+Ibogaine is used most frequently as a single oral dose in the range of 10 to  of body weight. In the USA and most European countries, ibogaine is classified as an illegal drug.
+
+---
+
+## Mechanism of Action
 
 **Mechanism of Action Debate:**
 The induction of seizures is rare and contrasts with the supposed anticonvulsive mode of action via **NMDA receptor antagonism**.
@@ -211,24 +217,25 @@ The induction of seizures is rare and contrasts with the supposed anticonvulsive
 
 2. **Disinhibition/Glucocorticoids:** A possible explanation is enhanced disinhibition by dose-dependent suppression of inhibitory interneurons. Ibogaine, like MK-801 (dizocilpine), stimulates glucocorticoid release, which increases seizure susceptibility. MK-801 has been shown to paradoxically enhance electrographic seizures.
 
-**Dosage Analysis:**
-While the exact concentration in the dried root bark is unknown, a dose of **38 g** is high compared to literature reports of 2 to 30 g.
-
-* Assuming a 7% ibogaine concentration, this corresponds to **2260 mg** or **35 mg/kg**.
-
-* It is assumed that at this high dose, ibogaine acted as a **proconvulsive drug**, whereas in lower doses it is generally supposed to be anticonvulsive.
+This finding could stimulate further experimental studies to examine the hypothesis of a dose-dependent convulsive mode of action of ibogaine.
 
 ---
 
-## Conclusions
+## Clinical Implications
 
-It seems that in addition to its psychotropic and cardiac risk profile, ibogaine also has a substantial **proconvulsive mode of action** that is atypical given its NMDA antagonism, and this is potentially dose dependent.
+This case introduces seizure risk as a clinically distinct dimension of ibogaine toxicity, separate from the cardiac dangers that dominate the safety literature. The ibogaine adverse event profile is overwhelmingly characterised by QTc prolongation and torsade de pointes — the mechanisms reviewed comprehensively by [Koenig & Hilber, 2015](Koenig2015_Cardiac_Mechanisms.md) — and seizures appear in neither the major fatality reviews nor the clinical guidelines as a primary screening concern. Breuer et al.'s observation that ibogaine acts as a proconvulsive agent at high doses therefore represents a genuinely novel safety signal, one that clinical screening protocols may need to accommodate.
+
+The pharmacological paradox is striking: ibogaine is a known NMDA receptor antagonist, and NMDA antagonism is conventionally anticonvulsive. That generalised tonic-clonic seizures occurred despite this mechanism suggests either that the proconvulsive pathways (possibly serotonergic or sigma receptor-mediated) overwhelm the NMDA-antagonist protection at supratherapeutic doses, or that the extremely high dose (estimated ~35 mg/kg from 38 g of root bark at 7% alkaloid content) produced neurotoxic effects qualitatively different from those at therapeutic ranges. This dose is roughly 3–4 times the upper end of the therapeutic window documented by [Alper et al., 2012](../2012/Alper2012_Ibogaine_Fatalities.md), placing it firmly in uncharted pharmacological territory.
+
+For clinical practice, the implications are twofold. First, seizure history should be considered among screening exclusion criteria alongside the cardiac and hepatic contraindications established in the [GITA Clinical Guidelines (2015)](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md). Second, the case underscores the dangers of unregulated iboga root bark use, where dose standardisation is impossible — the patient consumed crude root bark rather than pharmaceutical-grade ibogaine HCl, making precise dosing a matter of estimation rather than measurement. Emergency departments encountering ibogaine-related presentations should maintain awareness that seizure activity, not only cardiac arrhythmia, may require acute management, with benzodiazepines (midazolam) and anticonvulsants (levetiracetam) constituting the treatment approach documented here.
+
+---
+
+## Limitations
 
 * This finding is limited as it is a single case.
 
-* Future examinations should control for experimental findings postulating anticonvulsive effects.
-
-* Physicians should be aware of this clinical manifestation given the rising consumption of herbal substances.
+* The exact ibogaine concentration of the dried root bark used is unknown; the 7% estimate is based on previously reported concentrations.
 
 ---
 

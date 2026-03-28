@@ -1,0 +1,114 @@
+{
+  "reviews_processed": [
+    {
+      "filepath": "2020/Canessa2020_Ibogaine_Noribogaine_in_Tx_Review_Safety_Efficacy.md",
+      "processed_date": "2026-03-27",
+      "extractable_tables": true,
+      "primary_studies_matched": 6,
+      "discrepancies_found": 0,
+      "notes": "All 6 studies in Table 1 matched to vault entries. 1 mortality_scope review item flagged for human verification (Noller2017 incidental vs discrete). Brown2018 cited as 'Brown and Alper, 2017' — year mismatch reveals need for ±1 year fuzzy matching."
+    },
+    {
+      "filepath": "2012/Alper2012_Ibogaine_Fatalities.md",
+      "processed_date": "2026-03-27",
+      "extractable_tables": true,
+      "primary_studies_matched": 0,
+      "discrepancies_found": 1,
+      "notes": "Original case series (19 fatalities), not data extraction table citing published studies. Self-verification: 6/7 YAML fields match PDF. 1 discrepancy: electrolyte_data was true, corrected to false (paper discusses electrolyte risks but presents no measurement data). Cross-reference: mortality count 19 confirmed consistent with vault-wide mortality progression. Cheze2008 drowning death (2008) not in Alper2012's series — flagged for Arns analysis."
+    },
+    {
+      "filepath": "2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md",
+      "processed_date": "2026-03-27",
+      "extractable_tables": false,
+      "primary_studies_matched": 17,
+      "discrepancies_found": 2,
+      "notes": "Narrative review (no structured data extraction table in main PDF — tables in online-only supplementary materials). 17/18 cited studies matched to vault entries (15 exact, 2 fuzzy ±1yr). 1 not in vault: Matamoros-Castillo 2019. Self-verification: 8/8 YAML fields match PDF. Glue2015/2016 disambiguation resolved — (surname,year) tuple ambiguous for prolific authors; DOI matching recommended. No YAML corrections needed. ADDENDUM (supplementary .doc): 38 field comparisons across 17 studies. 2 data gap discrepancies: CloutierGill2016 and Knuijver2018 missing dosing_range/route in YAML (data exists in body text). QTc flags 17/17 match. Electrolyte flags all consistent. No YAML auto-corrections."
+    },
+    {
+      "filepath": "2026/Esperanca2026_Cardiac_Safety_Translational_Perspectives_Scoping_Review.md",
+      "processed_date": "2026-03-27",
+      "extractable_tables": true,
+      "primary_studies_matched": 21,
+      "discrepancies_found": 0,
+      "notes": "32-page scoping review with 3 structured tables (T1: efficacy 8 studies, T2: safety 10 studies, T3: preclinical 4 studies). 21/22 cited studies matched to vault entries (18 exact, 2 alt-name, 1 fuzzy ±1yr Noller2018→Noller2017). 1 not in vault: Helsley1997 (preclinical behavioural pharmacology, radial-arm maze). 0 sample_size discrepancies — all 18 comparable values match. Xu2000 and Kontrimaviciute2006 LCMS correctly null (non-human studies; schema: omit_when non-human). Self-verification: mortality_count 19 (cumulative-review from Alper2012) consistent. Kontrimaviciute2006 collision resolved correctly via alt-name matching."
+    },
+    {
+      "filepath": "2016/Belgers2016_Ibogaine_Addiction_Animal_Model_Review_Meta-analysis.md",
+      "processed_date": "2026-03-28",
+      "extractable_tables": true,
+      "primary_studies_matched": 12,
+      "discrepancies_found": 0,
+      "notes": "Preclinical meta-analysis (SYRCLE, 30 animal studies). Supplementary Table 3 (.doc format) obtained and extracted via macOS textutil. 12/30 included animal studies matched to vault entries. 7/7 comparable YAML fields match supplement data (dosing_range and route for Dworkin1995, Baumann2001, Xu2000, Maisonneuve1997). 1 field not comparable (Xu2000 dosing_range null in vault). Clinical studies cited in discussion only, not in meta-analysis. Self-verification: 18/18 YAML fields match PDF. No YAML corrections needed."
+    },
+    {
+      "filepath": "2017/DosSantos2017_Antiaddictive_Ibogaine_Systematic_Review.md",
+      "processed_date": "2026-03-28",
+      "extractable_tables": true,
+      "primary_studies_matched": 8,
+      "discrepancies_found": 1,
+      "notes": "PRISMA systematic review (8 human studies: 7 case series + 1 RCT). Table 1 complex multi-column layout — values verified against narrative text. All 8 cited studies matched to vault entries. 7/8 sample_size values matched initially. 1 discrepancy found and resolved: Alper2001 sample_size corrected 39→41 (PDF-verified). All dosing_range and route fields consistent. Glue2016 qtc_data confirmed."
+    },
+    {
+      "filepath": "2022/Kock2022_Systemic_Review_Clinical_Trials_Therapeutic_Applications_Ibogaine.md",
+      "processed_date": "2026-03-28",
+      "extractable_tables": true,
+      "primary_studies_matched": 23,
+      "discrepancies_found": 2,
+      "notes": "PRISMA systematic review (24 studies, N=705). Tables 1+2 extracted via Docling MCP. 23/24 studies matched to vault entries (21 exact, 1 fuzzy ±1yr Noller2018→Noller2017, 1 disambiguated Glue2015 via co-author). 1 not in vault: Geoffroy2017. 2 genuine discrepancies: (1) Malcolm2018 sample_size 40 vs 50 (pending PDF verification); (2) Malcolm2018 dosing_range null (data gap). 3 apparent discrepancies resolved as active-arm vs total-enrollment convention difference for DBPCT/RDBPCT studies (Glue2015 Noribogaine, Glue2016, Prior2014). Brown2019 and Forsyth2016 marked 0* and 0** by Kock (shared populations) — vault values correct. Mortality cross-reference: 2 in-study fatalities (Alper1999, Noller2017) confirmed. Schema-level finding: sample_size convention for placebo-controlled trials needs documentation."
+    },
+    {
+      "filepath": "2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md",
+      "processed_date": "2026-03-28",
+      "extractable_tables": true,
+      "primary_studies_matched": 9,
+      "discrepancies_found": 2,
+      "notes": "PRISMA systematic review of 12 clinical studies (9 completed, 3 ongoing). Table 1 extracted via PDF Tools MCP. 9/9 completed studies matched to vault entries. 2 discrepancies found after PDF verification: (1) Mash2000 sample_size 30 vs 27 — REVIEW ERROR (PDF confirms n=27 unambiguously; initial report incorrectly rationalised as convention difference); (2) Mash2001 dosing_range \"8-12 mg/kg\" in vault vs \"800 mg (10 mg/kg)\" in review — VAULT IMPRECISION (vault conflates broader Mash programme with specific 32-patient cohort; review is more precise). Self-verification 12/12 fields match. 3 ongoing trials not compared."
+    },
+    {
+      "filepath": "2023/Mosca2023_Ibogaine_Noribogaine_SUDs_Systematic_Review.md",
+      "processed_date": "2026-03-28",
+      "extractable_tables": true,
+      "primary_studies_matched": 30,
+      "discrepancies_found": 0,
+      "notes": "31-study systematic review (Current Neuropharmacology). Table 1 complex multi-page table, 6 continuation sections. 29/30 automated matches + 1 manual match (O'Connell2013→OConnell2015, 2yr citation error in review). 1 known Malcolm2018 N=40/50 convention difference (already resolved from Kock2022 — vault correct). 2 data gaps: Davis2017/Davis2018 route=null (review confirms oral). 3 citation year discrepancies: Hildyard (2016→2015), Brown (2017→2018), O'Connell (2013→2015). Duplicate reference number [55] for Mazoyer2013 and Alper2012 in review bibliography. 0 new YAML corrections needed."
+    },
+    {
+      "filepath": "2025/Swieczkowski2025_Clinical_Trials_Landscape.md",
+      "processed_date": "2026-03-28",
+      "extractable_tables": true,
+      "primary_studies_matched": 4,
+      "discrepancies_found": 1,
+      "notes": "Cross-sectional analysis of 9 registered clinical trials (not a traditional data extraction review). Table 1 is investigation summary of trial registrations, not study outcome data. 4/9 trials mapped to vault papers: 2014-000354-11→Knuijver2021/2024 (n=14 ✅), ACTRN12613000324718→Glue2015_CYP2D6 (n=24 registry vs 21 published — NOT COMPARABLE, registry target vs actual enrollment), ACTRN12612000821897→Glue2015_Noribogaine (n=36 ✅), ACTRN12613001064796→Glue2016_Noribogaine (n=27 ✅). All dosing_range and route fields consistent. 5/9 trials have no published outcome papers in vault. 1 self-verification discrepancy: Swieczkowski2025 own dosing_range YAML said 3–12 mg/kg but PDF documents RBR-9zpc27 as 15 mg/kg (men) — corrected to 3–15 mg/kg. Schema-level finding: registry-vs-publication sample_size can differ (planned enrollment vs actual)."
+    }
+  ],
+  "reviews_pending": [],
+  "last_run": "2026-03-28T21:00:00Z",
+  "total_discrepancies": 9,
+  "resolved_discrepancies": 9,
+  "unresolved_discrepancies": [],
+  "schema_level_findings": [
+    {
+      "finding": "active-arm-vs-total-enrollment",
+      "affected_studies": [
+        "Glue2015_Noribogaine_Ascending_Doses",
+        "Glue2016_Noribogaine_Opioid_Patients_Safety",
+        "Prior2014_Ibogaine_Cocaine_Pilot_RCT"
+      ],
+      "source_review": "Kock2022",
+      "status": "resolved_documented",
+      "notes": "Vault sample_size records total enrollment; Kock2022 records active-arm only. Consistent 1.5x (ascending-dose RDBPCT) and 2.0x (2-arm DBPCT) ratios confirm convention difference. Convention note added to schema_registry.yml sample_size field definition."
+    },
+    {
+      "finding": "registry-vs-publication-enrollment",
+      "affected_studies": [
+        "Glue2015_Ibogaine_CYP2D6_Activity"
+      ],
+      "source_review": "Swieczkowski2025",
+      "status": "resolved_documented",
+      "notes": "Trial registry ACTRN12613000324718 planned enrollment n=24; published paper reports n=21. Vault correctly records published value. Swieczkowski2025 used registry target as actual enrollment — a data extraction error in their review, not a vault issue."
+    }
+  ],
+  "resolution_notes": "Resolved 1-3: (1) Alper2012 electrolyte_data corrected true→false in session -q; (2) CloutierGill2016 dosing_range/route populated (enrichment); (3) Knuijver2018 dosing_range/route populated (enrichment). Verified 2026-03-28. Resolved 4: Alper2001 sample_size corrected 39→41 (PDF-verified). Resolved 5-6: Malcolm2018 (a) sample_size 50 confirmed correct — Kock2022's N=40 is the ASI-demographic-complete subset, not the primary COWS analysis cohort (N=50); (b) dosing_range/route populated from PDF: 18–20 mg/kg ibogaine HCl oral. Schema convention note added to schema_registry.yml. Resolved 8: Mash2001 dosing_range corrected from \"8-12 mg/kg oral ibogaine (human)\" to \"800 mg (10 mg/kg) ibogaine HCl fixed dose (n=32 cohort); broader Mash programme used 8, 10, or 12 mg/kg across >150 subjects\" — PDF-verified (The Alkaloids, 2001, Section V vs Section IX). Discovered via Rocha2023 cross-verification. Resolved 9: Swieczkowski2025 self-verification dosing_range corrected 3–12→3–15 mg/kg (RBR-9zpc27 uses 15 mg/kg for men).",
+  "sweep_complete": true,
+  "sweep_summary": "10 systematic reviews processed across 4 sessions (2026-03-27 to 2026-03-28). 130+ primary studies matched. 9 total discrepancies found, all resolved. 2 schema-level findings documented. 3 YAML corrections applied (electrolyte_data, sample_size, dosing_range ×2). Cross-paper verification sweep complete — no unresolved discrepancies remain."
+}

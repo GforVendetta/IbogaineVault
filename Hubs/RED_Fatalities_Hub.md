@@ -39,7 +39,7 @@ The deduplication algorithm proceeds in four steps:
 
 ## Deduplicated Mortality Count
 
-> [!summary] **~45 ibogaine-associated deaths**
+> [!SUMMARY] **~45 ibogaine-associated deaths**
 > **Baseline:** 38 deaths (Kock2022, literature through 7 Dec 2020)
 > **Post-baseline additions:** +7 deaths (2021–2026)
 > **Excluded:** 1 death (Terasaki2026 — fentanyl OD, not ibogaine-associated)
@@ -95,6 +95,22 @@ Chen2024 functions both as a cumulative review (34 sudden deaths) and as the mos
 ### Branch: Esperanca2026 (non-independent)
 
 Esperanca2026 reports 19 deaths but did not enumerate cases independently. The paper's Key Findings section explicitly references "19 fatalities in Alper 2012 forensic review." This is Alper2012's number, not an independent count. It must not be added to any total.
+
+## Baseline Discrete Case Reports
+
+The cumulative reviews above tally deaths across the literature, but the hub's purpose is tracing each death to its original source. The following 7 case reports each document a unique ibogaine-associated fatality within the Kock2022 baseline period (pre–7 December 2020). These deaths are counted within the baseline 38 — this section makes the primary evidence accessible.
+
+| Paper | Year | Demographics | Mechanism / Cause | Key Risk Factors | Subsumed By |
+|-------|------|-------------|-------------------|------------------|-------------|
+| Marker2002 | 2002 | M, 36, NYC | Ibogaine intoxication; blood 9225 ng/mL (5–9× therapeutic) | Polydrug (morphine, cocaine metabolite, alcohol at scene); unsupervised; unknown dose | Alper2012 (co-author Stajić is co-author on both — same NYC OCME forensic toxicologist) |
+| Kontrimaviciute2006 | 2006 | M, France | Ibogaine/noribogaine poisoning; lung 50.1/55.9 µg/g, liver 40.5/50.5 µg/g, blood 5–20× therapeutic | Root bark (~18 spoonfuls over ~10h); unsupervised; concomitant drug abuse history | Mosca2023, Esperanca2026 |
+| Warrick2012 | 2012 | M, 25, USA | Cardiac arrest (Vtach/Vfib per AICD); QTc 521 ms, QRS 208 ms, EF 10%; brain death | Pre-existing cardiac dysrhythmias with AICD; 2g internet-sourced ibogaine; heroin user; unsupervised | ⚠️ **Not found in any of 10 reviewed cumulative data tables.** NACCT conference abstract — may have been missed by PRISMA searches. If absent from Kock2022's enumeration, this is an uncounted death and the deduplicated total should be revised upward. Needs verification against Kock2022/Corkery2018 case tables. |
+| Jalal2013 | 2013 | M, 25 | Multi-organ failure ~2 days post-ingestion | Pre-existing SVT; 2.5g oral over 3h for heroin cessation; unsupervised | Mosca2023 |
+| Mazoyer2013 | 2013 | M, 27, France | Death ~12h post-ingestion; femoral blood ibogaine 1.27 µg/mL | Root bark; co-ingestion methadone + diazepam (triple QT-prolongation risk); 15-year polysubstance history; unsupervised | Mosca2023, Esperanca2026 |
+| Papadodima2013 | 2013 | M, 52, Greece | Cardiac death; blood ibogaine 2 mg/L | Liver cirrhosis (>90% fatty infiltration); 40–45% coronary occlusion; chronic alcoholism; internet-sourced product | Mosca2023, Esperanca2026 |
+| Meisner2016 | 2016 | M, 40, Boston | Asystole ~8h post-ingestion; brain death from cardiac arrest | 4g ibogaine + 2g uncharacterised "booster"; heroin detox; unsupervised; unregulated internet source | Ona2021, Mosca2023 |
+
+**Pattern:** All 7 cases share unsupervised or unregulated settings, and 6 of 7 involved active substance use or polysubstance co-exposure. Five had identifiable pre-existing risk factors (cardiac disease, liver cirrhosis, chronic substance abuse). These cases — spanning 2002 to 2016 across the USA, France, and Greece — illustrate the risk profile that drove development of comprehensive screening protocols (see [GREEN_Clinical_Protocols_Hub](GREEN_Clinical_Protocols_Hub.md)).
 
 ## Post-Baseline Additions
 

@@ -31,7 +31,7 @@ aliases:
   - "Quinn Williams PhD"
 contraindications: []
 open_access: true
-body_format: hybrid
+body_format: vault-analytical
 licence_type: unknown
 licence_verified: false
 ---
@@ -44,7 +44,7 @@ licence_verified: false
 **Year:** 2025  
 **Supervisors:** Dr. Ali Salahpour (primary), Dr. Matthieu Schapira (co-supervisor)
 
-> [!warning] Preview Document
+> [!WARNING] Preview Document
 > This entry is derived from a thesis preview (24 pages). The full thesis (~207 pages based on table of contents) was not available. Content includes complete abstract, introduction, and methods outline, but results and discussion sections are incomplete.
 
 ---

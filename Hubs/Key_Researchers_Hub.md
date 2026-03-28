@@ -259,7 +259,7 @@ The Brazilian arm of the ICEERS research network. Dos Santos and Hallak operate 
 
 ### Joint / ICEERS Network Co-Authored
 - [Wilkins 2017](../2017/Wilkins2017_Methadone_Low_Dose.md) — Methadone detox case report (with Wilkins, Bouso, Solá — the ICEERS pilot that linked New Zealand practice to Brazilian methodology)
-- [Bouso 2019](../2019/Bouso2019_Product_Quality.md) — Product quality analysis revealing 0–73.4% purity range across providers
+- [Bouso 2020](../2020/Bouso2020_Product_Quality.md) — Product quality analysis revealing 0–73.4% purity range across providers
 - [Oña 2021](../2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md) — Updated adverse events systematic review 2015–2020 (RED)
 - [Oña 2023](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Mechanistic review of anti-addictive targets (ORANGE)
 - [Rocha 2023a](../2023/Rocha2023_USP_Safety_Protocols.md) — Safety guidelines for ayahuasca and ibogaine in clinical settings (GREEN)
@@ -271,7 +271,7 @@ The Brazilian arm of the ICEERS research network. Dos Santos and Hallak operate 
 
 Harm reduction, product quality, policy research.
 
-- [Bouso 2019](../2019/Bouso2019_Product_Quality.md) — Product quality analysis (0-73.4% purity range)
+- [Bouso 2020](../2020/Bouso2020_Product_Quality.md) — Product quality analysis (0-73.4% purity range)
 - [Rocha/ICEERS 2023](../2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) — Setting factors for safety
 - [Espejito/ICEERS 2025](../2025/Espejito2025_Ibogaine_Experience_Scale_Psychometrics_Subjective.md) — IES scale development
 
@@ -366,7 +366,7 @@ The ICEERS network's specialist in adverse events and systematic methodology. O�
 - [Oña 2024](../2024/Ona2024_PhD_Thesis_Opioid_Dependence.md) — PhD thesis: comprehensive ibogaine safety and efficacy analysis for opioid dependence (BLUE)
 
 ### Co-Authored (ICEERS Network)
-- [Bouso 2019](../2019/Bouso2019_Product_Quality.md) — Product quality analysis
+- [Bouso 2020](../2020/Bouso2020_Product_Quality.md) — Product quality analysis
 - [Kohek 2020](../2020/Kohek2020_Qualitive_Study_Acute_Subjective_Effects_of_Ibogaine.md) — Qualitative study of acute subjective effects (PURPLE)
 - [Rodríguez-Cano 2022](../2022/Rodriguez-Cano2022_Underground_Ibogaine_Use_for_SUD_Tx_Qualitative_Analysis_Subjective_Experiences.md) — Underground ibogaine use qualitative analysis (PURPLE)
 - [Biosca-Brull 2024](../2024/Biosca-Brull2024_Transcriptomic_Analysis_Single_Ibogaine_Dose.md) — Transcriptomic analysis after single ibogaine dose (ORANGE)

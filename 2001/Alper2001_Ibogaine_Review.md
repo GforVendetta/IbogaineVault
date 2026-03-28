@@ -41,7 +41,7 @@ contraindications:
   - "Concomitant opioid use"
 mortality_count: 3
 mortality_scope: incidental
-sample_size: 39
+sample_size: 41
 dosing_range: "4.5–29 mg/kg oral"
 route: oral
 open_access: unknown

@@ -17,11 +17,11 @@ The NonCommercial clause applies to the vault's original infrastructure — its 
 
 The vault contains over 300 documents spanning 1957–2026. Each paper's representation depends on its open access status:
 
-### Open Access Papers (~97 papers)
+### Open Access Papers (97 papers)
 
 Papers published under open access licences (CC BY, CC BY-NC, CC BY-NC-ND, or publisher-specific OA terms) are represented as analytical summaries that may include the original abstract and more extensive coverage of the source material, consistent with the terms of their respective licences. Each entry's DOI links to the original publication and its specific licence terms.
 
-### Non-OA Papers from Major Publishers (~87 papers)
+### Non-OA Papers from Major Publishers (87 papers)
 
 Papers published in subscription journals by major academic publishers (including Elsevier, Wiley, Taylor & Francis, Springer Nature, Wolters Kluwer, SAGE, and the American Chemical Society) are represented as original analytical works. These entries contain:
 
@@ -32,11 +32,11 @@ Papers published in subscription journals by major academic publishers (includin
 
 Most non-open-access papers have been converted to original analytical works — structured critical analyses written in the vault curator's own voice. A subset of papers (primarily open-access publications) retain their original academic structure pending full analytical conversion. These are marked with `body_format: academic-retained` in their YAML frontmatter. All entries, regardless of body format, include full YAML metadata and cross-references. Entries in vault-analytical format are transformative scholarly works, not reproductions. They cannot substitute for reading the original publications and are not intended to do so.
 
-### Non-OA Papers from Smaller Publishers (~6 papers)
+### Non-OA Papers from Smaller Publishers (6 papers)
 
 A small number of papers from smaller academic publishers are represented as analytical summaries under fair use / fair dealing principles. These entries serve the purpose of systematic research synthesis and clinical safety review, are transformative in nature, and represent a minimal proportion of each original work.
 
-### Papers Without DOIs (~114 documents)
+### Papers Without DOIs (114 documents)
 
 Clinical guidelines, doctoral theses, primary source documents (interviews, transcripts, oral histories), historical texts, and other materials without DOIs are included under their respective terms. Many of these are unpublished or grey literature contributed directly by their authors or rights holders, or are public documents not subject to the same copyright restrictions as journal articles.
 

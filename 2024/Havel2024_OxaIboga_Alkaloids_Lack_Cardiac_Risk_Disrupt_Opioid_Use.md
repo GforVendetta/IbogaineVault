@@ -13,6 +13,7 @@ category: ORANGE
 tags:
   - topic/analogues
   - topic/cardiac
+  - topic/gdnf
   - mechanism/kappa-opioid
   - topic/opioid
 key_findings: "BREAKTHROUGH: Oxa-iboga alkaloids (benzofuran-containing) lack proarrhythmic effects of ibogaine/noribogaine, show superior efficacy in OUD models. Potent KOR agonists with single-dose efficacy."
@@ -28,354 +29,129 @@ clinical_significance: high
 aliases: ["Havel 2024", "Havel", "Oxa-iboga 2024"]
 source_pdf: "2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.pdf"
 evidence_level: preclinical
-sample_size: 
 qtc_data: false
 electrolyte_data: false
 herg_data: true
 contraindications: []
 open_access: true
 publisher: "Springer Nature"
-body_format: academic-retained
-licence_type: unknown
-licence_verified: false
+body_format: vault-analytical
+licence_type: cc-by
+licence_verified: true
+references_stripped: true
 ---
 
-# **Oxa-Iboga alkaloids lack cardiac risk and disrupt opioid use in animal models**
+# Oxa-Iboga alkaloids lack cardiac risk and disrupt opioid use in animal models
 
-> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+> [!NOTE] Vault editorial note
+> This is the **peer-reviewed published version** (*Nature Communications*, September 2024). A bioRxiv preprint was deposited ~3 years earlier as [Havel et al., 2021 preprint](../2021/Havel2021_Oxa-Iboga_Opioid_Addiction.md). This version is substantially expanded with additional *in vivo* models (heroin, fentanyl self-administration; relapse; hyperalgesia reversal). The extended preprint-to-publication gap is consistent with Gilgamesh Pharmaceuticals (Kruegel & Sames, Columbia University) patent portfolio construction around the oxa-iboga compounds. **This is the authoritative version for clinical and research reference.**
 
+**Citation:** Havel, V., Kruegel, A. C., Bechand, B., McIntosh, S., Stallings, L., Hodges, A., ... & Sames, D. (2024). Oxa-Iboga alkaloids lack cardiac risk and disrupt opioid use in animal models. *Nature Communications*, 15, 8118. https://doi.org/10.1038/s41467-024-51856-y
 
-> [!note] Vault editorial note
-> This is the **peer-reviewed published version** (*Nature Communications*, September 2024). A bioRxiv preprint was deposited ~3 years earlier as [Havel et al. 2021 preprint](../2021/Havel2021_Oxa-Iboga_Opioid_Addiction.md). This version is substantially expanded with additional *in vivo* models (heroin, fentanyl self-administration; relapse; hyperalgesia reversal). The extended preprint-to-publication gap is consistent with Delix Therapeutics patent portfolio construction around the oxa-iboga compounds. **This is the authoritative version for clinical and research reference.**
+## Abstract
 
-**Václav Havel, Andrew C. Kruegel, Benjamin Bechand, Scot McIntosh, Leia Stallings, Alana Hodges, Madalee G. Wulf, Mel Nelson, Amanda Hunkele, Michael Ansonoff, John E. Pintar, Christopher Hwu, Rohini S. Ople, Najah Abi-Gerges, Saheem A. Zaidi, Vsevolod Katritch, Mu Yang, Jonathan A. Javitch, Susruta Majumdar, Scott E. Hemby & Dalibor Sames**
-Nature Communications 15:8118 (2024)
-Published online: 20 September 2024
-DOI: 10.1038/s41467-024-51856-y
+Ibogaine and its main metabolite noribogaine provide important molecular prototypes for markedly different treatment of substance use disorders and co-morbid mental health illnesses. However, these compounds present a cardiac safety risk and a highly complex molecular mechanism. We introduce a class of iboga alkaloids — termed oxa-iboga — defined as benzofuran-containing iboga analogs and created via structural editing of the iboga skeleton. The oxa-iboga compounds lack the proarrhythmic adverse effects of ibogaine and noribogaine in primary human cardiomyocytes and show superior efficacy in animal models of opioid use disorder in male rats. They act as potent kappa opioid receptor agonists in vitro and in vivo, but exhibit atypical behavioral features compared to standard kappa opioid agonists. Oxa-noribogaine induces long-lasting suppression of morphine, heroin, and fentanyl intake after a single dose or a short treatment regimen, reversal of persistent opioid-induced hyperalgesia, and suppression of opioid drug seeking in rodent relapse models. As such, oxa-iboga compounds represent mechanistically distinct iboga analogs with therapeutic potential.
 
-## **Abstract**
+## Key Findings
 
-Ibogaine and its main metabolite noribogaine provide important molecular prototypes for markedly different treatment of substance use disorders and co-morbid mental health illnesses1. However, these compounds present a cardiac safety risk and a highly complex molecular mechanism2. We introduce a class of iboga alkaloids — termed oxa-iboga — defined as benzofuran-containing iboga analogs and created via structural editing of the iboga skeleton3. The oxa-iboga compounds lack the proarrhythmic adverse effects of ibogaine and noribogaine in primary human cardiomyocytes and show superior efficacy in animal models of opioid use disorder in male rats4. They act as potent kappa opioid receptor agonists in vitro and in vivo, but exhibit atypical behavioral features compared to standard kappa opioid agonists5. Oxa-noribogaine induces long-lasting suppression of morphine, heroin, and fentanyl intake after a single dose or a short treatment regimen, reversal of persistent opioid-induced hyperalgesia, and suppression of opioid drug seeking in rodent relapse models6. As such, oxa-iboga compounds represent mechanistically distinct iboga analogs with therapeutic potential7.
+Replacing the indole nitrogen of noribogaine with oxygen creates the oxa-iboga class — a single-atom structural edit that fundamentally reshapes the pharmacological profile. Oxa-noribogaine binds the kappa opioid receptor (KOR) with nanomolar affinity (Ki = 36 nM, mouse KOR) and activates G proteins with high potency (EC₅₀ = 43–49 nM) but intermediate efficacy (Emax = 82–92% in G protein assays, dropping to 52% in the conformation-sensing Nb33 nanobody assay). This partial signalling profile — more efficacious than noribogaine yet markedly below full agonists like U50,488 — correlates with the absence of aversive and pro-depressive behavioural effects that plague conventional KOR agonists.
 
-## **Introduction**
+The cardiac safety implications are striking: despite binding hERG channels with potency comparable to noribogaine (Ki ≈ 2.1 μM vs 2.0 μM), oxa-noribogaine and its epimer show no pro-arrhythmic potential at any concentration tested (up to 10 μM) in adult human primary cardiomyocytes, whereas noribogaine produces concentration-dependent arrhythmia risk starting at 1 μM. The authors hypothesise that activity at multiple cardiac ion channels (potentially including Nav1.5) compensates for hERG blockade — a finding that complicates the dominant hERG-centric model of ibogaine cardiotoxicity.
 
-Ibogaine is the major psychoactive alkaloid found in the iboga plant (*Tabernanthe iboga*), a shrub native to West Central Africa8. While traditionally harvested for ceremonial and healing purposes, its use has grown worldwide due to the crises of drug addiction, trauma, and despair9. Ibogaine induces psychedelic effects including dream-like states (oneirogenic effects), memory recall, and confrontation with personal trauma10. Uniquely, it rapidly interrupts opioid drug dependence, demonstrated by a dramatic reduction in withdrawal symptoms11. Although controlled clinical trials are pending, anecdotal reports and open-label trials document rapid, long-lasting relief of drug cravings and reduction of anxious/depressive symptoms in subjects with drug dependence, PTSD, and traumatic brain injury (TBI)12.
+In opioid self-administration models, a single dose of oxa-noribogaine (40 mg/kg, i.p.) suppressed morphine intake in rats for 7 days (P = 0.0001) — substantially outperforming noribogaine at the same dose, which returned to baseline by day 5. This long-lasting suppression extended across opioid classes: fentanyl intake was reduced for at least 5 days and heroin intake was dose-dependently suppressed. Cue-induced reinstatement was reduced by approximately 60% for both fentanyl (P = 0.0141) and morphine (P = 0.042), and chronic opioid-induced hyperalgesia was completely reversed 6 hours after a single dose, with significant attenuation persisting one week later (P = 0.0003).
 
-Ibogaine possesses a complex chemical structure where a tryptamine motif is embedded in an isoquinuclidine ring, creating the polycyclic tryptamine system defining iboga alkaloids13. Its pharmacology is multimodal, involving modulation of:
+A single dose of oxa-noribogaine drove a 200% increase in GDNF protein levels in the ventral tegmental area (VTA) and 100% in the medial prefrontal cortex (mPFC) by day 5, an effect blocked by the KOR antagonist aticaprant — establishing that GDNF induction is a downstream consequence of KOR activation rather than an off-target effect.
 
-* N-methyl-D-aspartate receptors (NMDAR, ion channel blocker)14.
+## Methodology
 
-* $\\alpha\_3\\beta\_4$ nicotinic receptors ($\\alpha\_3\\beta\_4$ nAChR, antagonist)15.
+The study integrates synthetic chemistry, in vitro receptor pharmacology, ex vivo cardiac safety assessment, and in vivo behavioural models. Oxa-iboga compounds were synthesised via de novo methods involving catalytic union of isoquinuclidine and benzofuran ring systems. Receptor binding (radioligand displacement via NIMH PDSP), G protein activation (BRET and [³⁵S]GTPγS assays), β-arrestin2 recruitment, and Nb33 nanobody conformation sensing were performed in transfected HEK293T cells. Cardiac safety was assessed in adult human primary ventricular cardiomyocytes (AnaBios Corporation) isolated from ethically consented donor hearts, field-stimulated at 1 Hz, with pro-arrhythmic events (after-contractions and contraction failures) quantified across concentrations. In vivo studies used C57BL/6J mice (male and female, including KOR-KO and MOR-KO lines) for analgesia, sedation, place conditioning, and forced swim tests, and male Fisher F-344 rats for self-administration, reinstatement, hyperalgesia, and GDNF expression studies. All drugs were administered subcutaneously (mice) or intraperitoneally (rats).
 
-* Serotonin transporters (SERT, inhibitor and pharmacochaperone)16.
+## Pharmacological Profile
 
-* Kappa opioid receptors (KOR, agonist)17.
+The indole-to-benzofuran substitution that defines the oxa-iboga class produces a dramatic shift in KOR pharmacology. Noribogaine is a low-efficacy KOR partial agonist (EC₅₀ = 6.1 μM, Emax = 52% in G protein BRET assay), whereas oxa-noribogaine achieves two orders of magnitude greater potency with substantially higher efficacy. The compound maintains the broader iboga pharmacological background — SERT inhibition (IC₅₀ = 711 nM), α₃β₄ nAChR antagonism (IC₅₀ = 2.9 μM), and NMDA receptor antagonism (IC₅₀ = 24 μM) — all within approximately 2-fold of noribogaine's potency at these targets.
 
-Unlike classic psychedelics, ibogaine does not directly interact with 5-hydroxytryptamine type 2 receptors (5-HT2R)18.
+The selectivity profile favours KOR: oxa-noribogaine is >10-fold selective for KOR over MOR and ~7-fold over DOR in [³⁵S]GTPγS binding. No binding affinity was detected at the nociceptin receptor (NOP/ORL-1) up to 10 μM, and a broad receptor screen demonstrated >100-fold separation between KOR binding and non-opioid targets (excepting SERT and α₃β₄).
 
-We developed synthetic methods for the *de novo* synthesis of the iboga scaffold, utilizing nickel- and palladium-catalyzed processes for 7-membered ring formation19. This enabled the creation of **oxa-iboga** analogs, defined by the replacement of the indole with a benzofuran ring20. These analogs exhibit greatly potentiated KOR activity while maintaining the iboga pharmacological background21.
+## Receptor Binding and Signalling Data
 
-## **Results**
+| Assay | Compound | EC₅₀/IC₅₀/Ki | Emax (% of U50,488) |
+|-------|----------|--------------|---------------------|
+| KOR binding (mouse) | Oxa-noribogaine | Ki = 36 nM | — |
+| KOR G protein BRET (rat) | Oxa-noribogaine | EC₅₀ = 43 nM | 82% |
+| KOR G protein BRET (rat) | Epi-oxa-noribogaine | EC₅₀ = 12 nM | 81% |
+| KOR G protein BRET (rat) | Noribogaine | EC₅₀ = 6,134 nM | 52% |
+| KOR [³⁵S]GTPγS (mouse) | Oxa-noribogaine | EC₅₀ = 49 nM | 92% |
+| KOR Nb33 recruitment (rat) | Oxa-noribogaine | EC₅₀ = 484 nM | 52% |
+| KOR Nb33 recruitment (rat) | Epi-oxa-noribogaine | EC₅₀ = 62 nM | 34% |
+| KOR β-arrestin2 (rat) | Oxa-noribogaine | EC₅₀ = 610 nM | 69% |
+| KOR β-arrestin2 (rat) | Epi-oxa-noribogaine | EC₅₀ = 128 nM | 50% |
+| SERT inhibition | Oxa-noribogaine | IC₅₀ = 711 nM | — |
+| SERT inhibition | Noribogaine | IC₅₀ = 286 nM | — |
+| α₃β₄ nAChR | Oxa-noribogaine | IC₅₀ = 2.9 μM | — |
+| NMDAR | Oxa-noribogaine | IC₅₀ = 24 μM | — |
+| hERG binding | Oxa-noribogaine | Ki ≈ 2.1 μM | — |
+| hERG binding | Noribogaine | Ki ≈ 2.0 μM | — |
 
-### **Oxa-iboga analogs are KOR agonists with partial receptor signaling efficacy**
+The signalling efficacy data reveal a hierarchical pattern: oxa-noribogaine shows near-full efficacy in amplified readouts (G protein activation) but substantially reduced efficacy in assays that measure receptor-proximal events (Nb33 nanobody recruitment at 52%, β-arrestin2 at 69%). This pattern — intermediate between full agonists and the low-efficacy parent noribogaine — parallels the signalling efficacy hypothesis proposed for non-hallucinogenic 5-HT₂A agonists and partial MOR agonists with improved therapeutic indices.
 
-Noribogaine acts as a KOR partial agonist. In a bioluminescence resonance energy transfer (BRET) assay for G protein activation, noribogaine showed an $EC\_{50}=6.1\~\\mu M$ and $E\_{max}=52\\%$ (rat KOR)22.
+The two diastereomers (oxa-noribogaine and epi-oxa-noribogaine) differ meaningfully at MOR: oxa-noribogaine shows partial MOR signalling (Emax = 44% in Nb33 assay), while epi-oxa is inactive at MOR. This difference maps onto in vivo pharmacology, where epi-oxa's analgesia is entirely KOR-dependent (abolished in KOR-KO mice) while oxa-noribogaine retains a small MOR contribution (ED₅₀ shifts from 2.3 to 4.3 mg/kg in MOR-KO mice vs 17.7 mg/kg in KOR-KO).
 
-The substitution of the indole NH group with oxygen in **oxa-noribogaine** dramatically accentuates KOR activity23:
+## Neurotrophic Factor Induction
 
-* **Binding:** Binds to mouse KOR with $K\_i=36\~nM$24.
+GDNF protein was quantified by ELISA in the VTA, mPFC, and nucleus accumbens (NAc) at 1 and 5 days following a single oxa-noribogaine dose (40 mg/kg, i.p.) in rats. At day 5, GDNF levels were elevated approximately 200% in the VTA and 100% in the mPFC relative to vehicle controls. Pre-treatment with the selective KOR antagonist aticaprant (1 mg/kg, s.c.) completely blocked GDNF induction in both regions (P values: mPFC CONTROL-OXA5 P < 0.0001; VTA CONTROL-OXA5 P = 0.0010). These findings place KOR activation as the upstream trigger for neurotrophic factor elevation in the mesocorticolimbic circuitry — the same pathway long implicated in ibogaine's lasting anti-addictive effects via GDNF and BDNF.
 
-* **Activation:** Activates G protein in \[35S\]GTP$\\gamma$S assay ($EC\_{50}=49\~nM$, $E\_{max}=92\\%$) and BRET assay ($EC\_{50}=43\~nM$, $E\_{max}=82\\%$)25.
+## Cardiac Safety Data
 
-* **Selectivity:** Oxa-noribogaine is \>10-fold selective for KOR versus MOR (mu opioid receptor) and \~7-fold over DOR (delta opioid receptor)26. No binding affinity for the nociceptin receptor (ORL-1/NOP) was detected up to 10 $\\mu M$27.
+The adult human primary cardiomyocyte assay provides the study's most translationally relevant safety data. Field-stimulated ventricular myocytes from donor hearts were exposed to escalating concentrations of test compounds, with contractility transients monitored for pro-arrhythmic events.
 
-Signaling Efficacy Analysis:
-To determine if oxa-noribogaine KOR signaling is comparable to full agonists, we employed several assays:
+| Compound | Concentrations tested | Pro-arrhythmic events | Risk threshold |
+|----------|----------------------|----------------------|----------------|
+| Noribogaine | 0.1–10 μM | After-contractions and contraction failures, concentration-dependent | >20% incidence at ≥1 μM |
+| Oxa-noribogaine | 0.1–10 μM | None detected at any concentration | No risk up to 10 μM |
+| Epi-oxa-noribogaine | 0.1–10 μM | None detected at any concentration | No risk up to 10 μM |
 
-1. **TRUPATH BRET Assay:** Examined seven G$\\alpha$ protein isoforms. Oxa-iboga compounds showed attenuated signaling efficacy across four G$\\alpha$ isoforms compared to the standard KOR agonist U50,48828.
+The paradox — similar hERG binding potency but divergent arrhythmia profiles — challenges the assumption that hERG inhibition alone predicts iboga-related cardiac risk. The authors hypothesise compensatory activity at other cardiac ion channels (e.g. Nav1.5), though the specific mechanism remains unresolved. This finding is consistent with the broader pharmacological recognition that multi-channel effects can mitigate or exacerbate hERG-related pro-arrhythmia risk, making phenotypic cardiomyocyte assays more predictive than isolated hERG screening ([Alper et al., 2016](../2016/Alper2016_hERG_Blockade.md)).
 
-2. **Nb33 Nanobody Recruitment:** This assay approximates true intrinsic signaling efficacy by sensing the active KOR conformation. Oxa-iboga compounds exhibited markedly reduced efficacy compared to U50,488 ($E\_{max}=52\\%$ for oxa-noribogaine; $E\_{max}=34\\%$ for epi-oxa-noribogaine)29.
+## In Vivo Pharmacology
 
-3. **$\\beta$-Arrestin2 Recruitment:** Oxa-iboga compounds showed reduced signaling efficacy compared to U50,48830.
+Oxa-noribogaine demonstrated potent analgesia in the mouse tail-flick assay (ED₅₀ = 3.0 mg/kg, s.c.) comparable to the standard KOR agonist U50,488 (ED₅₀ = 2.2 mg/kg), with KOR dependence confirmed through genetic knockout models. Uniquely among KOR agonists, oxa-noribogaine did not induce sedation at the ED₈₀ analgesic dose (5.4 mg/kg) in either sex, whereas its epimer epi-oxa caused pronounced sedation at equianalgesic doses — an effect reversed by aticaprant. This separation of analgesic and sedative dose-response curves provides a therapeutic window not seen with conventional KOR agonists.
 
-These results indicate oxa-noribogaine induces partial, intermediate signaling efficacy—lower than full agonists like U50,488 but higher than noribogaine31.
+Place conditioning revealed no conditioned place aversion or preference at supra-analgesic doses in either male or female mice, contrasting sharply with typical KOR agonist-induced aversion. The forced swim test showed no acute pro-depressive effects. Oxa-noribogaine is brain penetrant, with estimated free brain concentrations at the analgesic ED₅₀ (Cmax ~50 nM) matching in vitro KOR activation potency. Sex differences in analgesia were minimal for oxa-noribogaine (male ED₅₀ = 3.0 mg/kg, female ED₅₀ = 4.9 mg/kg), unlike epi-oxa and U50,488 which showed larger rightward shifts in females.
 
-**Other Receptors:**
+## Opioid Use Disorder Models
 
-* **SERT:** Oxa-iboga compounds maintain 5-HT reuptake inhibitory activity with a modest loss of potency compared to noribogaine ($IC\_{50(oxa-noriboga)}=711\~nM$ vs $IC\_{50(noriboga)}=286\~nM$)32.
+In the rat intravenous self-administration paradigm, oxa-noribogaine was tested against noribogaine as a direct structural comparator (differing by a single atom).
 
-* **nAChR & NMDAR:** Inhibitory activity at $\\alpha\_3\\beta\_4$ nicotinic receptors ($IC\_{50}=2.9\~\\mu M$) and NMDA receptors ($IC\_{50}=24\~\\mu M$) is comparable to noribogaine, with a nearly 2-fold increase in potency33.
+| Opioid | Oxa-noribogaine dose | Suppression duration | Significance |
+|--------|---------------------|---------------------|-------------|
+| Morphine (10 μg/inf) | 40 mg/kg i.p. | 7 days statistically significant, trends to 15 days | P = 0.0001 vs noribogaine |
+| Morphine (10 μg/inf) | 10 mg/kg i.p. | Acute (>85% reduction, day 1 only) | Selective: minimal food effect |
+| Fentanyl (0.625 μg/inf) | 40 mg/kg i.p. | ≥5 days | — |
+| Heroin (4.5 μg/inf) | 3, 10, 30 mg/kg i.p. | Dose-dependent; 30 mg/kg suppressed for ≥7 days | P < 0.0001 (acute, 30 mg/kg) |
 
-### **Oxa-noribogaine increases protein levels of neurotrophic factors in specific brain regions**
+Noribogaine at the same dose (40 mg/kg) suppressed morphine intake acutely but returned to baseline by day 5. Food-maintained responding was suppressed acutely by the 40 mg/kg dose but recovered by day 2–3, indicating that the lasting suppression is opioid-selective rather than reflecting generalised behavioural impairment.
 
-We investigated glial cell line-derived neurotrophic factor (GDNF) levels in the ventral tegmental area (VTA), medial prefrontal cortex (mPFC), and nucleus accumbens (NAc)34343434.
+Oxa-noribogaine flattened the morphine dose-effect curve at both 3 and 10 mg/kg doses, reducing self-administration across all morphine concentrations tested (10, 20, 40 μg/infusion) both acutely and at day 5 — suggesting it alters the reinforcing value of morphine itself rather than simply competing at MOR.
 
-* **Induction:** A single dose of oxa-noribogaine resulted in a **200% increase in GDNF levels in the VTA** and **100% in the mPFC** on day 5 after treatment35.
+Cue-induced reinstatement of fentanyl responding was reduced by approximately 60% (10 mg/kg; P = 0.0141), with a parallel reduction for morphine (P = 0.042). Effects were specific to the drug-associated lever with no impact on inactive lever pressing.
 
-* KOR Dependence: Pre-treatment with aticaprant (1 mg/kg, s.c.), a selective KOR antagonist, blocked the induction of GDNF in both mPFC and VTA, returning levels to those of control/vehicle rats36.
-  This confirms that long-term GDNF induction is a downstream consequence of KOR activation37.
+Opioid-induced hyperalgesia (OIH), generated by 8-day morphine pellet implantation, was completely reversed 6 hours after a single oxa-noribogaine dose (30 mg/kg, i.p.) and remained significantly attenuated one week later (P = 0.0003). This lasting reversal of OIH — a major driver of relapse during protracted withdrawal — represents a clinically significant outcome dimension beyond intake suppression.
 
-### **Oxa-noribogaine induces potent antinociception, no rewarding or aversive behavior, and no pro-depressive-like effects**
+## Clinical Implications
 
-**Antinociception (Tail-flick assay):**
+The oxa-iboga class addresses the central paradox that has constrained ibogaine's therapeutic development: a compound with extraordinary anti-addictive potential carries an unacceptable cardiac safety burden. By demonstrating that a single-atom structural edit eliminates pro-arrhythmic risk while enhancing efficacy, this work establishes a viable path toward regulatable iboga-derived therapeutics — something ibogaine itself may never achieve given its complex pharmacology and cardiac liability profile.
 
-* **Potency:** Oxa-noribogaine induced potent antinociception in male mice ($ED\_{50}=3.0\~mg/kg$, s.c.), comparable to U50,488 ($ED\_{50}=2.2\~mg/kg$)38.
+The cardiac safety findings have implications beyond oxa-iboga specifically. The dissociation between hERG binding affinity and functional arrhythmia risk undermines the rationale for using hERG screening alone as a gatekeeper for iboga compound development. Adult human primary cardiomyocyte assays, which capture multi-channel pharmacology in a physiologically relevant context, may be essential for evaluating any iboga-derived therapeutic candidate. This parallels the broader shift in cardiac safety pharmacology from single-channel assays toward integrated phenotypic models, and suggests that ibogaine's own cardiac risk profile may be more nuanced than hERG blockade alone would predict ([Alper et al., 2016](../2016/Alper2016_hERG_Blockade.md)).
 
-* **Mechanism (KO Studies):**
-  * In KOR knock-out (KOR-KO) male mice, the effect was substantially attenuated ($ED\_{50}=17.7\~mg/kg$)39.
+The KOR partial agonism hypothesis — that intermediate signalling efficacy produces therapeutic effects without aversion or dysphoria — carries implications for understanding ibogaine's own mechanism. If KOR activation is sufficient to drive GDNF induction and lasting suppression of opioid intake, then the polypharmacological complexity of ibogaine may be less essential to its anti-addictive effects than previously assumed. However, the authors appropriately caution that the partial agonism rationale remains correlative; downstream signalling pathways linking receptor activation to behavioural outcomes have not been directly interrogated.
 
-  * In MOR knock-out (MOR-KO) mice, only a small shift was observed ($ED\_{50}=4.3\~mg/kg$)40.
+The opioid-induced hyperalgesia reversal data deserve particular clinical attention. OIH is a significant driver of relapse during protracted withdrawal, contributing to the negative affective state that sustains drug seeking. A compound that reverses OIH with a single dose, with effects lasting at least a week, addresses a treatment dimension that current pharmacotherapies (methadone, buprenorphine, naltrexone) manage poorly. The cross-opioid efficacy — morphine, heroin, and fentanyl suppression from a single intervention — is notable given that fentanyl-dependent populations represent an increasingly treatment-resistant phenotype.
 
-  * Epi-oxa-noribogaine analgesia ($ED\_{50}=1.3\~mg/kg$) was abolished in KOR-KO mice ($ED\_{50}$ not achievable)41.
+For the ibogaine clinical community, this paper establishes oxa-noribogaine as a mechanistically tractable comparator: a compound that isolates the KOR-GDNF axis from ibogaine's broader polypharmacology. Whether ibogaine's clinical effects can be recapitulated by KOR-driven neurotrophin induction alone, or whether the full polypharmacological profile (NMDAR, SERT, nAChR) contributes essential additional mechanisms, remains the central open question for ibogaine pharmacology — and oxa-iboga provides the first tool sharp enough to test it ([Glick et al., 1996](../1996/Glick1996_18MC_NonToxic.md); [Gassaway et al., 2015](../2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md)).
 
-* **Sex Differences:** Epi-oxa showed a rightward shift in potency in females ($ED\_{50}=9.7\~mg/kg$) vs males ($1.9\~mg/kg$). Oxa-noribogaine showed consistent potency between males ($3.0\~mg/kg$) and females ($4.9\~mg/kg$)42.
+## Limitations
 
-**Sedation (Open Field Test):**
-
-* At analgesic doses ($ED\_{80}$, 5.4 mg/kg), **oxa-noribogaine did not induce sedation** in male or female mice43.
-
-* In contrast, epi-oxa induced strong sedation at equianalgesic doses, which was reversed by aticaprant44.
-
-* Sedation for oxa-noribogaine is observed only at supra-analgesic doses (\>10 mg/kg), providing a therapeutic window45.
-
-**Reward/Aversion (Conditioned Place Preference \- CPP):**
-
-* Typical KOR agonists induce Conditioned Place Aversion (CPA).
-* **Oxa-noribogaine showed no CPA or CPP** at supra-analgesic doses in male or female mice46.
-
-* Comparatively, cocaine and morphine produced significant CPP ($P=0.0029$ and $P=0.001$, respectively)47.
-
-**Depressive-like Effects (Forced Swim Test):**
-
-* Oxa-noribogaine demonstrated **no acute depressive-like effects** (immobility) in male mice at analgesic doses48.
-
-**Pharmacokinetics:**
-
-* Oxa-noribogaine is brain penetrant. Estimated free drug concentrations in the brain after analgesic doses match in vitro pharmacological parameters ($C\_{max(brain)} \\approx 50\~nM$ at $ED\_{50}$)49494949.
-
-### **Oxa-iboga compounds do not show pro-arrhythmia risks in adult primary human heart cells**
-
-Ibogaine's use is limited by risks of arrhythmias (QT prolongation) linked to hERG potassium channel inhibition50. We tested compounds in adult human primary cardiomyocytes, a highly predictive assay51.
-
-* **Noribogaine:** Showed concentration-dependent pro-arrhythmia risk (after-contractions and contraction failures) starting at concentrations $\\ge 1\~\\mu M$52. Risk \>20% was observed at 1 $\\mu M$53.
-
-* **Oxa-iboga Analogs:** Oxa-noribogaine and epi-oxa-noribogaine showed **no pro-arrhythmic potential** at any concentration tested up to **10 $\\mu M$**54.
-
-* **Mechanism:** Oxa-noribogaine binds hERG with similar potency to noribogaine ($K\_i \\approx 2.1\~\\mu M$). The lack of arrhythmia may result from activity at multiple ion channels (e.g., Nav1.5) compensating for hERG inhibition55.
-
-### **Oxa-noribogaine suppresses morphine, heroin, and fentanyl self-administration**
-
-We utilized the rat intravenous self-administration (SA) paradigm56.
-
-**Morphine Self-Administration:**
-
-* **Comparison to Noribogaine:** Noribogaine (40 mg/kg, i.p.) suppressed morphine SA acutely (Day 1\) but returned to baseline by Day 557.
-
-* **Oxa-noribogaine Efficacy:** Oxa-noribogaine (40 mg/kg, i.p.) induced a profound suppression of morphine intake ($P=0.0001$) that was statistically significant for **7 days** and showed observable trends for 15 days58.
-
-* **Selectivity:** A lower dose (10 mg/kg) caused \>85% acute reduction in morphine intake with only a small, non-significant effect on food responding59.
-
-* **Dose-Response:** Oxa-noribogaine flattened the morphine dose-effect curve (10, 20, 40 $\\mu g$/infusion) acutely and for 5 days post-administration60606060.
-
-**Fentanyl Self-Administration:**
-
-* A single reset dose of oxa-noribogaine reduced fentanyl intake for at least **5 days**61.
-
-**Heroin Self-Administration:**
-
-* Oxa-noribogaine dose-dependently suppressed heroin infusions (4.5 $\\mu g$/infusion) both acutely and post-acutely (up to 7 days post-treatment)62.
-
-**Relapse (Cue-Induced Reinstatement):**
-
-* **Fentanyl:** Oxa-noribogaine (10 mg/kg) reduced cue-induced reinstatement of fentanyl responding by approximately **60%** ($P=0.0141$)636363.
-
-* **Morphine:** Reinstatement was also strongly reduced ($P=0.042$)64646464.
-
-* Effects were specific to the active lever (drug cue) with no effect on inactive levers65.
-
-**Opioid-Induced Hyperalgesia (OIH):**
-
-* Chronic morphine exposure (pellet implantation) induced mechanical hypersensitivity (OIH) lasting \>1 week post-removal66.
-
-* A single dose of oxa-noribogaine (30 mg/kg, i.p.) induced a **complete reversal of the OIH phenotype** 6 hours post-administration and significant attenuation one week later ($P=0.0003$)67676767.
-
-## **Discussion**
-
-We describe oxa-iboga compounds as a distinct class of alkaloids created by structural permutation of the iboga skeleton68. Compared to noribogaine, oxa-noribogaine offers:
-
-1. **Attenuated Cardiotoxicity:** Absence of pro-arrhythmic effects in human cardiomyocytes despite hERG binding69.
-
-2. **Enhanced Therapeutic-like Activity:** Superior efficacy (extent of suppression) and duration (effects lasting weeks) in rodent OUD models compared to noribogaine70.
-
-3. **Mechanistic Distinctness:** It acts as a potent partial KOR agonist with low signaling efficacy (G protein, $\\beta$-arrestin, Nb33), which may explain the lack of typical KOR side effects like aversion and depression71717171.
-
-Mechanistic Insights:
-Despite lower upstream signaling efficacy, oxa-noribogaine induces robust KOR-dependent GDNF elevation in the VTA and mPFC72. The difference in MOR signaling efficacy between epi-oxa (inactive) and oxa-noribogaine (partial/minor) may explain the varying contribution of MOR to their antinociceptive profiles73.
-Comparison to Other Analogs:
-Oxa-noribogaine shows superior efficacy/duration compared to 18-methoxycoronaridine (18-MC), which showed effects comparable only to noribogaine in preclinical rats74. It is also distinct from PNU-compounds (e.g., TBG), which lack KOR activity and target 5-HT receptors75.
-Limitations:
-The study focused on male rats for OUD behaviors; sex differences need future examination76. While the partial KOR agonism hypothesis correlates with the lack of aversion, causal downstream signaling pathways require further elucidation77.
-
-## **Methods**
-
-### **Ethical Considerations**
-
-Animal procedures were approved by IACUCs at Columbia University, MSKCC, Rutgers University, and High Point University78. Human heart tissue was obtained from deceased donors via ethical consent through Organ Procurement Organizations79.
-
-### **Biological Systems**
-
-* **Cell Lines:** HEK293T and CHO-K1 cells80.
-
-* **Primary Cardiomyocytes:** Isolated from adult human male donor hearts not suitable for transplantation81818181.
-
-* **Animals:** Adult C57BL/6J mice (male/female) and Fisher F-344 rats (male) were used82828282.
-
-### **In Vitro Studies**
-
-* **Receptor Screening:** $K\_i$ values determined via radioligand displacement (NIMH PDSP)83.
-
-* **Functional Assays:**
-  * **\[35S\]GTP$\\gamma$S:** Performed on membranes expressing opioid receptors84.
-
-  * **BRET Assays:** HEK-293T cells transfected with receptor, G$\\alpha$-RLuc8, G$\\beta$, and G$\\gamma$-GFP2 (TRUPATH) or Nanobody-Venus (Nb33)85858585.
-
-  * **$\\beta$-Arrestin:** Measured via BRET using Venus-Arrestin286.
-
-* **Cardiotoxicity:** Adult human primary cardiomyocytes were field-stimulated (1 Hz). Contractility transients were imaged to detect after-contractions (AC) and contraction failures (CF). Noribogaine and oxa-iboga analogs were tested at concentrations up to 10 $\\mu M$87878787.
-
-### **In Vivo Pharmacology and Behavior**
-
-* **Tail-Flick Test:** Thermal nociception measured in mice (52 PSU intensity). $ED\_{50}$ calculated as % Maximum Potential Effect (% MPE). Tests included WT, KOR-KO, and MOR-KO mice88888888.
-
-* **Open Field:** Locomotion tracked for 60 min to assess sedation89.
-
-* **Forced Swim Test (FST):** Immobility time analyzed in the last 4 min of a 6 min test90.
-
-* **Conditioned Place Preference (CPP):** Three-chamber apparatus. Conditioning involved 3 two-day cycles (drug vs vehicle). CPP score \= time in drug-paired minus vehicle-paired chamber91.
-
-* **Pharmacokinetics:** Plasma and brain concentrations determined via LC-MS/MS after s.c. (mice) or i.p. (rats) administration92.
-
-### **Self-Administration and OUD Models**
-
-* **Self-Administration (SA):** Rats implanted with jugular catheters trained to self-administer morphine (10, 20, 40 $\\mu g$/inf), fentanyl (0.625 $\\mu g$/inf), or heroin (4.5 $\\mu g$/inf) under FR1 schedule93939393.
-
-* **Treatment:** Oxa-noribogaine (3, 10, 30, 40 mg/kg) administered i.p. after stabilization. Responding assessed for 7 days post-treatment94.
-
-* **Reinstatement:** Following extinction, rats received vehicle or oxa-noribogaine (10 mg/kg) 30 min prior to a cue-induced reinstatement session95.
-
-* **Opioid Induced Hyperalgesia (OIH):** Rats received two 75 mg morphine pellets. Pellets removed on Day 8\. Mechanical sensitivity measured using electronic von Frey filaments at 8, 24, and 168 hours post-removal96.
-
-### **GDNF Expression**
-
-Total protein isolated from VTA, NAc, and mPFC of rats 1 or 5 days after drug administration. GDNF content assayed via ELISA and normalized to total protein97.
-
-### **Synthesis**
-
-Oxa-iboga analogs were synthesized via *de novo* methods involving the catalytic union of isoquinuclidine and benzofuran ring systems98. X-ray diffraction data was collected for structure verification (CCDC \#2215015)99.
-
----
-
-**References**
-
-1. Alper, K. R. Chapter 1 Ibogaine: A review. in The Alkaloids: Chemistry and Biology vol. 56 1–38 (Academic Press, 2001).
-2. Case, A. & Deaton, A. Deaths of Despair and the Future of Capitalism. (Princeton University Press, Princeton, 2020).
-3. Nestor, J. Get Clean or Die Trying. Sci. Am. 315, 62–69 (2016).
-4. Oaklander, M. Inside Ibogaine, One of the Most Promising and Perilous Psychedelics for Addiction. Time Magazine (2021).
-5. Brown, T. K., Noller, G. E. & Denenberg, J. O. Ibogaine and Subjective Experience: Transformative States and Psychopharmacotherapy in the Treatment of Opioid Use Disorder. J. Psychoact. Drugs 51, 155–165 (2019).
-6. Alper, K. R., Lotsof, H. S., Frenken, G. M. N., Luciano, D. J. & Bastiaans, J. Treatment of Acute Opioid Withdrawal with Ibogaine. Am. J. Addict. 8, 234–242 (1999).
-7. Mash, D. C., Duque, L., Page, B. & Allen-Ferdinand, K. Ibogaine Detoxification Transitions Opioid and Cocaine Abusers Between Dependence and Abstinence: Clinical Observations and Treatment Outcomes. Front. Pharmacol. 9, 529 (2018).
-8. Noller, G. E., Frampton, C. M. & Yazar-Klosinski, B. Ibogaine treatment outcomes for opioid dependence from a twelve-month follow-up observational study. Am. J. Drug Alcohol Abus. 44, 37–46 (2018).
-9. Davis, A. K., Averill, L. A., Sepeda, N. D., Barsuglia, J. P. & Amoroso, T. Psychedelic Treatment for Trauma-Related Psychological and Cognitive Impairment Among US Special Operations Forces Veterans. Chronic Stress 4, 247054702093956 (2020).
-10. Cherian, K. N. et al. Magnesium-ibogaine therapy in veterans with traumatic brain injuries. Nat. Med. 30, 373–381 (2024).
-11. Glick, S. D., Pearl, S. M., Cai, J. & Maisonneuve, I. M. Ibogaine-like effects of noribogaine in rats. Brain Res. 713, 294–297 (1996).
-12. He, D.-Y. et al. Glial Cell Line-Derived Neurotrophic Factor Mediates the Desirable Actions of the Anti-Addiction Drug Ibogaine against Alcohol Consumption. J. Neurosci. 25, 619–628 (2005).
-13. Belgers, M. et al. Ibogaine and addiction in the animal model, a systematic review and meta-analysis. Transl. Psychiatry 6, e826 (2016).
-14. Rodriguez, P. et al. A Single Administration of the Atypical Psychedelic Ibogaine or Its Metabolite Noribogaine Induces an Antidepressant-Like Effect in Rats. ACS Chem. Neurosci. 11, 1661–11672 (2020).
-15. Popik, P., Layer, R. T. & Skolnick, P. 100 years of ibogaine: neurochemical and pharmacological actions of a putative anti-addictive drug. Pharm. Rev. 47, 235–253 (1995).
-16. Wasko, M. J., Witt-Enderby, P. A. & Surratt, C. K. DARK Classics in Chemical Neuroscience: Ibogaine. ACS Chem. Neurosci. 9, 2475–2483 (2018).
-17. Mash, D. C. IUPHAR \- invited review \- Ibogaine \- A legacy within the current renaissance of psychedelic therapy. Pharmacol. Res. 190, 106620 (2023).
-18. Gassaway, M. M. et al. Deconstructing the Iboga Alkaloid Skeleton: Potentiation of FGF2-induced Glial Cell Line-Derived Neurotrophic Factor Release by a Novel Compound. ACS Chem. Biol. 11, 77–87 (2016).
-19. Bhat, S. et al. Tropane-Based Ibogaine Analog Rescues Folding-Deficient Serotonin and Dopamine Transporters. ACS Pharmacol. Transl. Sci. 4, 503–516 (2021).
-20. Kruegel, A. C., Rakshit, S., Li, X. & Sames, D. Constructing Iboga Alkaloids via C-H Bond Functionalization: Examination of the Direct and Catalytic Union of Heteroarenes and Isoquinuclidine Alkenes. J. Org. Chem. 80, 2062–2071 (2015).
-21. Maillet, E. L. et al. Noribogaine is a G-protein biased $\\kappa$-opioid receptor agonist. Neuropharmacology 99, 675–688 (2015).
-22. Faouzi, A. et al. Structure-based design of bitopic ligands for the $\\mu$-opioid receptor. Nature 613, 767–774 (2023).
-23. Olsen, R. H. J. et al. TRUPATH, an open-source biosensor platform for interrogating the GPCR transducerome. Nat. Chem. Biol. 16, 841–849 (2020).
-24. Bhowmik, S. et al. Site selective C-H functionalization of Mitragyna alkaloids reveals a molecular switch for tuning opioid receptor signaling efficacy. Nat. Commun. 12, 3858 (2021).
-25. Stoeber, M. et al. A Genetically Encoded Biosensor Reveals Location Bias of Opioid Drug Action. Neuron 98, 963–976.e5 (2018).
-26. Stoeber, M. et al. Agonist-selective recruitment of engineered protein probes and of GRK2 by opioid receptors in living cells. eLife 9, e54208 (2020).
-27. Baumann, M. H., Pablo, J., Ali, S. F., Rothman, R. B. & Mash, D. C. Chapter 5 Comparative neuropharmacology of ibogaine and its O-desmethyl metabolite, noribogaine. in The Alkaloids: Chemistry and Biology vol. 56 79–113 (Elsevier, 2001).
-28. Carnicella, S., He, D.-Y., Yowell, Q. V., Glick, S. D. & Ron, D. Noribogaine, but not 18-MC, exhibits similar actions as ibogaine on GDNF expression and ethanol self-administration: Ibogaine derivatives and GDNF and alcohol. Addiction Biol. 15, 424–433 (2010).
-29. Marton, S. et al. Ibogaine Administration Modifies GDNF and BDNF Expression in Brain Regions Involved in Mesocorticolimbic and Nigral Dopaminergic Circuits. Front. Pharmacol. 10, 193 (2019).
-30. Ghitza, U. E. et al. Role of BDNF and GDNF in drug reward and relapse: A review. Neurosci. Biobehav. Rev. 35, 157–171 (2010).
-31. Messer, C. J. et al. Role for GDNF in Biochemical and Behavioral Adaptations to Drugs of Abuse. Neuron 26, 247–257 (2000).
-32. Taylor, A. M. W. et al. Sex differences in kappa opioid receptor antinociception is influenced by the number of X chromosomes in mouse. J. Neurosci. Res. 100, 183–190 (2022).
-33. Chartoff, E. H. & Mavrikaki, M. Sex Differences in Kappa Opioid Receptor Function and Their Potential Impact on Addiction. Front. Neurosci. 9, (2015).
-34. Pfeiffer, A., Brantl, V., Herz, A. & Emrich, H. Psychotomimesis mediated by kappa opiate receptors. Science 233, 774–776 (1986).
-35. Bruchas, M. R. et al. Stress-Induced p38 Mitogen-Activated Protein Kinase Activation Mediates $\\kappa$-Opioid-Dependent Dysphoria. J. Neurosci. 27, 11614–11623 (2007).
-36. Mague, S. D. et al. Antidepressant-Like Effects of $\\kappa$-Opioid Receptor Antagonists in the Forced Swim Test in Rats. J. Pharm. Exp. Ther. 305, 323–330 (2003).
-37. Alper, K. et al. hERG Blockade by Iboga Alkaloids. Cardiovasc Toxicol. 16, 14–22 (2016).
-38. Koenig, X. & Hilber, K. The Anti-Addiction Drug Ibogaine and the Heart: A Delicate Relation. Molecules 20, 2208–2228 (2015).
-39. Glue, P. et al. Ascending Single-Dose, Double-Blind, Placebo-Controlled Safety Study of Noribogaine in Opioid-Dependent Patients. Clin. Pharmacol. Drug Dev. 5, 460–468 (2016).
-40. Nguyen, N. et al. Adult Human Primary Cardiomyocyte-Based Model for the Simultaneous Prediction of Drug-Induced Inotropic and Pro-arrhythmia Risk. Front. Physiol. 8, 1073 (2017).
-41. Abi-Gerges, N. et al. Multiparametric Mechanistic Profiling of Inotropic Drugs in Adult Human Primary Cardiomyocytes. Sci. Rep. 10, 7692 (2020).
-42. Lynch, W. J. & Hemby, S. E. Drug Reinforcement in Animals. in Addiction Medicine: Science and Practice (ed. Johnson, B. A.) 117–128 (Springer, New York, NY, 2011).
-43. Katz, J. & Sanger-Katz, M. ‘It’s Huge, It’s Historic, It’s Unheard-of’: Drug Overdose Deaths Spike. The New York Times (2021).
-44. Comer, S. D. & Cahill, C. M. Fentanyl: Receptor pharmacology, abuse potential, and implications for treatment. Neurosci. Biobehav. Rev. 106, 49–57 (2019).
-45. Fragale, J. E., Pantazis, C. B., James, M. H. & Aston-Jones, G. The role of orexin-1 receptor signaling in demand for the opioid fentanyl. Neuropsychopharmacol 44, 1690–1697 (2019).
-46. Park, P. E. et al. Chronic CRF1 receptor blockade reduces heroin intake escalation and dependence-induced hyperalgesia. Addiction Biol. 20, 275–284 (2015).
-47. Hyman, S. E., Malenka, R. C. & Nestler, E. J. Neural Mechanisms of Addiction: The Role of Reward-Related Learning and Memory. Annu. Rev. Neurosci. 29, 565–598 (2006).
-48. Evans, C. J. & Cahill, C. M. Neurobiology of opioid dependence in creating addiction vulnerability. F1000Res 5, 1748 (2016).
-49. Gillis, A. et al. Low intrinsic efficacy for G protein activation can explain the improved side effect profiles of new opioid agonists. Sci. Signal. 13, eaaz3140 (2020).
-50. Cunningham, M. J. et al. Pharmacological Mechanism of the Non-hallucinogenic $5-HT\_{2A}$ Agonist Ariadne and Analogs. ACS Chem. Neurosci. 14, 119–135 (2023).
-51. Lewis, V. et al. A non-hallucinogenic LSD analog with therapeutic potential for mood disorders. Cell Rep. 42, 112203 (2023).
-52. Heilig, M., Epstein, D. H., Nader, M. A. & Shaham, Y. Time to connect: bringing social context into addiction neuroscience. Nat. Rev. Neurosci. 17, 592–599 (2016).
-53. Shaham, Y. & de Wit, H. Lost in Translation: CRF1 Receptor Antagonists and Addiction Treatment. Neuropsychopharmacol 41, 2795–2797 (2016).
-54. Glick, S. D., Maisonneuve, I. M. & Szumlinski, K. K. Chapter 2 Mechanisms of action of ibogaine: Relevance to putative therapeutic effects and development of a safer iboga alkaloid congener. in The Alkaloids: Chemistry and Biology vol. 56 39–53 (Elsevier, 2001).
-55. Hester, J. B., Tang, A. H., Keasling, H. H. & Veldkamp, W. Azepinoindoles. I. Hexahydroazepino\[4,5-b\]indoles. J. Med. Chem. 11, 101–106 (1968).
-56. Cameron, L. P. et al. A non-hallucinogenic psychedelic analogue with therapeutic potential. Nature 589, 474–479 (2021).
-57. Neelakantan, H. et al. Lorcaserin Suppresses Oxycodone Self-Administration and Relapse Vulnerability in Rats. ACS Chem. Neurosci. 8, 1065–1073 (2017).
-58. Collins, G. T., Gerak, L. R. & France, C. P. The behavioral pharmacology and therapeutic potential of lorcaserin for substance use disorders. Neuropharmacology 142, 63–71 (2018).
-59. Liu, J. J. et al. In vivo brain GPCR signaling elucidated by phosphoproteomics. Science 360, eaao4927 (2018).
-60. Zhou, L. et al. Development of Functionally Selective, Small Molecule Agonists at Kappa Opioid Receptors. J. Biol. Chem. 288, 36703–36716 (2013).
-61. White, K. L. et al. The G Protein-Biased $\\kappa$-Opioid Receptor Agonist RB-64 Is Analgesic with a Unique Spectrum of Activities In Vivo. J. Pharm. Exp. Ther. 352, 98–109 (2015).
-62. Spetea, M. et al. Selective $\\kappa$-receptor partial agonist HS666 produces potent antinociception without inducing aversion after i.c.v. administration in mice. Br. J. Pharmacol. 174, 2444–2456 (2017).
-63. Váradi, A. et al. Synthesis and Characterization of a Dual Kappa-Delta Opioid Receptor Agonist Analgesic Blocking Cocaine Reward Behavior. ACS Chem. Neurosci. 6, 1813–1824 (2015).
-64. Paton, K. F., Atigari, D. V., Kaska, S., Prisinzano, T. & Kivell, B. M. Strategies for Developing $\\kappa$ Opioid Receptor Agonists for the Treatment of Pain with Fewer Side Effects. J. Pharm. Exp. Ther. 375, 332–348 (2020).
-65. Ona, G. et al. Main targets of ibogaine and noribogaine associated with its putative anti-addictive effects: A mechanistic overview. J. Psychopharmacol. 37, 1190–1200 (2023).
-66. Villalba, S. et al. $5-HT\_{2A}$ Receptor Knockout Mice Show Sex-Dependent Differences following Acute Noribogaine Administration. Int. J. Mol. Sci. 25, 687 (2024).
-67. Luz, M., Mohr, E. & Fibiger, H. C. GDNF-induced cerebellar toxicity: A brief review. NeuroToxicology 52, 46–56 (2016).
-68. Page, G. et al. Human ex-vivo action potential model for pro-arrhythmia risk assessment. J. Pharmacol. Toxicological Methods 81, 183–195 (2016).
-69. Besnard, J. et al. Automated design of ligands to polypharmacological profiles. Nature 492, 215–220 (2012).
-70. Sette, M., Briley, M. S. & Langer, S. Z. Complex Inhibition of \[3H\]Imipramine Binding by Serotonin and Nontricyclic Serotonin Uptake Blockers. J. Neurochem. 40, 622–628 (1983).
-71. Karpowicz, R. J., Dunn, M., Sulzer, D. & Sames, D. APP+, a Fluorescent Analogue of the Neurotoxin MPP+, Is a Marker of Catecholamine Neurons in Brain Tissue, but Not a Fluorescent False Neurotransmitter. ACS Chem. Neurosci. 4, 858–869 (2013).
-72. Váradi, A. et al. Mitragynine/Corynantheidine Pseudoindoxyls As Opioid Analgesics with Mu Agonism and Delta Antagonism, Which Do Not Recruit B-Arrestin-2. J. Med. Chem. 59, 8381–8397 (2016).
-73. Majumdar, S. et al. Generation of novel radiolabeled opiates through site-selective iodination. Bioorg. Med. Chem. Lett. 21, 4001–4004 (2011).
-74. Pickett, J. E. et al. Mild, Pd-catalyzed stannylation of radioiodination targets. Bioorg. Med. Chem. Lett. 25, 1761–1764 (2015).
-75. Majumdar, S. et al. Truncated G protein-coupled mu opioid receptor MOR-1 splice variants are targets for highly potent opioid analgesics lacking side effects. Proc. Natl Acad. Sci. 108, 19778–19783 (2011).
-76. Pan, Y.-X. et al. Identification and Characterization of Three New Alternatively Spliced $\\mu$-Opioid Receptor Isoforms. Mol. Pharmacol. 56, 396–403 (1999).
-77. Lowry, O. H., Rosebrough, N. J., Farr, A. L. & Randall, R. J. Protein measurement with the Folin phenol reagent. J. Biol. Chem. 193, 265–275 (1951).
-78. Bolan, E. A., Pan, Y.-X. & Pasternak, G. W. Functional analysis of MOR-1 splice variants of the mouse mu opioid receptor gene Oprm. Synapse 51, 11–18 (2004).
-79. Rives, M.-L., Rossillo, M., Liu-Chen, L.-Y. & Javitch, J. A. 6’-Guanidinonaltrindole (6’-GNTI) Is a G Protein-biased $\\kappa$-Opioid Receptor Agonist That Inhibits Arrestin Recruitment. J. Biol. Chem. 287, 27050–27054 (2012).
-80. Negri, A. et al. Discovery of a Novel Selective Kappa-Opioid Receptor Agonist Using Crystal Structure-Based Virtual Screening. J. Chem. Inf. Model. 53, 521–526 (2013).
-81. Chakraborty, S. et al. A Novel Mitragynine Analog with Low-Efficacy Mu Opioid Receptor Agonism Displays Antinociception with Attenuated Adverse Effects. J. Med. Chem. 64, 13873–13892 (2021).
-82. Schuller, A. G. P. et al. Retention of heroin and morphine-6$\\beta$-glucuronide analgesia in a new line of mice lacking exon 1 of MOR-1. Nat. Neurosci. 2, 151–156 (1999).
-83. Ansonoff, M. A. et al. Antinociceptive and Hypothermic Effects of Salvinorin A Are Abolished in a Novel Strain of $\\kappa$-Opioid Receptor-1 Knockout Mice. J. Pharm. Exp. Ther. 318, 641–648 (2006).
-84. Kozai, T. D. Y., Jaquins-Gerstl, A. S., Vazquez, A. L., Michael, A. C. & Cui, X. T. Brain Tissue Responses to Neural Implants Impact Signal Sensitivity and Intervention Strategies. ACS Chem. Neurosci. 6, 48–67 (2015).
-85. Váradi, A. et al. Synthesis of Carfentanil Amide Opioids Using the Ugi Multicomponent Reaction. ACS Chem. Neurosci. 6, 1570–1577 (2015).
-86. Pattison, L. P., McIntosh, S., Sexton, T., Childers, S. R. & Hemby, S. E. Changes in dopamine transporter binding in nucleus accumbens following chronic self-administration cocaine: Heroin combinations: DAT Binding and Drug Self-Administration. Synapse 68, 437–444 (2014).
-87. Pattison, L. P., McIntosh, S., Budygin, E. A. & Hemby, S. E. Differential regulation of accumbal dopamine transmission in rats following cocaine, heroin and speedball self-administration: Speedball increases DAT reuptake rate. J. Neurochem. 122, 138–146 (2012).
-88. McIntosh, S., Sexton, T., Pattison, L. P., Childers, S. R. & Hemby, S. E. Increased Sensitivity to Cocaine Self-Administration in HIV-1 Transgenic Rats is Associated with Changes in Striatal Dopamine Transporter Binding. J. Neuroimmune Pharm. 10, 493–505 (2015).
-89. Hemby, S. E., Co, C., Dworkin, S. I. & Smith, J. E. Synergistic Elevations in Nucleus Accumbens Extracellular Dopamine Concentrations during Self-Administration of Cocaine/Heroin Combinations (Speedball) in Rats. J. Pharm. Exp. Ther. 288, 274–280 (1999).
-90. Hemby, S. E., Smith, J. E. & Dworkin, S. I. The effects of eticlopride and naltrexone on responding maintained by food, cocaine, heroin and cocaine/heroin combinations in rats. J. Pharm. Exp. Ther. 277, 1247–1258 (1996).
-91. Gold, L. H., Stinus, L., Inturrisi, C. E. & Koob, G. F. Prolonged tolerance, dependence and abstinence following subcutaneous morphine pellet implantation in the rat. Eur. J. Pharm. 253, 45–51 (1994).
-92. Yoburn, B. C., Chen, J., Huang, T. & Inturrisi, C. E. Pharmacokinetics and pharmacodynamics of subcutaneous morphine pellets in the rat. J. Pharm. Exp. Ther. 235, 282–286 (1985).
-93. Che, T. et al. Structure of the Nanobody-Stabilized Active State of the Kappa Opioid Receptor. Cell 172, 55–67.e15 (2018).
-94. Huang, W. et al. Structural insights into $\\mu$-opioid receptor activation. Nature 524, 315–321 (2015).
-95. Totrov, M. & Abagyan, R. Flexible protein-ligand docking by global energy optimization in internal coordinates. Proteins: Struct., Funct., Bioinforma. 29, 215–220 (1997).
-96. Sheldrick, G. M. SHELXTL, An Integrated System for Solving, Refining and Displaying Crystal Structures from Diffraction Data. (University of Göttingen, Göttingen, Federal Republic of Germany, 1981).
-97. Sheldrick, G. M. A short history of SHELX. Acta Crystallogr. A 64, 112–122 (2008).
-98. Sheldrick, G. M. Crystal structure refinement with SHELXL. Acta Crystallogr. Sect. C. Struct. Chem. 71, 3–8 (2015).
-99. Lein, E. S. et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature 445, 168–176 (2007).
+Only male rats were used in the self-administration, reinstatement, and OIH experiments, despite documented sex differences in KOR-mediated pharmacological effects. While mouse behavioural studies included both sexes and showed relatively consistent oxa-noribogaine effects, the critical OUD efficacy data lack female representation. The causal relationship between KOR signalling efficacy and the atypical behavioural profile (absence of aversion, no pro-depressive effects) has not been established — the partial agonism rationale remains a working hypothesis. Alternative mechanisms, including preferential engagement of KOR-MOR heterodimers or interactions between KOR activation and the inherited iboga polypharmacological background, cannot be excluded. Similarly, while GDNF induction is KOR-dependent and temporally correlates with lasting behavioural effects, no causal link between GDNF elevation in the VTA/mPFC and suppression of opioid intake has been demonstrated. The possibility of active metabolites was not examined. The cardiac safety data, while using a highly translational assay, derive from a limited number of donor hearts and test only contractility-based endpoints — whether oxa-iboga compounds affect the action potential duration or conduction velocity remains unexplored. A.C. Kruegel and D. Sames are co-founders of Gilgamesh Pharmaceuticals, which licensed the oxa-iboga assets from Columbia University.
 
 ---
 
@@ -383,9 +159,11 @@ Oxa-iboga analogs were synthesized via *de novo* methods involving the catalytic
 
 **Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
 
-- [Glick1996_18MC_NonToxic](../1996/Glick1996_18MC_NonToxic.md) — Original 18-MC paper establishing safer analogue paradigm
-- [Havel2021_Oxa-Iboga_Opioid_Addiction](../2021/Havel2021_Oxa-Iboga_Opioid_Addiction.md) — Earlier oxa-iboga paper from same research group
-- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG data showing why cardiac-safe analogues are needed
-- [Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol](Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol.md) — Parallel tabernanthalog analogue development
-- [Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release](../2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md) — Structure-activity work enabling rational analogue design
+**Iboga analogue development:**
+- [Glick et al., 1996](../1996/Glick1996_18MC_NonToxic.md) — Original 18-MC paper establishing safer analogue paradigm
+- [Havel et al., 2021](../2021/Havel2021_Oxa-Iboga_Opioid_Addiction.md) — Earlier oxa-iboga preprint from same research group
+- [Heinsbroek et al., 2024](Heinsbroek2024_Tabernanthalog_Reduces_Motivation_for_Heroin_Alcohol.md) — Parallel tabernanthalog analogue development
+- [Gassaway et al., 2015](../2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md) — Structure-activity work enabling rational analogue design
 
+**Cardiac safety context:**
+- [Alper et al., 2016](../2016/Alper2016_hERG_Blockade.md) — hERG data showing why cardiac-safe analogues are needed

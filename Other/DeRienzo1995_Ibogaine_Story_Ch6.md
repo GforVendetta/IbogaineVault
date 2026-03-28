@@ -38,9 +38,10 @@ dosing_range: "Weight-adjusted oral ibogaine HCl (99.7% purity); booster doses a
 route: oral
 organisation: "MindVox"
 open_access: true
-body_format: narrative
-licence_type: unknown
+body_format: vault-analytical
+licence_type: freely-distributed
 licence_verified: false
+references_stripped: true
 ---
 
 # The Ibogaine Story — Chapter 6: Bob Sisko
@@ -50,6 +51,21 @@ licence_verified: false
 Chapter 6 documents Bob Sisko's paraclinical treatment programme (1987–1991) — the **first new human ibogaine trials in 25 years** — comprising nine case histories that reproduced and extended Lotsof's original 1962–1963 findings. Operating from Amsterdam (where ibogaine was not scheduled), Sisko's programme produced two major unexpected discoveries: **ibogaine interrupts cigarette addiction** and **ibogaine interrupts methadone addiction in 36 hours** (versus the standard 2–6 months of excruciating withdrawal). The chapter also contains the richest PURPLE phenomenological accounts in the book, with multiple subjects independently reporting encounters with "Bwiti" — a discorporate entity central to the Gabonese religious tradition.
 
 The chapter traces Sisko's arc from NDA International collaborator to independent treatment provider (ICASH — International Coalition for Addict Self Help), documenting the Gabon diplomatic mission to secure ibogaine supply, the first Dutch treatments, and the emergence of clinical insights (enabling behaviour, anti-emetic requirements, age-dependent recovery, the "Ibogaine learning curve") that prefigured modern protocol development.
+
+---
+
+## Key Findings
+
+- **First new human ibogaine trials in 25 years:** Sisko's nine paraclinical treatments (1987–1991) reproduced and extended Lotsof's 1962–1963 findings under closer measurement, confirming ibogaine's addiction-interruption properties across heroin, cocaine, methadone, alcohol, and cigarettes.
+- **Unexpected discovery — cigarette interruption:** Sisko's own treatment (December 1987) produced unintended and permanent cessation of cigarette smoking, identifying a previously unknown target for ibogaine's anti-addictive effects.
+- **Unexpected discovery — methadone interruption in ~36 hours:** Ron's case demonstrated that ibogaine's purgative action clears methadone dependency in approximately 36 hours, versus the standard 2–6 months of tapering withdrawal — a finding with profound implications for opioid substitution therapy exit.
+- **Efficacy independent of patient motivation:** Linda T's case provided dramatic confirmation that ibogaine can interrupt addiction even in subjects who neither want nor expect it to work, challenging the assumption that treatment motivation is prerequisite.
+- **Enabling behaviour as treatment-sabotage vector:** The Greek couple's first failed treatment revealed that an untreated partner can covertly supply drugs during treatment, establishing the need for controlled treatment environments.
+- **Anti-emetic protocol and rectal rescue route:** Approximately 50% of subjects experienced nausea; Dramamine pre-medication and rectal aqueous ibogaine administration emerged as critical protocol innovations.
+- **Age-dependent recovery period:** Older subjects (Jeff, age 41) showed notably longer post-treatment recovery than younger individuals, suggesting age as a variable for clinical monitoring.
+- **Ibogaine learning curve:** Repeated treatments enabled sustained freedom from addiction — subjects learned how to quit through cumulative ibogaine experiences, positioning ibogaine as a treatment rather than a one-time cure.
+- **Delayed integration of ibogaine-accessed information:** Boaz Wachtel's case demonstrated that information accessed during the ibogaine experience may remain dormant and activate later under appropriate stimuli — a distinct temporal mechanism from immediate addiction interruption.
+- **Consistent Bwiti phenomenology across subjects:** Multiple independent subjects (Sisko, Fred, Linda T) reported encounters with "Bwiti" — a discorporate entity central to Gabonese religious tradition — suggesting cross-cultural phenomenological consistency.
 
 ---
 
@@ -154,22 +170,42 @@ Sisko's own re-treatment (August 1991) for recurring alcohol problems demonstrat
 
 ---
 
+## Clinical Implications
+
+Sisko's nine cases established foundational clinical insights that directly informed subsequent ibogaine protocol development. The methadone interruption finding — clearing dependency in approximately 36 hours versus months of conventional tapering — remains one of ibogaine's most clinically significant properties and motivated much of the later formal research into ibogaine-assisted opioid detoxification.
+
+The anti-emetic requirement (approximately 50% nausea incidence) and the viability of rectal rescue administration when vomiting compromises oral dosing became standard protocol considerations. The enabling behaviour discovery — where an untreated partner covertly supplied methadone during treatment — established that ibogaine treatment requires controlled environments with managed access, a principle now embedded in clinical guidelines.
+
+The demonstration that ibogaine works independently of patient motivation (Linda T) has implications for treatment-resistant populations and involuntary treatment contexts. The age-dependent recovery observation suggests that older patients may require extended monitoring periods and adjusted aftercare protocols.
+
+The re-treatment model emerging from these cases — where ibogaine functions as a repeatable treatment rather than a one-time cure — fundamentally shaped how subsequent clinical programmes understood treatment expectations. Sisko's "ibogaine learning curve" concept (cumulative learning across treatments) remains relevant to modern re-treatment protocols.
+
+The unmasking of pre-existing conditions post-detoxification (Jeff's slipped disc) carries direct clinical implications: practitioners must be prepared for the emergence of pain conditions previously self-medicated with opiates, requiring appropriate pain management protocols during the post-treatment window.
+
+---
+
+## Limitations
+
+This chapter is a journalist narrative documenting paraclinical treatments conducted outside institutional or regulatory frameworks — not a peer-reviewed research report. The nine cases were conducted without IRB oversight, standardised dosing protocols (which evolved case-by-case), control groups, or randomisation. Follow-up was informal and inconsistent, with outcomes reported through personal communication rather than structured assessment instruments. Selection of treatment subjects was determined by Sisko's personal network rather than systematic recruitment. The book was published by a small press affiliated with the ibogaine advocacy community (Autonomedia/MindVox), and the authors (De Rienzo and Beal) were active participants in the ibogaine movement, not disinterested observers. Despite these limitations, the case histories document the earliest systematic post-Lotsof human ibogaine treatments and contain clinical observations (methadone interruption, anti-emetic requirements, enabling behaviour) that were subsequently validated in formal research settings.
+
+---
+
 ## See Also
 
 ### Chapter Cross-References
-- DeRienzo1995_Ibogaine_Story_Ch5 — NDA International founding; patent history; Lotsof's systematic approach
-- DeRienzo1995_Ibogaine_Story_Ch7 — Glick's preclinical programme (animal model confirmation of findings described here)
-- DeRienzo1995_Ibogaine_Story_Ch12 — Baker and Lamontia treatments (continuation of Sisko's clinical arc)
-- DeRienzo1995_Ibogaine_Story_Ch13 — Bwiti ethnography (contextualises phenomenological reports)
+- [DeRienzo1995_Ibogaine_Story_Ch5](DeRienzo1995_Ibogaine_Story_Ch5.md) — NDA International founding; patent history; Lotsof's systematic approach
+- [DeRienzo1995_Ibogaine_Story_Ch7](DeRienzo1995_Ibogaine_Story_Ch7.md) — Glick's preclinical programme (animal model confirmation of findings described here)
+- [DeRienzo1995_Ibogaine_Story_Ch12](DeRienzo1995_Ibogaine_Story_Ch12.md) — Baker and Lamontia treatments (continuation of Sisko's clinical arc)
+- [DeRienzo1995_Ibogaine_Story_Ch13](DeRienzo1995_Ibogaine_Story_Ch13.md) — Bwiti ethnography (contextualises phenomenological reports)
 
 ### Vault Papers
-- Glick1991_Ibogaine_Morphine_Self_Administration — Animal confirmation of repeated-treatment efficacy
-- Alper1999_Acute_Opioid_Withdrawal — Larger observational study building on Sisko's case series methodology
-- Noller2017_Ibogaine_Opioid_12Month_Outcomes — Modern outcome study inheriting Sisko's clinical paradigm
-- Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context — Bwiti ethnography (Ch18 used as treatment orientation material)
+- [Glick1991_Ibogaine_Morphine_Self_Administration](../1991/Glick1991_Ibogaine_Morphine_Self_Administration.md) — Animal confirmation of repeated-treatment efficacy
+- [Alper1999_Acute_Opioid_Withdrawal](../1999/Alper1999_Acute_Opioid_Withdrawal.md) — Larger observational study building on Sisko's case series methodology
+- [Noller2017_Ibogaine_Opioid_12Month_Outcomes](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md) — Modern outcome study inheriting Sisko's clinical paradigm
+- [Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context](../2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.md) — Bwiti ethnography (Ch18 used as treatment orientation material)
 
 ### Vault Hubs
-- BLUE_Outcomes_Hub — Treatment outcomes: 9 case histories
-- PURPLE_Phenomenology_Hub — Bwiti encounters; three-phase experience; delayed integration
-- WHITE_Historical_Hub — Gabon mission; ICASH founding; first Dutch treatments
-- GREEN_Clinical_Protocols_Hub — Anti-emetic protocol; rectal rescue route; enabling behaviour management
+- [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md) — Treatment outcomes: 9 case histories
+- [PURPLE_Phenomenology_Hub](../Hubs/PURPLE_Phenomenology_Hub.md) — Bwiti encounters; three-phase experience; delayed integration
+- [WHITE_Historical_Hub](../Hubs/WHITE_Historical_Hub.md) — Gabon mission; ICASH founding; first Dutch treatments
+- [GREEN_Clinical_Protocols_Hub](../Hubs/GREEN_Clinical_Protocols_Hub.md) — Anti-emetic protocol; rectal rescue route; enabling behaviour management

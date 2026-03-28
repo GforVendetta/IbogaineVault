@@ -32,8 +32,8 @@ dosing_range: "Not specified (flood dose protocols at various clinics)"
 route: oral
 open_access: true
 body_format: vault-analytical
-licence_type: unknown
-licence_verified: false
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Learning from ibogaine fatalities, rather than covering them up

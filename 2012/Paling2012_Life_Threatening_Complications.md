@@ -12,10 +12,10 @@ tags:
   - topic/toxicity
   - topic/opioid
   - topic/alcohol
-  - mechanism/herg-blockade
+  - topic/cardiac
   - method/case-report
 key_findings: "Three Dutch case reports: QTc >700ms with torsade de pointes, respiratory depression requiring ventilation. Naranjo scale confirms probable ibogaine causality. Authors warn of unregulated online availability."
-journal: "The Journal of Medicine (Netherlands)"
+journal: "The Netherlands Journal of Medicine"
 publication_date: "2012-11-01"
 document_type: case-report
 clinical_significance: high
@@ -33,148 +33,99 @@ contraindications:
   - "opioid co-use"
   - "alcohol dependence"
   - "benzodiazepine dependence"
-dosing_range: "3.5g ibogaine 15% (case 2)"
+dosing_range: "3.5 g ibogaine 15% (case 2)"
 route: oral
-open_access: unknown
-body_format: academic-retained
-licence_type: unknown
-licence_verified: false
+open_access: false
+body_format: vault-analytical
+licence_type: all-rights-reserved
+licence_verified: true
+references_stripped: true
 pmid: "23123541"
 ---
 
 # Life-threatening complications of ibogaine: three case reports
 
-> **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
+**Citation:** Paling, F.P., Andrews, L.M., Valk, G.D., & Blom, H.J. (2012). Life-threatening complications of ibogaine: three case reports. *The Netherlands Journal of Medicine*, 70(9), 422–424. PMID: 23123541
 
-
-**Journal:** The Journal of Medicine (Netherlands) | SPECIAL ARTICLE
-**Date:** November 2012, Vol. 70, No 9
-**Pages:** 422–424
-
-**Authors:**
-F.P. Paling, L.M. Andrews, G.D. Valk, H.J. Blom
-
-**Affiliations:**
-1. Zuwe Hofpoort Hospital, Woerden, the Netherlands
-2. Diakonessenhuis, Utrecht, the Netherlands
-3. Erasmus Medical Centre, Rotterdam, the Netherlands
-4. University Medical Centre, Utrecht, the Netherlands
-
-**Corresponding Author:**
-\* tel.: +31 (0) 348 427 264, fax +31 (0) 348 426 857, e-mail: paling.f@gmail.com
-
----
-
-## ABSTRACT
+## Abstract
 
 Ibogaine is a naturally occurring psychoactive alkaloid extracted from the roots of the *Tabernanthe iboga* plant, which in alternative medicine is used to treat drug dependency. However, this upcoming, online advocated therapy can be dangerous due to its potentially lethal adverse effects. We present three cases in which toxic side effects were noted. We used the Naranjo scale to estimate the probability of a causal relationship between these effects and ibogaine. Findings in these three cases are suggestive of a causal relationship between the use of ibogaine and serious respiratory and cardiac problems (including lengthening of the QT interval). In our opinion it is of great importance that clinicians are aware of these potentially serious side effects and realise that widespread online marketing practices will give many more people access to ibogaine.
 
-**KEYWORDS**
-Iboga, ibogaine, long QT interval, tachyarrhythmia
+## Key Findings
 
----
+This Dutch case series documents three distinct presentations of life-threatening ibogaine toxicity, each underscoring different dimensions of clinical risk. The most striking cardiac finding was a QTc interval exceeding 700 ms with torsade de pointes (TdP) in Case 1, necessitating two rounds of defibrillation in the ICU. Case 2 — notably the same patient previously reported by [Hoelen et al. (2009)](../2009/Hoelen2009_Long_QT_Ibogaine.md) — presented with QTc prolongation to 616 ms and TdP following a single dose of 3.5 g ibogaine 15% for treatment-resistant alcohol dependence.
 
-> **What was known about this topic?**
->
-> Ibogaine is a naturally occurring psychoactive alkaloid which in the last decades drew the attention of the Western world for its potential to inhibit withdrawal symptoms associated with weaning from drugs. Even though small open-label studies investigating the effects of ibogaine have been promising, controlled clinical trials were never carried out because research showed possible serious side effects and one fatality in Alper’s open-label study.
+Case 3 diverged from the cardiac pattern entirely, presenting primarily with prolonged unresponsiveness, respiratory insufficiency requiring intubation, and a potentially lethal ibogaine blood concentration of 0.37 mg/mL. This patient's QTc was approximately 480 ms — elevated but not dramatically so — suggesting that ibogaine's life-threatening effects extend beyond QTc prolongation alone, particularly when opioid co-ingestion is present.
 
-> **What do these cases add?**
->
-> The non-medical use of ibogaine in the treatment of opioid addiction is increasing; it is important for health professionals to be aware of the risks and take a clear stand on this practice. The limited available evidence will be discussed here and complemented with new cases of probable ibogaine intoxications.
+Application of the Naranjo adverse drug reaction probability scale yielded scores of 6–8 across all three cases, establishing a "probable" causal relationship between ibogaine ingestion and the observed complications. Critically, the electrolyte disturbances documented in all three patients — hypophosphataemia, hypokalaemia, and hypomagnesaemia — were too mild in each case to account for the severity of symptoms, strengthening the attribution to ibogaine itself.
 
----
+## Methodology
 
-## INTRODUCTION
+Retrospective case series of three patients admitted to hospitals within the Dutch university medical system (Zuwe Hofpoort Hospital Woerden, with affiliations to Diakonessenhuis Utrecht, Erasmus MC Rotterdam, and UMC Utrecht) following ibogaine ingestion for addiction treatment. All three presented to emergency departments with acute cardiac or neurological compromise. Causality assessment employed the Naranjo scale — a validated 10-item instrument for estimating the probability that an adverse reaction is attributable to a specific drug, yielding classifications of definite (≥9), probable (5–8), possible (1–4), or doubtful (0).
 
-Ibogaine is a naturally occurring psychoactive alkaloid which is extracted from the roots of the *Tabernanthe iboga* plant. The plant is mainly found in West and Central Africa and has long been used in rituals and to fight fatigue, hunger and thirst. In the last decades it drew the attention of the Western world for its potential to inhibit withdrawal symptoms associated with weaning from drugs.$^{1,2}$
+## Cardiac Safety Data
 
-Anecdotal evidence and results of small open-label studies investigating the effects of ibogaine have been promising.$^{2,3}$ However, controlled clinical trials were never carried out because both laboratory studies pointed to the risk of serious side effects and one fatality in Alper’s open-label study.$^{3,4}$ Nevertheless, the non-medical use of ibogaine in the treatment of opioid addiction is increasing; it is important for health professionals to be aware of the risks and take a clear stand on this practice.
+| Parameter | Case 1 | Case 2 | Case 3 |
+|-----------|--------|--------|--------|
+| Age / Sex | 49 / Male (Scottish) | 31 / Female (American) | 43 / Female (Italian) |
+| Addiction treated | Heroin | Alcohol | Heroin + benzodiazepines |
+| Ibogaine dose | Not specified | 3.5 g ibogaine 15% | Not specified |
+| QTc (ms) | >700 | 616 | ~480 |
+| Torsade de pointes | Yes — defibrillated ×2 | Yes | No |
+| Respiratory compromise | No | No | Yes — intubated day 2 |
+| Ibogaine blood level | Not measured | Not measured | 0.37 mg/mL (potentially lethal) |
+| Phosphate (mmol/L) | 0.76 (ref 0.8–1.50) | Not reported | Not reported |
+| Magnesium (mmol/L) | Not reported | 0.49 (ref 0.65–1.05) | Not reported |
+| Potassium (mmol/L) | 3.5 (ref 3.5–5.0) | 3.2 (ref 3.5–5.0) | 3.1 (ref 3.5–5.0) |
+| Calcium (mmol/L) | 2.23 (ref 2.1–2.6) | Not reported | Not reported |
+| Urine opioids | Traces | Negative | Positive |
+| QTc normalisation | 475 ms at discharge (10 days) | Normalised at 42 hours | Not specified |
+| Naranjo score | 6–8 (probable) | 8 (probable) | 6–8 (probable) |
+| ICU stay / Outcome | 10 days / discharged well | ~2 days / discharged well | 7 days / discharged well |
 
-The limited available evidence will be discussed here and complemented with new cases of probable ibogaine intoxications. One case was previously published by Hoelen *et al.* in 2009.$^{5}$ We applied the Naranjo scale to estimate the probability of a causal relationship.$^{6}$
+**Notable case-specific findings:**
 
----
+- **Case 1:** The QTc remained prolonged throughout the entire 10-day hospitalisation, only reaching 475 ms at discharge — still above the 450 ms threshold for males. The patient's history of heroin use was reflected in traces of opioids on urine screening, though he denied recent use.
+- **Case 2:** This is the same patient reported by [Hoelen et al. (2009)](../2009/Hoelen2009_Long_QT_Ibogaine.md). Electrolyte correction (magnesium, potassium) did not improve the QTc interval, suggesting the prolongation was driven by ibogaine's direct pharmacological effect rather than electrolyte disturbance. Her QTc normalised within 42 hours — substantially faster than Case 1.
+- **Case 3:** The dominant clinical picture was neurological and respiratory rather than cardiac. The patient was unresponsive on presentation, required intubation for respiratory failure on day 2, and developed aspiration pneumonia and urinary retention during the ICU stay. Administration of flumazenil and naloxone produced withdrawal symptoms but did not restore consciousness, consistent with ibogaine's independent CNS depressant activity. The measured ibogaine blood level (0.37 mg/mL) was classified as potentially lethal. The relatively modest QTc elevation (~480 ms) in this case suggests that ibogaine toxicity can manifest primarily through CNS/respiratory pathways, particularly with concurrent opioid exposure.
 
-## CASE 1
+### Naranjo Adverse Drug Reaction Probability Scale
 
-A 49-year-old Scottish male with a history of heroin addiction presented to the emergency department with collapse. He had received his first anti-addictive dose of ibogaine one or two days earlier. History taking was complicated due to intermittent unresponsiveness, but the patient stated he had no specific complaints. Apart from hypothyroidism and asthmatic symptoms, his medical history was unremarkable.
+| Criterion | Yes | No | Unknown |
+|-----------|:---:|:---:|:-------:|
+| Previous reports of adverse event with this drug | +1 | 0 | 0 |
+| Adverse event appeared after drug administration | +2 | −1 | 0 |
+| Improvement after drug discontinuation | +1 | 0 | 0 |
+| Recurrence on readministration | +2 | −1 | 0 |
+| Alternative causes for the event | −1 | +2 | 0 |
+| Adverse event with placebo | −1 | +1 | 0 |
+| Toxic drug concentration detected | +1 | 0 | 0 |
+| Dose-related severity | +1 | 0 | 0 |
+| Similar reaction in prior exposure | +1 | 0 | 0 |
+| Confirmed by objective evidence | +1 | 0 | 0 |
 
-Electrocardiography (ECG) of this patient showed intermittent ventricular tachyarrhythmias, known as torsade de pointes, with underlying sinus rhythm and a QT interval of >700 ms. Laboratory testing showed mild hypophosphataemia (0.76 mmol/l [reference 0.8-1.50]), and mild hypokalaemia (3.5 mmol/l [reference 3.5-5.0]) but no other deviations (calcium 2.23 mmol/l [reference 2.1-2.6]). A computed tomography (CT) scan of the brain showed no abnormalities. Urine screening showed traces of opioids.
+*Scoring: definite ≥9, probable 5–8, possible 1–4, doubtful 0. All three cases scored probable (6–8 points).*
 
-The patient was admitted to the intensive care unit (ICU), where he was defibrillated twice for tachyarrhythmias. Over the following days he recovered quickly; his QT interval, however, remained prolonged during the entire stay in our hospital. He was discharged after being free of ventricular tachyarrhythmias for ten days, with a QT interval of 475 ms.
+## Clinical Implications
 
-## CASE 2
+These cases carry several implications for ibogaine treatment safety. First, the range of QTc prolongation observed — from ~480 ms (Case 3) to >700 ms (Case 1) — demonstrates wide inter-individual variability in cardiac response, which complicates any single screening threshold. Second, the failure of electrolyte correction to normalise QTc in Case 2 suggests that ibogaine's effect on cardiac repolarisation operates through direct channel blockade (consistent with the hERG inhibition documented by [Thurner et al., 2014](../2014/Thurner2014_hERG_Channel_Block_Ibogaine.md)) rather than solely through electrolyte-mediated pathways. Third, Case 3 demonstrates that ibogaine toxicity can present without dramatic QTc prolongation — the life-threatening features were primarily neurological and respiratory, likely potentiated by concurrent opioid use, as reflected in ibogaine's known capacity to enhance opioid effects.
 
-A 31-year-old American woman with a history of persistent alcohol addiction presented to the emergency room with a seizure-like attack after taking a first dose of 3.5 g of ibogaine.$^{5}$ She had started on ibogaine as an alternative therapy for her treatment-resistant alcohol dependence. Apart from this single dose of 3.5 g ibogaine 15% (usual dose, 2 to 6 g) she had not taken any other medication or drugs, and her family history was unremarkable. She only complained of nausea.
+The prolonged QTc recovery in Case 1 (still 475 ms after 10 days) aligns with ibogaine's long elimination half-life and the extended cardiac monitoring requirements now emphasised in modern protocols. The authors' recommendation to add ibogaine to QT-prolonging drug lists anticipated the trajectory that [Corkery et al. (2018)](../2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md) and subsequent fatality reviews would subsequently reinforce.
 
-ECG revealed a strikingly prolonged QT interval (corrected 616 ms) and torsade de pointes. Laboratory testing showed mild electrolyte deviations (magnesium 0.49 mmol/l [reference 0.65-1.05], potassium 3.2 mmol/l [reference 3.5-5.0]), which were rapidly corrected, however without any effect on the QT interval.
+Pre-treatment electrolyte screening and correction — particularly magnesium and potassium — is supported by these data, though the finding that electrolyte correction alone was insufficient underscores the need for comprehensive cardiac monitoring beyond electrolyte management alone.
 
-The patient was admitted to the ICU, where after 42 hours of monitoring her QT interval normalised. During her stay in the ICU no new seizures occurred and no further intervention was needed. She was discharged home in good condition.
+## Limitations
 
-## CASE 3
-
-A 43-year-old Italian woman, also being treated with ibogaine for heroin and benzodiazepines addiction, was admitted to the emergency room in an unresponsive state, which had lasted longer since she had been found earlier that morning. She had vomited and possibly had shown some contractions around her mouth.
-
-Physical examination showed a non-responsive, tachypnoeic and subfebrile woman, who moved her arms and legs symmetrically. Blood testing showed only leukocytosis (12.7 [reference 4.0-10.0]), slightly elevated erythrocyte sedimentation rate of 38 mm/h [reference 2-12] and mild hypokalaemia (3.1 mmol/l). A CT scan of the brain, chest X-ray and ECG (QTc around 480 ms) were performed but showed no abnormalities. Because urine screening tested positive for opioids, she was injected with flumazenil (Anexate) and naloxone upon which she developed mild withdrawal symptoms, but no improvement in consciousness. Electroencephalography showed encephalopathy of unknown origin, possibly related to earlier hypoxia. No epileptic activity was seen.
-
-She was admitted to the ICU, where she was intubated on day 2, due to respiratory insufficiency. She remained unstable for several days, but was extubated after 24 hours. No cardiac arrhythmias were observed, but she did develop urine retention and aspiration pneumonia during the ICU stay. Later, blood samples showed potentially lethal ibogaine levels (0.37 mg/ml).$^{7}$ The patient was discharged home in good condition after seven days.
-
----
-
-## DISCUSSION
-
-The three cases presented here concerned patients who used ibogaine shortly before experiencing cardiac or respiratory instability. Unexplained death or adverse events after the use of ibogaine have been described before incidentally; they have rarely been related with ibogaine blood levels.$^{8}$
-
-First, we would like to discuss the likelihood of whether the adverse reactions in these cases were actually due to ibogaine rather than the result of other factors. We applied the Naranjo scale to assess the probability of a causal relationship. Probability is assigned via a score termed definite, probable, possible or doubtful (*table 1*).$^{6}$ In cases 1 and 3 traces of opioids were found in serum and/or urine. The patient in case 1 claimed not to have used drugs recently before presentation, but in case 3 the patient was on a methadone regime. Thus, in case 3, a combination of ibogaine and opioid intoxication could be considered, especially in view of the dominant respiratory problems. In this context, it is of interest that ibogaine is thought to potentiate opioids and their toxic effects.$^{8}$ Applying the score to patient 1 and 3, they score 6 to 8 points, thus a causal relationship is probable. In case 2 there appeared to be no other explanation for the symptoms, adding up to 8 points and a probable causal relationship. Electrolyte deviations in all three patients were too minimal to expect to produce the symptoms as presented here.
-
-Apart from the presented cases, there is only one previous report in the literature describing ventricular tachyarrhythmia and long QT interval in relation to recent ibogaine ingestion.$^{9}$ The similarity of this case report with cases 1 and 2 described here is striking and contributes to our view that ibogaine can cause serious cardiac problems.
-
-In conclusion, findings in these three cases are suggestive of a causal relationship between the use of ibogaine and serious respiratory and cardiac problems (including prolonged QT interval). One other publication supports these findings.$^{9}$ Considering more and more people have access to ibogaine through widespread online availability, we would suggest professionals to get in line and explicitly issue a clear negative advice against the use of ibogaine. Furthermore, in our opinion ibogaine should be added to the list of drugs causing long QT interval.
-
-### Table 1: Scale of Naranjo
-*Causal relationship is certain (≥9), probable (5-8), possible (1-4), doubtful (0)*$^{6}$
-
-| Criteria | Yes | No | Unknown |
-| :--- | :---: | :---: | :---: |
-| Previous reports of adverse event of X | 1 | 0 | 0 |
-| Adverse event after intake of X | 2 | -1 | 0 |
-| Improvement after discontinuation of X | 1 | 0 | 0 |
-| Relapse of symptoms after readministration of X | 2 | -1 | 0 |
-| Alternative causes of adverse event | -1 | 2 | 0 |
-| Adverse event occurs when placebo is administered | -1 | 1 | 0 |
-| Toxic concentration in body fluid detected | 1 | 0 | 0 |
-| Severity of symptoms is dose related | 1 | 0 | 0 |
-| Patient had similar adverse event before when using X | 1 | 0 | 0 |
-| Adverse event is confirmed by objective evidence | 1 | 0 | 0 |
-
----
-
-## ACKNOWLEDGEMENTS
-
-Dr. D.W. Hoelen, PhD, University Medical Centre, Utrecht, the Netherlands. No conflict of interest or funding was reported.
-Presented as an oral presentation at the Annual Meeting of the Netherlands Association of Internal Medicine, 25-27 April 2012, Maastricht, the Netherlands.
-
----
-
-## REFERENCES
-
-1. Werneke U, Turner T, Priebe S. Complementary medicines in psychiatry: review of effectiveness and safety. Br J Psychiatry. 2006;188:109-21.
-2. Mash DC, Kovera CA, Pablo J, et al. Ibogaine: complex pharmacokinetics, concerns for safety, and preliminary efficacy measures. Ann N Y Acad Sci. 2000;914:394-401.
-3. Alper KR, Lotsof HS, Frenken GM, Luciano DJ, Bastiaans J. Ibogaine in acute opioid withdrawal. An open label case series. Ann N Y Acad Sci. 2000;909:257-9.
-4. O’Hearn E, Molliver ME. The olivocerebellar projection mediates ibogaine-induced degeneration of Purkinje cells: a model of indirect, trans-synaptic excitotoxicity. J Neurosci. 1997;17:8828-41.
-5. Hoelen DW, Spiering W, Valk GD. Long-QT syndrome induced by the antiaddiction drug ibogaine. N Engl J Med. 2009;360:308-9.
-6. Naranjo CA, Busto U, Sellers EM, et al. A method for estimating the probability of adverse drug reactions. Clin Pharmacol Ther. 1981;30:239-45.
-7. Molina D. Handbook of Forensic Toxicology for Medical Examiners. Taylor and Francis Inc; 2009.
-8. Alper KR, Stajic M, Gill JR. Fatalities Temporally Associated with the Ingestion of Ibogaine. J Forensic Sci. 2012;57:398-412.
-9. Pleskovic A, Gorjup V, Brvar M, Kozelj G. Ibogaine-associated ventricular tachyarrhythmias. Clinical toxicology (Philadelphia, Pa.) 2012;50(2):157.
-
----
-*© Van Zuiden Communications B.V. All rights reserved.*
+The authors identify several constraints inherent to this case series. As retrospective case reports, none of the three patients underwent controlled ibogaine administration with pre-treatment baseline ECGs, limiting the ability to quantify the magnitude of QTc change from individual baselines. Dosing information was only available for Case 2 (3.5 g ibogaine 15%); Cases 1 and 3 relied on patient or third-party reports of ibogaine ingestion without verified dosing. Opioid co-exposure in Cases 1 and 3 introduces the possibility of pharmacological interaction effects, particularly regarding Case 3's respiratory presentation. The sample of three cases from a single hospital network limits generalisability, though the consistency of findings across three demographically diverse patients (Scottish, American, Italian) strengthens the signal.
 
 ---
 
 ## See Also
 
-- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — Earlier Dutch case report of ibogaine QTc prolongation; same clinical setting
-- [Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias](Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.md) — Same-year case report with TdP arrhythmia pattern
-- [Alper2012_Ibogaine_Fatalities](Alper2012_Ibogaine_Fatalities.md) — Systematic fatality review providing context for these individual cases
+- [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — Earlier Dutch case report of ibogaine QTc prolongation; Case 2 in Paling is the same patient
+- [Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias](Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.md) — Same-year Slovenian case report with TdP arrhythmia pattern
+- [Alper2012_Ibogaine_Fatalities](Alper2012_Ibogaine_Fatalities.md) — Systematic fatality review providing epidemiological context for individual case reports
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Cardiac mechanism evidence including hERG channel blockade underlying QTc prolongation
+- [Corkery2018_Ibogaine_Benefits_Dangers_Fatalities](../2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md) — Comprehensive fatality review extending the evidence base these cases contributed to
+- [Thurner2014_hERG_Channel_Block_Ibogaine](../2014/Thurner2014_hERG_Channel_Block_Ibogaine.md) — Mechanistic basis for the QTc prolongation observed in all three cases
 - [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

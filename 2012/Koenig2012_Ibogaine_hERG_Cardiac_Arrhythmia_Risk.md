@@ -37,8 +37,8 @@ route: not-applicable
 open_access: true
 publisher: "Wiley"
 body_format: vault-analytical
-licence_type: unknown
-licence_verified: false
+licence_type: all-rights-reserved
+licence_verified: true
 ---
 
 # Anti-addiction drug ibogaine inhibits hERG channels: a cardiac arrhythmia risk
