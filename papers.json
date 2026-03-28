@@ -1,7 +1,7 @@
 {
   "vault": "IbogaineVault",
   "version": "1.0.1",
-  "generated_at": "2026-03-28T20:29:33Z",
+  "generated_at": "2026-03-28T21:23:46Z",
   "paper_count": 304,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
@@ -5143,7 +5143,7 @@
         "method/case-report"
       ],
       "clinical_significance": "high",
-      "key_findings": "Fatal ibogaine case in 25-year-old with pre-existing cardiac dysrhythmias and AICD; postmortem ibogaine levels: heart blood 2.2 mcg/ml, liver 4.2 mcg/g.",
+      "key_findings": "Fatal ibogaine case in 25yo male with pre-existing cardiac dysrhythmias and AICD; postmortem levels: heart blood 2.2 mcg/ml, liver 4.2 mcg/g. Same case as Jalal2013 (see See Also).",
       "sample_size": 1,
       "mortality_count": 1,
       "mortality_scope": "discrete-cases",
@@ -5425,7 +5425,7 @@
         "method/case-report"
       ],
       "clinical_significance": "high",
-      "key_findings": "25yo male with pre-existing SVT died from multi-organ failure 2 days after ingesting 2.5g ibogaine for heroin cessation; unsupervised setting; highlights pre-existing cardiac conditions as critical risk factor",
+      "key_findings": "25yo male with pre-existing SVT died from multi-organ failure 2 days after ingesting 2.5g ibogaine for heroin cessation; unsupervised. Same case as Warrick2012 NACCT abstract (see See Also).",
       "sample_size": 1,
       "mortality_count": 1,
       "mortality_scope": "discrete-cases",
