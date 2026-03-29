@@ -196,7 +196,7 @@ The investigators identified several significant constraints. The absence of ran
 
 **Parent hub:** [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
-- [Williams2025_Magnesium_Ibogaine_TBI](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — Follow-up EEG analysis of same MISTIC cohort documenting neural mechanism changes
+- [Lissemore2025_Magnesium_Ibogaine_TBI](../2025/Lissemore2025_Magnesium_Ibogaine_TBI.md) — Follow-up EEG analysis of same MISTIC cohort documenting neural mechanism changes
 - [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Earlier fatality documentation that magnesium protocol was designed to address
 - [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — hERG mechanism data informing the magnesium cardioprotection strategy
 - [Davis2020_SpecialOps_Veterans_Trauma](../2020/Davis2020_SpecialOps_Veterans_Trauma.md) — Earlier SOF veteran ibogaine observational data this trial builds upon

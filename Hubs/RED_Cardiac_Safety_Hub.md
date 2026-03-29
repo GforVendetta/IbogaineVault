@@ -267,7 +267,7 @@ Animal study demonstrating ibogaine-induced cardiac necrosis via redox/oxidative
 ### [Cherian et al. 2024: Magnesium-Ibogaine Therapy in Veterans with TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md)
 **Nature Medicine landmark paper.** n=30 Special Operations Forces veterans with TBI. MASSIVE effect sizes (PTSD d=3.16, depression d=3.51). But the cardiac finding is revolutionary: **ZERO clinically significant QTc prolongation** with magnesium co-administration. This suggests the cardiac safety problem may be SOLVED.
 
-### [Williams et al. 2025: Cortical Oscillations and Neural Complexity](../2025/Williams2025_Magnesium_Ibogaine_TBI.md)
+### [Lissemore et al. 2025: Cortical Oscillations and Neural Complexity](../2025/Lissemore2025_Magnesium_Ibogaine_TBI.md)
 Follow-up to 2023 paper. Confirms safety findings. Documents neuroplasticity effects via EEG. Validates the MISTIC protocol framework.
 
 ---

@@ -175,7 +175,7 @@ The authors identify the central limitation: with only two patients who had mult
 ### Neuroimaging & Structural Brain Changes
 - [Geoly2026_Cortical_Thickness_Brain_Age_MISTIC](../2026/Geoly2026_Cortical_Thickness_Brain_Age_MISTIC.md) — parallel neuroimaging study showing cortical thickness changes following magnesium-ibogaine treatment in TBI veterans; complementary FreeSurfer methodology
 - [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — the landmark TBI study referenced here; demonstrates ibogaine's neuroregenerative potential in a different neurological condition with overlapping mechanisms
-- [Williams2025_Magnesium_Ibogaine_TBI](Williams2025_Magnesium_Ibogaine_TBI.md) — expanded TBI cohort with additional neuroimaging evidence for ibogaine-mediated brain changes
+- [Lissemore2025_Magnesium_Ibogaine_TBI](Lissemore2025_Magnesium_Ibogaine_TBI.md) — expanded TBI cohort with additional neuroimaging evidence for ibogaine-mediated brain changes
 
 ### Neuropathic Pain & Non-Addiction Applications
 - [Dickinson2023_Ibogaine_Reduced_Severe_Neuropathic_Pain_Brachial_Plexus_Nerve_Root_Avulsion](../2023/Dickinson2023_Ibogaine_Reduced_Severe_Neuropathic_Pain_Brachial_Plexus_Nerve_Root_Avulsion.md) — case report from the same clinical group (Ambio) demonstrating ibogaine's efficacy for severe neuropathic pain

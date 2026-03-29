@@ -155,5 +155,5 @@ The authors identify several substantial methodological constraints. The retrosp
 - [Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder](../2018/Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder.md) — Earlier case report of ibogaine + 5-MeO-DMT combination with SPECT neuroimaging
 - [Davis2023_Ibogaine_5MeO-DMT_for_SEALS](../2023/Davis2023_Ibogaine_5MeO-DMT_for_SEALS.md) — Same author's follow-up open-label prospective study documenting the combination protocol
 - [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC trial building on this early veterans data with larger sample and magnesium cardioprotection
-- [Williams2025_Magnesium_Ibogaine_TBI](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — Neural correlates follow-up documenting EEG changes in same population
+- [Lissemore2025_Magnesium_Ibogaine_TBI](../2025/Lissemore2025_Magnesium_Ibogaine_TBI.md) — Neural correlates follow-up documenting EEG changes in same population
 - [Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts](../2023/Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts.md) — Broader context of combination psychedelic protocols

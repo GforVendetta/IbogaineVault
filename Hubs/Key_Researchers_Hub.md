@@ -227,7 +227,7 @@ MISTIC protocol. Magnesium cardioprotection breakthrough.
 
 ### Landmark Papers
 - [Cherian/Williams 2024](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — **NATURE MEDICINE**
-- [Williams 2025](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — Neural mechanisms follow-up
+- [Lissemore 2025](../2025/Lissemore2025_Magnesium_Ibogaine_TBI.md) — Neural mechanisms follow-up
 
 ---
 
@@ -308,7 +308,7 @@ Core member of the Stanford/Williams MISTIC team, Faerman has become the program
 - [Cherian 2023](../2023/Cherian2023_Ibogaine_Cognitive_Functioning.md) — Cognitive functioning improvements post-ibogaine (BLUE)
 - [Cherian/Williams 2024](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — **NATURE MEDICINE**: Magnesium–ibogaine for TBI in veterans (BLUE)
 - [Brown 2025](../2025/Brown2025_Mystical_Experience_PTSD_Veterans.md) — Mystical experience as predictor of PTSD improvement (PURPLE)
-- [Williams 2025](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — Neural mechanisms of magnesium–ibogaine (BLUE)
+- [Lissemore 2025](../2025/Lissemore2025_Magnesium_Ibogaine_TBI.md) — Neural mechanisms of magnesium–ibogaine (BLUE)
 - [Geoly 2026](../2026/Geoly2026_Cortical_Thickness_Brain_Age_MISTIC.md) — Cortical thickness and brain age changes post-MISTIC (BLUE)
 - [Olash 2026](../2026/Olash2026_Subjective_Experience_Magnesium_Ibogaine.md) — Subjective experience during magnesium–ibogaine treatment (PURPLE)
 

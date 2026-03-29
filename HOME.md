@@ -65,7 +65,7 @@ For safety-critical queries (cardiac risk, contraindications, drug interactions)
 
 ### 2025 Highlights
 - [Rocha2025_PhD_Ibogaine_Alcohol_AUD](2025/Rocha2025_PhD_Ibogaine_Alcohol_AUD.md) — **FIRST AUD TRIAL**: Dose-escalation (N=9), significant cardiac safety data without Mg protection
-- [Williams2025_Magnesium_Ibogaine_TBI](2025/Williams2025_Magnesium_Ibogaine_TBI.md) — Neural mechanisms of MISTIC protocol
+- [Lissemore2025_Magnesium_Ibogaine_TBI](2025/Lissemore2025_Magnesium_Ibogaine_TBI.md) — Neural mechanisms of MISTIC protocol
 - [Faerman2025_MISTIC_12Month_Followup](2025/Faerman2025_MISTIC_12Month_Followup.md) — Sustained effects at 12 months
 - [Gupta2025_Benzofuran_Iboga_Analogues](2025/Gupta2025_Benzofuran_Iboga_Analogues.md) — Cardio-safe analogue design
 - [Swieczkowski2025_Clinical_Trials_Landscape](2025/Swieczkowski2025_Clinical_Trials_Landscape.md) — Current clinical trials overview

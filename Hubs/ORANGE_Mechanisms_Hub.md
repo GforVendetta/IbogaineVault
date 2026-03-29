@@ -123,7 +123,7 @@ One of ibogaine's most promising mechanisms — upregulation of neurotrophic fac
 ### Neuroplasticity & Remyelination Evidence
 - [Govender 2024](../2024/Govender2024_Ibogaine_Following_Repeated_Morphine_Upregulates_Myelination.md) — Myelination markers upregulated after morphine + ibogaine
 - [Calvey 2026](../2026/Calvey2026_Neurorestorative_Properties_Ibogaine.md) — **MAJOR SYNTHESIS**: Proposes remyelination as unifying mechanism across OUD, MS, and TBI. Maps multi-receptor affinities (kappa opioid → OPC differentiation, sigma-2 → cholesterol mobilisation, NMDA → excitotoxicity reduction) to white matter repair pathways. Integrates GDNF/BDNF neurotrophic evidence with temporal pharmacology of ibogaine→noribogaine transition.
-- [Williams 2025](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — EEG correlates: neural complexity increases post-treatment
+- [Lissemore 2025](../2025/Lissemore2025_Magnesium_Ibogaine_TBI.md) — EEG correlates: neural complexity increases post-treatment
 
 ### Neuroprotection
 - [Boukandou 2023](../2023/Boukandou2023_Mechanisms_Involved_Neuroprotection_Neurotoxicity_Iboga_Alkaloids.md) — Review of neuroprotective mechanisms
@@ -162,7 +162,7 @@ Ibogaine's primary metabolite — longer half-life, possibly responsible for sus
 ### Mechanistic
 - [Oña 2023](../2023/Ona2023_Ibogaine_Noribogaine_Putative_Anti-Addictive_Effects.md) — Comparative target overview: ibogaine vs noribogaine
 - [Castro-Niño 2023](../2023/Castro-Nin2024_Noribogaine_Wakefulness_Sleep_Effects.md) — Sleep/wake effects distinct from parent compound
-- [Quinn Williams 2025](../2025/QuinnWilliams2025_PhD_Ibogaine_Buproprion_Monoamine_Transporters.md) — **STRUCTURAL PHARMACOLOGY** (PhD thesis preview): Probes ibogaine/bupropion binding at orthosteric (S1) vs allosteric (S2) sites on DAT and SERT. AlphaFold3 predicts ibogaine and noribogaine bind a peripheral S2 site on DAT — distinct from classical inhibitor poses. Key finding: allosteric sites differ substantially between SERT and DAT, potentially explaining differential pharmacochaperone efficacy and the separation of inhibitory from chaperone effects. Discovery that HEK293T cells express endogenous SERT confounds radioligand binding studies — important methodological caution. Extends [Bhat 2020](../2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT.md) pharmacochaperone work and [Coleman 2019](../2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms.md) structural biology.
+- [Williams 2025](../2025/Williams2025_PhD_Ibogaine_Buproprion_Monoamine_Transporters.md) — **STRUCTURAL PHARMACOLOGY** (PhD thesis preview): Probes ibogaine/bupropion binding at orthosteric (S1) vs allosteric (S2) sites on DAT and SERT. AlphaFold3 predicts ibogaine and noribogaine bind a peripheral S2 site on DAT — distinct from classical inhibitor poses. Key finding: allosteric sites differ substantially between SERT and DAT, potentially explaining differential pharmacochaperone efficacy and the separation of inhibitory from chaperone effects. Discovery that HEK293T cells express endogenous SERT confounds radioligand binding studies — important methodological caution. Extends [Bhat 2020](../2020/Bhat2020_Tropane_Ibo_Analog_SERT_DAT.md) pharmacochaperone work and [Coleman 2019](../2019/Coleman2019_SERT-Ibogaine_Complexes_Illuminate_Inhibition_Transport_Mechanisms.md) structural biology.
 
 **Key distinctions:**
 | Property | Ibogaine | Noribogaine |
@@ -390,7 +390,7 @@ Beyond addiction interruption—the emerging neurobiology of lasting change.
 
 **Mechanistic Synthesis (2026)**: [Calvey 2026](../2026/Calvey2026_Neurorestorative_Properties_Ibogaine.md) — **INTEGRATIVE REVIEW**: Proposes remyelination as the unifying mechanism. Maps ibogaine's multi-receptor affinities to specific repair pathways: kappa opioid → OPC differentiation, sigma-2 → cholesterol/membrane plasticity, NMDA → excitotoxicity reduction. Temporal pharmacology: ibogaine's sigma-2/NMDA effects for acute neuroprotection, then noribogaine's sustained kappa opioid agonism drives oligodendrocyte differentiation over 7 days. Raises important caveat that cardiac-safe analogues may lose lipophilic properties essential for myelin access.
 
-**Clinical Correlation**: [Williams 2025](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — EEG neural complexity changes correlate with clinical improvements. Neuroplasticity in action.
+**Clinical Correlation**: [Lissemore 2025](../2025/Lissemore2025_Magnesium_Ibogaine_TBI.md) — EEG neural complexity changes correlate with clinical improvements. Neuroplasticity in action.
 
 **Broader Psychedelic Neuroplasticity Context (2018→2025)**:
 - [Ly et al. 2018](../2018/Ly2018_Psychedelics_Neural_Plasticity.md) — The "psychoplastogen" paper: noribogaine (not ibogaine) promotes structural plasticity via 5-HT₂A/TrkB/mTOR, comparable to ketamine.
@@ -494,7 +494,7 @@ Perhaps the most consequential subplot in ibogaine pharmacology: the gradual rea
 
 **Human Pharmacology (2015)**: [Glue 2015](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Phase I ascending-dose study. Established noribogaine PK/PD in healthy humans, a critical step toward direct noribogaine development bypassing the ibogaine cardiac risk.
 
-**Modern Transporter Pharmacology (2025)**: [Quinn Williams 2025](../2025/QuinnWilliams2025_PhD_Ibogaine_Buproprion_Monoamine_Transporters.md) — AlphaFold3 predicts ibogaine and noribogaine bind a peripheral S2 (allosteric) site on DAT — distinct from classical inhibitor poses. Allosteric sites differ substantially between SERT and DAT, potentially explaining differential pharmacochaperone efficacy and the separation of inhibitory from chaperone effects.
+**Modern Transporter Pharmacology (2025)**: [Williams 2025](../2025/Williams2025_PhD_Ibogaine_Buproprion_Monoamine_Transporters.md) — AlphaFold3 predicts ibogaine and noribogaine bind a peripheral S2 (allosteric) site on DAT — distinct from classical inhibitor poses. Allosteric sites differ substantially between SERT and DAT, potentially explaining differential pharmacochaperone efficacy and the separation of inhibitory from chaperone effects.
 
 *Arc*: Metabolite discovery and analytical methods (Hearn 1995) → SERT identification reframes ibogaine as prodrug (Mash 1995) → Opioid profiling reveals distinct binding (Pearl 1995) → **Full μ-agonist proof and self-taper hypothesis (Pablo 1998)** → Comprehensive receptor comparison establishes temporal pharmacology model (Staley 1996) → In vivo neurobiological validation (Baumann 2001) → Human Phase I PK/PD (Glue 2015) → Modern structural/allosteric pharmacology (Quinn Williams 2025)
 

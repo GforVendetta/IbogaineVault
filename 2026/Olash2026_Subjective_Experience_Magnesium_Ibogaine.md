@@ -186,7 +186,7 @@ The qualitative findings help explain the unprecedented effect sizes (d > 3.0) i
 
 - [Cherian 2024](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — **Companion paper**: Quantitative clinical outcomes from same cohort
 - [Faerman 2025](../2025/Faerman2025_MISTIC_12Month_Followup.md) — 12-month MISTIC follow-up (84% PTSD remission sustained)
-- [Williams 2025](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — Neural correlates via EEG
+- [Lissemore 2025](../2025/Lissemore2025_Magnesium_Ibogaine_TBI.md) — Neural correlates via EEG
 - [La Torre 2025](../2025/LaTorre2025_Phenomenology_Thematic_Analysis.md) — Largest ibogaine phenomenology study (n=471)
 - [Schenberg 2014](../2014/Schenberg2014_Treating_Drug_Dependence_Retrospective_Study.md) — Prior phenomenological analysis
 - [Barber 2020](../2020/Barber2020_Consumer_Views_Online_Fora.md) — Online community perspectives

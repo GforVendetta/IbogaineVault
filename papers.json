@@ -1,7 +1,7 @@
 {
   "vault": "IbogaineVault",
   "version": "1.0.1",
-  "generated_at": "2026-03-28T21:23:46Z",
+  "generated_at": "2026-03-29T00:42:11Z",
   "paper_count": 304,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
@@ -13094,6 +13094,70 @@
       "filepath": "2025/LaTorre2025_Phenomenology_Thematic_Analysis.md"
     },
     {
+      "title": "Magnesium–ibogaine therapy effects on cortical oscillations and neural complexity in veterans with traumatic brain injury",
+      "authors": [
+        "Lissemore, Jennifer I.",
+        "Chaiken, Anna",
+        "Cherian, Kirsten N.",
+        "Buchanan, Derrick",
+        "Espil, Flint",
+        "Keynan, Jackob N.",
+        "Sridhar, Malvika",
+        "Rolle, Camarin E.",
+        "Saggar, Manish",
+        "Keller, Corey J.",
+        "Williams, Nolan R."
+      ],
+      "year": 2025,
+      "doi": "10.1038/s44220-025-00463-x",
+      "primary_category": "BLUE",
+      "document_type": "observational",
+      "secondary_categories": [
+        "RED"
+      ],
+      "evidence_level": "cohort",
+      "tags": [
+        "topic/neuroimaging",
+        "topic/tbi",
+        "topic/veterans",
+        "topic/efficacy",
+        "method/observational"
+      ],
+      "clinical_significance": "high",
+      "key_findings": "EEG shows theta-alpha power increase (d=0.45–0.61), beta-gamma decrease (d=0.50–0.73), reduced neural complexity and PAF (d=1.05) post-MISTIC; PAF and LZc reductions persist at 1 month; theta/beta ratio correlates with cognitive inhibition gains.",
+      "sample_size": 30,
+      "mortality_count": null,
+      "mortality_scope": null,
+      "qtc_data": false,
+      "herg_data": false,
+      "electrolyte_data": true,
+      "contraindications": [
+        "Concurrent psychiatric medications (required discontinuation prior to treatment)",
+        "Concurrent benzodiazepine use (required discontinuation prior to treatment)",
+        "Medications with potential drug–drug interactions"
+      ],
+      "dosing_range": "12.1 ± 1.2 mg/kg oral (ibogaine HCl) + IV magnesium sulfate",
+      "route": "oral",
+      "source_pdf": "2025/Lissemore2025_Magnesium_Ibogaine_TBI.pdf",
+      "journal": "Nature Mental Health",
+      "aliases": [
+        "Williams 2025",
+        "Lissemore 2025",
+        "MISTIC EEG"
+      ],
+      "source_url": null,
+      "pmid": null,
+      "pmcid": null,
+      "open_access": false,
+      "publisher": "Springer Nature",
+      "body_format": "vault-analytical",
+      "issn": "2731-6076",
+      "licence_type": "all-rights-reserved",
+      "licence_verified": true,
+      "references_stripped": null,
+      "filepath": "2025/Lissemore2025_Magnesium_Ibogaine_TBI.md"
+    },
+    {
       "title": "New Approaches to Old Targets: Re-envisioning the Synthesis of Ibogaine and Immunogenic Glycolipids",
       "authors": [
         "Lytychevskyi, Vlad"
@@ -13302,57 +13366,6 @@
       "licence_verified": true,
       "references_stripped": null,
       "filepath": "2025/Polanco2025_War_Trauma_Ibogaine_5-MeO.md"
-    },
-    {
-      "title": "A Study of the Inhibitory and Pharmacological Chaperone Effects of Bupropion and Ibogaine on Monoamine Transporters",
-      "authors": [
-        "Quinn Williams, Erin"
-      ],
-      "year": 2025,
-      "doi": null,
-      "primary_category": "ORANGE",
-      "document_type": "thesis",
-      "secondary_categories": null,
-      "evidence_level": "preclinical",
-      "tags": [
-        "topic/mechanism",
-        "topic/receptor",
-        "topic/dopamine",
-        "topic/serotonin",
-        "topic/noribogaine",
-        "mechanism/sert-inhibition",
-        "mechanism/dopamine-modulation",
-        "method/preclinical",
-        "method/in-vitro"
-      ],
-      "clinical_significance": "low",
-      "key_findings": "PhD thesis (preview only) characterising ibogaine/bupropion binding to DAT and SERT; distinct allosteric site differences between transporters; AlphaFold3 predicts peripheral S2 site for ibogaine on DAT.",
-      "sample_size": null,
-      "mortality_count": null,
-      "mortality_scope": null,
-      "qtc_data": false,
-      "herg_data": false,
-      "electrolyte_data": false,
-      "contraindications": [],
-      "dosing_range": null,
-      "route": null,
-      "source_pdf": "2025/QuinnWilliams2025_PhD_Ibogaine_Buproprion_Monoamine_Transporters.pdf",
-      "journal": null,
-      "aliases": [
-        "Quinn Williams 2025",
-        "Quinn Williams PhD"
-      ],
-      "source_url": null,
-      "pmid": null,
-      "pmcid": null,
-      "open_access": true,
-      "publisher": null,
-      "body_format": "vault-analytical",
-      "issn": null,
-      "licence_type": "unknown",
-      "licence_verified": false,
-      "references_stripped": null,
-      "filepath": "2025/QuinnWilliams2025_PhD_Ibogaine_Buproprion_Monoamine_Transporters.md"
     },
     {
       "title": "Tolerabilidade e eficácia da ibogaína no tratamento do transtorno por uso de álcool: um estudo aberto e de escalonamento de doses",
@@ -13719,68 +13732,55 @@
       "filepath": "2025/Underwood2025_PhD_Experiences_Part_of_Journey.md"
     },
     {
-      "title": "Magnesium–ibogaine therapy effects on cortical oscillations and neural complexity in veterans with traumatic brain injury",
+      "title": "A Study of the Inhibitory and Pharmacological Chaperone Effects of Bupropion and Ibogaine on Monoamine Transporters",
       "authors": [
-        "Lissemore, Jennifer I.",
-        "Chaiken, Anna",
-        "Cherian, Kirsten N.",
-        "Buchanan, Derrick",
-        "Espil, Flint",
-        "Keynan, Jackob N.",
-        "Sridhar, Malvika",
-        "Rolle, Camarin E.",
-        "Saggar, Manish",
-        "Keller, Corey J.",
-        "Williams, Nolan R."
+        "Quinn Williams, Erin"
       ],
       "year": 2025,
-      "doi": "10.1038/s44220-025-00463-x",
-      "primary_category": "BLUE",
-      "document_type": "observational",
-      "secondary_categories": [
-        "RED"
-      ],
-      "evidence_level": "cohort",
+      "doi": null,
+      "primary_category": "ORANGE",
+      "document_type": "thesis",
+      "secondary_categories": null,
+      "evidence_level": "preclinical",
       "tags": [
-        "topic/neuroimaging",
-        "topic/tbi",
-        "topic/veterans",
-        "topic/efficacy",
-        "method/observational"
+        "topic/mechanism",
+        "topic/receptor",
+        "topic/dopamine",
+        "topic/serotonin",
+        "topic/noribogaine",
+        "mechanism/sert-inhibition",
+        "mechanism/dopamine-modulation",
+        "method/preclinical",
+        "method/in-vitro"
       ],
-      "clinical_significance": "high",
-      "key_findings": "EEG shows theta-alpha power increase (d=0.45–0.61), beta-gamma decrease (d=0.50–0.73), reduced neural complexity and PAF (d=1.05) post-MISTIC; PAF and LZc reductions persist at 1 month; theta/beta ratio correlates with cognitive inhibition gains.",
-      "sample_size": 30,
+      "clinical_significance": "low",
+      "key_findings": "PhD thesis (preview only) characterising ibogaine/bupropion binding to DAT and SERT; distinct allosteric site differences between transporters; AlphaFold3 predicts peripheral S2 site for ibogaine on DAT.",
+      "sample_size": null,
       "mortality_count": null,
       "mortality_scope": null,
       "qtc_data": false,
       "herg_data": false,
-      "electrolyte_data": true,
-      "contraindications": [
-        "Concurrent psychiatric medications (required discontinuation prior to treatment)",
-        "Concurrent benzodiazepine use (required discontinuation prior to treatment)",
-        "Medications with potential drug–drug interactions"
-      ],
-      "dosing_range": "12.1 ± 1.2 mg/kg oral (ibogaine HCl) + IV magnesium sulfate",
-      "route": "oral",
-      "source_pdf": "2025/Williams2025_Magnesium_Ibogaine_TBI.pdf",
-      "journal": "Nature Mental Health",
+      "electrolyte_data": false,
+      "contraindications": [],
+      "dosing_range": null,
+      "route": null,
+      "source_pdf": "2025/Williams2025_PhD_Ibogaine_Buproprion_Monoamine_Transporters.pdf",
+      "journal": null,
       "aliases": [
-        "Williams 2025",
-        "Lissemore 2025",
-        "MISTIC EEG"
+        "Quinn Williams 2025",
+        "Quinn Williams PhD"
       ],
       "source_url": null,
       "pmid": null,
       "pmcid": null,
-      "open_access": false,
-      "publisher": "Springer Nature",
+      "open_access": true,
+      "publisher": null,
       "body_format": "vault-analytical",
-      "issn": "2731-6076",
-      "licence_type": "all-rights-reserved",
-      "licence_verified": true,
+      "issn": null,
+      "licence_type": "unknown",
+      "licence_verified": false,
       "references_stripped": null,
-      "filepath": "2025/Williams2025_Magnesium_Ibogaine_TBI.md"
+      "filepath": "2025/Williams2025_PhD_Ibogaine_Buproprion_Monoamine_Transporters.md"
     },
     {
       "title": "Reconsidering Ibogaine for the treatment of severe mental illness and substance use disorders",
