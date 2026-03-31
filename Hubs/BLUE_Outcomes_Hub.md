@@ -102,7 +102,8 @@ Two distinct approaches to veteran treatment have emerged:
 - [Cherian 2023](../2023/Cherian2023_Ibogaine_Cognitive_Functioning.md) — **FIRST PROSPECTIVE COGNITIVE STUDY**: Same SOV cohort (n=30), ibogaine ~20 mg/kg. Significant improvements in processing speed (+10 standard score points, 107→117), cognitive inhibition, and verbal memory at 1-month follow-up. No negative cognitive consequences detected. Critical finding: ibogaine does not impair — and may enhance — neuropsychological functioning, countering assumptions about hallucinogen neurotoxicity.
 
 ### Mechanistic Follow-up
-- [Williams 2025](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — Neural correlates: cortical oscillations and complexity changes documented via EEG
+- [Lissemore 2025](../2025/Lissemore2025_Magnesium_Ibogaine_TBI.md) — Neural correlates: cortical oscillations and complexity changes documented via EEG
+- [Geoly 2026](../2026/Geoly2026_Cortical_Thickness_Brain_Age_MISTIC.md) — **MRI MORPHOMETRY**: Same SOV cohort (n=25). MISTIC therapy associated with increased cortical thickness in 13 regions, subcortical volume expansion in 8 regions, and predicted brain age reduction of 1.3 years at 1 month. First structural neuroimaging evidence that ibogaine-assisted therapy produces measurable cortical changes — complementing Williams 2025's EEG findings with anatomical data. Published in *iScience*.
 - [Calvey 2026](../2026/Calvey2026_Neurorestorative_Properties_Ibogaine.md) — **MECHANISTIC SYNTHESIS** (see [ORANGE_Mechanisms_Hub](ORANGE_Mechanisms_Hub.md)): Proposes remyelination as unifying mechanism across OUD, MS, and TBI. Maps ibogaine's receptor affinities to white matter repair pathways. Reframes the 7-day noribogaine persistence as a therapeutic window for myelin repair, not merely a PK curiosity.
 
 ### Sleep & PTSD
@@ -208,7 +209,7 @@ Military veterans with treatment-resistant PTSD and traumatic brain injury becam
 - [Cherian 2024](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — **NATURE MEDICINE LANDMARK**: n=30, massive effect sizes (PTSD d=3.16, depression d=3.51). With Mg co-admin: ZERO cardiac events.
 
 ### Neural Mechanisms (2025–2026)
-- [Williams 2025](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — Cortical oscillations and neural complexity changes documented via EEG. Mechanism validation.
+- [Lissemore 2025](../2025/Lissemore2025_Magnesium_Ibogaine_TBI.md) — Cortical oscillations and neural complexity changes documented via EEG. Mechanism validation.
 - [Calvey 2026](../2026/Calvey2026_Neurorestorative_Properties_Ibogaine.md) — Integrative review proposing remyelination as the unifying mechanism. Provides the "why" for TBI, OUD, and emerging MS clinical data.
 
 *Arc*: Underground veterans → Observational data → Nature Medicine validation → Mechanistic understanding → Remyelination synthesis

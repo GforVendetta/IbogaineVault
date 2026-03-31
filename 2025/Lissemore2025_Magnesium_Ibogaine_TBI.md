@@ -30,7 +30,7 @@ aliases:
   - "Williams 2025"
   - "Lissemore 2025"
   - "MISTIC EEG"
-source_pdf: "2025/Williams2025_Magnesium_Ibogaine_TBI.pdf"
+source_pdf: "2025/Lissemore2025_Magnesium_Ibogaine_TBI.pdf"
 evidence_level: cohort
 clinical_significance: high
 sample_size: 30

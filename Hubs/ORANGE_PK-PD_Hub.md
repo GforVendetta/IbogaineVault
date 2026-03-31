@@ -21,7 +21,7 @@ electrolyte_data: false
 herg_data: false
 ---
 
-> [!important] Scope and Intent
+> [!IMPORTANT] Scope and Intent
 > This synthesis represents the vault curator's interpretation of published pharmacokinetic and pharmacodynamic evidence. It is an analytical resource for researchers, not clinical guidance. Clinical recommendations referenced here reflect the curator's reading of the evidence base and should be evaluated against primary sources and local regulatory requirements before any application to patient care.
 
 # 🟠 Pharmacokinetic/Pharmacodynamic Synthesis

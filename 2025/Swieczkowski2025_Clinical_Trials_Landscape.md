@@ -38,7 +38,7 @@ contraindications:
   - "Recent illicit drug use (variable washout periods across trials)"
   - "Concurrent methadone use without stable dosing (trial-specific)"
   - "Abnormal baseline ECG findings (QTcF >450 ms in NCT06480981)"
-dosing_range: "Ibogaine: 20–600 mg fixed or 3–12 mg/kg weight-based; Noribogaine: 3–180 mg (across 9 trials)"
+dosing_range: "Ibogaine: 20–600 mg fixed or 3–15 mg/kg weight-based; Noribogaine: 3–180 mg (across 9 trials)"
 route: oral
 open_access: false
 publisher: "Taylor & Francis"

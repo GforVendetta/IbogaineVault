@@ -29,7 +29,7 @@ sample_size: 32
 qtc_data: true
 electrolyte_data: false
 herg_data: false
-dosing_range: "8–12 mg/kg oral ibogaine (human)"
+dosing_range: "800 mg (10 mg/kg) ibogaine HCl fixed dose (n=32 cohort); broader Mash programme used 8, 10, or 12 mg/kg across >150 subjects"
 route: oral
 contraindications: []
 open_access: true

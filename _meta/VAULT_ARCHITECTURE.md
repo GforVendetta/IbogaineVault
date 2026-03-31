@@ -7,7 +7,7 @@ aliases: ["Architecture", "Technical Reference"]
 
 # Vault Architecture Reference
 
-> Technical reference for the IbogaineVault's structure, navigation systems, and metadata schema. For the design philosophy underpinning these choices, see [Vault Principles](VAULT_PRINCIPLES.md). For getting started as a researcher, see [GETTING_STARTED](../GETTING_STARTED.md).
+> Technical reference for the IbogaineVault's structure, navigation systems, and metadata schema. For the design philosophy underpinning these choices, see [Vault Principles](VAULT_PRINCIPLES.md). For conversion methodology and copyright compliance, see [Methodology](METHODOLOGY.md). For getting started as a researcher, see [GETTING_STARTED](../GETTING_STARTED.md).
 
 ---
 
@@ -191,6 +191,7 @@ IbogaineVault/
     ├── Tag_Taxonomy.md          # 62 canonical tags across 6 categories
     ├── VAULT_PRINCIPLES.md      # Design philosophy and quality principles
     ├── VAULT_ARCHITECTURE.md    # This file
+    ├── METHODOLOGY.md           # Conversion methodology and copyright compliance
     └── README.md                # _meta/ directory guide
 ```
 
@@ -210,4 +211,4 @@ For information about proposing corrections or contributing papers, see [CONTRIB
 
 ---
 
-**See also:** [GETTING_STARTED](../GETTING_STARTED.md) · [HOME](../HOME.md) · [Vault Principles](VAULT_PRINCIPLES.md) · [Tag Taxonomy](Tag_Taxonomy.md)
+**See also:** [GETTING_STARTED](../GETTING_STARTED.md) · [HOME](../HOME.md) · [Vault Principles](VAULT_PRINCIPLES.md) · [Methodology](METHODOLOGY.md) · [Tag Taxonomy](Tag_Taxonomy.md)

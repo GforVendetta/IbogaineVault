@@ -41,7 +41,7 @@ licence_verified: true
 
 # The Iboga Alkaloids
 
-> [!info] Citation
+> [!INFO] Citation
 > Lavaud, C., & Massiot, G. (2017). The Iboga Alkaloids. *Progress in the Chemistry of Organic Natural Products*, 105, 89–136. doi:10.1007/978-3-319-49712-9_2
 
 ## Summary

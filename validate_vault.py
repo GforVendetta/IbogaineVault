@@ -101,7 +101,7 @@ VALID_OPEN_ACCESS = {"true", "false", "unknown"}
 VALID_BODY_FORMATS = {"vault-analytical", "academic-retained", "hybrid", "narrative"}
 
 VALID_LICENCE_TYPES = {
-    "all-rights-reserved", "unknown",
+    "all-rights-reserved", "unknown", "freely-distributed",
     "cc-by-nc-nd", "cc-by-nd", "cc-by-nc-sa", "cc-by-nc",
     "cc-by-sa", "cc-by",
 }

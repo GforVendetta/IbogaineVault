@@ -12,7 +12,7 @@ electrolyte_data: false
 herg_data: false
 ---
 
-> [!important] Scope and Intent
+> [!IMPORTANT] Scope and Intent
 > This hub synthesises published clinical protocols and guidelines. The organisational commentary represents the vault curator's interpretation of published evidence, not independent clinical guidance. Protocol recommendations should be evaluated against primary sources and local regulatory requirements.
 
 # 🟢 Clinical Protocols Hub
@@ -79,7 +79,7 @@ The cumulative low-dose approach offers potential advantages for complex clinica
 
 ## Modern Safety Protocols (2019–2025)
 
-### [Bouso et al. 2019: Product Quality Analysis](../2019/Bouso2019_Product_Quality.md)
+### [Bouso et al. 2020: Product Quality Analysis](../2020/Bouso2020_Product_Quality.md)
 **CRITICAL SAFETY FINDING — THE PRODUCT PURITY CRISIS.** Analytical study of ibogaine products from various providers revealing purity ranging from **0–73.4%** — one sample contained **ZERO ibogaine**. This paper exposed a foundational protocol vulnerability: even perfect screening and monitoring protocols cannot compensate for unknown dose. A patient receiving material of unknown purity might receive 0% of the intended dose (no therapeutic effect, wasted treatment episode) or potentially a concentrated fraction exceeding expected potency (cardiac risk). Underscores the absolute necessity of pharmaceutical-grade, analytically verified material for clinical use. The USP/LEAPS protocols ([Rocha 2023](../2023/Rocha2023_USP_Safety_Protocols.md)) and MISTIC ([Cherian 2024](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md)) both use verified ibogaine HCl, reflecting the lesson of this paper. Underground providers using unverified plant material or capsules face a dose uncertainty that no amount of clinical skill can overcome.
 
 **Clinical note**: The use of pharmaceutical-grade ibogaine HCl with certificate of analysis — this paper is the evidential basis for that requirement.
@@ -203,7 +203,7 @@ The following papers have protocol-relevant content but are primarily categorise
 | **[Alper 2012](../2012/Alper2012_Ibogaine_Fatalities\.md)** | **LANDMARK FATALITY REVIEW** (n=19 deaths): Established that most fatalities involved pre-existing cardiac conditions, co-administered substances, or absent screening — directly informing exclusion criteria in GITA 2015 and all subsequent protocols |
 | **[Paling 2012](../2012/Paling2012_Life_Threatening_Complications\.md)** | **DUTCH COMPLICATIONS** (n=3): Life-threatening cardiac and respiratory events in unsupervised settings; hypokalemia (K⁺ 3.1 mEq/L) identified as a contributing factor — this paper is why electrolyte correction before dosing became standard protocol |
 | **[Mazoyer 2013](../2013/Mazoyer2013_Fatality_Case\.md)** | **FRENCH FATALITY**: Death in a patient taking undisclosed medications; reinforced the absolute necessity of comprehensive medication reconciliation before ibogaine administration |
-| **[Breuer 2015](../2015/Breuer2015_Herbal_Seizures_Case_Report\.md)** | **SEIZURE CASE**: Iboga root bark (not standardised HCl) caused seizures — protocol implication: only pharmaceutical-grade ibogaine HCl should be used clinically, corroborating [Bouso 2019](../2019/Bouso2019_Product_Quality\.md)'s purity findings |
+| **[Breuer 2015](../2015/Breuer2015_Herbal_Seizures_Case_Report\.md)** | **SEIZURE CASE**: Iboga root bark (not standardised HCl) caused seizures — protocol implication: only pharmaceutical-grade ibogaine HCl should be used clinically, corroborating [Bouso 2020](../2020/Bouso2020_Product_Quality\.md)'s purity findings |
 | **[Koenig-Hilber 2015](../2015/Koenig2015_Cardiac_Mechanisms\.md)** | **CARDIAC MECHANISM REVIEW**: Explains the biophysics of hERG/IKr inhibition that underlies QTc prolongation — the mechanistic basis for why magnesium cardioprotection works, essential reading for understanding MISTIC |
 | **[Marta 2015](../2015/Marta2015_Ibogaine_Mania_Case_Reports\.md)** | **MANIA CASES** (n=3): Post-ibogaine mania/hypomania — protocol implication: bipolar spectrum disorders should be assessed in psychiatric screening, not merely psychotic disorders |
 | **[Litjens 2016](../2016/Litjens2016_How_Toxic_Is_Ibogaine\.md)** | **TOXICOLOGY REVIEW**: Comprehensive overview of ibogaine's toxicity profile including cardiac, hepatic, and neurological risks — the risk assessment framework that protocols must address |
@@ -270,7 +270,7 @@ The story of ibogaine's clinical protocols is a seven-act drama — part pharmac
 | 2016 | Methadone switching protocol validated | [Glue 2016](../2016/Glue2016b_Methadone_Morphine_Switch.md) |
 | 2018 | Largest published treatment cohort (n=191) | [Mash 2018](../2018/Mash2018_Ibogaine_Detox_Opioid_Cocaine_Clinical_Observations_Tx_Outcomes.md) |
 | 2018 | First prospective study with 12-month follow-up | [Brown & Alper 2018](../2018/Brown2018_OUD_Detoxification_Outcomes.md) |
-| 2019 | Product purity crisis documented | [Bouso 2019](../2019/Bouso2019_Product_Quality.md) |
+| 2020 | Product purity crisis documented | [Bouso 2020](../2020/Bouso2020_Product_Quality.md) |
 | 2020 | Veterans PTSD/TBI application established | [Davis 2020](../2020/Davis2020_SpecialOps_Veterans_Trauma.md) |
 | 2023 | Setting factors for safety systematically reviewed | [Rocha 2023](../2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) |
 | 2023 | First university hospital protocols published | [Rocha USP 2023](../2023/Rocha2023_USP_Safety_Protocols.md) |

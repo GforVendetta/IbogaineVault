@@ -32,6 +32,8 @@ sample_size: 1
 qtc_data: false
 electrolyte_data: false
 herg_data: false
+dosing_range: "2300 mg (32 mg/kg) ibogaine HCl total, 4-day protocol (test doses up to 2.5 mg/kg, flood up to 20 mg/kg, boosters 5 mg/kg/day)"
+route: oral
 contraindications:
   - "Pre-existing cardiovascular disease"
   - "Concurrent QTc-prolonging substances"

@@ -11,7 +11,7 @@ tags:
   - topic/opioid
   - topic/pharmacokinetics
   - method/case-report
-key_findings: "Fatal ibogaine case in 25-year-old with pre-existing cardiac dysrhythmias and AICD; postmortem ibogaine levels: heart blood 2.2 mcg/ml, liver 4.2 mcg/g."
+key_findings: "Fatal ibogaine case in 25yo male with pre-existing cardiac dysrhythmias and AICD; postmortem levels: heart blood 2.2 mcg/ml, liver 4.2 mcg/g. Same case as Jalal2013 (see See Also)."
 source_pdf: "2012/Warrick2012_.pdf"
 doi: "10.3109/15563650.2012.700015"
 journal: "Clinical Toxicology"
@@ -143,6 +143,7 @@ The authors' prescient observation about patients turning to social media and in
 ---
 
 ## See Also
+- [Jalal2013_Ibogaine_Death_Heroin_Case](../2013/Jalal2013_Ibogaine_Death_Heroin_Case.md) — **Same case.** Jalal et al. published the full journal case report in *American Journal on Addictions* (2013); this Warrick abstract preceded it at NACCT 2012. Confirmed identical via matching postmortem ibogaine concentrations across all four specimens. This abstract provides clinical data absent from Jalal's one-page publication: AICD interrogation (Vtach/Vfib), QTc 521 ms, QRS 208 ms, EF 10%, full lab trajectories, and postmortem tissue levels.
 - [Shawn2012_Ibogaine_TdP_VT](Shawn2012_Ibogaine_TdP_VT.md) — Complementary NACCT 2012 abstract: survival case with normal pretreatment screening (Abstract #180)
 - [Alper2012_Ibogaine_Fatalities](Alper2012_Ibogaine_Fatalities.md) — Systematic review of ibogaine fatalities from same year
 - [Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk](Koenig2012_Ibogaine_hERG_Cardiac_Arrhythmia_Risk.md) — hERG mechanism underlying arrhythmia risk

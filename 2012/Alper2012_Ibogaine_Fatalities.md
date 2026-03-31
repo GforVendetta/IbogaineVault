@@ -26,7 +26,7 @@ sample_size: 19
 mortality_count: 19
 mortality_scope: cumulative-review
 qtc_data: false
-electrolyte_data: true
+electrolyte_data: false
 herg_data: false
 contraindications:
   - "cardiovascular disease"

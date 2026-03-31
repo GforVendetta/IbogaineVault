@@ -30,7 +30,7 @@ electrolyte_data: false
 herg_data: false
 contraindications: []
 open_access: true
-body_format: hybrid
+body_format: vault-analytical
 licence_type: unknown
 licence_verified: false
 ---

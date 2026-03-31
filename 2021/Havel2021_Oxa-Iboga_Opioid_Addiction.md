@@ -53,7 +53,7 @@ licence_verified: false
 > **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
 
 
-> [!note] Vault editorial note
+> [!NOTE] Vault editorial note
 > This is the **bioRxiv preprint** (March 2021). The peer-reviewed published version appeared three years later as [Havel et al. 2024](../2024/Havel2024_OxaIboga_Alkaloids_Lack_Cardiac_Risk_Disrupt_Opioid_Use.md) in *Nature Communications* (September 2024). The 3-year preprint-to-publication gap likely reflects a **corporate-strategic delay** rather than slow peer review: the Sames lab's oxa-iboga compounds were being developed commercially through Delix Therapeutics, and the delay is consistent with patent portfolio construction and IP protection prior to full data disclosure. The 2024 published version is substantially expanded with additional *in vivo* models (heroin, fentanyl self-administration; relapse; hyperalgesia reversal) not present in this preprint. **For clinical decision-making, prefer the 2024 published version.**
 
 **Authors:** Václav Havel¹#, Andrew C. Kruegel¹#, Benjamin Bechand¹#, Scot McIntosh², Leia Stallings², Alana Hodges, Madalee G. Wulf¹, Melissa Nelson³’⁴, Amanda Hunkele⁵’⁶, Mike Ansonoff, John E. Pintar, Christopher Hwu¹, Najah Abi-Gerges, Saheem A. Zaidi⁹’¹⁰, Vsevolod Katritch⁹’¹⁰, Mu Yang¹¹’¹², Jonathan A. Javitch³’⁴, Susruta Majumdar, Scott E. Hemby² and Dalibor Sames¹’¹³

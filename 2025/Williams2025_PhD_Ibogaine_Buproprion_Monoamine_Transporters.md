@@ -15,7 +15,7 @@ tags:
   - method/preclinical
   - method/in-vitro
 key_findings: "PhD thesis (preview only) characterising ibogaine/bupropion binding to DAT and SERT; distinct allosteric site differences between transporters; AlphaFold3 predicts peripheral S2 site for ibogaine on DAT."
-source_pdf: "2025/QuinnWilliams2025_PhD_Ibogaine_Buproprion_Monoamine_Transporters.pdf"
+source_pdf: "2025/Williams2025_PhD_Ibogaine_Buproprion_Monoamine_Transporters.pdf"
 document_type: thesis
 peer_reviewed: false
 institution: "University of Toronto"
@@ -31,7 +31,7 @@ aliases:
   - "Quinn Williams PhD"
 contraindications: []
 open_access: true
-body_format: hybrid
+body_format: vault-analytical
 licence_type: unknown
 licence_verified: false
 ---
@@ -44,7 +44,7 @@ licence_verified: false
 **Year:** 2025  
 **Supervisors:** Dr. Ali Salahpour (primary), Dr. Matthieu Schapira (co-supervisor)
 
-> [!warning] Preview Document
+> [!WARNING] Preview Document
 > This entry is derived from a thesis preview (24 pages). The full thesis (~207 pages based on table of contents) was not available. Content includes complete abstract, introduction, and methods outline, but results and discussion sections are incomplete.
 
 ---

@@ -151,7 +151,7 @@ The rapidity of onset — measurable within one month of a three-day interventio
 
 The group administration format deserves attention. Ibogaine was delivered in a shared setting with 2–5 co-participants, reflecting indigenous ceremonial practice rather than the individualised dosing model predominant in Western psychedelic clinical trials. The authors suggest this communal element may be particularly well-suited to military populations who value peer connection and shared experience, though the design cannot isolate group effects from pharmacological ones.
 
-The sustained six-month trajectory, achieved without booster sessions, raises important questions about whether these substances facilitate durable neuroplastic or psychological reorganisation — a hypothesis now being explored through neuroimaging approaches in the related [Williams et al. (2025)](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) work.
+The sustained six-month trajectory, achieved without booster sessions, raises important questions about whether these substances facilitate durable neuroplastic or psychological reorganisation — a hypothesis now being explored through neuroimaging approaches in the related [Lissemore et al. (2025)](../2025/Lissemore2025_Magnesium_Ibogaine_TBI.md) work.
 
 ## Limitations
 
@@ -165,7 +165,7 @@ The authors identify several substantive constraints. No adverse event data were
 
 - [Davis2020_SpecialOps_Veterans_Trauma](../2020/Davis2020_SpecialOps_Veterans_Trauma.md) — Retrospective predecessor study (n = 51) with the same population and programme
 - [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md) — MISTIC protocol: controlled investigation of ibogaine for TBI in veterans, addressing the mechanistic questions raised here
-- [Williams2025_Magnesium_Ibogaine_TBI](../2025/Williams2025_Magnesium_Ibogaine_TBI.md) — Neuroimaging follow-up exploring neural mechanisms of ibogaine-related TBI improvement
+- [Lissemore2025_Magnesium_Ibogaine_TBI](../2025/Lissemore2025_Magnesium_Ibogaine_TBI.md) — Neuroimaging follow-up exploring neural mechanisms of ibogaine-related TBI improvement
 - [Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder](../2018/Barsuglia2018_SPECT_Ibogaine_5-Meo-DMT_Alcohol_Use_Disorder.md) — Case report establishing the sequential ibogaine + 5-MeO-DMT combination protocol with SPECT imaging
 - [Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts](Kratina2023_Observational_Studies_Combo_Psychedelic_Use_Beyond_Regulated_Contexts.md) — Commentary on methodological challenges of studying combination psychedelic protocols outside clinical trials
 - [Knuijver2021_Safety_Opioid_Detox](../2021/Knuijver2021_Safety_Opioid_Detox.md) — Cardiac safety considerations for ibogaine administration relevant to the absence of adverse event reporting in this study

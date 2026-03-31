@@ -49,7 +49,7 @@ schemas:
       # ── Conditionally required ──
       dosing_range:     { type: string, required_when: "category in [RED, GREEN]" }
       route:            { type: enum, enum_ref: routes, required_when: "category in [RED, GREEN]" }
-      sample_size:      { type: integer, required_when: "human study", omit_when: "non-human or review" }
+      sample_size:      { type: integer, required_when: "human study", omit_when: "non-human or review", convention: "total enrollment (all randomised/enrolled participants including placebo arms). For placebo-controlled trials this exceeds the active-arm N reported by some systematic reviews (e.g. Kock2022). Cross-verification note: Glue2015 Noribogaine (36 total vs 24 active, 1.5×), Glue2016 (27 vs 18, 1.5×), Prior2014 (20 vs 10, 2.0×) — ratios consistent with randomisation designs." }
       mortality_count:  { type: integer, required_when: "paper reports ≥1 death", omit_when: "no deaths reported" }
       mortality_scope:  { type: enum, enum_ref: mortality_scopes, required_when: "mortality_count > 0", omit_when: "no mortality_count" }
 
@@ -176,6 +176,7 @@ enums:
     - cc-by-nc            # CC BY-NC — attribute, non-commercial
     - cc-by-sa            # CC BY-SA — attribute, share-alike
     - cc-by               # CC BY — attribute, any use including commercial and derivatives
+    - freely-distributed  # Rights holder distributes freely but no formal CC/OS licence assigned
 
   mortality_scopes:
     - cumulative-review   # Systematic tally of deaths across literature — DO NOT sum across papers

@@ -11,7 +11,7 @@ tags:
   - topic/adverse-event
   - topic/opioid
   - method/case-report
-key_findings: "25yo male with pre-existing SVT died from multi-organ failure 2 days after ingesting 2.5g ibogaine for heroin cessation; unsupervised setting; highlights pre-existing cardiac conditions as critical risk factor"
+key_findings: "25yo male with pre-existing SVT died from multi-organ failure 2 days after ingesting 2.5g ibogaine for heroin cessation; unsupervised. Same case as Warrick2012 NACCT abstract (see See Also)."
 source_pdf: "2013/Jalal2013_Ibogaine_Death_Heroin_Case.pdf"
 doi: "10.1111/j.1521-0391.2012.00330.x"
 pmid: "23617876"
@@ -99,6 +99,7 @@ This case powerfully illustrates why pre-treatment cardiac screening protocol is
 ---
 
 ## See Also
+- [Warrick2012_Ibogaine_Fatality](../2012/Warrick2012_Ibogaine_Fatality.md) — **Same case.** Warrick & Baltarowich presented this case at NACCT 2012 (Abstract #184, *Clinical Toxicology*) before Jalal et al. published the full case report in 2013. Confirmed identical via matching postmortem ibogaine concentrations across all four specimens (heart blood 2.2 µg/mL, iliac 1.8 µg/mL, vitreous 0.98 µg/mL, liver 4.2 µg/g). The Warrick abstract provides clinical data absent from this publication: AICD interrogation confirming Vtach/Vfib, QTc 521 ms, QRS 208 ms, EF 10%, and full lab trajectories. Both teams were based in Detroit (Warrick at Children's Hospital of Michigan Poison Center; Jalal at St. John Hospital and Medical Center).
 - [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
 - [Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction](../2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md) — Cited in this paper; proposes autonomic dysfunction mechanism for ibogaine cardiac fatalities
 - [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — Cited in this paper; documents ibogaine-induced Long-QT syndrome

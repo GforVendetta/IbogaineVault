@@ -34,6 +34,8 @@ qtc_data: true
 electrolyte_data: false
 herg_data: false
 contraindications: []
+dosing_range: "700 mg (10 mg/kg) ibogaine HCl single dose"
+route: oral
 open_access: false
 publisher: "Lippincott Williams & Wilkins"
 body_format: vault-analytical

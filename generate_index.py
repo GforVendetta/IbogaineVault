@@ -165,7 +165,7 @@ def discover_paper_files(vault_root):
 # FIELD EXTRACTION
 # ══════════════════════════════════════════
 
-# The 23 fields to extract, with their YAML source key and absent-value handling.
+# The 34 fields to extract, with their YAML source key and absent-value handling.
 # Most fields map 1:1 from YAML. "primary_category" is renamed from "category".
 INDEX_FIELDS = [
     # (output_key, yaml_key, absent_default)
@@ -174,6 +174,7 @@ INDEX_FIELDS = [
     ("year",                 "year",                 None),
     ("doi",                  "doi",                  None),
     ("primary_category",     "category",             None),
+    ("document_type",        "document_type",        None),
     ("secondary_categories", "secondary_categories", None),
     ("evidence_level",       "evidence_level",       None),
     ("tags",                 "tags",                 None),
@@ -200,11 +201,12 @@ INDEX_FIELDS = [
     ("issn",                 "issn",                  None),
     ("licence_type",         "licence_type",          None),
     ("licence_verified",     "licence_verified",      None),
+    ("references_stripped",  "references_stripped",    None),
 ]
 
 
 def extract_paper_record(yaml_dict):
-    """Extract the 21 index fields from a parsed YAML frontmatter dict.
+    """Extract the 33 index fields from a parsed YAML frontmatter dict.
     Returns a dict suitable for JSON serialisation."""
     record = {}
     for output_key, yaml_key, absent_default in INDEX_FIELDS:

@@ -1,5 +1,29 @@
 # Changelog
 
+## v1.0.2 — 2026-03-31
+
+Analytical reconversions, methodology documentation, cross-verification infrastructure.
+
+### Content
+
+- **28 papers reconverted** from academic-retained to vault-analytical format across RED cardiac safety (10), GREEN protocols (5), and BLUE outcomes (13) — the three most clinically important categories. Each passed 8-check validation including n-gram copyright scoring and numerical fidelity audit against source PDFs
+- Net effect: ~8,100 lines of source-proximate text replaced by ~4,800 lines of original analytical work
+
+### Methodology & quality
+
+- **`_meta/METHODOLOGY.md`** — First public documentation of conversion process, licence-aware copyright compliance, n-gram validation, numerical fidelity auditing, quality assurance, and AI-assisted methodology disclosure
+- **Cross-model verification pilot** published at `_meta/quality/`: 5 papers blind-extracted by GPT-5.4 Pro, 46 genuine findings (91.3% silent omission, 0% fabrication), 1,008-line report with error taxonomy
+- `generate_index.py` expanded to 34 indexed fields; `freely-distributed` licence type added to schema and validator
+
+### Structural
+
+- **Fatalities Hub** expanded: 6 baseline discrete case reports (Marker2002–Meisner2016) with provenance chains; Warrick2012/Jalal2013 confirmed same fatality via matching postmortem concentrations
+- **`GETTING_STARTED.md`** expanded with mortality deduplication guidance (`mortality_scope` field explanation and worked algorithm)
+- **File renames:** `Williams2025` → `Lissemore2025` (journal first-author correction); `QuinnWilliams2025` → `Williams2025`
+- **Licence audit:** ~20 papers corrected for `licence_type`, `licence_verified`, `open_access`
+- `schema_registry.yml`: `sample_size` convention documented (total enrollment vs active-arm)
+- CI badge added to README; `Bouso2019` ghost file removed (duplicate DOI with `Bouso2020`)
+
 ## v1.0.1 — 2026-03-23
 
 Documentation and repository polish.

@@ -59,7 +59,7 @@ licence_verified: false
 
 **Journal:** Revista de Psiquiatría del Uruguay, Vol. 87 Nº 1, August 2023
 
-> [!info] Language Note
+> [!INFO] Language Note
 > Original article in Spanish with English abstract. Full content extracted and summarised below.
 
 ---
