@@ -1,8 +1,8 @@
 {
   "vault": "IbogaineVault",
   "version": "1.0.1",
-  "generated_at": "2026-03-29T00:42:11Z",
-  "paper_count": 304,
+  "generated_at": "2026-03-31T18:48:18Z",
+  "paper_count": 303,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
     {
@@ -8340,58 +8340,6 @@
       "licence_verified": true,
       "references_stripped": null,
       "filepath": "2018/Wasko2018_Ibogaine_DARK_Classics_in_Chemical_Neuroscience.md"
-    },
-    {
-      "title": "An Analytical Study of Iboga Alkaloids in Products from Treatment Providers",
-      "authors": [
-        "Bouso, José Carlos",
-        "Oña, Genís",
-        "dos Santos, Rafael G.",
-        "Torrens, Marta"
-      ],
-      "year": 2019,
-      "doi": "10.1590/0101-60830000000231",
-      "primary_category": "GREEN",
-      "document_type": "observational",
-      "secondary_categories": [
-        "RED"
-      ],
-      "evidence_level": "observational",
-      "tags": [
-        "topic/harm-reduction",
-        "topic/policy"
-      ],
-      "clinical_significance": "high",
-      "key_findings": "CRITICAL: n=16 products from 5 vendors - purity ranged 0-73.4% ibogaine. One sample contained ZERO ibogaine. Extreme variability makes dose calculation impossible without analysis.",
-      "sample_size": 16,
-      "mortality_count": null,
-      "mortality_scope": null,
-      "qtc_data": false,
-      "herg_data": false,
-      "electrolyte_data": false,
-      "contraindications": [
-        "Unverified ibogaine product purity (0-73% range found across vendors)"
-      ],
-      "dosing_range": "not-specified",
-      "route": "oral",
-      "source_pdf": "2019/Bouso2019_Product_Quality.pdf",
-      "journal": "Archives of Clinical Psychiatry",
-      "aliases": [
-        "Bouso 2019",
-        "Bouso",
-        "Product Quality Crisis 2019"
-      ],
-      "source_url": null,
-      "pmid": null,
-      "pmcid": null,
-      "open_access": true,
-      "publisher": "SciELO",
-      "body_format": "academic-retained",
-      "issn": "1806-938X",
-      "licence_type": "unknown",
-      "licence_verified": false,
-      "references_stripped": null,
-      "filepath": "2019/Bouso2019_Product_Quality.md"
     },
     {
       "title": "Ibogaine and Subjective Experience: Transformative States and Psychopharmacotherapy in the Treatment of Opioid Use Disorder",
