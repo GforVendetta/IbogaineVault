@@ -1,7 +1,7 @@
 {
   "vault": "IbogaineVault",
   "version": "1.0.1",
-  "generated_at": "2026-04-06T05:03:11Z",
+  "generated_at": "2026-04-06T05:31:52Z",
   "paper_count": 303,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
@@ -7734,7 +7734,7 @@
         "method/review"
       ],
       "clinical_significance": "landmark",
-      "key_findings": "Most comprehensive fatality review: 33 ibogaine-associated deaths (1990–2018); mean age 39.5 years; 26/33 opioid detoxification (categories overlap — sum exceeds 33); cardiac disease in ≥6 cases; co-intoxicants in ≥12; 1:427 death-to-treatment ratio (derived from 8 ibogaine-contributory deaths out of 11 total; see body text for derivation).",
+      "key_findings": "Most comprehensive fatality review: 33 ibogaine-associated deaths (1990–2018); mean age 39.5; 26/33 opioid detoxification; cardiac disease in ≥6; co-intoxicants in ≥12; 1:427 death-to-treatment ratio (8 ibogaine-contributory of 11 total).",
       "sample_size": null,
       "mortality_count": 33,
       "mortality_scope": "cumulative-review",
@@ -9397,7 +9397,7 @@
         "method/clinical-trial"
       ],
       "clinical_significance": "high",
-      "key_findings": "Dutch hospital study (n=14). QTc prolongation median ΔQTcMax 102ms (SD 36ms, range 40–168ms); 50% reached >500ms. Prolongation >450ms lasted >24h in 6 patients. No torsade. Severe but reversible ataxia in all. 11/14 did not return to morphine. Note: Abstract reports different values (avg 95ms, range 29–146ms) — see Source Reporting Inconsistencies.",
+      "key_findings": "Dutch hospital study (n=14). QTc prolongation median ΔQTcMax 102ms (SD 36ms, range 40–168ms); 50% reached >500ms. Prolongation >450ms lasted >24h in 6 patients. No torsade. Severe but reversible ataxia in all. 11/14 did not return to morphine.",
       "sample_size": 14,
       "mortality_count": null,
       "mortality_scope": null,

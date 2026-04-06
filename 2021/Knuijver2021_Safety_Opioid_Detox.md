@@ -17,7 +17,7 @@ tags:
   - topic/protocol
   - mechanism/herg-blockade
   - method/clinical-trial
-key_findings: "Dutch hospital study (n=14). QTc prolongation median ΔQTcMax 102ms (SD 36ms, range 40–168ms); 50% reached >500ms. Prolongation >450ms lasted >24h in 6 patients. No torsade. Severe but reversible ataxia in all. 11/14 did not return to morphine. Note: Abstract reports different values (avg 95ms, range 29–146ms) — see Source Reporting Inconsistencies."
+key_findings: "Dutch hospital study (n=14). QTc prolongation median ΔQTcMax 102ms (SD 36ms, range 40–168ms); 50% reached >500ms. Prolongation >450ms lasted >24h in 6 patients. No torsade. Severe but reversible ataxia in all. 11/14 did not return to morphine."
 doi: "10.1111/add.15448"
 pmid: "33620733"
 pmcid: "PMC9292417"

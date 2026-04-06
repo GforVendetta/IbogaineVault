@@ -140,6 +140,7 @@ enums:
     - qualitative
     - journalism
     - primary-source
+    - commentary
 
   routes:
     - oral
@@ -283,6 +284,7 @@ enums:
       - method/case-report
       - method/case-series
       - method/clinical-trial
+      - method/commentary
       - method/in-vitro
       - method/journalism
       - method/observational

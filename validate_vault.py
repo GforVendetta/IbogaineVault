@@ -78,6 +78,7 @@ VALID_EVIDENCE_LEVELS = {
     "rct", "cohort", "case-series", "case-report", "in-vitro",
     "preclinical", "review", "systematic-review", "guideline",
     "observational", "qualitative", "journalism", "primary-source",
+    "commentary",
 }
 
 VALID_ROUTES = {
@@ -127,9 +128,9 @@ VALID_TAGS = {
     "mechanism/herg-blockade", "mechanism/ion-channel", "mechanism/kappa-opioid",
     "mechanism/mu-opioid", "mechanism/nicotinic-receptor", "mechanism/nmda-antagonism",
     "mechanism/sert-inhibition", "mechanism/sigma-receptor",
-    # method/ (11)
+    # method/ (12)
     "method/case-report", "method/case-series", "method/clinical-trial",
-    "method/in-vitro", "method/journalism", "method/observational", "method/preclinical",
+    "method/commentary", "method/in-vitro", "method/journalism", "method/observational", "method/preclinical",
     "method/proteomics", "method/qualitative", "method/review",
     "method/systematic-review",
     # meta/ (2)

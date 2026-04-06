@@ -30,7 +30,7 @@ All six categories are equally important. RED is not "more important" than PURPL
 
 ### The Workflow
 
-1. Read `_meta/schema_registry.yml` for field definitions and valid enums, and `_meta/Tag_Taxonomy.md` for the 65 canonical tags
+1. Read `_meta/schema_registry.yml` for field definitions and valid enums, and `_meta/Tag_Taxonomy.md` for the 66 canonical tags
 2. Review the category assignment logic in [Vault Architecture](_meta/VAULT_ARCHITECTURE.md)
 3. Read the source PDF
 4. Convert following the YAML schema and body structure described below
@@ -39,7 +39,7 @@ All six categories are equally important. RED is not "more important" than PURPL
 ### Critical Rules
 
 - **YAML accuracy is paramount.** Every field in the frontmatter drives downstream queries. A miscategorised RED paper could mean cardiac safety evidence is missed during screening.
-- **Use canonical tags only.** The 65-tag taxonomy is at `_meta/Tag_Taxonomy.md`. Do not invent new tags — if a concept isn't covered, discuss adding it.
+- **Use canonical tags only.** The 66-tag taxonomy is at `_meta/Tag_Taxonomy.md`. Do not invent new tags — if a concept isn't covered, discuss adding it.
 - **Category assignment follows the decision logic** in [Vault Architecture](_meta/VAULT_ARCHITECTURE.md). When in doubt, ask: "What clinical question does this paper primarily answer?"
 - **`see_also` links should include a `**Parent hub:**` back-link** as the first item, mapping to the paper's primary category hub.
 
@@ -82,7 +82,7 @@ All cross-reference links in contributed papers should point to files that exist
 
 | Document | Location | Purpose |
 |----------|----------|---------|
-| Tag taxonomy | `_meta/Tag_Taxonomy.md` | 65 canonical tags — the only permitted tags |
+| Tag taxonomy | `_meta/Tag_Taxonomy.md` | 66 canonical tags — the only permitted tags |
 | Schema registry | `_meta/schema_registry.yml` | Single source of truth for all schemas |
 | Architecture | `_meta/VAULT_ARCHITECTURE.md` | Folder structure, Bases, navigation layers |
 | Vault Principles | `_meta/VAULT_PRINCIPLES.md` | Design philosophy and clinical integrity principles |

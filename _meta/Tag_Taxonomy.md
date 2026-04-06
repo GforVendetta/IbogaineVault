@@ -1,6 +1,6 @@
 # Tag Taxonomy
 
-**65 canonical tags** organised by namespace. Use these when filtering in Bases or understanding paper classifications.
+**66 canonical tags** organised by namespace. Use these when filtering in Bases or understanding paper classifications.
 
 > Canonical source: `_meta/schema_registry.yml` | Verified: 2026-04-03
 
@@ -72,13 +72,14 @@
 
 ---
 
-## Method Tags (11)
+## Method Tags (12)
 
 | Tag | Meaning |
 |-----|---------|
 | `method/case-report` | Single case descriptions |
 | `method/case-series` | Multiple patients reported together (n≥2), same methodology |
 | `method/clinical-trial` | Controlled trials (RCT or non-randomised) |
+| `method/commentary` | Opinion pieces, hypothesis papers, editorials |
 | `method/in-vitro` | Cell culture, receptor binding assays |
 | `method/journalism` | Investigative journalism, news features, non-peer-reviewed reporting |
 | `method/observational` | Retrospective, cross-sectional, registry studies |

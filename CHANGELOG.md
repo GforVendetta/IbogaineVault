@@ -14,7 +14,8 @@ Cross-model verified corrections across 15 clinically critical papers.
 
 ### Infrastructure
 
-- **Tag taxonomy expanded:** 62 → 65 canonical tags (3 CYP enzyme tags: `topic/cyp2c9`, `topic/cyp3a4`, `topic/cyp2c19`)
+- **Tag taxonomy expanded:** 62 → 66 canonical tags (3 CYP enzyme tags: `topic/cyp2c9`, `topic/cyp3a4`, `topic/cyp2c19`; 1 method tag: `method/commentary`)
+- **Evidence level enum:** `commentary` added for opinion/hypothesis papers
 - **Route enum:** `rectal` added to schema
 - Meta-document coherence audit: ~20 stale cross-references corrected across governance files
 

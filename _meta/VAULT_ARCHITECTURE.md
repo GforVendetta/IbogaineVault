@@ -53,7 +53,7 @@ Every paper carries structured YAML frontmatter that enables systematic queries 
 | `category` | Primary classification (RED/GREEN/ORANGE/BLUE/PURPLE/WHITE) | `RED` |
 | `secondary_categories` | Additional categories when a paper spans domains | `[RED, ORANGE]` |
 | `evidence_level` | Methodological rigour of the study | `rct`, `cohort`, `case-report`, `systematic-review` |
-| `tags` | Topical and methodological tags from the 65-tag taxonomy | `[topic/cardiac, mechanism/herg-blockade]` |
+| `tags` | Topical and methodological tags from the 66-tag taxonomy | `[topic/cardiac, mechanism/herg-blockade]` |
 | `clinical_significance` | Editorial assessment of clinical impact | `low`, `moderate`, `high`, `landmark` |
 | `qtc_data` | Whether the paper reports QTc interval data | `true` / `false` |
 | `herg_data` | Whether the paper reports hERG channel findings | `true` / `false` |
@@ -188,7 +188,7 @@ IbogaineVault/
 │
 └── _meta/                       # Administrative and reference documents
     ├── schema_registry.yml      # Single source of truth for all schemas
-    ├── Tag_Taxonomy.md          # 65 canonical tags across 6 categories
+    ├── Tag_Taxonomy.md          # 66 canonical tags across 6 categories
     ├── VAULT_PRINCIPLES.md      # Design philosophy and quality principles
     ├── VAULT_ARCHITECTURE.md    # This file
     ├── METHODOLOGY.md           # Conversion methodology and copyright compliance

@@ -14,7 +14,7 @@ tags:
   - topic/18-mc
   - topic/harm-reduction
   - method/review
-key_findings: "Most comprehensive fatality review: 33 ibogaine-associated deaths (1990–2018); mean age 39.5 years; 26/33 opioid detoxification (categories overlap — sum exceeds 33); cardiac disease in ≥6 cases; co-intoxicants in ≥12; 1:427 death-to-treatment ratio (derived from 8 ibogaine-contributory deaths out of 11 total; see body text for derivation)."
+key_findings: "Most comprehensive fatality review: 33 ibogaine-associated deaths (1990–2018); mean age 39.5; 26/33 opioid detoxification; cardiac disease in ≥6; co-intoxicants in ≥12; 1:427 death-to-treatment ratio (8 ibogaine-contributory of 11 total)."
 source_pdf: "2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.pdf"
 doi: "10.1016/bs.pbr.2018.08.005"
 pmid: "30471681"
