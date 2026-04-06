@@ -14,7 +14,7 @@ tags:
   - topic/18-mc
   - topic/harm-reduction
   - method/review
-key_findings: "Most comprehensive fatality review: 33 ibogaine-associated deaths (1990–2018); mean age 39.5 years; 78% opioid detoxification; cardiac disease in ≥6 cases; co-intoxicants in ≥12; 1:427 death-to-treatment ratio."
+key_findings: "Most comprehensive fatality review: 33 ibogaine-associated deaths (1990–2018); mean age 39.5; 26/33 opioid detoxification; cardiac disease in ≥6; co-intoxicants in ≥12; 1:427 death-to-treatment ratio (8 ibogaine-contributory of 11 total)."
 source_pdf: "2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.pdf"
 doi: "10.1016/bs.pbr.2018.08.005"
 pmid: "30471681"
@@ -70,11 +70,13 @@ This book chapter provides an overview of ibogaine's potential benefits for trea
 - 25 males, 8 females; mean age 39.5 years (range 24–60)
 - Where ethnicity known (N=11): 10 White/Caucasian, 1 Black
 
-**Purpose of use:**
+**Purpose of use (categories overlap — total sums to 36, not 33):**
 - Opioid detoxification: 26 cases
 - Alcoholism treatment: 5 cases
 - Religious/spiritual: 3 cases
 - Methamphetamine treatment: 2 cases
+
+*Note: The Alper et al. (2012) sub-categorisation shows individuals appeared in multiple categories (e.g. 4 opioid-detoxification cases were also alcohol-dependent, 3 cocaine-dependent, 1 methamphetamine-dependent). Percentage breakdowns should not be treated as mutually exclusive.*
 
 **Form of ibogaine:**
 - HCl: 15 cases
@@ -83,7 +85,7 @@ This book chapter provides an overview of ibogaine's potential benefits for trea
 - Brown powder: 1 case
 - Unknown: 9 cases
 
-**Post-mortem ibogaine blood concentrations (N=16):** mean 2.11 mg/L (range 0.24–9.3 mg/L)
+**Post-mortem ibogaine blood concentrations (N=16):** mean 2.11 mg/L (range 0.24–9.3 mg/L). *Note: The November 2005 UK case reports blood ibogaine as 0.8 mg/mL, while all other cases in the series use μg/mL. Taken at face value, 0.8 mg/mL = 800 μg/mL — roughly 340× the series mean and physiologically implausible. This is almost certainly a source-level unit error (likely intended as 0.8 μg/mL = 0.8 mg/L, which would fall within the reported range). The paper does not flag the inconsistency.*
 
 **Co-intoxicants:** Present in ≥12 cases (cocaine, opiates, methadone, benzodiazepines)
 
@@ -93,16 +95,19 @@ This book chapter provides an overview of ibogaine's potential benefits for trea
 
 **Country of death:** Mexico 8, USA 7, UK 5, France 4, Netherlands 2, Cameroon 1, Costa Rica 1, Germany 1, Greece 1, New Zealand 1, South Africa 1, Thailand 1
 
-**Death-to-treatment ratio:** 1:427 (based on 3,414 treatment episodes between 1989–2006 with 11 fatalities; Alper et al., 2008)
+**Death-to-treatment ratio:** 1:427 (Alper et al., 2008). The paper states 3,414 treatment episodes between 1989–2006 with 11 fatalities, "including at least 3 where the medical examiner identified anatomically, pre-existing medical conditions and where ibogaine was not cited as contributing to death." The 1:427 ratio is derived from the 8 ibogaine-contributory deaths (3,414 ÷ 8 = 426.75 ≈ 427), though this exclusion logic is not made explicit in the source text. The qualifier "at least 3" introduces additional uncertainty — the excluded count could be higher.
 
 ### Pharmacokinetic Highlights
 
+- **Routes of administration:** Oral is the primary route discussed. The chapter also notes rectal administration (to avoid emesis) and Naranjo's (1974) intravenous dosing at one-quarter of the oral dose (~1–1.25 mg/kg IV vs 4–5 mg/kg oral)
+
 - Oral ibogaine doses of 500–1,000 mg (10–25 mg/kg) yield peak plasma levels ~11 μg/mL at ~2 hours
 - >90% of ibogaine eliminated by 24 hours; plasma half-life 4–8 hours
-- Noribogaine peaks at ~2.5 hours (~1 μg/mL), does not decline significantly within 24 hours; half-life 28–49 hours
+- Noribogaine peaks at ~2.5 hours (~1 μg/mL), does not decline significantly within 24 hours; half-life 28–49 hours. Ibogaine accumulates at higher levels in fat than in brain or plasma, consistent with its lipophilic nature; it has been suggested that subsequent release from adipose stores may extend exposure via conversion to noribogaine (Hough et al., 1996, 2000) — a mechanism with implications for patients with higher body fat, where the effective exposure window could exceed what plasma half-life figures predict
 - Free plasma concentrations estimated at 1–11 μM (after accounting for ~65% plasma protein binding)
-- CYP2D6 polymorphism: 5–10% of Caucasians lack the gene — poor metabolisers at elevated risk
-- LD₅₀: rats 145 mg/kg IP, 327 mg/kg IG; mice 263 mg/kg; guinea pigs 82 mg/kg IP
+- Ibogaine metabolised principally via CYP2D6, with CYP2C9 and CYP3A4 also contributing (Gevirtz, 2011; Obach et al., 1998). CYP2D6 polymorphism: 5–10% of Caucasians lack the gene — poor metabolisers at elevated risk. CYP2C9 and CYP3A4 involvement is clinically relevant for drug interaction screening (e.g. warfarin via CYP2C9; numerous CYP3A4 substrates)
+- LD₅₀: rats 145 mg/kg IP, 327 mg/kg IG; mice 263 mg/kg; guinea pigs 82 mg/kg IP. Noribogaine LD₅₀ in mice is 630 mg/kg — ibogaine is 2.4× more acutely toxic than noribogaine (Kubiliene et al., 2008). Given noribogaine's extended half-life (28–49 hours), the lower acute toxicity per dose must be weighed against substantially longer exposure duration
+- After applying inter- and intra-species safety factors (including for susceptible populations such as drug users), Schep et al. (2016) estimated an initial human dose of approximately 0.87 mg/kg — over an order of magnitude below the 10–25 mg/kg therapeutic range currently used for drug dependence treatment
 
 ### Contraindications Identified
 
@@ -152,7 +157,7 @@ This chapter is the single most critical fatality reference for clinical safety 
 
 6. **18-MC as a safer alternative.** The chapter notes 18-MC lacks tremor, bradycardia, Purkinje cell damage, and general brain toxicity seen with ibogaine, supporting ongoing analogue development.
 
-7. **Death-to-treatment ratio (1:427)** provides a quantitative baseline for risk communication with patients and regulatory bodies, though this likely underestimates risk given unreported cases.
+7. **Death-to-treatment ratio (1:427)** is widely cited as a baseline for risk communication, but its derivation requires scrutiny: it implicitly excludes "at least 3" of 11 fatalities where pre-existing conditions were the primary cause (3,414 ÷ 8 ≈ 427). The ratio likely also underestimates risk given unreported cases, and the denominator (from 2008 estimates) is substantially out of date. Clinicians citing this figure should present it with these caveats.
 
 ## Limitations
 
@@ -161,6 +166,8 @@ This chapter is the single most critical fatality reference for clinical safety 
 - Likely undercount — ibogaine deaths in non-medical settings and in West Africa may go unreported
 - No formal systematic review methodology (narrative review)
 - Fatality-to-treatment ratio based on 2008 estimates; denominator likely much larger by 2018
+- The 1:427 ratio implicitly excludes "at least 3" deaths from the 11 total (where ibogaine was not cited as contributing); this derivation is not made explicit in the source text, making the arithmetic appear unreproducible on first reading (3,414 ÷ 11 = 310, not 427). The exclusion logic is recoverable from a parenthetical qualifier in Section 4.1.
+- Purpose-of-use categories sum to 36, not 33, indicating overlap the paper does not acknowledge — individual cases appear in multiple categories (confirmed by sub-categorisation in the Alper et al. 2012 base series)
 - Unable to determine a "fatal dosage or level" due to variance in doses, blood levels, co-intoxicants, and comorbidities
 
 ---

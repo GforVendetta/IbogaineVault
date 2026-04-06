@@ -67,12 +67,16 @@ The plant alkaloid ibogaine has promising anti-addictive properties. Albeit not 
 - 3 μM ibogaine shifted V₀.₅ of activation from −9.4 ± 3.8 mV to −18.6 ± 4.5 mV (p < 0.0001)
 - Channel deactivation considerably slowed under 3 μM ibogaine (τ_fast: 330 → 550 ms; τ_slow: 2050 → 2990 ms)
 - Minimal frequency-dependent block (additional 10–15% at 0.1–1 Hz pulsing)
+- Washout recovery (2 min): V₀.₅ returned to −10.1 ± 5.3 mV, K to 7.4 ± 0.5 mV (n = 4) — near-complete recovery; deactivation slowing also fully reversible
 
 **hNaᵥ1.5 sodium channels:**
 - IC₅₀ = 142 ± 11 μM (ibogaine); 464 ± 34 μM (18-MC)
 - Hill slope 1.1 for ibogaine
-- V₀.₅ shifted from −42 ± 5 mV to −46 ± 5 mV under 100 μM ibogaine (p < 0.01)
-- Minor frequency-dependent block at 100 μM (65% → 52% at 5 Hz)
+- V₀.₅ shifted from −42 ± 5 mV to −46 ± 5 mV under 100 μM ibogaine (p < 0.01, n = 7)
+- Slope factor K shifted from 6.2 ± 0.8 to 5.5 ± 0.5 mV (p < 0.05, n = 7), indicating steeper activation gating
+- At 10 μM (within therapeutic range): negligible frequency-dependent block — steady-state 96 ± 6% at 5 Hz (n = 7), 93 ± 4% at 0.5 Hz (n = 10)
+- At 100 μM: minor frequency-dependent block (65% → 52% at 5 Hz, n = 8)
+- Washout recovery (2 min): V₀.₅ recovered to −44 ± 4 mV, K to 6.7 ± 0.7 mV (n = 7) — gating parameters near-fully reversible
 
 **hCaᵥ1.2 calcium channels (L-type):**
 - IC₅₀ = 163 μM (ibogaine) in heterologous expression (TSA-201 cells)
@@ -82,6 +86,7 @@ The plant alkaloid ibogaine has promising anti-addictive properties. Albeit not 
 ### Action Potential Effects
 
 **Guinea pig cardiomyocytes (experimental):**
+- System validated with positive controls: 1 μM E-4031 (hERG blocker) considerably prolonged AP; 10 μM isradipine (L-type Ca²⁺ blocker) shortened AP — confirming the recording system could detect AP changes in both directions
 - 0.1–3 μM: no significant change in APD₉₀
 - 1 μM: occasional AP prolongation in 2/6 cells (reversible, appeared repeatedly)
 - ≥10 μM: significant AP shortening (p < 0.001 for both APD₉₀ and AP area)
@@ -90,14 +95,15 @@ The plant alkaloid ibogaine has promising anti-addictive properties. Albeit not 
 **Human ventricular AP (computer simulation, ten Tusscher model):**
 - 1 μM: slight AP prolongation from hERG inhibition; no Caᵥ effect
 - 10 μM: considerable hERG-mediated prolongation, partially offset by Caᵥ inhibition; net AP prolongation
-- 100 μM: hERG prolongation largely neutralised by Caᵥ inhibition; Naᵥ1.5 blockade slowed upstroke
+- 100 μM: hERG prolongation largely neutralised by Caᵥ inhibition; Naᵥ1.5 blockade slowed upstroke and reduced AP amplitude
 
 ### Plasma Protein Binding and Clinical Relevance
 
-- Human plasma protein binding: ~65% (equilibrium dialysis)
+- Human plasma protein binding: ~65% (equilibrium dialysis, Cyprotex Discovery, Macclesfield, UK)
 - Reported whole blood concentrations after 500–1000 mg oral dose: 1–10 μg/mL (3–30 μM total)
 - Estimated free plasma concentrations: 1–11 μM
 - Free plasma concentrations at therapeutic doses directly overlap with hERG IC₅₀ (4 μM)
+- **Methodological caveat:** The 1–11 μM free plasma estimate combines whole-blood exposure data from prior studies (Mash et al. 1998, 2000; Kontrimaviciute et al. 2006) with plasma protein binding measured in this study only. Whole-blood concentrations include drug sequestered in cellular components, not solely plasma — blood-cell partitioning could affect the true free fraction. This cross-study derivation is the linchpin placing hERG blockade in the therapeutic range and is cited across multiple RED cardiac papers without caveat.
 
 ## Methodology
 
@@ -158,6 +164,7 @@ This paper provides the foundational cardiac ion channel profile that underpins 
 - Room temperature recordings (22 °C) rather than physiological temperature (37 °C), which can affect channel kinetics and drug binding
 - The ten Tusscher model is a mid-myocardial cell model; transmural heterogeneity not assessed
 - Maximum drug concentration limited to 300 μM due to solubility constraints
+- Sample size reporting is incomplete: concentration-response IC₅₀ values report n as ranges only (e.g., n = 5–10 for Nav1.5 ibogaine, n = 6–12 for 18-MC), preventing assessment of per-concentration precision; hCav1.2 IC₅₀ reports no n value at all; guinea pig AP experiments do not report the number of animals or cells per animal. For IC₅₀ values cited as foundational reference data across multiple RED papers, these gaps limit confidence in estimate precision
 
 ---
 

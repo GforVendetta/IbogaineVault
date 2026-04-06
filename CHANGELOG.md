@@ -1,5 +1,31 @@
 # Changelog
 
+## v1.0.3 — 2026-04-06
+
+Cross-model verified corrections across 15 clinically critical papers.
+
+### Cross-model verification corrections (114 items)
+
+- **15 papers** independently extracted by GPT-5.4 Pro and compared against vault analytical summaries. Every discrepancy PDF-verified before correction
+- **12 HIGH-significance fixes:** removed 1 fabricated polypharmacy confound (Steinberg2018), corrected vault transcription error buprenorphine→diazepam (Koenig2015), restored QTc data table to 15/15 rows (Chen2024), flagged allegiance bias in foundational case series (Alper1999), recovered arithmetic derivation for 1:427 mortality ratio (Corkery2018), among others
+- **50 MEDIUM-significance fixes:** missing adverse events, dosing details, demographic data, source reporting inconsistencies flagged
+- **52 LOW-significance fixes:** omitted limitations, additional pharmacological detail, COI disclosures
+- **Key finding:** Zero fabrication errors (E1–E3) confirmed across 32 papers examined. 82% of discrepancies were silent omissions (E8)
+
+### Infrastructure
+
+- **Tag taxonomy expanded:** 62 → 66 canonical tags (3 CYP enzyme tags: `topic/cyp2c9`, `topic/cyp3a4`, `topic/cyp2c19`; 1 method tag: `method/commentary`)
+- **Evidence level enum:** `commentary` added for opinion/hypothesis papers
+- **Route enum:** `rectal` added to schema
+- Meta-document coherence audit: ~20 stale cross-references corrected across governance files
+
+### Structural
+
+- Kock2022 "microdosing" terminology corrected to "repeated small-dose administration" (E4: unsupported editorialising)
+- Esperanca2026 `evidence_level` downgraded: `systematic-review` → `review` (scoping review per PRISMA-ScR methodology)
+
+**Full paper count:** 304 (unchanged from v1.0.2)
+
 ## v1.0.2 — 2026-03-31
 
 Analytical reconversions, methodology documentation, cross-verification infrastructure.
@@ -42,7 +68,7 @@ Initial public release of the IbogaineVault Tier 1 research support repository.
 
 ### Contents
 
-- **303 papers** (1957–2026) with standardised YAML frontmatter and 62-tag canonical taxonomy
+- **304 papers** (1957–2026) with standardised YAML frontmatter and 62-tag canonical taxonomy
 - **9 curated research hubs** spanning cardiac safety, clinical protocols, pharmacology, outcomes, phenomenology, and history/policy
 - **7 queryable bases** for structured metadata access
 - **3 researcher MOCs** (Maps of Content) for Clare Wilkins, Ken Alper, and Howard Lotsof

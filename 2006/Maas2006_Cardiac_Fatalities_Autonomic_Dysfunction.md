@@ -10,7 +10,7 @@ tags:
   - topic/cardiac
   - topic/adverse-event
   - topic/traditional-use
-  - method/review
+  - method/commentary
 key_findings: "Hypothesises ibogaine fatalities are sudden cardiac deaths from autonomic dysregulation; Bwiti ritual maintains right-hemispheric trance as cardioprotective mechanism"
 source_pdf: "2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.doc"
 doi: "10.1016/j.mehy.2006.02.050"
@@ -20,7 +20,7 @@ issn: "0306-9877"
 document_type: commentary
 clinical_significance: high
 aliases: ["Maas 2006", "Maas & Strubelt 2006", "Autonomic Dysfunction Hypothesis"]
-evidence_level: review
+evidence_level: commentary
 qtc_data: false
 herg_data: false
 electrolyte_data: false
@@ -41,7 +41,7 @@ licence_verified: true
 
 # Fatalities after taking ibogaine in addiction treatment could be related to sudden cardiac death caused by autonomic dysfunction
 
-**Citation:** Maas, U. & Strubelt, S. (2006). Fatalities after taking ibogaine in addiction treatment could be related to sudden cardiac death caused by autonomic dysfunction. *Medical Hypotheses*, 67, 960–964. doi:10.1016/j.mehy.2005.12.035
+**Citation:** Maas, U. & Strubelt, S. (2006). Fatalities after taking ibogaine in addiction treatment could be related to sudden cardiac death caused by autonomic dysfunction. *Medical Hypotheses*, 67, 960–964. doi:10.1016/j.mehy.2006.02.050
 
 ## Abstract
 
@@ -51,10 +51,11 @@ The authors hypothesise that ibogaine-related fatalities are sudden cardiac deat
 
 - **Autonomic dysregulation hypothesis:** Ibogaine fatalities are proposed as sudden unexplained death syndrome (SUDS) caused by ventricular fibrillation triggered by autonomic nervous system imbalance
 - **Fastigial nucleus mechanism:** Ibogaine stimulates cerebellar Purkinje cells and the fastigial nucleus, which modulates autonomic function — effects may persist for weeks after stimulation
-- **Dose-dependent risk profile:** High doses (>10 mg/kg) may paradoxically be safer during peak effects due to strong parasympathetic dominance (vagal "feigned death" state), while low doses (<10 mg/kg) carry greater risk from sympathetic stimulation
+- **Dose-dependent risk profile:** High doses (>10 mg/kg) may paradoxically be safer during peak effects due to strong parasympathetic dominance (vagal "feigned death" state), while low doses (<10 mg/kg) carry greater risk from sympathetic stimulation. [Note: the <10 mg/kg threshold derives from halving only the lower bound of the stated 20–30 mg/kg range; half of 30 mg/kg = 15 mg/kg, making the derivation internally inconsistent.]
 - **Post-peak vulnerability window:** The period after peak ibogaine effects, when exhaustion combines with high vagal tone, creates vulnerability to sudden left-hemispheric sympathetic stimulation from startle responses
 - **Lateralised cardiac innervation:** Left-hemispheric sympathetic stimulation can drive ventricular myocardium independently of sinus node rate, potentially causing ventricular extrasystoles and torsade de pointes
-- **At least 8 fatalities documented:** Several occurred days after ingestion or after doses well below the therapeutic 20–30 mg/kg range; at least two had pre-existing cardiac conditions
+- **At least 8 fatalities documented:** Some occurred days after ingestion; four (50%) had taken less than half the recommended 20–30 mg/kg dose; at least two had pre-existing cardiac conditions; at least two fatalities occurred in individuals using ibogaine for spiritual purposes who were presumably not addicted, indicating risk extends beyond the opioid-dependent population
+- **Medical monitoring (2006 assessment):** The authors state that medical monitoring of ibogaine patients had to that date shown no benefit — deaths occurred unexpectedly after monitoring phases, and no successful life-saving intervention was known. This pre-GITA 2015 claim is historically significant for tracing the evolution of cardiac monitoring debates.
 - **Traditional protective protocol:** Gabonese healers isolate initiates, maintain right-hemispheric trance through ritual music (5–6 Hz theta rhythm), and observe a minimum three-day critical period — practices consistent with preventing autonomic-triggered arrhythmias
 
 ## Methodology

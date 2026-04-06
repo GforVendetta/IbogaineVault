@@ -140,7 +140,7 @@ IbogaineVault/
 ├── Other/               # Experience reports, journalism, legal, books
 ├── _meta/               # Schema, taxonomy, architecture docs
 │   ├── schema_registry.yml      # Single source of truth for all schemas
-│   ├── Tag_Taxonomy.md          # 62 canonical tags
+│   ├── Tag_Taxonomy.md          # 66 canonical tags
 │   ├── VAULT_ARCHITECTURE.md    # Three-layer navigation design
 │   ├── VAULT_PRINCIPLES.md      # Design philosophy and clinical principles
 │   ├── METHODOLOGY.md           # Conversion methodology and copyright compliance
