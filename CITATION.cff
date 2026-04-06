@@ -7,7 +7,7 @@ authors:
     given-names: Philip
     orcid: "https://orcid.org/0009-0008-3558-3097"
 version: 1.0.2
-doi: "10.5281/zenodo.19358359"
+doi: "10.5281/zenodo.19159665"
 repository-code: "https://github.com/GforVendetta/IbogaineVault"
 abstract: >-
   The IbogaineVault is a structured evidence map covering over 300 ibogaine
@@ -31,4 +31,4 @@ keywords:
   - opioid use disorder
   - pharmacology
 license: CC-BY-NC-SA-4.0
-date-released: 2026-03-31
+date-released: 2026-04-06

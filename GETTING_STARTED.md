@@ -78,7 +78,7 @@ Papers have hierarchical tags describing their content:
 | `mechanism/` | `mechanism/herg-blockade`, `mechanism/sert-inhibition`, `mechanism/kappa-opioid` |
 | `method/` | `method/clinical-trial`, `method/preclinical`, `method/systematic-review` |
 
-See [Tag Taxonomy](_meta/Tag_Taxonomy.md) for the complete 62-tag list.
+See [Tag Taxonomy](_meta/Tag_Taxonomy.md) for the complete 65-tag list.
 
 ---
 
@@ -220,7 +220,7 @@ IbogaineVault/
 │
 ├── _meta/                       # Administrative documents
 │   ├── schema_registry.yml      # Single source of truth for YAML schemas
-│   ├── Tag_Taxonomy.md          # 62 canonical tags
+│   ├── Tag_Taxonomy.md          # 65 canonical tags
 │   ├── METHODOLOGY.md           # Conversion methodology and copyright compliance
 │   └── README.md                # Directory guide
 └── .gitignore
@@ -238,6 +238,6 @@ This vault was created by converting PDFs to searchable markdown with structured
 
 - **[Technical Reference](_meta/VAULT_ARCHITECTURE.md)** — Bases syntax, folder structure, YAML schema overview
 - **[Methodology](_meta/METHODOLOGY.md)** — Conversion process, copyright compliance, quality assurance
-- **[Tag Taxonomy](_meta/Tag_Taxonomy.md)** — Complete list of 62 canonical tags
+- **[Tag Taxonomy](_meta/Tag_Taxonomy.md)** — Complete list of 65 canonical tags
 - **[Design Principles](_meta/VAULT_PRINCIPLES.md)** — Quality standards and clinical integrity principles
 - **[CONTRIBUTING](CONTRIBUTING.md)** — How to contribute papers, corrections, or improvements

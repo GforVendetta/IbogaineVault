@@ -106,9 +106,9 @@ The 24 included studies span three decades of clinical ibogaine research, from i
 | **Double-blind, placebo-controlled** | | | | |
 | Prior & Prior, 2014 | Medical screening, monitoring; inpatient | 10 | 18–64 yrs; m | Not stated |
 | Glue, Lockhart, et al., 2015 | Medical screening, monitoring; inpatient | 24 | Ø 22.0 yrs; m | n.a. |
-| Glue et al., 2016 | Medical screening, monitoring; inpatient | 18 | Ø 41.2 yrs; 21 m, 6 f | OAT |
+| Glue et al., 2016 | Medical screening, monitoring; inpatient | 18† | Ø 41.2 yrs; 21 m, 6 f | OAT |
 
-*\* Same population as Noller et al., 2018. \*\* Same population as Glue, Winter, et al., 2015.*
+*\* Same population as Noller et al., 2018. \*\* Same population as Glue, Winter, et al., 2015. † Source inconsistency: Kock2022 Table 1 reports N=18 but demographics (21 m, 6 f) sum to 27.*
 
 ### Table 2: Dosing, Outcomes, and Adverse Events
 
@@ -123,7 +123,7 @@ The 24 included studies span three decades of clinical ibogaine research, from i
 | Barsuglia et al., 2018 | 1 | AUD; neuroimaging | Ibogaine HCl (d1) + 5-MeO-DMT (d3) | 17.9 mg/kg p.o.; ~6 mg inh. | Mood improvement; AU cessation 1 mo | None |
 | Wilson et al., 2020 | 2 | OUD/SUD | Ibogaine HCl | To 30.6 mg/kg p.o. multi-dose | >2 yrs opioid abstinence | QTc 512 ms, 53 bpm → ICU |
 | **Retrospective / observational** | | | | | | |
-| Schenberg et al., 2014 | 75 | SUD | Ibogaine HCl | 7.5–20 mg/kg p.o. multi-dose | Median abstinence 5.5 mo (1 Tx); 8.4 mo (multiple) | None |
+| Schenberg et al., 2014 | 75 | SUD | Ibogaine HCl + domperidone 20 mg | 7.5–20 mg/kg p.o. multi-dose | Median abstinence 5.5 mo (1 Tx); 8.4 mo (multiple) | None |
 | Davis et al., 2017 | 88 | OUD | Ibogaine HCl + domperidone 20 mg | 15 ± 5 mg/kg p.o. | 80% WS reduction; 50% craving ↓ 1 wk; 25% ↓ 3 mo; 3:1 responder ratio | None |
 | Malcolm et al., 2018 | 40 | OUD | Ibogaine HCl | 18–20 mg/kg p.o. | Significant reduction COWS, SOWS, BSCS | None |
 | Davis et al., 2020 | 51 | PTSD/depression/anxiety | Ibogaine HCl (d1) + 5-MeO-DMT (d3) | 10 mg/kg p.o.; ~7.5 mg inh. | Significant reduction PTSD, depression, anxiety symptoms | Not assessed |
@@ -137,7 +137,7 @@ The 24 included studies span three decades of clinical ibogaine research, from i
 | Glue, Winter, et al., 2015 | 21 | PK/safety | Ibogaine*** ± paroxetine | 20 mg p.o. | Safe, well-tolerated; ↑ AUC/Cmax with CYP2D6 inhibition | None |
 | Forsyth et al., 2016** | 0** | Mood/cognition | Ibogaine*** | 20 mg p.o. | No significant cognitive/psychological effect | None |
 | Geoffroy & Weis, 2017 | 9 | Safety; OWS in OAT | Noribogaine | Cum. to 653 mg p.o. over 5 d | Significant ↓ OWS; elevated mood; only 4/9 completed | None |
-| Mash et al., 2018 | 191 | OUD/CUD | Ibogaine HCl | 8–12 mg/kg p.o. | Significant ↓ HCQ, CCQ, BDI | None |
+| Mash et al., 2018 | 191 | OUD/CUD | Ibogaine HCl | 8–12 mg/kg p.o. | Significant ↓ HCQ, CCQ, MCCS, SCL-90-R Depression, BDI, POMS | None |
 | **Double-blind, placebo-controlled** | | | | | | |
 | Prior & Prior, 2014 | 10 | CUD | Ibogaine HCl | 1800 mg p.o. | Significant ↓ MCCS; fewer cocaine-positive urines | None |
 | Glue, Lockhart, et al., 2015 | 24 | PK/safety | Noribogaine | To 60 mg p.o. | Safe, well-tolerated; slow elimination; QTcF <500 ms | None |
@@ -155,13 +155,13 @@ One reviewed study ([Wilson et al., 2020](../2020/Wilson2020_Novel_Tx_OUD_Ibogai
 
 Psychiatric adverse events were noted outside the 24 reviewed studies: one ibogaine-associated psychotic exacerbation in a patient with schizophrenia, and two cases of post-ibogaine mania. These events reinforce the importance of psychiatric screening alongside cardiac assessment.
 
-The review also flagged ibogaine microdosing as a potential risk-reduction strategy, referencing the Wilkins et al. (2017) low-dose taper case and anecdotal reports from Kroupa & Wells (2005), though systematic evidence for this approach was absent at the search date.
+The review also flagged repeated small-dose ibogaine administration as a potential risk-reduction strategy, referencing the Wilkins et al. (2017) low-dose taper case and anecdotal reports from Kroupa & Wells (2005), though systematic evidence for this approach was absent at the search date.
 
 ## Clinical Implications
 
 This review crystallises the state of clinical ibogaine evidence as of late 2020 and carries several implications for treatment providers. First, the consistency of withdrawal suppression and craving reduction across heterogeneous study designs — from informal 1990s settings through to controlled trials — supports ibogaine's therapeutic signal for opioid and cocaine use disorders, while the evidence base remains pre-Phase III in quality. The absence of effective pharmacotherapies for CUD and stimulant use disorders makes the Prior & Prior (2014) controlled cocaine data particularly noteworthy.
 
-Second, the dual fatality analysis — two within the reviewed cohort, 38 in the wider literature — underscores that cardiac risk remains the primary barrier to clinical adoption. The dose range across reviewed studies (0.28–55 mg/kg) spans two orders of magnitude, and the review does not identify a consensus therapeutic window. The Glue et al. (2016) QTc prolongation coefficient (0.17 ms/ng/mL) provides one of the few quantitative anchors for cardiac risk modelling.
+Second, the dual fatality analysis — two within the reviewed cohort, 38 in the wider literature — underscores that cardiac risk remains the primary barrier to clinical adoption. The dose range across reviewed studies (0.28–55 mg/kg) spans two orders of magnitude, though the lower bound derives from the Glue, Lockhart et al. (2015) noribogaine study (to 60 mg p.o.) rather than ibogaine proper — the paper’s Discussion conflates the two compounds in this range. The review does not identify a consensus therapeutic window. The Glue et al. (2016) QTc prolongation coefficient (0.17 ms/ng/mL) provides one of the few quantitative anchors for cardiac risk modelling.
 
 Third, the emerging signal for psychiatric co-morbidity benefits — depression (BDI), PTSD (PCL-5), and mood improvement — positions ibogaine beyond narrow detoxification utility. The Davis et al. (2020) veterans study, combining ibogaine with 5-MeO-DMT, represents a treatment paradigm increasingly relevant to the [TBI/PTSD research line](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md).
 

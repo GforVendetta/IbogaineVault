@@ -13,7 +13,7 @@ tags:
   - topic/adverse-event
   - mechanism/herg-blockade
   - method/review
-key_findings: "Reviews 27 ibogaine fatalities and 8 cardiac case reports (QTc 460–730ms) in patients WITHOUT pre-existing conditions. CYP2D6 polymorphism affects toxicity. Noribogaine at least as cardiotoxic as ibogaine."
+key_findings: "Reviews 27 ibogaine fatalities and 8 cardiac case reports (QTc 460–730ms), 7 in patients without pre-existing cardiac conditions. CYP2D6 polymorphism affects toxicity. Noribogaine at least as cardiotoxic as ibogaine."
 doi: "10.3109/15563650.2016.1138226"
 pmid: "26807959"
 journal: "Clinical Toxicology"
@@ -62,8 +62,8 @@ Ibogaine is a psychoactive indole alkaloid found in the African rainforest shrub
 
 ## Key Findings
 
-- **27 fatalities reported** associated with ibogaine or iboga ingestion, with pre-existing cardiovascular conditions implicated where post-mortem data were available
-- **8 clinical case reports** of ventricular tachyarrhythmias and QT prolongation in patients **without** pre-existing cardiac conditions or family history — establishing that ibogaine cardiotoxicity is not limited to those with prior disease
+- **27 fatalities reported** associated with ibogaine or iboga ingestion. In the Alper et al. (2012) forensic case series, 19 were described in detail, of which at least 9 could be attributed to cardiotoxicity. Pre-existing cardiovascular conditions were implicated where post-mortem data were available
+- **8 clinical case reports** of ventricular tachyarrhythmias and QT prolongation, **7 in patients without** pre-existing cardiac conditions or family history — establishing that ibogaine cardiotoxicity is not limited to those with prior disease
 - QTc intervals in case reports ranged from **460–730 ms**, with normalisation times of 24 hours to >10 days
 - **One fatality** (25-year-old male with supraventricular tachycardia history) occurred after cardiopulmonary arrest following 2.5g ibogaine
 - hERG potassium channel blockade identified as the primary mechanism of cardiotoxicity, at doses equivalent to therapeutic range
@@ -88,7 +88,7 @@ PubMed literature search using "ibogaine" and "noribogaine" with 16 search crite
 | 39M | 5h | 7g | 640→730 | Bradycardia (55bpm), polymorphic VT | None; electrolytes normal | Isoproterenol failed; no VT after 72h; discharged day 7 | Hildyard 2015 |
 | 31F | Unknown | 3.8g | 616 | VT | None | QT normalised 42h; discharged | Hoelen 2009 |
 | 49M | 1–2d | Unknown | >700 | VT | None; electrolyte imbalance | No VT after 10d; prolonged QT persisted; discharged | Paling 2012 |
-| ?M | Unknown | 7g | 600 | Cardiac arrest, VT | None | Multiple defibrillations; discharged | Asua 2013 |
+| ?M | Unknown | 7g | 600 | Cardiac arrest, VT | N.A. | Multiple defibrillations; discharged | Asua 2013 |
 | 33M | Unknown | 0.6g | 460→593 | VT during micturition | None; concurrent methadone | VTs during first 2d; QT prolonged until day 9; discharged | Pleskovic 2012 |
 | 25M | 3h | 2.5g | — | Cardiopulmonary arrest | Supraventricular tachycardia | **Expired** after 2d intensive care | Jalal 2013 |
 
@@ -164,6 +164,7 @@ This review establishes that ibogaine cardiotoxicity is not confined to patients
 - Neurotoxicity data primarily from animal models; direct human relevance of rat Purkinje cell degeneration at supra-therapeutic doses remains unclear
 - The review predates the MISTIC protocol and magnesium co-administration evidence, which has since fundamentally shifted the cardiac risk landscape
 - hERG blockade is discussed via Koenig et al.'s findings but the review contains no original hERG assay data (hence `herg_data: false` despite extensive hERG discussion)
+- **Disclosure:** Authors reported no conflicts of interest. No funding source declared. Professor Allister Vale acknowledged for critical review.
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "vault": "IbogaineVault",
   "version": "1.0.1",
-  "generated_at": "2026-03-31T18:48:18Z",
+  "generated_at": "2026-04-06T05:03:11Z",
   "paper_count": 303,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
@@ -3843,12 +3843,12 @@
       "secondary_categories": [
         "WHITE"
       ],
-      "evidence_level": "review",
+      "evidence_level": "commentary",
       "tags": [
         "topic/cardiac",
         "topic/adverse-event",
         "topic/traditional-use",
-        "method/review"
+        "method/commentary"
       ],
       "clinical_significance": "high",
       "key_findings": "Hypothesises ibogaine fatalities are sudden cardiac deaths from autonomic dysregulation; Bwiti ritual maintains right-hemispheric trance as cardioprotective mechanism",
@@ -4891,7 +4891,7 @@
         "alcohol dependence",
         "benzodiazepine dependence"
       ],
-      "dosing_range": "3.5 g ibogaine 15% (case 2)",
+      "dosing_range": "3.5 g ibogaine 15% (case 2); usual dose 2–6 g (per paper)",
       "route": "oral",
       "source_pdf": "2012/Paling2012_Life_Threatening_Complications.pdf",
       "journal": "The Netherlands Journal of Medicine",
@@ -6235,8 +6235,10 @@
         "female gender",
         "hERG channel mutations",
         "CYP2D6 inhibitors",
+        "CYP2D6 poor metaboliser genetic status (altered PK; potential weeks-long cardiotoxicity from single dose)",
         "methadone co-use",
         "cocaine co-use",
+        "alcohol co-use",
         "diazepam co-use",
         "hepatic impairment (hepatitis, liver cirrhosis)",
         "concurrent QT-prolonging medications",
@@ -6823,7 +6825,7 @@
         "method/review"
       ],
       "clinical_significance": "high",
-      "key_findings": "Reviews 27 ibogaine fatalities and 8 cardiac case reports (QTc 460–730ms) in patients WITHOUT pre-existing conditions. CYP2D6 polymorphism affects toxicity. Noribogaine at least as cardiotoxic as ibogaine.",
+      "key_findings": "Reviews 27 ibogaine fatalities and 8 cardiac case reports (QTc 460–730ms), 7 in patients without pre-existing cardiac conditions. CYP2D6 polymorphism affects toxicity. Noribogaine at least as cardiotoxic as ibogaine.",
       "sample_size": null,
       "mortality_count": 27,
       "mortality_scope": "cumulative-review",
@@ -6992,7 +6994,7 @@
         "method/review"
       ],
       "clinical_significance": "high",
-      "key_findings": "Calculates theoretical safe oral dose of 0.87 mg/kg from animal NOAEL with safety factors; clinical doses of 6–30 mg/kg overlap toxic ranges; hERG IC50 values match therapeutic plasma concentrations",
+      "key_findings": "Dual-route dose calculation (IP NOAEL 0.83, oral LD50 0.87 mg/kg) converges sub-1 mg/kg; critiques Mash et al. (1998) applying IP NOAEL to oral dosing; hERG IC50 overlaps therapeutic concentrations; recommends <1 mg/kg limit and dosing moratorium",
       "sample_size": null,
       "mortality_count": 19,
       "mortality_scope": "cumulative-review",
@@ -7486,9 +7488,16 @@
       "title": "Phytochemical characterization of Tabernanthe iboga root bark and its effects on dysfunctional metabolism and cognitive performance in high-fat-fed C57BL/6J mice",
       "authors": [
         "Bading-Taika, Bayissi",
-        "Akinyeke, Teemu",
+        "Akinyeke, Tunde",
         "Magana, Armando A.",
         "Choi, Jaewoo",
+        "Ouanesisouk, Michael",
+        "Torres, Eileen Ruth Samson",
+        "Lione, Lisa A.",
+        "Maier, Claudia S.",
+        "Bobe, Gerd",
+        "Raber, Jacob",
+        "Miranda, Cristobal L.",
         "Stevens, Jan F."
       ],
       "year": 2018,
@@ -7504,7 +7513,7 @@
         "method/preclinical"
       ],
       "clinical_significance": "moderate",
-      "key_findings": "T.iboga root bark phytochemistry + metabolic/cognitive effects in high-fat diet mice. IPHAMETRA Gabon + Oregon State collaboration. Characterises alkaloid profile and metabolic effects.",
+      "key_findings": "T. iboga root bark phytochemistry (30 alkaloids, 5 phenolics via LC-MS/MS) + metabolic/cognitive effects in HFD mice. Extract did not improve metabolic syndrome but reduced MCP-1. High-dose ibogaine impaired spatial memory.",
       "sample_size": null,
       "mortality_count": null,
       "mortality_scope": null,
@@ -7512,7 +7521,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "T. iboga root bark extract (mouse, oral gavage)",
+      "dosing_range": "0.83–2.07 mg ibogaine/kg/day (T. iboga root bark extract, dietary supplementation, 10 weeks, C57BL/6J mice)",
       "route": "oral",
       "source_pdf": "2018/Bading-Taika2018_Phytochemicals_Iboga_RB_Effects_Dysfunctional_Metabolism_Cognitive_Performance_Mice.pdf",
       "journal": "Journal of Food Bioactives",
@@ -7525,12 +7534,12 @@
       "pmid": "30582133",
       "pmcid": "PMC6301038",
       "open_access": true,
-      "publisher": "Food Science Publisher",
-      "body_format": "academic-retained",
+      "publisher": "International Society for Nutraceuticals and Functional Foods",
+      "body_format": "vault-analytical",
       "issn": "2637-8779",
       "licence_type": "unknown",
       "licence_verified": false,
-      "references_stripped": null,
+      "references_stripped": true,
       "filepath": "2018/Bading-Taika2018_Phytochemicals_Iboga_RB_Effects_Dysfunctional_Metabolism_Cognitive_Performance_Mice.md"
     },
     {
@@ -7725,7 +7734,7 @@
         "method/review"
       ],
       "clinical_significance": "landmark",
-      "key_findings": "Most comprehensive fatality review: 33 ibogaine-associated deaths (1990–2018); mean age 39.5 years; 78% opioid detoxification; cardiac disease in ≥6 cases; co-intoxicants in ≥12; 1:427 death-to-treatment ratio.",
+      "key_findings": "Most comprehensive fatality review: 33 ibogaine-associated deaths (1990–2018); mean age 39.5 years; 26/33 opioid detoxification (categories overlap — sum exceeds 33); cardiac disease in ≥6 cases; co-intoxicants in ≥12; 1:427 death-to-treatment ratio (derived from 8 ibogaine-contributory deaths out of 11 total; see body text for derivation).",
       "sample_size": null,
       "mortality_count": 33,
       "mortality_scope": "cumulative-review",
@@ -9388,7 +9397,7 @@
         "method/clinical-trial"
       ],
       "clinical_significance": "high",
-      "key_findings": "Dutch hospital study (n=14). QTc prolongation avg 95ms (range 29-146ms); 50% reached >500ms. Prolongation >450ms lasted >24h in 6 patients. No torsade. Severe but reversible ataxia in all. 11/14 did not return to morphine.",
+      "key_findings": "Dutch hospital study (n=14). QTc prolongation median ΔQTcMax 102ms (SD 36ms, range 40–168ms); 50% reached >500ms. Prolongation >450ms lasted >24h in 6 patients. No torsade. Severe but reversible ataxia in all. 11/14 did not return to morphine. Note: Abstract reports different values (avg 95ms, range 29–146ms) — see Source Reporting Inconsistencies.",
       "sample_size": 14,
       "mortality_count": null,
       "mortality_scope": null,
@@ -11188,12 +11197,8 @@
         "Concurrent opioid agonist use",
         "Concurrent cocaine or stimulant use",
         "CYP2D6 poor metaboliser status (higher ibogaine plasma levels, altered toxicokinetics)",
-        "Obesity",
-        "Hypertension",
         "P-glycoprotein substrate medications (ibogaine inhibits P-gp)",
-        "Hypokalemia or hypomagnesemia",
-        "Epilepsy or seizure history",
-        "Pregnancy"
+        "Hypokalemia or hypomagnesemia"
       ],
       "dosing_range": "1–30 mg/kg bw oral (common use); 0.3–55 mg/kg bw (clinical studies); LD₅₀ 263 mg/kg bw mice, 327 mg/kg bw rats; noribogaine LD₅₀ 630 mg/kg bw mice",
       "route": "oral",
@@ -13910,15 +13915,15 @@
       "year": 2026,
       "doi": "10.3390/molecules31030545",
       "primary_category": "RED",
-      "document_type": "systematic-review",
+      "document_type": "review",
       "secondary_categories": null,
-      "evidence_level": "systematic-review",
+      "evidence_level": "review",
       "tags": [
         "topic/cardiac",
         "topic/adverse-event",
         "mechanism/herg-blockade",
         "topic/pharmacokinetics",
-        "method/systematic-review"
+        "method/review"
       ],
       "clinical_significance": "high",
       "key_findings": "Most comprehensive cardiac safety review to date; synthesises QTc prolongation, arrhythmias, 19+ fatalities; mechanistic analysis of hERG blockade and noribogaine-driven delayed cardiotoxicity",
@@ -13934,7 +13939,11 @@
         "Concurrent QT-prolonging medications",
         "CYP2D6 poor metaboliser status",
         "Hepatic impairment",
-        "Electrolyte disturbances"
+        "Electrolyte disturbances",
+        "Concurrent opioid use (respiratory depression; pharmacokinetic interaction)",
+        "Concurrent methadone use (independent hERG blockade and QT prolongation; extremely long half-life)",
+        "Active alcohol use or recent alcohol withdrawal (independent hERG inhibition; withdrawal-related seizure risk)",
+        "Concurrent benzodiazepine use or recent benzodiazepine withdrawal (withdrawal-related seizure risk)"
       ],
       "dosing_range": "Varies across reviewed studies; NOAEL 25mg/kg (preclinical)",
       "route": "oral",

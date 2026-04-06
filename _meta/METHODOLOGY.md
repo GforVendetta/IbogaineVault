@@ -89,7 +89,7 @@ The vault maintains zero validation errors across its entire paper collection. T
 
 ### Automated Validation
 
-`validate_vault.py` runs against every paper, checking YAML schema compliance (field presence, type correctness, enum membership), tag taxonomy conformance (all tags must exist in the 62-tag canonical taxonomy), structural integrity (required sections present, no orphaned metadata), and cross-file consistency. The validator is the final gate — no paper enters the vault with a validation error.
+`validate_vault.py` runs against every paper, checking YAML schema compliance (field presence, type correctness, enum membership), tag taxonomy conformance (all tags must exist in the 65-tag canonical taxonomy), structural integrity (required sections present, no orphaned metadata), and cross-file consistency. The validator is the final gate — no paper enters the vault with a validation error.
 
 ### Reconversion Verification
 

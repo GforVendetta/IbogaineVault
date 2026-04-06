@@ -82,7 +82,7 @@ VALID_EVIDENCE_LEVELS = {
 
 VALID_ROUTES = {
     "oral", "intravenous", "subcutaneous", "intramuscular",
-    "intraperitoneal", "topical", "not-specified", "not-applicable",
+    "intraperitoneal", "topical", "rectal", "not-specified", "not-applicable",
 }
 
 VALID_DOCUMENT_TYPES_PAPER = {
@@ -108,12 +108,13 @@ VALID_LICENCE_TYPES = {
 
 VALID_MORTALITY_SCOPES = {"cumulative-review", "discrete-cases", "incidental"}
 
-# ── Canonical tags (62 total) ──
+# ── Canonical tags (65 total) ──
 VALID_TAGS = {
-    # topic/ (39)
+    # topic/ (42)
     "topic/18-mc", "topic/adverse-event", "topic/alcohol", "topic/analogues",
     "topic/assessment", "topic/benzodiazepine", "topic/cardiac", "topic/cognition",
-    "topic/combination", "topic/cyp2d6", "topic/dopamine", "topic/efficacy",
+    "topic/combination", "topic/cyp2c19", "topic/cyp2c9", "topic/cyp2d6",
+    "topic/cyp3a4", "topic/dopamine", "topic/efficacy",
     "topic/electrolytes", "topic/gdnf", "topic/harm-reduction", "topic/history",
     "topic/mechanism", "topic/motor", "topic/multiple-sclerosis", "topic/neuroimaging",
     "topic/neuroplasticity", "topic/noribogaine", "topic/opioid", "topic/parkinsons",
@@ -725,7 +726,7 @@ def check_wikilinks(filepath, body_text, wikilink_index, vault_root):
             continue
 
         for match in WIKILINK_RE.finditer(line):
-            target = match.group(1).strip()
+            target = match.group(1).strip().rstrip('\\')
             if not target:
                 continue
 

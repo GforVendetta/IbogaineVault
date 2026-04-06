@@ -49,8 +49,10 @@ contraindications:
   - "female gender"
   - "hERG channel mutations"
   - "CYP2D6 inhibitors"
+  - "CYP2D6 poor metaboliser genetic status (altered PK; potential weeks-long cardiotoxicity from single dose)"
   - "methadone co-use"
   - "cocaine co-use"
+  - "alcohol co-use"
   - "diazepam co-use"
   - "hepatic impairment (hepatitis, liver cirrhosis)"
   - "concurrent QT-prolonging medications"
@@ -162,7 +164,7 @@ Noteworthy is that ibogaine intake is typically not immediately accompanied by d
 |-------------|-----|----------------|-------------------|-----------|----------------|----------------------|-------------------|----------|--------------------------------------|
 | 24–54 | m+f | 1990–2007 | 1.5–76 h | sudden death | 4.5–29.0 | 0.24–9.3 | na | na | cardiovascular diseases, hepatitis, liver cirrhosis, opioids, cocaine, alcohol, diazepam |
 | 52 | m | 2013 | 12–24 h | sudden death | na | 2 | low K, Mg† | na | alcoholism, arteriosclerosis, liver cirrhosis |
-| 27 | m | 2013 | 12 h | sudden death | 1.5–2.2 | 0.65–1.27 | na | na | multiple substance addiction, no cardiac pathology, no methadone >48 h, buprenorphine |
+| 27 | m | 2013 | 12 h | sudden death | 1.5–2.2 | 0.65–1.27 | na | na | multiple substance addiction, no cardiac pathology, no methadone >48 h, diazepam (Mazoyer2013 confirms methadone + diazepam; no buprenorphine detected) |
 | 25 | m | 2013 | 48 h | sudden death | 6.25* | na | na | na | heroin addiction, supraventricular tachycardia |
 | 31 | f | 2009 | — | long QT, VT | 8.75* | na | low K, Mg | 616 | alcohol addiction, no alcohol, no other drugs |
 | 49 | m | 2012 | — | long QT, VT, TdP | na | na | low K | >700 | heroin addiction, hyperthyroidism, traces of opioids |
@@ -225,7 +227,15 @@ This review established the framework that the field subsequently built upon for
 - Case reports are inherently limited by reporting bias — unreported events cannot be tabulated
 - The fatality analysis relies on published cases, which likely underrepresent true incidence, particularly from unregulated settings
 - Computer modelling of human cardiac effects, while predictive, had not been validated against direct human cardiomyocyte data for ibogaine at time of publication
-- The review draws primarily on the authors' own group's experimental data (Koenig et al. 2012, 2013), which may limit the breadth of electrophysiological perspectives considered
+- Authors declared no conflicts of interest; funded by Austrian Science Fund (FWF, P19352 and P23060 to K.H.); founding sponsors had no role in study design, data collection/analysis, writing, or publication decision. The review draws heavily on the Koenig–Hilber group's own prior publications (Koenig et al. 2012, 2013) and relies on unpublished laboratory data for three key claims: (1) human iPSC-derived cardiomyocyte AP prolongation and flattening with ibogaine, (2) noribogaine hERG block and AP prolongation at low micromolar concentrations, and (3) hypokalemia-enhanced hERG channel inhibition by ibogaine. This represents intellectual allegiance to the hERG-centric cardiotoxicity model and limits independent replication assessment
+
+**Source reporting inconsistencies (unflagged by authors):**
+- Death timing: body text states new fatalities occurred "12–24 h" after intake, but Table 1 shows ref [26] at 48 h — outside the stated range
+- Hypomagnesemia denominator: "50% of the case reports described in Table 1" — the denominator is unstated (all 13 rows? only those with electrolyte data? only QT-prolongation cases?)
+- Age reporting: Table 1 ref [30] lists age as "young" with no numeric value — the only case in the series without a specific age
+- Cmax descriptor: the PK section describes ibogaine Cmax as "free maximum plasma concentration (Cmax) of approximately 1 µg/mL" but subsequent text derives free concentrations as 1–11 µM from 1–10 µg/mL *total* concentrations after applying 65% protein binding — the initial "free" label is inconsistent with the derivation arithmetic
+
+**Body format note:** YAML classifies this entry as `body_format: vault-analytical`, though the body retains substantial verbatim source text (Background through Risk Factors sections). This is intentional: as a foundational RED cardiac review under CC-BY licence, source fidelity serves the vault's clinical reference function. The Clinical Implications and Limitations sections are in vault analytical voice. Not scheduled for reconversion.
 
 ## Acknowledgments
 

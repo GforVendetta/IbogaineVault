@@ -43,12 +43,8 @@ contraindications:
   - "Concurrent opioid agonist use"
   - "Concurrent cocaine or stimulant use"
   - "CYP2D6 poor metaboliser status (higher ibogaine plasma levels, altered toxicokinetics)"
-  - "Obesity"
-  - "Hypertension"
   - "P-glycoprotein substrate medications (ibogaine inhibits P-gp)"
   - "Hypokalemia or hypomagnesemia"
-  - "Epilepsy or seizure history"
-  - "Pregnancy"
 dosing_range: "1–30 mg/kg bw oral (common use); 0.3–55 mg/kg bw (clinical studies); LD₅₀ 263 mg/kg bw mice, 327 mg/kg bw rats; noribogaine LD₅₀ 630 mg/kg bw mice"
 route: oral
 organisation: "National Institute for Public Health and the Environment (RIVM), Netherlands"
@@ -103,8 +99,17 @@ Fifteen case reports documented QTc prolongation following oral ibogaine ingesti
 | 5600 | M | 405 | 714 | 176.3% | Steinberg & Deyell 2018 |
 | 7000 | M | 405 | 600 | 148.1% | Asua 2013 |
 | 7000 | M | 405 | 730 | 182.5% | Hildyard et al. 2016 |
+| NR | M | 405 | 700 | 172.8% | Paling et al. 2012 (Case 1, 49M) |
+| NR | F | 411 | 480 | 116.8% | Paling et al. 2012 (Case 3, 43F)† |
+| 525 | F | 411 | 616 | 149.9% | Paling et al. 2012 (Case 2, 31F)‡ |
+| NR | M | NR | NR | NR | Shawn et al. 2012 |
+
+† Case 3 was on a methadone regime; see Paling2012 vault entry for detail on methadone as co-intoxicant.
+‡ Probable duplicate: Paling Case 2 is the same patient reported in Hoelen et al. (2009) — both entries appear in Chen2024 Table 5 as separate rows. The QTc values (616 ms), sex (F), and dose (525 mg) are identical. Chen2024 does not flag the overlap.
 
 Note: Baseline QTc assumed as 405 ms (males) and 411 ms (females) where not reported (Wedam et al., 2007).
+
+**Source arithmetic inconsistencies:** Two percentage values in the source Table 5 do not match the arithmetic from the reported QTc values. Henstra et al.: 647/411 × 100 = 157.4%, not 130.2% as printed (27 percentage-point discrepancy). Hildyard et al.: 730/405 × 100 = 180.2%, not 182.5% as printed (2.3 percentage-point discrepancy). All other rows verify correctly. The Henstra discrepancy is large enough to suggest a data entry error or different calculation method in the source; the Hildyard discrepancy may reflect rounding from unreported decimal-place QTc values. Values above are reproduced as printed in the source.
 
 ### Cardiotoxicity Mechanisms
 
@@ -113,6 +118,8 @@ No animal studies on cardiac toxicity of ibogaine were identified. Shi et al. (2
 ### Fatality Timing and Noribogaine
 
 Deaths occurred 1.5–76 hours after intake. Given ibogaine's half-life of only 4–7 hours, fatalities occurring 24–76 hours post-ingestion are likely attributable to the long-lived metabolite noribogaine (t½ 28–49 hours). This has critical implications for monitoring duration post-treatment.
+
+**Source inconsistency — ibogaine half-life range:** This section cites ibogaine t½ as 4–7 hours (referencing Table 4, which shows 7.45 ± 0.81 h for extensive metabolisers only), while the Toxicokinetics section of the same report states 2–7 hours (citing Koenig & Hilber 2015, Mash et al. 1998, Mash et al. 2001). The lower bound differs by 2 hours across sections. The broader 2–7 h range likely reflects inter-study and inter-phenotype variability, while the narrower 4–7 h range may derive from the Mash 2001 EM-only data in Table 4 (t½ 7.45 h) combined with other single-study estimates. Both ranges are reproduced as stated in their respective source sections.
 
 
 ## Toxicokinetics
@@ -124,7 +131,7 @@ Deaths occurred 1.5–76 hours after intake. Given ibogaine's half-life of only 
 - **t½:** 2–7 hours
 - **Metabolism:** Primarily to noribogaine via CYP2D6 (major), CYP2C9 and CYP3A4 (minor)
 - **Protein binding:** 65% (Koenig et al., 2013) or 96% (Shi et al., 2021) — discrepancy likely due to α1-acid glycoprotein population differences
-- **Distribution:** Highly lipophilic; accumulates in brain, liver, spleen, lung, fat tissue
+- **Distribution:** Highly lipophilic; accumulates in brain, liver, spleen, lung, fat tissue. Post-mortem tissue/subclavian blood concentration ratios (Kontrimavičiūtė et al., 2006) averaged 1.78 (spleen), 3.75 (liver), 1.16 (brain), and 4.64 (lung) for ibogaine; 0.83, 2.43, 0.90, and 2.69 respectively for noribogaine — demonstrating that ibogaine accumulates preferentially in lung and liver while noribogaine distributes more evenly across tissues
 
 ### Noribogaine
 - **T_max:** 2–3 hours (after direct oral administration)
@@ -168,9 +175,10 @@ Source: Kubiliene et al., 2008 (oral data); IP data as cited by Kubiliene et al.
 
 ### Ibogaine (6 studies)
 - **0.3 mg/kg bw** (20 mg, healthy volunteers): Nausea, GI symptoms, dizziness — more frequent with CYP2D6 inhibitor paroxetine co-treatment
+- **3 mg/kg bw** (ibogaine HCl, 94% purity; 30 opioid-dependent subjects, 25M/5F, mean age 29.0 ± 9.0; multiple doses over 2 days): No clinically significant cardiovascular or other medical events (Brown & Alper, 2018). Of note, five subjects received crude extract of *T. iboga* root bark (total alkaloid 15–25%, of which 25–50% ibogaine) rather than ibogaine HCl — a fundamentally different preparation with variable and uncertain ibogaine content, directly relevant to the report's thesis on product standardisation and dose uncertainty
 - **8–12 mg/kg bw** (opioid/cocaine-dependent): Nausea, vomiting, ataxia of gait, sensory and perceptual changes; no serious AEs in Mash et al. (2018) but bradycardia and orthostatic hypotension in cocaine-dependent subjects
-- **10 mg/kg bw** (opioid-dependent): Clinically relevant QTc prolongation even in patients without pre-existing cardiac abnormalities; 50% of subjects reached QTc >500 ms; prolongation lasted >24 hours in 6/14 subjects (Knuijver et al., 2021)
-- **25–55 mg/kg bw**: One participant death, very likely related to ibogaine ingestion and most probably to cardiac arrhythmia (Noller et al., 2018)
+- **10 mg/kg bw** (opioid-dependent, pre-treated with 20 mg metoclopramide): Clinically relevant QTc prolongation even in patients without pre-existing cardiac abnormalities; 50% of subjects reached QTc >500 ms; prolongation lasted >24 hours in 6/14 subjects (Knuijver et al., 2021). Note: metoclopramide is a dopamine D2 antagonist with documented (rare) QTc-prolonging potential; its co-administration is a pharmacologically relevant confounder in a study where 50% reached QTc >500 ms
+- **25–55 mg/kg bw** (n=15 opioid users, 50% male, aged 28–47): One participant death (1/15, 6.7%), very likely related to ibogaine ingestion and most probably to cardiac arrhythmia (Noller et al., 2018)
 
 ### Noribogaine (2 studies)
 - **3–60 mg** (healthy volunteers): No statistically significant adverse effects including QTc prolongation (Glue et al., 2015a)
@@ -222,7 +230,7 @@ This RIVM report represents the first government-level toxicological risk assess
 5. **QTc prolongation is not dose-dependent across individuals** — inter-individual variation means QTc risk cannot be predicted from dose alone; continuous cardiac monitoring is the only mitigation
 6. **Electrolyte status matters** — hypokalemia and hypomagnesemia were contributory factors in some fatalities; magnesium co-administration and electrolyte screening are supported by this evidence
 
-The report's conclusion that *T. iboga* is "not safe" for consumer use does not preclude medically supervised use with appropriate screening, monitoring, and intervention protocols — a distinction critical for settings in clinical settings Biomedics.
+The report's conclusion that *T. iboga* is "not safe" for consumer use does not preclude medically supervised use with appropriate screening, monitoring, and intervention protocols — a distinction critical for medically supervised treatment settings.
 
 ## Limitations
 

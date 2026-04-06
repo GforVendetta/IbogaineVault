@@ -1,12 +1,12 @@
 # Tag Taxonomy
 
-**62 canonical tags** organised by namespace. Use these when filtering in Bases or understanding paper classifications.
+**65 canonical tags** organised by namespace. Use these when filtering in Bases or understanding paper classifications.
 
-> Canonical source: `_meta/schema_registry.yml` | Verified: 2026-02-23
+> Canonical source: `_meta/schema_registry.yml` | Verified: 2026-04-03
 
 ---
 
-## Topic Tags (39)
+## Topic Tags (42)
 
 | Tag | Meaning |
 |-----|---------|
@@ -19,7 +19,10 @@
 | `topic/cardiac` | Heart-related effects, cardiovascular |
 | `topic/cognition` | Cognitive effects, memory, attention |
 | `topic/combination` | Multi-substance protocols, drug combinations |
+| `topic/cyp2c19` | CYP2C19 metabolism (18-MC primary pathway via 18-HC formation) |
+| `topic/cyp2c9` | CYP2C9 metabolism, minor ibogaine metabolic pathway, warfarin interaction relevance |
 | `topic/cyp2d6` | CYP2D6 metabolism, pharmacogenomics |
+| `topic/cyp3a4` | CYP3A4 metabolism, minor ibogaine metabolic pathway, grapefruit/bergamottin interaction relevance |
 | `topic/dopamine` | Dopamine system, reward pathways |
 | `topic/efficacy` | Treatment effectiveness, success rates |
 | `topic/electrolytes` | Magnesium, potassium, electrolyte management |

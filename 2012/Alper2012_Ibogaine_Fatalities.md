@@ -69,7 +69,7 @@ This is the seminal ibogaine fatality series — the foundational dataset upon w
 
 **Ibogaine forms:** HCl (14 cases), alkaloid extract (2), dried root bark (2), brown powder probably extract or bark (1). Only 2 of 14 cases with adequate postmortem data lacked identified co-intoxicants or comorbidities — both involved crude ethnopharmacological preparations (alkaloid extract and root bark).
 
-**No neurotoxicity syndrome:** No clinical or postmortem evidence of the Purkinje cell degeneration observed at high doses in rat models. The one seizure (case #10) was attributable to alcohol/benzodiazepine withdrawal, not ibogaine-specific neurotoxicity.
+**No neurotoxicity syndrome:** No clinical or postmortem evidence of the Purkinje cell degeneration observed at high doses in rat models. The one seizure (case #10) was attributable to alcohol/benzodiazepine withdrawal, not ibogaine-specific neurotoxicity. Characteristic features of serotonin syndrome (hyperthermia, rigidity) were not present, and a clinical picture suggestive of serotonin syndrome was not evident in this series.
 
 **Pulmonary thromboembolism (PE):** Reported cause in 3 Mexican deaths, but all 3 autopsy reports were inadequate for proximate cause determination. Risk factors include immobility during treatment, IV drug use history, and travel.
 
@@ -102,21 +102,21 @@ Systematic review of all available autopsy, toxicological, and investigative rep
 | 2 | 24F | Netherlands (1993) | Opioid detox | HCl, 29 mg/kg | 0.74 | 19 h | Morphine (trace) | Combined ibogaine + morphine intoxication |
 | 3 | 36M | USA (1999) | Opioid detox | HCl, ~16–20 mg/kg | 9.3 | 8–9 h | Cocaine, opiates | Combined opiates + cocaine + ibogaine |
 | 4 | 40M | UK (2000) | Opioid detox | Extract, 6 g/6 h | 0.36 | 40 h | None | Acute ibogaine intoxication |
-| 5 | 35F | Germany (2002) | Spiritual | HCl, ~8 mg/kg | Unknown | 1.5 h | Unknown | Acute ibogaine; contributing: atherosclerotic CVD |
+| 5 | 35F | Germany (2002) | Spiritual | HCl, ~8 mg/kg | Unknown | 1.5 h | Unknown | Acute ibogaine intoxication (unknown if other drugs involved); contributing: atherosclerotic CVD |
 | 6 | 32M | USA (2003) | Opioid detox | Brown powder | 0.95 (cardiac) | Unknown | Cocaine, methadone, benzodiazepine | Acute ibogaine; contributing: atherosclerotic CVD, cocaine |
 | 7 | 54M | Mexico (2003) | Opioid/alcohol detox | HCl, 13 mg/kg | Unknown | 60 h | Unknown | Insufficient information |
 | 8 | 45M | Mexico (2004) | Opioid/alcohol detox | HCl, 15 mg/kg | Unknown | 20 h | Unknown | Acute haemorrhagic pancreatitis complicating chronic alcoholism |
 | 9 | 48F | Mexico (2005) | Opioid detox | HCl, 14 mg/kg | 0.82 | 2 days | Diazepam, oxazepam | Acute MI due to coronary atherosclerosis during ibogaine therapy |
-| 10 | 43M | USA (2005) | Opioid/alcohol detox | HCl, dose unknown | 2.8 | 27 h | Diazepam, cocaine metabolite | Acute ibogaine; contributing: dilated cardiomyopathy |
+| 10 | 43M | USA (2005) | Opioid/alcohol detox | HCl, dose unknown | 2.8 | 27 h | Diazepam, cocaine metabolite | Acute ibogaine intoxication; contributing: mitral insufficiency with dilated cardiomyopathy |
 | 11 | 51M | Mexico (2005) | Opioid/meth/alcohol | HCl, 12 mg/kg | Unknown | 24 h | Unknown | Insufficient information |
 | 12 | 38M | Mexico (2006) | Opioid detox | HCl, 13 mg/kg | Unknown | 12 h | Cocaine + morphine metabolites | Insufficient information |
-| 13 | 48M | France (2006) | Unknown | Root bark, ~18 spoonfuls/10 h | 6.6 (vena cava) | 53 h | Noribogaine: 15.5 | Acute ibogaine intoxication |
+| 13 | 48M | France (2006) | Unknown | Root bark, ~18 spoonfuls/10 h | 6.6 (vena cava); noribogaine 15.5 | 53 h | None (other toxicology negative) | Acute ibogaine intoxication (unknown if other drugs involved) |
 | 14 | 28M | Netherlands (2006) | Opioid detox | Extract, 7.5 g/18 h | "Low" | 76 h | Cannabinoids (low) | Haemorrhagic complications of duodenal ulcer |
 | 15 | 30M | South Africa (2006) | Opioid detox | HCl, 17 mg/kg | Not tested | 8 h | Not tested | Insufficient information |
 | 16 | 27M | France (2006) | Unknown | Root bark (7.2% ibogaine) | 0.65 | ≤20 h | Methadone, diazepam | Combined ibogaine + methadone + diazepam |
 | 17 | 45M | USA (2006) | Opioid detox | HCl, 22 mg/kg | 1.4 | 8–12 h | Fentanyl, diazepam, oxycodone | Combined ibogaine + fentanyl + diazepam |
 | 18 | 33M | Mexico (2007) | Opioid/cocaine detox | HCl, 11 mg/kg | Not tested | 6.5 h | Not tested | Insufficient information |
-| 19 | 41M | Mexico (2007) | Opioid/cocaine detox | HCl, 13 mg/kg | Not tested | 6 h | Not tested | Acute ibogaine; contributing: cardiac hypertrophy |
+| 19 | 41M | Mexico (2007) | Opioid/cocaine detox | HCl, 13 mg/kg | Not tested | 6 h | Not tested | Acute ibogaine intoxication (unknown if other drugs involved); contributing: cardiac hypertrophy |
 
 ### Breakdown by Indication
 

@@ -9,7 +9,7 @@
 # If a downstream doc disagrees with this file, this file wins.
 #
 # Created: 2026-02-23
-# Last verified: 2026-02-26
+# Last verified: 2026-04-03
 # Verified by: Philip Kagalovsky
 
 # ──────────────────────────────────────────
@@ -148,6 +148,7 @@ enums:
     - intramuscular
     - intraperitoneal
     - topical
+    - rectal
     - not-specified
     - not-applicable
     # NOTE: NLQ tooling must map abbreviations (iv, im, etc.) to these canonical values.
@@ -234,7 +235,10 @@ enums:
       - topic/cardiac
       - topic/cognition
       - topic/combination
+      - topic/cyp2c19
+      - topic/cyp2c9
       - topic/cyp2d6
+      - topic/cyp3a4
       - topic/dopamine
       - topic/efficacy
       - topic/electrolytes
@@ -290,7 +294,7 @@ enums:
     meta:
       - meta/hub
       - meta/moc
-    # Total: 62 (39 topic + 10 mechanism + 11 method + 2 meta)
+    # Total: 65 (42 topic + 10 mechanism + 11 method + 2 meta)
 
   tags_meta:
     # Meta documents only use meta/ namespace tags
