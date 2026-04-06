@@ -6,7 +6,7 @@
 
 Over 300 documents · 1957–2026 · 6 categories · 3,400+ cross-references · Structured YAML metadata
 
-![Version](https://img.shields.io/badge/version-1.0.2-blue)
+![Version](https://img.shields.io/badge/version-1.0.3-blue)
 ![Status](https://img.shields.io/badge/status-active_development-green)
 ![Papers](https://img.shields.io/badge/papers-304-brightgreen)
 ![License](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-lightgrey)
@@ -172,7 +172,7 @@ See [CHANGELOG.md](CHANGELOG.md) for the complete version history and roadmap.
 
 If you use the IbogaineVault in your research, please cite:
 
-> Kagalovsky, P. (2026). *IbogaineVault: A Structured Evidence Map for Ibogaine Science* (v1.0.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19159665
+> Kagalovsky, P. (2026). *IbogaineVault: A Structured Evidence Map for Ibogaine Science* (v1.0.3) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19159665
 
 See [CITATION.cff](CITATION.cff) for machine-readable citation metadata.
 
