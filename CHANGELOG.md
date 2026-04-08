@@ -1,5 +1,16 @@
 # Changelog
 
+## v1.0.4 — 2026-04-08
+
+Cross-model verification Wave 2 corrections — completes the full verification programme.
+
+### Cross-model verification Wave 2 corrections (130 items)
+
+- **17 papers** independently extracted and compared against vault entries, all corrections PDF-verified
+- Removed erroneous mortality fields from 4 survivor case reports (Vlaanderen2014, Edwards2025, Pleskovic2012, OConnell2015)
+- Corrected YAML metadata and body text across RED cardiac safety papers
+- **Validation:** 304 papers, 0 errors, 100% compliance
+
 ## v1.0.3 — 2026-04-06
 
 Cross-model verified corrections across 15 clinically critical papers.
