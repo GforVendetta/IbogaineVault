@@ -11,7 +11,7 @@ tags:
   - topic/adverse-event
   - topic/electrolytes
   - method/case-report
-key_findings: "First published case of ibogaine-induced Long-QT syndrome (QTc 616 ms) with ventricular tachyarrhythmias in a 31-year-old woman; QT normalised at 42 hours; concurrent hypomagnesaemia and hypokalaemia identified."
+key_findings: "Ibogaine-induced Long-QT syndrome (QTc 616 ms) with ventricular tachyarrhythmias in a 31-year-old woman; QT normalised at 42 hours; concurrent hypomagnesaemia and hypokalaemia identified."
 source_pdf: "2009/Hoelen2009_Long_QT_Ibogaine.pdf"
 doi: "10.1056/NEJMc0804248"
 pmid: "19144953"
@@ -32,7 +32,7 @@ contraindications:
   - "Pre-existing QT prolongation"
   - "Electrolyte imbalance (hypomagnesaemia, hypokalaemia)"
 dosing_range: "3.5 g ibogaine 15% preparation (single dose)"
-route: oral
+route: not-specified
 open_access: false
 publisher: "NEJM Group"
 body_format: vault-analytical
@@ -46,7 +46,7 @@ licence_verified: true
 
 ## Abstract
 
-This correspondence reports the first documented case of ibogaine-induced Long-QT syndrome published in a major medical journal. A 31-year-old American woman presented to the emergency department at University Medical Center Utrecht after a seizure-like attack following a single dose of 3.5 g ibogaine 15% for treatment-resistant alcohol addiction. Electrocardiography revealed severe QT prolongation (QTc 616 ms) with ventricular tachyarrhythmias. Concurrent electrolyte disturbances included hypomagnesaemia (0.49 mmol/L; reference 0.70–1.00) and hypokalaemia (3.2 mmol/L; reference 3.8–5.0). Despite rapid electrolyte correction, the QT interval remained prolonged, normalising only at 42 hours post-presentation. The authors conclude that ibogaine can cause serious cardiac rhythm abnormalities at therapeutic doses and recommend strict medical observation with continuous ECG monitoring.
+This correspondence reports a case of ibogaine-induced Long-QT syndrome published in the *New England Journal of Medicine*. A 31-year-old American woman presented to the emergency department at University Medical Center Utrecht after a seizure-like attack following a single dose of 3.5 g ibogaine 15% for treatment-resistant alcohol addiction. Electrocardiography revealed severe QT prolongation (QTc 616 ms) with ventricular tachyarrhythmias. Concurrent electrolyte disturbances included hypomagnesaemia (0.49 mmol/L; reference 0.70–1.00) and hypokalaemia (3.2 mmol/L; reference 3.8–5.0). Despite rapid electrolyte correction, the QT interval remained prolonged, normalising only at 42 hours post-presentation. The authors conclude that ibogaine can cause serious cardiac rhythm abnormalities at therapeutic doses and recommend strict medical observation with continuous ECG monitoring.
 
 ## Key Findings
 
@@ -55,11 +55,11 @@ This correspondence reports the first documented case of ibogaine-induced Long-Q
 - **Electrolyte co-factors:** Hypomagnesaemia (Mg²⁺ 0.49 mmol/L) and hypokalaemia (K⁺ 3.2 mmol/L) — both independent QT-prolonging risk factors
 - **Time course:** QT normalisation at 42 hours despite rapid electrolyte correction, suggesting ibogaine itself (or its metabolite noribogaine) as the primary QT-prolonging agent
 - **No concurrent drug use:** Patient denied other substances; serum osmolal gap normal
-- **Historical context:** Authors reference ≥11 prior sudden deaths after ibogaine use with unclear aetiology, proposing QT prolongation and ventricular tachyarrhythmias as a plausible mechanism
+- **Historical context:** Authors reference ≥11 prior sudden deaths after ibogaine use with unclear aetiology, proposing QT prolongation and ventricular tachyarrhythmias as a plausible mechanism. The paper also notes that the FDA approved a clinical trial in 1993, but NIDA declined to fund it due to safety concerns.
 
 ## Methodology
 
-Single case report published as correspondence (letter to the editor) in NEJM. A 31-year-old American woman with treatment-resistant alcohol addiction and an otherwise unremarkable medical history (no family history of cardiac-rhythm abnormalities) presented to the emergency department at University Medical Center Utrecht following ibogaine ingestion. Besides nausea, she had no specific symptoms to report. She denied concurrent use of other drugs or alcohol; serum osmolal gap was normal. Standard 12-lead ECG, continuous cardiac monitoring, and laboratory investigations were performed. She was admitted to the intensive care unit and subsequently discharged in good condition after QT normalisation.
+Single case report published as correspondence (letter to the editor) in NEJM. A 31-year-old American woman with treatment-resistant alcohol addiction and an otherwise unremarkable medical history (no family history of cardiac-rhythm abnormalities) presented to the emergency department at University Medical Center Utrecht following ibogaine ingestion. The paper states the patient "had taken a single dose of 3.5 g of ibogaine 15%" without specifying oral administration (oral route is overwhelmingly likely but not explicitly stated). Besides nausea, she had no specific symptoms to report. She denied concurrent use of other drugs or alcohol; serum osmolal gap was normal. Standard 12-lead ECG, continuous cardiac monitoring, and laboratory investigations were performed. She was admitted to the intensive care unit and subsequently discharged in good condition after QT normalisation.
 
 ## Cardiac Safety Data
 
@@ -74,7 +74,7 @@ Single case report published as correspondence (letter to the editor) in NEJM. A
 - Potassium: 3.2 mmol/L (12.5 mg/dL) — low (reference 3.8–5.0 mmol/L)
 - Serum osmolal gap: 3.1 mOsm/kg — normal (<10)
 
-**Ibogaine dose:** 3.5 g of 15% ibogaine preparation (within standard dosing range of 2–6 g)
+**Ibogaine dose:** 3.5 g of 15% ibogaine preparation (within standard dosing range of 2–6 g). Note: "15%" is ambiguous — if indicating alkaloid content of the preparation, the active ibogaine dose would be approximately 525 mg, fundamentally different from 3.5 g pure ibogaine.
 
 **Temporal relationship:** QT remained prolonged despite rapid electrolyte correction → suggests ibogaine/noribogaine as direct cause, with electrolytes as aggravating co-factors
 
@@ -84,9 +84,9 @@ This case is a cornerstone reference for ibogaine cardiac safety protocols. Key 
 
 1. **Pre-treatment electrolyte screening is essential** — hypomagnesaemia and hypokalaemia must be corrected *before* ibogaine administration, as they synergistically worsen QT prolongation
 2. **Continuous ECG monitoring is mandatory** — ventricular tachyarrhythmias were detected only on prolonged monitoring
-3. **42-hour monitoring window** — QT normalisation took 42 hours, consistent with the long half-life of noribogaine (~28–49 hours), supporting extended post-dose monitoring protocols
+3. **42-hour monitoring window** — QT normalisation took 42 hours. *[Vault context: this duration is consistent with the long half-life of noribogaine (~28–49 hours) established in later pharmacokinetic studies — the source paper does not mention noribogaine.]*
 4. **QT prolongation is dose-independent at therapeutic range** — the dose given was within the standard range, suggesting that even "normal" doses carry cardiac risk
-5. **Mechanism hypothesis:** The dissociation between electrolyte correction and QT normalisation supports a direct ion channel effect (later confirmed by Thurner et al. 2014 as hERG channel blockade)
+5. **Mechanism hypothesis:** The dissociation between electrolyte correction and QT normalisation supports a direct ion channel effect. *[Vault context: this mechanism was later confirmed as hERG channel blockade (Thurner et al. 2014) — the source paper does not discuss specific ion channel targets.]*
 
 ## Limitations
 
@@ -95,6 +95,9 @@ This case is a cornerstone reference for ibogaine cardiac safety protocols. Key 
 - No baseline ECG prior to ibogaine ingestion
 - Electrolyte imbalance confounds attribution — though the persistence of QT prolongation after correction supports ibogaine as the primary cause
 - Short correspondence format limits methodological detail
+- Heart rate and QTc correction formula not reported — QTc 616 ms cannot be independently reproduced from the stated QT 548 ms
+- Treatment-resistant alcohol addiction raises an unacknowledged confounder — alcohol withdrawal can independently cause seizures, hypomagnesaemia, and hypokalaemia; neither recent alcohol intake nor cessation timing is reported
+- No genetic evaluation for congenital long-QT susceptibility was performed (prevalence ~1 in 2,500); family history negative but does not exclude de novo or incompletely penetrant variants
 
 ## Figures
 

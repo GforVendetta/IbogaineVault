@@ -76,9 +76,9 @@ The authors calculated that an ibogaine dose of approximately 286 mg would produ
 
 ## Methodology
 
-Randomised, double-blind, placebo-controlled, single ascending-dose, parallel-group study conducted at Zenith Clinical Trials Unit in Dunedin, New Zealand. Approved by the Southern Health and Disabilities Ethics Committee (13/STH/100); registered ACTRN12613001064796.
+Randomised, double-blind, placebo-controlled, single ascending-dose, parallel-group study conducted at Zentech Clinical Trials Unit (operated by Zenith Technology Ltd) in Dunedin, New Zealand. Approved by the Southern Health and Disabilities Ethics Committee (13/STH/100); registered ACTRN12613001064796.
 
-**Participants:** 27 patients (21 male, 6 female) established on methadone OST (25–80 mg/day for ≥30 days). Mean age 41.2 years; mean BMI 27.0 kg/m². Ethnicity: 20 white, 5 Māori, 2 other. In the week before dosing, methadone was replaced by oral controlled-release morphine for 6 days, then 1 day immediate-release morphine.
+**Participants:** 34 screened, 27 enrolled (21 male, 6 female; 7 excluded, reasons not reported). All established on methadone OST (25–80 mg/day for ≥30 days). Mean age 41.2 years; mean BMI 27.0 kg/m². Ethnicity: 20 white, 5 Māori, 2 other. In the week before dosing, methadone was replaced by oral controlled-release morphine for 6 days, then 1 day immediate-release morphine.
 
 **Design:** Three ascending-dose cohorts — 60 mg (n = 6 active, n = 3 placebo), 120 mg (n = 6 active, n = 3 placebo), 180 mg (n = 6 active, n = 3 placebo). Originally planned top dose was 240 mg, reduced to 180 mg after DSMB review. Participants fasted ≥10 hours; last morphine dose given 2 hours before study drug.
 
@@ -110,6 +110,8 @@ Randomised, double-blind, placebo-controlled, single ascending-dose, parallel-gr
 
 **Heart rate:** Reduction in highest-dose group reaching -11 bpm (placebo-corrected) at 6 hours postdose.
 
+**PR interval:** Small observed effects across dosing groups with no clear dose-related trends.
+
 ### hERG and Ion Channel Context
 
 Noribogaine hERG IC₅₀ reported as 5 μM (1500 ng/mL; DemeRx data on file). Safety margin between hERG IC₅₀ and mean C_max at 180 mg = 5.6-fold. The finding of QTc prolongation at concentrations far below the hERG IC₅₀ suggests involvement of cardiac ion channels beyond iKr, analogous to ibogaine's multi-channel profile reported by Koenig et al. (2013).
@@ -129,11 +131,11 @@ Values are mean (SD). AUC and C_max increased linearly with dose. T_max was dela
 
 ## Withdrawal and Efficacy Data
 
-**Time to OST resumption:** By treatment arm: placebo 13.9 h (7.4), 60 mg 8.6 h (3.7), 120 mg 22.5 h (10.3), 180 mg 11.4 h (5.0). However, within-cohort analysis revealed nearly identical active vs placebo times (Pearson's r = 0.993), suggesting that awareness of other participants' OST resumption influenced individual decisions (subjects housed in a single ward).
+**Time to OST resumption:** By treatment arm: placebo 13.9 h (7.4), 60 mg 8.6 h (3.7), 120 mg 22.5 h (10.3), 180 mg 11.4 h (5.0). However, within-cohort analysis revealed nearly identical active vs placebo times (Pearson's r = 0.993), suggesting that awareness of other participants' OST resumption influenced individual decisions (subjects housed in a single ward). Per-cohort placebo means ranged from 9.0 h (Cohort 1) to 20.5 h (Cohort 2) to 12.1 h (Cohort 3) — a 2.3-fold range masked by the pooled placebo mean of 13.9 h.
 
 **Withdrawal scales:** Increases in COWS, OOWS, and SOWS observed 1–2 hours prior to OST resumption, followed by rapid decrease within 1–3 hours after restarting. No statistically significant dose-related differences between groups.
 
-**Pupillometry:** Mean pupil diameter increased by 0.47 mm in the 2 hours before OST resumption (range 0.3–0.64 mm across groups). No between-group differences.
+**Pupillometry:** Mean pupil diameter increased by 0.47 mm in the 2 hours before OST resumption (range 0.3–0.64 mm across groups). No between-group differences. *[Note: the Discussion rounds this to 0.5 mm and adds "pupil diameter increased by 1 mm overall" — the "1 mm overall" figure does not appear in Results, and its timeframe is unspecified.]*
 
 ## Adverse Events
 
@@ -143,7 +145,7 @@ Values are mean (SD). AUC and C_max increased linearly with dose. T_max was dela
 | Visual impairment | 2 | 2 | 5 | 4 |
 | Nausea | 1 | 0 | 2 | 2 |
 
-Total of 78 AEs reported by 22 participants. Visual impairment described as non-euphoric changes in light perception ("the light seems different — brighter," "colours seem brighter"), onset within 1 hour, resolved by 2.5–3 hours. No hallucinations reported. Three AEs rated severe (nausea, vomiting, headache); all others mild-moderate. No deaths or serious AEs. No changes in oximetry, capnography, respiratory rate, or safety laboratory tests.
+Total of 78 AEs reported by 22 participants. *[Note: the paper's Safety section text references "Table 2" for AE data, but counts appear in Table 3 — a manuscript labelling error.]* Visual impairment described as non-euphoric changes in light perception ("the light seems different — brighter," "colours seem brighter"), onset within 1 hour, resolved by 2.5–3 hours. No hallucinations reported. Three AEs rated severe (nausea, vomiting, headache); all others mild-moderate. No deaths or serious AEs. No changes in oximetry, capnography, respiratory rate, or safety laboratory tests.
 
 ## Ibogaine Dose Equivalence
 
@@ -167,7 +169,9 @@ This study provides the first controlled, quantitative data on noribogaine's car
 - Single-dose design — multiple doses may be required for prolonged withdrawal symptom reduction
 - Confinement of active and placebo patients in the same ward likely confounded time-to-OST-resumption as an efficacy endpoint
 - Originally planned 240-mg top dose was not tested due to QTc safety signal
-- DemeRx-funded; several authors were paid consultants or employees
+- DemeRx-funded; declared COIs: six authors (L.F., J.D., B.D., M.Z., R.C.S., J.H.) were paid DemeRx consultants, one (H.W.) a DemeRx employee, and three (F.L., N.H., C.T.H.) employees of Zenith Technology Ltd. Author Lawrence Friedhoff additionally holds US patent 9744174B2 on noribogaine treatment (DemeRx as assignee) — a patent inventor stake not disclosed in the paper
+- The hERG IC₅₀ of 5 μM underpinning the 5.6-fold safety margin derives from unpublished DemeRx "data on file," not a peer-reviewed source; the safety margin's evidentiary basis is therefore not independently verifiable
+- Noribogaine formulation details (salt form, excipients, purity) are not reported
 
 ---
 

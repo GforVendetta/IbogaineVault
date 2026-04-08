@@ -32,7 +32,6 @@ herg_data: false
 contraindications:
   - "Pre-existing cardiac dysrhythmias with AICD placement"
   - "Unsupervised self-treatment without medical monitoring"
-  - "History of heroin abuse (substance use history)"
   - "No pretreatment cardiac screening performed"
   - "Internet-sourced ibogaine of unverified composition"
 dosing_range: "2 grams ibogaine (self-administered, unmonitored, capsule form)"
@@ -61,7 +60,7 @@ In the face of dwindling resources for opioid addiction treatment, more patients
 - AICD interrogation confirmed cardiac arrest mechanism was **Vtach/Vfib**
 - Severe cardiac dysfunction: **ejection fraction 10%** on echocardiography
 - **Postmortem ibogaine tissue concentrations** provide valuable forensic pharmacokinetic data
-- GC/MS of capsule identified **ibogaine and ibogoa** (suggesting *T. iboga* plant-derived material)
+- GC/MS of capsule identified **ibogaine and "ibogoa"** ("ibogoa" is a typographic error in the source abstract — no known alkaloid matches this term)
 - Progressive multi-organ deterioration despite aggressive resuscitation
 ## Cardiac Safety Data
 
@@ -104,11 +103,12 @@ In the face of dwindling resources for opioid addiction treatment, more patients
 | Liver | 4.2 mcg/g |
 
 ### Capsule Analysis (GC/MS)
-Capsule from the same shipment (provided by family) contained **ibogaine and ibogoa**.
+Capsule from the same shipment (provided by family) contained **ibogaine and "ibogoa"** ("ibogoa" is a typographic error in the source abstract — no known alkaloid matches this term).
 
 ## Treatment Course
 
 1. **Presentation:** Found in PEA arrest; resuscitated
+   - *Rhythm reconciliation:* Patient found in PEA (presenting rhythm); AICD interrogation subsequently revealed Vtach/Vfib as the initiating arrest mechanism — consistent with Vtach/Vfib degenerating to PEA prior to EMS arrival
 2. **Post-resuscitation:** Unresponsive, intubated; sinus tachycardia with wide QRS (208 ms) and prolonged QTc (521 ms)
 3. **ICU complications:** Seizures, hypotension, hyperthermia
 4. **Interventions:** Norepinephrine, sodium bicarbonate, phenylephrine

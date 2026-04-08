@@ -15,7 +15,7 @@ tags:
   - topic/noribogaine
   - topic/adverse-event
   - method/case-report
-key_findings: "Noribogaine, not ibogaine, drives prolonged cardiac toxicity. QTc 647 ms with TdP. Noribogaine t½ elimination 2540 h vs ibogaine 228 h. k₁₂/k₂₁ ratio 21.5 for noribogaine implies deep tissue sequestration."
+key_findings: "Ibogaine causes acute cardiac toxicity (QTc 647ms, TdP at peak); noribogaine sustains it — QTc >450ms at days 5+11 after ibogaine clearance. t½ 2285h (ibogaine), 2540h (noribogaine). k₁₂/k₂₁ ratio 21.5 implies deep tissue sequestration."
 source_pdf: "2017/Henstra2017_Ibogaine_Noribogaine_Toxicokinetics_Cardiac.pdf"
 doi: "10.1080/15563650.2017.1287372"
 pmid: "28489458"
@@ -56,14 +56,15 @@ Ibogaine is an agent evaluated as an unapproved anti-addictive agent for the man
 
 The maximum concentration of ibogaine was 1.45 mg/L. The patient developed a markedly prolonged QTc interval of 647 ms maximum, with several cardiac arrhythmias including atrial tachycardia, ventricular tachycardia, and Torsades de Pointes (TdP). QTc prolongation remained present until 12 days after ingestion, several days after ibogaine plasma levels were low, implicating clinically relevant noribogaine concentrations long after ibogaine clearance. The ratio k₁₂/k₂₁ for noribogaine was 21.5 and 4.28 for ibogaine, implicating lower distribution of noribogaine from the peripheral compartment into the central compartment compared to ibogaine.
 
-A direct relationship between noribogaine concentration and long duration of cardiac action was demonstrated, rather than with parent ibogaine.
+A direct relationship between noribogaine concentration and long duration of cardiac action was demonstrated, rather than with parent ibogaine. *Note: this claim rests on temporal association in a single patient; no formal dose-response or exposure-response analysis was performed.*
 
 ## Key Findings
 
 - **QTc prolongation of 647 ms** — markedly prolonged, with multiple arrhythmias including atrial tachycardia, ventricular tachycardia, and TdP
-- **Noribogaine drives prolonged cardiac toxicity** — QTc prolongation persisted until 12 days post-ingestion, well after ibogaine plasma levels had fallen to negligible levels
-- **Extreme noribogaine elimination half-life:** t½,₂ = 2,540 h (vs 228 h for ibogaine); far exceeding the 28–49 h reported by Glue et al. (2015) in healthy volunteers, likely due to higher Cmax in this poisoning case
-- **Deep tissue sequestration of noribogaine:** k₁₂/k₂₁ ratio of 21.5 (vs 4.28 for ibogaine) indicates substantially greater net transfer into peripheral compartments
+- **Noribogaine sustains prolonged cardiac toxicity** — QTc prolongation persisted until 12 days post-ingestion, well after ibogaine plasma levels had fallen to negligible levels, while ibogaine drove the acute presentation (peak QTc 647 ms coincides with peak ibogaine plasma)
+- **QTc recovery trajectory:** QTc 647 ms at admission → 492 ms at day 5 (pacemaker lead removal) → 470 ms near end of follow-up (~day 11). Both intermediate values remain above the 450 ms clinical threshold, demonstrating that cardiac risk persists well beyond initial stabilisation
+- **Extreme terminal half-lives in this poisoning case:** t½,₂ = 2,285 h for ibogaine and 2,540 h for noribogaine — near-parity, and both far exceeding the 28–49 h noribogaine t½ reported by Glue et al. (2015) in healthy volunteers, likely due to higher Cmax. Despite similar terminal half-lives, noribogaine maintains clinically relevant *plasma* concentrations for much longer (see Figure 1), because the terminal phase reflects slow leaching from deep tissue stores rather than the pharmacologically active plasma pool
+- **Deep tissue sequestration of noribogaine:** k₁₂/k₂₁ ratio of 21.5 (vs 4.28 for ibogaine) indicates substantially greater net transfer into peripheral compartments. *Note: these ratios are reported directly in Table 1 but cannot be reproduced from the rounded rate constants (0.0014/0.0003 = 4.67, not 4.28; 0.0067/0.0003 = 22.3, not 21.5), suggesting the authors used unrounded values.*
 - **Electrolyte disturbances:** Hypokalaemia (3.4 mmol/L) and hypomagnesaemia (0.68 mmol/L) developed, both of which increase TdP risk
 - **Enterohepatic recirculation** suggested by fluctuating noribogaine plasma concentrations, potentially contributing to prolonged elimination
 
@@ -96,20 +97,22 @@ A 46-year-old woman presented to the emergency department after being found unco
 | V₁ (central compartment) | 185 L | 47.5 L |
 | V₂ (peripheral compartment) | 789 L | 1,022 L |
 | t½,₁ (distribution) | 26.06 h | 12.59 h |
-| t½,₂ (elimination) | 228 h | 2,540 h |
+| t½,₂ (elimination) | 2,285 h | 2,540 h |
 | k₁₀ (elimination rate) | 0.0079 /h | — |
 | k₁₂ | 0.0014 /h | 0.0067 /h |
 | k₂₁ | 0.0003 /h | 0.0003 /h |
 | k₁₂/k₂₁ ratio | 4.28 | 21.5 |
 | Calculated logP (pH 7.4) | 2.19 | 2.03 |
 
+*Table notes:* Noribogaine V₂ appears as "1.022" in the source table — European notation for 1,022 L (decimal 1.022 L would be pharmacologically implausible given V₁ = 47.5 L). Noribogaine k₁₀ is not reported; likely modelled as a metabolite with formation from ibogaine rather than independent elimination.
+
 ## Clinical Implications
 
 This case is profoundly relevant to clinical protocols in several ways:
 
-**Monitoring duration:** QTc prolongation persisted for 12 days post-ingestion — far longer than the pharmacokinetic profile of ibogaine alone would suggest. This underscores the need for extended cardiac monitoring well beyond ibogaine clearance, with noribogaine as the true driver of prolonged risk. Standard 24–72 h monitoring windows may be insufficient for patients with high Cmax or suspected CYP2D6 polymorphisms.
+**Monitoring duration:** QTc prolongation persisted for 12 days post-ingestion — far longer than the pharmacokinetic profile of ibogaine alone would suggest. While ibogaine drives the acute cardiac crisis, noribogaine sustains the prolonged risk window, underscoring the need for extended cardiac monitoring well beyond ibogaine clearance. Standard 24–72 h monitoring windows may be insufficient for patients with high Cmax or suspected CYP2D6 polymorphisms.
 
-**Electrolyte vigilance:** The development of hypokalaemia and hypomagnesaemia during treatment, despite normal baseline values, reinforces the critical importance of continuous electrolyte monitoring and proactive supplementation — a principle now formalised in the MISTIC protocol's magnesium cardioprotection paradigm.
+**Electrolyte vigilance:** The development of hypokalaemia and hypomagnesaemia during treatment, despite normal baseline values, reinforces the critical importance of continuous electrolyte monitoring and proactive supplementation throughout and beyond the acute presentation period.
 
 **CYP2D6 genotyping:** The authors note they did not perform CYP2D6 genotyping. Given that CYP2D6 polymorphism directly influences ibogaine-to-noribogaine conversion rates and thus both efficacy and cardiac risk profile, pre-treatment genotyping remains clinically valuable for risk stratification.
 
@@ -122,6 +125,8 @@ This case is profoundly relevant to clinical protocols in several ways:
 - The extremely long noribogaine t½,₂ (2,540 h) may reflect the unusually high Cmax in this poisoning case rather than typical elimination kinetics
 - Exact contribution of electrolyte disturbances to arrhythmogenesis cannot be isolated from noribogaine-mediated QTc prolongation
 - Internet-purchased ibogaine — purity and exact composition unverified
+- The receptor pharmacology sentence cites reference [5] (Hildyard et al. 2016, a QT prolongation case report), which is not a primary pharmacology source — likely a miscitation
+- The k₁₂/k₂₁ ratios in Table 1 (4.28 and 21.5) cannot be reproduced from the rounded rate constants given in the same table (0.0014/0.0003 = 4.67; 0.0067/0.0003 = 22.3), suggesting hidden precision in the source data
 
 ---
 

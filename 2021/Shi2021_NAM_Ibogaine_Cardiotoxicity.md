@@ -38,9 +38,9 @@ contraindications:
   - "Concurrent CYP2D6 inhibitor use (26-fold higher ibogaine Cmax reported)"
   - "Clinical doses (420–2100 mg) are 4–21-fold above predicted BMDL₁₀ for QTc prolongation"
 dosing_range: "BMDL₁₀: 97 mg ibogaine / 70 kg (QTc onset); clinical range discussed: 420–2100 mg (6–30 mg/kg)"
-route: oral
+route: not-applicable
 open_access: true
-publisher: "Bentham Open"
+publisher: "ALTEX Edition"
 body_format: vault-analytical
 licence_type: cc-by
 licence_verified: true
@@ -98,6 +98,8 @@ The development of non-animal-based new approach methodologies (NAMs) for chemic
 
 Note: BMCL₁₀ corrected for unbound fraction in medium → noribogaine unbound effective concentration = 0.12 μM. This falls within the unbound blood concentration range at clinical doses (0.08–0.47 μM for noribogaine).
 
+**Reproducibility note:** The reported noribogaine TEF of 0.65 is not arithmetically reproducible from the rounded BMCL₁₀ values (0.11/0.15 = 0.73); likely derived from unrounded benchmark dose-response data.
+
 ### Predicted In Vivo Dose-Response (QTc Prolongation)
 
 | Parameter | Ibogaine | Noribogaine |
@@ -106,6 +108,8 @@ Note: BMCL₁₀ corrected for unbound fraction in medium → noribogaine unboun
 | Predicted BMDL₁₀ (81.9 kg) | 108 mg | 110 mg |
 | Clinical BMDL₁₀ (81.9 kg) | N/A (case reports only) | 163 mg (Glue et al., 2016) |
 | Predicted/clinical ratio | — | 0.67 (1.5-fold difference) |
+
+**Source inconsistency:** The paper reports the ibogaine BMDL₁₀ as both 108 mg (§3.6 Results) and 96.9 mg (Discussion), both for 70 kg body weight. This internal discrepancy is unresolved in the source. The vault maps 96.9 mg to 70 kg and 108 mg to 81.9 kg to maintain table coherence, but users should note that the paper does not explicitly provide an ibogaine BMDL₁₀ for 81.9 kg.
 
 ### Pharmacokinetic Parameters
 

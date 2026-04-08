@@ -9,7 +9,7 @@ tags:
   - topic/adverse-event
   - topic/opioid
   - method/case-report
-key_findings: "First UK ibogaine toxicity case: 7g oral dose caused QTc 600ms, TdP cardiac arrest, seizures; rescued by defibrillation and transcutaneous overdrive pacing at 80 bpm for 48h."
+key_findings: "First UK ibogaine toxicity case: 7g oral caused QTc 600ms, TdP arrest, seizures; defibrillation + overdrive pacing 80bpm for 48h. QT recovered to 420ms (correction ambiguous — 'QTc' at admission, 'QT' at recovery)."
 source_pdf: "2013/Asua2013_Ibogaine_Toxicity_UK_Case.pdf"
 doi: "10.1093/bja/aet396"
 pmid: "24233315"
@@ -29,10 +29,9 @@ qtc_data: true
 electrolyte_data: false
 herg_data: false
 contraindications:
-  - "Pre-existing cardiac conditions"
-  - "Concurrent opioid or methadone use"
   - "Unsupervised self-administration"
-dosing_range: "7 g oral (single dose, ~100 mg/kg estimated)"
+  - "High-dose oral ingestion without medical monitoring"
+dosing_range: "7 g oral (dosing schedule not reported; ~100 mg/kg estimated for 70 kg adult)"
 route: oral
 open_access: false
 publisher: "Oxford University Press"
@@ -70,7 +69,7 @@ Letter to the editor describing the first reported case of severe ibogaine toxic
 2. **Pharmacological:** IV magnesium (8 mmol), atropine (2 mg), epinephrine (4 mg), isoprenaline (5 µg min⁻¹) — TdP recurred despite these
 3. **Transcutaneous overdrive pacing:** Immediately shortened QT interval and controlled ectopic ventricular activity
 4. **Transvenous pacing wire:** Paced at 80 bpm for 48 hours — no further VT
-5. **Recovery:** Bradycardia resolved, QTc normalised to 420 ms, successful extubation
+5. **Recovery:** Bradycardia resolved, QT interval returned to 420 ms (paper uses "QT" here, not "QTc" — correction status unclear), successful extubation
 6. **Follow-up:** Normal echocardiogram; cardiologist determined no further electrophysiological testing needed
 
 ## Methodology
@@ -84,9 +83,9 @@ This case demonstrates the full spectrum of ibogaine-induced cardiac toxicity:
 | Parameter | Value |
 |-----------|-------|
 | Peak QTc | 600 ms |
-| Baseline QTc | Not reported (normalised to 420 ms post-recovery) |
+| Baseline QT | Not reported (QT interval returned to 420 ms post-recovery; paper switches from "QTc" at admission to "QT" at recovery — correction status unclear) |
 | Rhythm disturbance | Sinus bradycardia → polymorphic VT → TdP arrest |
-| Defibrillations | Multiple (≥2) |
+| Defibrillations | Multiple (≥4; initial 200 J restored output, then "several more" for recurrent TdP) |
 | Pacing duration | 48 hours at 80 bpm |
 | Time to QTc normalisation | ~48 hours |
 
@@ -114,6 +113,8 @@ This case is directly relevant to emergency protocols:
 - Mechanistic attribution to 5-HT₂A is incorrect; actual mechanism is hERG blockade
 - No electrolyte data reported despite IV magnesium administration
 - Dose of 7 g without body weight makes pharmacokinetic interpretation difficult
+- The paper uses "QTc interval" for the admission value (600 ms) but "QT interval" for the recovery value (420 ms) without specifying correction status — an internal consistency issue that affects interpretation of the recovery measurement
+- The paper's claim of "growing use" within the UK (supporting the case's significance) is referenced to a BBC News Magazine article (ref 4), not peer-reviewed epidemiological data
 
 ---
 

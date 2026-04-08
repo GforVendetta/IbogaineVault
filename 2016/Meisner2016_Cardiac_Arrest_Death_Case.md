@@ -34,7 +34,6 @@ dosing_range: "4g ibogaine + 2g uncharacterized 'booster'"
 route: oral
 contraindications:
   - "Pre-existing cardiac conditions"
-  - "Liver enzyme abnormalities"
   - "Unregulated/unsupervised administration"
   - "Unknown dose or purity of ibogaine"
 open_access: true
@@ -64,7 +63,7 @@ A naturally occurring hallucinogenic plant alkaloid, ibogaine has been used as a
 - Laboratory findings included anion gap metabolic acidosis (pH 7.11), elevated creatine kinase (1,440 IU/l), and mildly elevated troponin (0.06 ng/ml), indicating multi-organ stress following cardiac arrest.
 - The patient had no prior cardiac history and no family history of cardiac disease, supporting ibogaine as the primary causative factor in the fatal arrest.
 - The case illustrates the particular dangers of unregulated internet-sourced ibogaine with unknown purity, compounded by co-administration of an unidentified "booster" substance.
-- A literature review contextualises this death within the broader ibogaine mortality landscape, including [Alper and colleagues' identification of 19 worldwide deaths from 1990–2008](../2012/Alper2012_Ibogaine_Fatalities.md), 6 of which listed cardiac complications as a contributing factor.
+- A literature review contextualises this death within the broader ibogaine mortality landscape, including [Alper and colleagues' identification of 19 worldwide deaths from 1990–2008](../2012/Alper2012_Ibogaine_Fatalities.md), 15 of which were associated with detoxification and 6 of which listed cardiac complications as a contributing factor. The paper notes that more than 5,000 people have been treated at a single Amsterdam clinic since the late 1980s, providing critical denominator context for the mortality signal.
 
 ## Methodology
 
@@ -80,7 +79,7 @@ This case documents a single ibogaine-associated fatality (mortality_count: 1, m
 
 **Community hospital presentation:** Fixed and dilated pupils. Persistently hypotensive despite volume resuscitation, requiring vasopressors. Head CT concerning for anoxic brain injury. Serum toxicology screen negative for aspirin, ethanol, acetaminophen, benzodiazepines, barbiturates, and tricyclic antidepressants (positive for opiates due to morphine administered on arrival for unclear reasons). Therapeutic hypothermia protocol initiated; patient transferred to tertiary care institution.
 
-### Table 1: Laboratory Values on Arrival
+### Table 2: Laboratory Values on Arrival
 
 | Parameter | Value | Unit |
 |:---|:---|:---|
@@ -119,13 +118,17 @@ This case documents a single ibogaine-associated fatality (mortality_count: 1, m
 
 ## Clinical Implications
 
-This case carries direct implications for ibogaine safety screening and treatment protocols. The patient's unremarkable cardiac history demonstrates that ibogaine cardiotoxicity can affect individuals who would not be identified by standard cardiac risk stratification alone — reinforcing the need for universal cardiac screening regardless of perceived baseline risk. The progressive QTc prolongation from 435 to 588 ms before self-correcting underscores the time-dependent nature of ibogaine's cardiac effects and supports continuous cardiac monitoring spanning at least 24–48 hours post-administration, as advocated in [Alper et al. (2012)](../2012/Alper2012_Ibogaine_Fatalities.md).
+This case carries direct implications for ibogaine safety screening and treatment protocols. The patient's unremarkable cardiac history demonstrates that ibogaine cardiotoxicity can affect individuals who would not be identified by standard cardiac risk stratification alone — reinforcing the need for universal cardiac screening regardless of perceived baseline risk. The progressive QTc prolongation from 435 to 588 ms before self-correcting underscores the time-dependent nature of ibogaine's cardiac effects and supports continuous cardiac monitoring spanning at least 24–48 hours post-administration, as advocated in [Alper et al. (2012)](../2012/Alper2012_Ibogaine_Fatalities.md). The prolonged QTc trajectory is consistent with ibogaine's high lipophilicity and slow release from adipose tissue; ibogaine and noribogaine act on multiple receptor systems including opioid, serotonin, muscarinic, and nicotinic receptors, contributing to the complexity of its pharmacological profile and adverse event potential.
 
 The case starkly illustrates the risk differential between unsupervised self-administration and contemporary supervised protocols. Every contributing factor — unknown ibogaine purity, uncharacterised adjunct substance, no cardiac monitoring, and 8-hour delay between ingestion and discovery — represents a failure point that modern clinical frameworks such as the [GITA guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) are designed to eliminate. The electrolyte profile on arrival (Mg²⁺ 2.7 mg/dl, K⁺ 4.3 mEq/l, Ca²⁺ 7.8 mg/dl) provides baseline values for an ibogaine fatality, though interpretation is limited by unknown elapsed time between arrest and blood draw and the effects of resuscitation on electrolyte concentrations.
 
 ## Limitations
 
+As noted by the authors, there have been no formal human studies on the effects of ibogaine; a Phase I clinical trial approved by the FDA in 1993 was never completed due to contractual disputes, limited funding, and safety concerns. All clinical evidence therefore derives from uncontrolled case reports and observational data.
+
 No post-mortem examination was performed (family declined), preventing definitive determination of cause of death. The "booster" substance was never identified or analysed, introducing uncertainty about whether ibogaine alone or the combination caused the fatal outcome. Ibogaine and noribogaine serum levels were not measured. The exact timing of cardiac arrest relative to ibogaine ingestion remains uncertain — the 8-hour window represents the interval between ingestion and discovery, not between ingestion and arrest onset. The possibility that aspiration rather than primary arrhythmia triggered the cardiac arrest cannot be definitively excluded.
+
+**Source inconsistencies:** The paper states ibogaine is "toxic to His-Perkinje fibers in the cerebellum" — an anatomical conflation, as His-Purkinje fibres are cardiac conduction tissue while Purkinje cells are cerebellar neurons. This undermines the mechanistic credibility of the cited claim. Additionally, the case timeline is internally inconsistent: the case presentation states the patient was "found 8 hours later" while the conclusion describes "cardiac arrest less than 8 hours after ibogaine use." The abstract describes "cerebral edema and brain death" while the body reports CT findings as "anoxic brain injury." Table 2 is headed "Laboratory values on arrival to our hospital" (the tertiary centre) but is referenced in the text during the community hospital presentation, creating location ambiguity for the lab values.
 
 ---
 
