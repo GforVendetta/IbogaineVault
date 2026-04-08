@@ -36,6 +36,7 @@ contraindications:
   - "Concurrent opioid use"
 dosing_range: "~3.8 g oral (8 capsules × 479 mg, over <6 hours)"
 route: oral
+
 open_access: false
 publisher: "Elsevier"
 body_format: vault-analytical
@@ -78,7 +79,7 @@ Initial ECG showed QT interval of 472 ms (QTc 527 ms), which normalised during h
 
 ### Clinical Presentation
 
-The patient presented 7.5 hours after first dose with nausea, vomiting, altered mental status ("mind is gone"), ataxia, dysmetria, piloerection, diffuse myalgias, and intermittent tremors. Vitals were stable (HR 89, BP 122/66). He appeared mildly dissociated with psychomotor agitation but was alert and oriented. All symptoms resolved within 24 hours with no permanent sequelae.
+The patient presented 7.5 hours after first dose with nausea, vomiting, altered mental status ("mind is gone"), ataxia, dysmetria, piloerection, diffuse myalgias, and intermittent tremors. Vitals were stable (HR 89, BP 122/66). He appeared mildly dissociated with psychomotor agitation but was alert and oriented. He denied visual or auditory hallucinations and had no prior psychiatric history. He reported tobacco cigarette use, infrequent alcohol consumption, and habitual heroin smoking. All symptoms resolved within 24 hours with no permanent sequelae.
 
 ## Methodology
 
@@ -109,6 +110,10 @@ This case is directly relevant to screening and safety protocols:
 - Only three serum time points for kinetic analysis; true elimination curve cannot be fully characterised
 - Concurrent heroin withdrawal may have contributed to some clinical features (tremor, myalgias, piloerection)
 - No information on CYP2D6 genotype, which significantly affects ibogaine metabolism
+- No baseline ECG available — pre-existing QT abnormality cannot be excluded
+- QT correction formula not stated — QTc 527 ms cannot be independently reproduced
+- Body weight not reported — mg/kg dose cannot be calculated despite known total dose (~3.8 g)
+- Internal contradiction regarding noribogaine: case text states "lack of available reference standard for noribogaine prevented its confirmation," but the conclusion claims "serum confirmation of noribogaine" — the LC-TOF/MS provided a formula match (exact mass), not a confirmed identification
 
 ---
 

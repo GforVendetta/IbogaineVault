@@ -26,6 +26,7 @@ aliases:
   - "Ibogaine ventricular tachyarrhythmias case"
 evidence_level: case-report
 sample_size: 1
+
 qtc_data: true
 electrolyte_data: true
 herg_data: false
@@ -33,7 +34,7 @@ contraindications:
   - "QTc-prolonging medications (e.g., amiodarone, methadone)"
   - "Pre-existing QT prolongation"
   - "Recent polysubstance use"
-dosing_range: "600 mg oral (single dose, ~8 mg/kg)"
+dosing_range: "600 mg oral (single dose)"
 route: oral
 open_access: false
 publisher: "Informa Healthcare"
@@ -52,17 +53,17 @@ Letter to the editor reporting ventricular fibrillation (VF) and ventricular tac
 
 ## Key Findings
 
-- **Arrhythmia timeline:** VF onset at 30 minutes post-ingestion; 5 VF episodes and 3 monomorphic VT episodes over 48 hours
+- **Arrhythmia timeline:** Patient lost consciousness 30 minutes post-ingestion while attempting to urinate, due to VF; 5 VF episodes and 3 monomorphic VT episodes over 48 hours
 - **QTc progression:** 460 ms on admission → 510 ms after amiodarone initiation → 593 ms at 42 hours post-ingestion → normalisation by day 9
 - **Ibogaine pharmacokinetics:** Ibogaine and noribogaine detectable by LC-MS/MS from day 1 to day 9; highest ibogaine level 0.68 mg/L at the time of the last VF
 - **Amiodarone effect:** Administration of amiodarone (300 mg bolus + 1,200 mg/day) appeared to compound QTc prolongation; QTc transiently shortened during amiodarone withdrawal
 - **Vagal trigger:** 2 of 5 VF episodes and 3 of 3 VT episodes occurred during micturition or defecation, supporting the autonomic dysfunction hypothesis proposed by [Maas & Strubelt (2006)](../2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md)
 - **Methadone contribution:** Residual methadone (0.04 mg/L without EDDP metabolite on day 1) may have contributed minimally to initial QTc prolongation
-- **Genetic/structural exclusion:** Long QT syndrome and structural heart disease were excluded
+- **Genetic/structural exclusion:** Long QT syndrome and structural heart disease were excluded (methods not described)
 
 ## Methodology
 
-Single case report (letter to the editor format) documenting a patient treated at the Medical Intensive Care Unit, University Medical Centre Ljubljana, Slovenia. Ibogaine and noribogaine concentrations were confirmed by LC-MS/MS over 9 days. Electrocardiographic monitoring tracked QTc intervals throughout the hospital course. Genetic syndromes of long QT and structural heart disease were formally excluded.
+Single case report (letter to the editor format) documenting a patient treated at the Medical Intensive Care Unit, University Medical Centre Ljubljana, Slovenia. Ibogaine and noribogaine concentrations were confirmed by LC-MS/MS over 9 days. Electrocardiographic monitoring tracked QTc intervals throughout the hospital course. Genetic syndromes of long QT and structural heart disease were excluded (methods not described).
 
 ## Cardiac Safety Data
 
@@ -72,8 +73,8 @@ Single case report (letter to the editor format) documenting a patient treated a
 |-----------|----------|-------|
 | Admission (30 min) | 460 | 1st VF, defibrillated 200 J |
 | First 10 hours | — | 2nd and 3rd VF, defibrillated 200 J |
-| After amiodarone | 510 | 4th VF, sinus bradycardia developed |
-| Amiodarone withdrawal | Transient shortening | 5th VF |
+| After amiodarone | 510 | 4th VF, defibrillated (energy not specified); sinus bradycardia developed |
+| Amiodarone withdrawal | Transient shortening | 5th VF (energy not specified) |
 | 42 hours | 593 | Peak QTc after amiodarone reintroduction |
 | 36–48 hours | — | 3 monomorphic VTs, electroconverted 100 J |
 | 48 hours onwards | Decreasing | Despite ongoing amiodarone |
@@ -90,7 +91,7 @@ This case carries several direct implications for clinical protocols:
 
 **Amiodarone contraindication:** Amiodarone, itself a QTc-prolonging agent, appeared to exacerbate ibogaine-induced QTc prolongation rather than control arrhythmias. This case argues strongly against amiodarone as first-line anti-arrhythmic in ibogaine toxicity. DC cardioversion/defibrillation should be the primary intervention.
 
-**Monitoring duration:** QTc did not normalise until day 9, correlating with the long elimination half-life of ibogaine and noribogaine. This supports extended cardiac monitoring well beyond the 24–48 hour window sometimes considered sufficient, particularly in cases where QTc prolongation is observed.
+**Monitoring duration:** QTc did not normalise until day 9, correlating with the half-life of ibogaine (48 hours, per Mash et al. 2000) and prolonged noribogaine persistence. This supports extended cardiac monitoring well beyond the 24–48 hour window sometimes considered sufficient, particularly in cases where QTc prolongation is observed.
 
 **Vagal precautions:** The consistent triggering of arrhythmias by micturition and defecation suggests that post-dosing toilet use should be supervised with cardiac monitoring in place. Patients should not be left unmonitored during activities that provoke vagal stimulation.
 
@@ -106,6 +107,8 @@ This case carries several direct implications for clinical protocols:
 - No echocardiographic data reported beyond exclusion of structural disease
 - Ibogaine product purity and exact source not specified
 - No CYP2D6 genotyping performed (relevant to ibogaine metabolism to noribogaine)
+- No pre-ingestion baseline ECG available — admission QTc 460 ms cannot be contextualised against the patient's baseline
+- No COI or funding disclosures provided
 
 ---
 

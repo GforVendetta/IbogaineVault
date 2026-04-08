@@ -32,6 +32,7 @@ sample_size: 7
 qtc_data: true
 electrolyte_data: true
 herg_data: false
+
 contraindications:
   - "Pre-existing cardiac conditions"
   - "Concurrent opioid use (methadone, buprenorphine)"
@@ -61,12 +62,12 @@ Retrospective analysis of telephone enquiries involving ibogaine to the UK Natio
 - **Severe QTc prolongation**: Patient 3 — QTc 680 msec (reducing to 566 msec); Patient 4 — QTc 720 msec (reducing to 586 msec). Both used Framingham's formula for correction
 - **Hypoxic brain injury**: Two patients (Patients 1 and 4) suffered hypoxic brain injury secondary to cardiac arrest, despite no fatalities in the series
 - **No clear dose-response relationship**: Patient 2 ingested 5 g and Patient 6 ingested 34 g of root bark without cardiotoxicity, while other patients experienced cardiac arrest at unknown doses
-- **Prolonged toxicity**: Patient 1 remained in intensive care 71 days post-exposure; Patient 6 experienced severe neurotoxicity 7 days after ingesting 34 g root bark — consistent with the long half-life of noribogaine (28–49 h)
+- **Prolonged toxicity**: Patient 1 remained in intensive care 71 days post-exposure; Patient 6 experienced severe neurotoxicity 7–8 days after ingesting 34 g root bark (case narrative says "eight days prior to presentation"; Discussion says "7 days after ingesting") — consistent with the long half-life of noribogaine (28–49 h)
 - **Neurological features in all patients**: Including coma, convulsions, somnolence, myoclonic jerking, hyperreflexia, dyskinesia, tremor, agitation, and delirium
 
 ## Methodology
 
-Retrospective review of telephone enquiries to the UK NPIS involving ibogaine exposure between 1 January 2012 and 31 December 2022. Call records were searched using the term "ibogaine" in the UK Poisons Information Database (UKPID). Data extracted included enquiry date, patient demographics, clinical features, medical history, exposure type, dose, time since exposure, and Poisoning Severity Score (PSS). Descriptive statistics in Microsoft Excel. No research ethics approval required as routinely collected anonymised data.
+Retrospective review of telephone enquiries to the UK NPIS involving ibogaine exposure between 1 January 2012 and 31 December 2022. The NPIS provides toxicological advice to healthcare professionals via its online database TOXBASE® (handling routine poison lookups) and a 24-hour telephone service (for more severe or complex cases — these 7 cases represent the subset requiring specialist phone consultation). Call records were searched using the term "ibogaine" in the UK Poisons Information Database (UKPID). Data extracted included enquiry date, patient demographics, clinical features, medical history, exposure type, dose, time since exposure, and Poisoning Severity Score (PSS). Descriptive statistics in Microsoft Excel. No research ethics approval required as routinely collected anonymised data.
 
 ## Case Summary Table
 
@@ -90,7 +91,7 @@ Two patients had documented QTc measurements, both markedly prolonged:
 ### Bradycardia
 - **Patient 5**: HR 40–42 bpm
 - **Patient 6**: HR 50 bpm (with normal QT/QRS)
-- **Patient 4**: HR dropped to 40–45 bpm at lowest
+- **Patient 4**: HR 50 bpm, dropping to 40–45 bpm at lowest
 
 ### Cardiac Arrest
 - **Patient 1**: 32-year-old male with 15 years diacetylmorphine use and ~50 mg/day methadone for 7–8 years; stopped methadone 2 months prior due to perceived stigma. Father purchased ibogaine HCl tablets from unknown source as alternative to methadone. Found in cardiac arrest; 2 h CPR, 14 DC shocks, epinephrine 7 mg before ROSC. Admission tox screen: serum positive for buprenorphine; urine positive for benzodiazepines; negative for methadone, opioids, amfetamines, cocaine, cannabis. Blood ethanol 7 mg/L (1.5 mmol/L). Admission LFTs: ALT 54 U/L (normal). At 71 days: ALT 33 U/L, ALP 354 U/L (raised); coag screen normal (PT 12.7 s, aPTT 26.4 s). CT scan confirmed hypoxic brain injury. Patient remained in ITU >71 days with confusion, delirium and agitation, then discharged to another hospital for ongoing care. No ibogaine/noribogaine concentration determined
@@ -129,7 +130,7 @@ The authors note a lack of relationship between reported dose and clinical respo
 
 6. **Dose unpredictability with root bark**: The wide dose range (5–34 g root bark) and absence of analytical confirmation highlight the pharmacokinetic uncertainty of crude plant preparations versus standardised ibogaine HCl
 
-7. **Provider obstruction of medical care**: Patient 6 had been chronically using iboga bark (0.5–0.7 g on 5/7 days for 2 months) before an acute 34 g dose from his shaman. On admission (HR 50 bpm, BP 122/72 mmHg, normal QT/QRS), ondansetron 4 mg was given but associated with increased vomiting; the patient refused further medication except IV fluids. By day 2 he was alert and coherent but still vomiting with miosis. Critically, the shaman had explicitly warned the patient's friends not to take him to hospital, claiming "he would likely be sectioned." The patient went 8 days without medical attention while experiencing severe neurotoxicity including hallucinations, dyskinesia, and tremor. This is one of the starkest documented examples of unsupervised provider harm in the ibogaine literature — a direct obstruction of emergency medical access by a non-medical practitioner. It underscores the life-safety case for medically supervised treatment with clear emergency protocols and unobstructed hospital transfer pathways
+7. **Provider obstruction of medical care**: Patient 6 had been chronically using iboga bark (0.5–0.7 g on 5/7 days for 2 months) before an acute 34 g dose from his shaman. On admission (HR 50 bpm, BP 122/72 mmHg, normal QT/QRS), ondansetron 4 mg was given but associated with increased vomiting; the patient refused further medication except IV fluids. By day 2 he was alert and coherent but still vomiting with miosis. Critically, the shaman warned the patient's friends not to take him to hospital, as he would likely be sectioned. The patient went 8 days without medical attention while experiencing severe neurotoxicity including hallucinations, dyskinesia, and tremor. This is one of the starkest documented examples of unsupervised provider harm in the ibogaine literature — a direct obstruction of emergency medical access by a non-medical practitioner. It underscores the life-safety case for medically supervised treatment with clear emergency protocols and unobstructed hospital transfer pathways
 
 8. **UK regulatory context**: The authors note that MHRA has approved the launch of a Phase I/IIa trial of ibogaine for OUD, placing this case series as baseline safety evidence for UK regulatory decision-making. The anonymous substance testing service WeDINOS reported a single positive ibogaine identification in March 2018 with self-reported irregular heartbeat and panic attacks
 
@@ -142,6 +143,11 @@ The authors note a lack of relationship between reported dose and clinical respo
 - Cases classified as "recreational abuse" — a misnomer for harm-reduction motivated self-treatment, reflecting clinical coding limitations
 - CYP2D6 metaboliser status not assessed in any case
 - ECG data not available for all patients
+
+### Source Inconsistencies
+- **Patient 6 timing:** Case narrative states "eight days prior to presentation"; Discussion says "7 days after ingesting 34 g of root bark"
+- **Patient 4 timing:** Case narrative states cardiac arrest "between 5 h and 6 h prior to arrest"; Discussion says "approximately 7 h after ingestion"
+- **Corkery reference year:** Introduction cites "Corkery in 2023 [12]" but this likely refers to Corkery et al. 2018 — possible manuscript-level year error
 
 ---
 

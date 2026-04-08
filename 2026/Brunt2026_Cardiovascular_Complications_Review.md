@@ -13,7 +13,7 @@ tags:
   - topic/analogues
   - mechanism/herg-blockade
   - method/review
-key_findings: "QTc prolongation occurs at therapeutic doses even without pre-existing cardiac conditions; CYP2D6 poor metabolisers at higher risk; safe dose ~0.87 mg/kg (10× lower than treatment doses); recommends genotyping + monitoring."
+key_findings: "QTc prolongation at therapeutic doses even without cardiac history; CYP2D6 poor metabolisers at higher risk; safe dose ~0.87 mg/kg (10× lower, but may lack efficacy); recommends genotyping + monitoring."
 source_pdf: "2026/Brunt2026_Ibogaine_Cardiovascular_Complications.pdf"
 doi: "10.1111/add.70319"
 pmid: "41560340"
@@ -35,7 +35,7 @@ contraindications:
   - "CYP2D6 poor metaboliser status (genotyping recommended)"
   - "Concurrent QT-prolonging medications"
   - "Doses exceeding ~0.87 mg/kg without cardiac monitoring"
-dosing_range: "Safe dose ~0.87mg/kg (10× lower than therapeutic 8–20mg/kg)"
+dosing_range: "Safe dose ~0.87mg/kg (10× lower than therapeutic 8–14mg/kg)"
 route: oral
 open_access: false
 publisher: "Wiley"
@@ -56,7 +56,7 @@ licence_verified: true
 
 ## Key Findings
 
-QTc prolongation occurs at therapeutic doses even without pre-existing cardiac conditions; CYP2D6 poor metabolisers at higher risk; safe dose ~0.87 mg/kg (10× lower than treatment doses); recommends genotyping + monitoring.
+QTc prolongation at therapeutic doses even without cardiac history; CYP2D6 poor metabolisers at higher risk; safe dose ~0.87 mg/kg (10× lower, but may lack efficacy); recommends genotyping + monitoring.
 
 ---
 
@@ -97,9 +97,9 @@ From the Knuijver pharmacokinetic studies:
 | EC₅₀ for QTc prolongation | 0.195 μM |
 | Peak ibogaine (Cmax) at 10 mg/kg | 4.77 μM/L |
 | Peak noribogaine (Cmax) | 1.33 μM/L |
-| **Ratio of Cmax to EC₅₀** | **>10-fold** |
+| **Ratio of Cmax to EC₅₀** | **>10-fold for ibogaine (24.5×); noribogaine ratio ~6.8×** |
 
-**Implication:** At standard treatment doses (10 mg/kg), peak plasma concentrations exceed the half-maximum concentration for QTc prolongation by more than 10-fold. The "safe" dose is estimated at ~0.87 mg/kg—10× lower than therapeutic doses.
+**Implication:** At standard treatment doses (10 mg/kg), peak ibogaine plasma concentration exceeds the EC₅₀ for QTc prolongation by 24.5×; the noribogaine margin is narrower at ~6.8×. The "safe" dose is estimated at ~0.87 mg/kg—10× lower than therapeutic doses. However, the authors note that such a dose might not have any therapeutic effects.
 
 ### Hysteresis Patterns
 
@@ -131,6 +131,10 @@ Clearance of ibogaine is strongly dependent on CYP2D6 genotype. Plasma levels sh
 
 ## Clinical Safety Data
 
+### Mash et al. Open-Label Study (n=191)
+
+The largest clinical dataset cited in the review: 191 patients (144 males/47 females) with cocaine and opioid dependence received oral ibogaine (8–12 mg/kg). Treatment was well tolerated without major clinical side effects, and reduced cocaine and heroin craving.
+
 ### Knuijver et al. Observational Study (n=14)
 
 - Dose: 10 mg/kg ibogaine HCl
@@ -145,7 +149,7 @@ Clearance of ibogaine is strongly dependent on CYP2D6 genotype. Plasma levels sh
 
 ### 1. Magnesium Co-administration
 
-The MISTIC protocol (Cherian et al. 2024) administered ibogaine HCl up to 14 mg/kg followed by intravenous magnesium sulfate and antioxidants, successfully mitigating cardiac events including QTc prolongation.
+Cherian et al. (2024) administered ibogaine HCl up to 14 mg/kg to war veterans (n=30) with traumatic brain injury, followed by intravenous magnesium sulfate and antioxidants, successfully mitigating cardiac events including QTc prolongation. *[Known in vault as the MISTIC protocol — see [Cherian2024_Magnesium_Ibogaine_TBI](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md)]*
 
 ### 2. Cardiovascular Monitoring
 
@@ -187,9 +191,15 @@ Screen for metaboliser genotype before commencing treatment.
 - Torsades des Pointes
 - Cardiac arrest
 
+### Management of Cardiac Events
+
+As summarised by Ona et al. (2022), medical interventions applied in hospitalised ibogaine cases included anticonvulsants, isoproterenol, atropine, electrical cardioversion, pacemaker placement, defibrillation, intubation, and magnesium/sodium and saline supplementation. However, aside from pacemaker placement (which reduced ventricular arrhythmias in some patients), most other interventions were not effective in resolving ventricular arrhythmias or Torsades des Pointes.
+
 ---
 
 ## Conclusions
+
+> **Note:** This paper is a narrative clinical review with no systematic search strategy, database specification, or quality assessment. It should not be conflated with systematic reviews in vault queries.
 
 1. Ibogaine's cardiotoxic side effects are rare but clinically significant
 2. More casualties expected if uncontrolled/unmonitored use continues
@@ -210,3 +220,9 @@ Screen for metaboliser genotype before commencing treatment.
 - [Knuijver2021_Safety_Opioid_Detox](../2021/Knuijver2021_Safety_Opioid_Detox.md) — Observational safety data
 - [Knuijver 2024](../2024/Knuijver2024_Pharmacokinetics_Pharmacodynamics_Ibogaine_OUD_Patients.md) — PK/PD and EC₅₀ data
 - [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md) — Pharmacological mechanisms including hERG
+
+---
+
+## Source Inconsistencies
+
+- The paper spells "Knuijver" as "Kuijver" at reference [43] (first mention), but correctly as "Knuijver" at references [44] and [45].

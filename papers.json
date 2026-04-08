@@ -1,7 +1,7 @@
 {
   "vault": "IbogaineVault",
   "version": "1.0.1",
-  "generated_at": "2026-04-06T05:51:49Z",
+  "generated_at": "2026-04-08T09:11:01Z",
   "paper_count": 303,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
@@ -4191,7 +4191,7 @@
         "method/case-report"
       ],
       "clinical_significance": "landmark",
-      "key_findings": "First published case of ibogaine-induced Long-QT syndrome (QTc 616 ms) with ventricular tachyarrhythmias in a 31-year-old woman; QT normalised at 42 hours; concurrent hypomagnesaemia and hypokalaemia identified.",
+      "key_findings": "Ibogaine-induced Long-QT syndrome (QTc 616 ms) with ventricular tachyarrhythmias in a 31-year-old woman; QT normalised at 42 hours; concurrent hypomagnesaemia and hypokalaemia identified.",
       "sample_size": 1,
       "mortality_count": null,
       "mortality_scope": null,
@@ -4203,7 +4203,7 @@
         "Electrolyte imbalance (hypomagnesaemia, hypokalaemia)"
       ],
       "dosing_range": "3.5 g ibogaine 15% preparation (single dose)",
-      "route": "oral",
+      "route": "not-specified",
       "source_pdf": "2009/Hoelen2009_Long_QT_Ibogaine.pdf",
       "journal": "New England Journal of Medicine",
       "aliases": [
@@ -4998,7 +4998,7 @@
         "Pre-existing QT prolongation",
         "Recent polysubstance use"
       ],
-      "dosing_range": "600 mg oral (single dose, ~8 mg/kg)",
+      "dosing_range": "600 mg oral (single dose)",
       "route": "oral",
       "source_pdf": "2012/Pleskovic2012_Ibogaine_Ventricular_Tachyarrhythmias.pdf",
       "journal": "Clinical Toxicology",
@@ -5054,8 +5054,7 @@
         "Concurrent or recent methadone use (patient transitioned off one month prior)",
         "Aggressive cathartic use prior to ibogaine (caused persistent hypokalemia)",
         "Combined ibogaine HCl and root bark extract administration (dual-source dosing)",
-        "Non-medical setting without continuous cardiac monitoring",
-        "History of IV heroin use"
+        "Non-medical setting without continuous cardiac monitoring"
       ],
       "dosing_range": "10.5 mg/kg ibogaine HCl (85–98% purity) + 14 mg/kg T. iboga root bark extract (50% alkaloids) over 15 hours",
       "route": "oral",
@@ -5153,7 +5152,6 @@
       "contraindications": [
         "Pre-existing cardiac dysrhythmias with AICD placement",
         "Unsupervised self-treatment without medical monitoring",
-        "History of heroin abuse (substance use history)",
         "No pretreatment cardiac screening performed",
         "Internet-sourced ibogaine of unverified composition"
       ],
@@ -5257,7 +5255,7 @@
         "method/case-report"
       ],
       "clinical_significance": "high",
-      "key_findings": "First UK ibogaine toxicity case: 7g oral dose caused QTc 600ms, TdP cardiac arrest, seizures; rescued by defibrillation and transcutaneous overdrive pacing at 80 bpm for 48h.",
+      "key_findings": "First UK ibogaine toxicity case: 7g oral caused QTc 600ms, TdP arrest, seizures; defibrillation + overdrive pacing 80bpm for 48h. QT recovered to 420ms (correction ambiguous — 'QTc' at admission, 'QT' at recovery).",
       "sample_size": 1,
       "mortality_count": null,
       "mortality_scope": null,
@@ -5265,11 +5263,10 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [
-        "Pre-existing cardiac conditions",
-        "Concurrent opioid or methadone use",
-        "Unsupervised self-administration"
+        "Unsupervised self-administration",
+        "High-dose oral ingestion without medical monitoring"
       ],
-      "dosing_range": "7 g oral (single dose, ~100 mg/kg estimated)",
+      "dosing_range": "7 g oral (dosing schedule not reported; ~100 mg/kg estimated for 70 kg adult)",
       "route": "oral",
       "source_pdf": "2013/Asua2013_Ibogaine_Toxicity_UK_Case.pdf",
       "journal": "British Journal of Anaesthesia",
@@ -5898,7 +5895,7 @@
       "herg_data": false,
       "electrolyte_data": true,
       "contraindications": [],
-      "dosing_range": "2400 mg oral (single dose, ~32.4 mg/kg)",
+      "dosing_range": "2400 mg oral (~32.4 mg/kg)",
       "route": "oral",
       "source_pdf": "2014/Vlaanderen2014_Cardiac_Arrest_Ibogaine.pdf",
       "journal": "Clinical Toxicology",
@@ -6160,7 +6157,7 @@
         "method/case-report"
       ],
       "clinical_significance": "high",
-      "key_findings": "39yo male: QTc 640→730ms (day 2)→400ms (day 7) after 7g oral ibogaine. 8 episodes polymorphic VT/TdP, normal electrolytes. Suppressed by IV Mg 2g + transvenous overdrive pacing at 80bpm.",
+      "key_findings": "39yo male: QT 640→730ms (day 2)→400ms (day 7) after 7g oral ibogaine; no QTc correction formula specified. 8 episodes polymorphic VT/TdP, normal electrolytes. Suppressed by IV Mg 2g + transvenous overdrive pacing at 80bpm.",
       "sample_size": 1,
       "mortality_count": null,
       "mortality_scope": null,
@@ -6945,7 +6942,6 @@
       "electrolyte_data": true,
       "contraindications": [
         "Pre-existing cardiac conditions",
-        "Liver enzyme abnormalities",
         "Unregulated/unsupervised administration",
         "Unknown dose or purity of ibogaine"
       ],
@@ -7232,7 +7228,7 @@
         "method/case-report"
       ],
       "clinical_significance": "high",
-      "key_findings": "Noribogaine, not ibogaine, drives prolonged cardiac toxicity. QTc 647 ms with TdP. Noribogaine t½ elimination 2540 h vs ibogaine 228 h. k₁₂/k₂₁ ratio 21.5 for noribogaine implies deep tissue sequestration.",
+      "key_findings": "Ibogaine causes acute cardiac toxicity (QTc 647ms, TdP at peak); noribogaine sustains it — QTc >450ms at days 5+11 after ibogaine clearance. t½ 2285h (ibogaine), 2540h (noribogaine). k₁₂/k₂₁ ratio 21.5 implies deep tissue sequestration.",
       "sample_size": 1,
       "mortality_count": null,
       "mortality_scope": null,
@@ -9698,7 +9694,7 @@
         "Clinical doses (420–2100 mg) are 4–21-fold above predicted BMDL₁₀ for QTc prolongation"
       ],
       "dosing_range": "BMDL₁₀: 97 mg ibogaine / 70 kg (QTc onset); clinical range discussed: 420–2100 mg (6–30 mg/kg)",
-      "route": "oral",
+      "route": "not-applicable",
       "source_pdf": "2021/Shi2021_NAM_Ibogaine_Cardiotoxicity.pdf",
       "journal": "ALTEX - Alternatives to Animal Experimentation",
       "aliases": [
@@ -9710,7 +9706,7 @@
       "pmid": "34271588",
       "pmcid": null,
       "open_access": true,
-      "publisher": "Bentham Open",
+      "publisher": "ALTEX Edition",
       "body_format": "vault-analytical",
       "issn": "1868-596X",
       "licence_type": "cc-by",
@@ -13806,7 +13802,7 @@
         "method/review"
       ],
       "clinical_significance": "high",
-      "key_findings": "QTc prolongation occurs at therapeutic doses even without pre-existing cardiac conditions; CYP2D6 poor metabolisers at higher risk; safe dose ~0.87 mg/kg (10× lower than treatment doses); recommends genotyping + monitoring.",
+      "key_findings": "QTc prolongation at therapeutic doses even without cardiac history; CYP2D6 poor metabolisers at higher risk; safe dose ~0.87 mg/kg (10× lower, but may lack efficacy); recommends genotyping + monitoring.",
       "sample_size": null,
       "mortality_count": null,
       "mortality_scope": null,
@@ -13820,7 +13816,7 @@
         "Concurrent QT-prolonging medications",
         "Doses exceeding ~0.87 mg/kg without cardiac monitoring"
       ],
-      "dosing_range": "Safe dose ~0.87mg/kg (10× lower than therapeutic 8–20mg/kg)",
+      "dosing_range": "Safe dose ~0.87mg/kg (10× lower than therapeutic 8–14mg/kg)",
       "route": "oral",
       "source_pdf": "2026/Brunt2026_Ibogaine_Cardiovascular_Complications.pdf",
       "journal": "Addiction",

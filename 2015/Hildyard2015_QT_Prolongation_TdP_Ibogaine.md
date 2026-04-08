@@ -12,7 +12,7 @@ tags:
   - topic/adverse-event
   - topic/toxicity
   - method/case-report
-key_findings: "39yo male: QTc 640→730ms (day 2)→400ms (day 7) after 7g oral ibogaine. 8 episodes polymorphic VT/TdP, normal electrolytes. Suppressed by IV Mg 2g + transvenous overdrive pacing at 80bpm."
+key_findings: "39yo male: QT 640→730ms (day 2)→400ms (day 7) after 7g oral ibogaine; no QTc correction formula specified. 8 episodes polymorphic VT/TdP, normal electrolytes. Suppressed by IV Mg 2g + transvenous overdrive pacing at 80bpm."
 source_pdf: "2015/Hildyard2015_QT_Prolongation_TdP_Ibogaine.pdf"
 doi: "10.1016/j.jemermed.2015.06.051"
 pmid: "26329675"
@@ -48,7 +48,7 @@ licence_verified: true
 
 ## Abstract
 
-Case report of a 39-year-old male who presented with marked QT prolongation and pause-dependent polymorphic ventricular tachycardia (torsades de pointes) after ingesting 7 g of ibogaine purchased via the Internet. The patient, with a history of heroin addiction, experienced 3 seizures approximately 5 hours post-ingestion. ECG revealed sinus bradycardia (55 bpm) with QT interval of 640 ms. Serum electrolytes (K⁺, Mg²⁺, Ca²⁺), glucose, and troponin I were normal. Eight episodes of polymorphic VT occurred, 7 requiring electrical cardioversion. Treatment with IV magnesium 2 g, atropine 1 mg, and isoproterenol infusion failed to suppress dysrhythmias. Transvenous VVI overdrive pacing at 80 bpm completely suppressed the arrhythmias. QT prolongation peaked at 730 ms on day 2 and normalised gradually to 400 ms by day 7 at discharge.
+Case report of a 39-year-old male who presented with marked QT prolongation and pause-dependent polymorphic ventricular tachycardia (torsades de pointes) after ingesting 7 g of ibogaine purchased via the Internet. The patient, with a history of heroin addiction, had not used heroin for 2 days prior to ingestion. He experienced 3 seizures approximately 5 hours post-ingestion. On presentation: modified GCS 14, heart rate 55 bpm (sinus bradycardia), BP 120/70 mmHg, with QT interval of 640 ms on ECG. Serum electrolytes (K⁺, Mg²⁺, Ca²⁺), glucose, and troponin I were normal. Eight episodes of polymorphic VT occurred, 7 requiring electrical cardioversion. Treatment with IV magnesium 2 g, atropine 1 mg, and isoproterenol infusion failed to suppress dysrhythmias. Transvenous VVI overdrive pacing at 80 bpm completely suppressed the arrhythmias. QT prolongation peaked at 730 ms on day 2 and normalised gradually to 400 ms by day 7 at discharge.
 
 ## Key Findings
 
@@ -81,7 +81,7 @@ Single case report from John Radcliffe Hospital, Oxford, UK. Emergency presentat
 ### Treatment Response
 1. **IV magnesium 2 g** — administered but insufficient alone
 2. **Atropine 1 mg** — insufficient to resolve bradycardia
-3. **Isoproterenol infusion 2.5 µg/min** — patient remained bradycardic with ongoing VT bursts
+3. **Isoproterenol infusion 2.5 µg/min** — patient remained bradycardic with ongoing VT bursts — *Note: the paper prints "2.5 mg per minute"; corrected to µg/min based on standard isoproterenol dosing ranges (1–10 µg/min) — 2.5 mg/min would be supraphysiological*
 4. **Transvenous VVI overdrive pacing at 80 bpm** — **completely suppressed all dysrhythmias**
 5. Isoproterenol discontinued day 1; pacing withdrawn at 72 hours with no VT recurrence
 
@@ -93,7 +93,7 @@ Single case report from John Radcliffe Hospital, Oxford, UK. Emergency presentat
 
 ## Pharmacological Context
 
-The authors note ibogaine exerts psychotropic effects through agonism at opioid receptors, antagonism at NMDA glutamate receptors, and antagonism at α3β4 nicotinic acetylcholine receptors. The proposed cardiotoxicity mechanism involves ibogaine reducing current flow through delayed rectifier potassium channels (hERG), consequently delaying cardiac repolarisation and resulting in QT prolongation with increased risk of ventricular dysrhythmia.
+The authors note ibogaine exerts psychotropic effects through agonism at opioid receptors, antagonism at NMDA glutamate receptors, and antagonism at α3β4 nicotinic acetylcholine receptors. The proposed cardiotoxicity mechanism involves ibogaine reducing current flow through delayed rectifier potassium channels (hERG), consequently delaying cardiac repolarisation and resulting in QT prolongation with increased risk of ventricular dysrhythmia. *(Note: the paper reads "delays cardiac depolarization" — this is a mechanistic error in the published text; hERG channel blockade delays repolarisation, not depolarisation.)*
 
 ## Clinical Implications
 
@@ -108,6 +108,10 @@ This case is highly instructive for clinical protocols on several fronts:
 **Dose context:** The 7 g dose is notably high and was self-administered without medical supervision. This represents the uncontrolled end of ibogaine use; however, the clean pharmacological picture (no confounders) paradoxically makes this one of the strongest cases for ibogaine's intrinsic cardiotoxicity.
 
 **Seizure risk:** The patient experienced seizures on both ibogaine exposures, suggesting individual susceptibility. Seizure history should be considered in risk stratification.
+
+**Regulatory context (as of 2015):** The paper notes ibogaine was unlicensed but legal in the United Kingdom at the time of publication, while prohibited in the United States, Belgium, Denmark, France, Sweden, Switzerland, and Australia. This legal status facilitated unregulated internet purchasing and unsupervised self-administration.
+
+**Historical evidence context:** The authors note that a phase I dose-escalation trial of ibogaine reported no adverse events but was discontinued prematurely over commercial issues. Subsequent experience was limited to two open-label case series, the first of which reported a single death from respiratory failure possibly complicated by ongoing opioid use.
 
 ## Limitations
 
@@ -125,5 +129,5 @@ This case is highly instructive for clinical protocols on several fronts:
 - [Hoelen2009_Long_QT_Ibogaine](../2009/Hoelen2009_Long_QT_Ibogaine.md) — earlier ibogaine QT prolongation case report (NEJM)
 - [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — systematic review of ibogaine-associated fatalities
 - [Paling2012_Life_Threatening_Complications](../2012/Paling2012_Life_Threatening_Complications.md) — three further ibogaine cardiac case reports
-- [Thurner2014_hERG_Channel_Block_Ibogaine](../2014/Thurner2014_hERG_Channel_Block_Ibogaine.md) — electrophysiological evidence for ibogaine hERG channel blockade
+- [Thurner2014_hERG_Channel_Block_Ibogaine](../2014/Thurner2014_hERG_Channel_Block_Ibogaine.md) — detailed hERG channel block mechanism (same research group as Koenig 2014). *Note: this paper's ref 21 cites Koenig et al. (2014) "Anti-addiction drug ibogaine inhibits hERG channels: a cardiac arrhythmia risk" (Addict Biol 19:237–9) — a separate publication from the same Hilber/Koenig lab; no standalone Koenig2014 vault entry exists*
 - [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)

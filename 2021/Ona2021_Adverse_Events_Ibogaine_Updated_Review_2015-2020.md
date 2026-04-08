@@ -76,11 +76,15 @@ This ICEERS-affiliated PRISMA systematic review provides the most current advers
 
 **Cardiac adverse events dominate the safety profile.** QTc prolongation was the most common serious adverse event, with documented values reaching 788 ms (Grogan et al. 2019), 730 ms (Hildyard 2016; Meisner 2016), 714 ms (Steinberg & Deyell 2018), 647 ms (Henstra 2017), 527 ms (O'Connell 2015), 516 ms (Knuijver 2018), and 512 ms (Wilson 2021). Torsade de pointes occurred in 5 of the 18 studies — a striking proportion indicating that QTc prolongation in ibogaine cases frequently progresses to life-threatening arrhythmia.
 
-**One fatality occurred within the review period** (Meisner et al. 2016): cardiac arrest following ibogaine ingestion complicated by naloxone, vasopressor, and morphine administration. This brings the cumulative published ibogaine fatality count to approximately 23 (19 + 3 + 1) across the three systematic reviews spanning 1990–2020.
+**One fatality occurred within the review period** (Meisner et al. 2016): cardiac arrest following ibogaine ingestion complicated by naloxone, vasopressor, and morphine administration. [Vault synthesis across Alper 2012, Koenig & Hilber 2015, and this review — Ona et al. do not compute this sum.] The cumulative published ibogaine fatality count across the three systematic reviews spanning 1990–2020 is approximately 23 (19 + 3 + 1), though deduplication across review windows has not been formally assessed.
 
 **Controlled settings produce dramatically different safety profiles.** The two clinical trials (Glue et al. 2015, 2016) using pharmaceutical-grade ibogaine (20 mg) and noribogaine (60–180 mg) in hospital settings with cardiac monitoring reported no serious adverse events — only transient light perception changes, headache, and nausea. This controlled-vs-uncontrolled dichotomy is the single most important finding for clinical practice.
 
 **Product quality is catastrophically unreliable.** Bouso et al. (2020), cited by this review, analysed 16 ibogaine products from treatment providers: root bark ranged 0.6–11.2% ibogaine, "purified total alkaloid" ranged 8.2–32.9%, and products labelled "ibogaine HCl" ranged from 0% to 73.4% — one sample contained no ibogaine whatsoever.
+
+**Participant characteristics reveal high-risk population.** Among the 15 case reports, substance-use histories included opioids (n=163), cocaine (n=89), polysubstance use (n=5), and alcohol (n=1). The cocaine count is clinically significant — cocaine's own cardiotoxicity is a major confounder for ibogaine cardiac event attribution. The Mash et al. (2018) open-label case series (n=191, the largest dataset in this review) found 52.9% of patients met clinical criteria for major depressive disorder or depression, underscoring psychiatric comorbidity prevalence in this treatment-seeking population.
+
+**Adverse event duration is more favourable than the severe cases suggest.** Almost half of the included studies (8 of 18) reported absence of effects after the first 24 hours, including both controlled trials, the observational study, and five case reports. This provides essential baseline context: while the severe cases dominate clinical attention, a substantial proportion of documented ibogaine administrations produced only transient effects.
 
 ## Methodology
 
@@ -128,7 +132,7 @@ PRISMA-compliant systematic review covering July 2015 to July 2020, designed to 
 | Study | Compound | Dose | Setting | Serious AEs | Notable Findings |
 |-------|----------|------|---------|-------------|-----------------|
 | Glue et al. 2015 | Ibogaine | 20 mg | Hospital, double-blind | None | CYP2D6 interaction with paroxetine: 2× exposure |
-| Glue et al. 2016 | Noribogaine | 60, 120, 180 mg | Hospital, double-blind | None | Dose-dependent QTc prolongation, well tolerated |
+| Glue et al. 2016 | Noribogaine | 60, 120, 180 mg | Hospital, double-blind | None | QTc prolongation reported (described as "dose-dependent" in Introduction via dos Santos et al. 2016, not in this review's own Results); non-significant effect on opioid withdrawal symptoms; slow elimination time 24–30 h; well tolerated |
 | Brown & Alper 2018 | Ibogaine | Not specified | Observational, n=30 | Not specified | Opioid detoxification outcomes |
 
 *The absence of serious adverse events in controlled settings versus their prevalence in uncontrolled settings constitutes the review's most clinically actionable finding.*
@@ -158,13 +162,19 @@ This review crystallises the central paradox of ibogaine's safety evidence: the 
 
 1. **The setting is the safety intervention.** The starkest finding is the complete divergence in adverse event profiles between controlled and uncontrolled settings. Hospital-based trials with pharmaceutical-grade product, cardiac monitoring, and medical supervision reported no serious adverse events. Case reports from internet-purchased products in unmonitored settings produced QTc values exceeding 700 ms, seizures, and death. For clinical programmes, this is confirmatory: the protocol *is* the safety mechanism. Every element — electrolyte correction, ECG monitoring, standardised pharmaceutical-grade product, medical screening — addresses a specific failure mode documented in this case literature.
 
-2. **QTc surveillance must be extended, not just initiated.** The review documents QTc prolongation persisting ≥7 days in some cases, consistent with noribogaine's 28–49 h half-life providing sustained hERG blockade. clinical monitoring window must account for noribogaine pharmacokinetics, not just the ibogaine phase. The Henstra et al. (2017) case provided toxicokinetic data showing noribogaine levels remained elevated during the prolonged arrhythmia period.
+2. **QTc surveillance must be extended, not just initiated.** The review documents QTc prolongation persisting ≥7 days in some cases, consistent with noribogaine's slow elimination time (24–30 h as reported by this review; primary Glue 2016 data reports 28–49 h) providing sustained hERG blockade. clinical monitoring window must account for noribogaine pharmacokinetics, not just the ibogaine phase. The Henstra et al. (2017) case provided toxicokinetic data showing noribogaine levels remained elevated during the prolonged arrhythmia period.
 
 3. **The 63% TdP progression rate demands contextualisation.** Five of eight QTc-reporting studies documented torsade de pointes — but this apparent 63% progression rate reflects extreme ascertainment bias. Cases presenting to emergency departments with documented QTc values are the most severe end of the distribution; the vast majority of ibogaine administrations never generate case reports. Nevertheless, the absolute QTc values (512–788 ms) demonstrate that ibogaine can produce profound repolarisation delay, and the consistent TdP finding in severe cases validates aggressive cardiac monitoring as non-negotiable.
 
 4. **Product standardisation is a prerequisite for safety.** The Bouso et al. (2020) product analysis revealing 0–73.4% ibogaine in "HCl" products renders dose-response safety assessment impossible. This review's recommendation for Phase I trials with standardised products aligns with the use of pharmaceutical-grade ibogaine HCl — a necessary condition for any meaningful safety evaluation.
 
 5. **CYP2D6 genotyping is pharmacokinetically justified.** The Glue et al. (2015) finding of 2× ibogaine/noribogaine exposure with paroxetine (CYP2D6 inhibitor) pre-treatment provides direct pharmacokinetic evidence that CYP2D6 poor metabolisers will experience doubled drug exposure and correspondingly amplified hERG blockade and QTc prolongation. This supports pre-treatment CYP2D6 genotyping or, at minimum, identification and cessation of CYP2D6 inhibitors.
+
+6. **Electrolyte correction is the single most important pre-treatment intervention.** The quantitative evidence from prior reviews cited by Ona et al. is stark: Alper et al. (2012) found 12 of 19 deaths had pre-existing cardiovascular, hepatic, or other diseases; Koenig & Hilber (2015) found all fatalities were associated with hypokalemia, and 50% with hypomagnesemia. The universal hypokalemia association makes electrolyte screening and correction the highest-yield safety measure available.
+
+7. **Seizure risk has identifiable pharmacological mechanisms.** The review identifies three mechanistic pathways for ibogaine-associated seizures: (a) 5-HT₂ₐ receptor agonism leading to increased glutamatergic tone; (b) NMDA receptor antagonism, which paradoxically failed to prevent seizures; and (c) a disinhibition/glucocorticoid hypothesis, whereby suppression of inhibitory interneurons triggers glucocorticoid release that increases seizure susceptibility. The 5-HT₂ₐ→glutamate pathway implies that serotonergic co-medications could potentiate seizure risk.
+
+8. **Preclinical neurotoxicity is dose-dependent and species-variable.** The review cites Purkinje cell degeneration in rats at 40–100 mg/kg IP, no neurotoxicity at 10 mg/kg daily for 60 days, and no evidence of neurotoxicity in monkeys at 5–25 mg/kg oral or 100 mg/kg SC (Mash et al. 2018). A neuropathological evaluation of one human volunteer who received four ibogaine doses revealed no cerebellar damage. The dose threshold for neurotoxicity appears well above typical clinical doses, but the preclinical evidence establishes a ceiling.
 
 ## Limitations
 
@@ -214,7 +224,7 @@ Across the 18 studies, documented interventions for ibogaine-related adverse eve
 
 - [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Foundational 1990–2008 fatality review (n=19) that this paper directly extends; together they form the complete ibogaine fatality surveillance series
 - [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Intermediate 2009–2014 review (n=3 deaths, n=8 SAEs); the three reviews collectively cover 1990–2020
-- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Provides the IC₅₀ values (ibogaine 4.09 μM, noribogaine 2.86 μM) cited by Ona et al. to explain the cardiac mechanism underlying the adverse events documented here
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Provides the IC₅₀ values cited by Ona et al.: ibogaine 4.09 ± 0.69 µM (semisynthesis via voacangine) and 3.53 ± 0.16 µM (extraction from *T. iboga*); noribogaine 2.86 ± 0.68 µM. The synthesis-method difference in hERG potency has formulation safety implications
 - [Mazoyer2013_Fatality_Case](../2013/Mazoyer2013_Fatality_Case.md) — French fatality case illustrating the polypharmacy (ibogaine + methadone + diazepam) and uncontrolled-setting risks this review catalogues
 - [Steinberg2018_Cardiac_Arrest_Case](../2018/Steinberg2018_Cardiac_Arrest_Case.md) — One of the 18 included studies; cardiac arrest with QTc 714 ms
 - [Meisner2016_Cardiac_Arrest_Death_Case](../2016/Meisner2016_Cardiac_Arrest_Death_Case.md) — The single fatality within this review's 2015–2020 window

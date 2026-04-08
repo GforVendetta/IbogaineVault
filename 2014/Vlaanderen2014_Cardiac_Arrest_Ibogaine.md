@@ -33,7 +33,8 @@ qtc_data: true
 electrolyte_data: true
 herg_data: false
 contraindications: []
-dosing_range: "2400 mg oral (single dose, ~32.4 mg/kg)"
+dosing_range: "2400 mg oral (~32.4 mg/kg)"
+
 route: oral
 open_access: false
 publisher: "Informa Healthcare"
@@ -65,7 +66,7 @@ Single case report published as a Letter to the Editor. Toxicological screening 
 
 ## Cardiac Safety Data
 
-**QTc prolongation:** Documented from admission through 32 hours post-admission, maximum 663 ms at 18 hours post-arrest. Pre-ingestion ECG was normal. The authors acknowledge that propofol and therapeutic hypothermia may have contributed to or exacerbated the QTc prolongation, but emphasise ibogaine's established association with QTc prolongation.
+**QTc prolongation:** Documented from admission through 32 hours post-admission, maximum 663 ms at 18 hours post-arrest. Pre-ingestion ECG was normal, and the patient had a normal cardiology exam prior to ibogaine use. There was no suspicion of other drugs or medication taken by the patient. The authors acknowledge that propofol and therapeutic hypothermia may have contributed to or exacerbated the QTc prolongation, but emphasise ibogaine's established association with QTc prolongation.
 
 **Ventricular fibrillation:** Out-of-hospital VF arrest occurring ~5 hours post-ingestion. ROSC achieved after 20 minutes.
 
@@ -91,13 +92,15 @@ The cardiac arrest occurred at approximately 5 hours post-ingestion — within t
 
 The patient was previously healthy with a normal pre-ingestion ECG and normal electrolytes, yet still experienced life-threatening arrhythmia. This demonstrates that cardiac risk cannot be eliminated by pre-screening alone at high doses, supporting the argument for controlled dosing environments with immediate defibrillation capability.
 
-The QTc peak at 663 ms occurred 18 hours post-arrest (~23 hours post-ingestion), confirming that cardiac monitoring must extend well beyond the acute psychoactive phase. The prolonged QTc window (up to 32 hours) aligns with ibogaine's long half-life and the additional contribution of its active metabolite noribogaine.
+The QTc peak at 663 ms occurred 18 hours post-arrest (~23 hours post-ingestion), confirming that cardiac monitoring must extend well beyond the acute psychoactive phase. The prolonged QTc window (up to 32 hours) aligns with ibogaine's long half-life. Noribogaine's contribution to prolonged QTc, established in other studies, was not assessed in this case — no noribogaine levels were measured.
 
 The severe neurological outcome — permanent cognitive deficits and vision loss from 20 minutes of cardiac arrest — illustrates the catastrophic consequences of inadequate monitoring and delayed intervention. In a clinical setting with continuous monitoring, the VF would likely have been detected and defibrillated within seconds rather than minutes.
 
+The authors explicitly concluded that ibogaine use "should be strongly discouraged," noting that while it is available in different pharmaceutical forms, its effects can be devastating.
+
 ## Limitations
 
-As a single case report (Letter to the Editor format), this provides limited evidence for dose-response or mechanistic conclusions. The contribution of propofol and therapeutic hypothermia to QTc prolongation cannot be fully disentangled from ibogaine's effect. No noribogaine levels were measured. The unsupervised, non-clinical context limits generalisability to controlled treatment settings.
+As a single case report (Letter to the Editor format), this provides limited evidence for dose-response or mechanistic conclusions. The contribution of propofol and therapeutic hypothermia to QTc prolongation cannot be fully disentangled from ibogaine's effect. No noribogaine levels were measured. Ibogaine formulation, purity, and source were not reported — limiting interpretation of the dose-response relationship at 2400 mg. The unsupervised, non-clinical context limits generalisability to controlled treatment settings.
 
 ---
 

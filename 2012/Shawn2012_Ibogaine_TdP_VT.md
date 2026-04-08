@@ -37,7 +37,6 @@ contraindications:
   - "Aggressive cathartic use prior to ibogaine (caused persistent hypokalemia)"
   - "Combined ibogaine HCl and root bark extract administration (dual-source dosing)"
   - "Non-medical setting without continuous cardiac monitoring"
-  - "History of IV heroin use"
 dosing_range: "10.5 mg/kg ibogaine HCl (85–98% purity) + 14 mg/kg T. iboga root bark extract (50% alkaloids) over 15 hours"
 route: oral
 open_access: false
@@ -127,6 +126,10 @@ Key implications for clinical screening and monitoring:
 - Exact timeline of arrhythmia onset relative to each dose component is not specified
 - Cathartic use details (type, quantity, timing) not provided
 - No ibogaine/noribogaine blood levels reported
+- No toxicology screening or coingestant data reported — patient was on short-acting opioids one month prior and treated in a nonmedical setting
+- No follow-up data beyond day 6 — given noribogaine's long half-life (~28–49 hours), cardiac risk may persist beyond the documented observation window
+- Temporal anchoring is inconsistent: "hospital day four" is used once, but subsequent references ("day five", "day six") omit the "hospital" qualifier, introducing mild ambiguity
+- Ibogaine HCl purity range of 85–98% represents a 13-percentage-point uncertainty in actual dose; root bark "50% alkaloids" does not specify ibogaine fraction
 
 ---
 
