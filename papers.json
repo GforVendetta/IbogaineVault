@@ -1,7 +1,7 @@
 {
   "vault": "IbogaineVault",
   "version": "1.0.1",
-  "generated_at": "2026-04-08T09:26:19Z",
+  "generated_at": "2026-04-18T18:08:28Z",
   "paper_count": 303,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
@@ -4301,8 +4301,8 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "N/A (receptor binding Ki 0.57 µM)",
-      "route": "not-specified",
+      "dosing_range": "Kd 0.46 µM; Ki 0.37 µM desensitised / 1.05 µM resting ([³H]ibogaine competition)",
+      "route": "not-applicable",
       "source_pdf": "2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human.pdf",
       "journal": "International Journal of Biochemistry & Cell Biology",
       "aliases": [
@@ -6772,7 +6772,7 @@
       "sample_size": 27,
       "mortality_count": null,
       "mortality_scope": null,
-      "qtc_data": true,
+      "qtc_data": false,
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
@@ -7456,8 +7456,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [
-        "QTc prolongation risk even at low doses — medical supervision required",
-        "Bradycardia risk — HR dropped from 85 to 53 bpm at 400-500 mg doses"
+        "none-stated"
       ],
       "dosing_range": "5 ascending doses (150, 300, 400, 500, 600 mg oral) alternating with halving methadone doses over 6 weeks",
       "route": "oral",
@@ -10941,7 +10940,7 @@
       "mortality_scope": null,
       "qtc_data": true,
       "herg_data": false,
-      "electrolyte_data": true,
+      "electrolyte_data": false,
       "contraindications": [
         "Administration in uncontrolled settings without medical supervision",
         "Absence of cardiac monitoring equipment (ECG/telemetry)",
@@ -10955,8 +10954,7 @@
         "Concomitant use of psychotropic medications without adequate discontinuation",
         "Concurrent use of other substances of abuse",
         "Unknown-purity or uncharacterised ibogaine preparations (root bark, unverified extracts)",
-        "Nutritional deficiencies (risk factor for QT prolongation)",
-        "QTc prolongation >500ms (emergency magnesium protocol threshold per Knuijver)"
+        "Nutritional deficiencies (risk factor for QT prolongation)"
       ],
       "dosing_range": "Ibogaine HCl 20–800 mg or 8–12 mg/kg; noribogaine HCl 3–180 mg; one study used 1800 mg encapsulated extract (75% purity) — all oral, across 12 reviewed clinical studies",
       "route": "oral",
@@ -11005,19 +11003,16 @@
         "method/review"
       ],
       "clinical_significance": "high",
-      "key_findings": "USP/LEAPS clinical protocols: 72h cardiac monitoring, electrolyte targets K+ 4.5-5.5/Mg 1.5-2.5, medication tapering schedules, 3-person minimum team, trauma-informed approach framework.",
+      "key_findings": "USP/LEAPS clinical protocols: ECG and electrolyte screening required (thresholds deferred to cited guidelines), 72h monitoring endorsed per GITA, medication tapering schedules, 3-person minimum team, trauma-informed approach framework.",
       "sample_size": null,
       "mortality_count": null,
       "mortality_scope": null,
-      "qtc_data": true,
+      "qtc_data": false,
       "herg_data": false,
-      "electrolyte_data": true,
+      "electrolyte_data": false,
       "contraindications": [
-        "QTc >450ms (males) or >470ms (females)",
-        "K+ outside 4.5-5.5 mEq/L",
-        "Mg outside 1.5-2.5 mEq/L",
         "Personal or family history of psychosis, bipolar disorder, or schizophrenia",
-        "Recent cardiac, renal, or hepatic pathology",
+        "Recent cardiac, renal, or hepatic pathology (note: 'recent' is not defined by the paper)",
         "Pregnancy or lactation",
         "Concurrent uncontrolled psychotropic medication use",
         "Severe dissociative symptoms or severe personality disorders",
@@ -11026,8 +11021,8 @@
         "Drug-induced psychosis history",
         "Uncontrolled general medical pathologies"
       ],
-      "dosing_range": "Per GITA guidelines; 72h monitoring minimum",
-      "route": "oral",
+      "dosing_range": "Not specified",
+      "route": "not-specified",
       "source_pdf": "2023/Rocha2023_USP_Safety_Protocols.pdf",
       "journal": "Psychoactives",
       "aliases": [
@@ -11254,22 +11249,22 @@
       "sample_size": null,
       "mortality_count": null,
       "mortality_scope": null,
-      "qtc_data": true,
+      "qtc_data": false,
       "herg_data": false,
-      "electrolyte_data": true,
+      "electrolyte_data": false,
       "contraindications": [
-        "Pre-existing cardiac conditions (coronary artery sclerosis, hypertension, myocardial infarct, cardiac hypertrophy, dilated cardiomyopathy)",
-        "Prolonged baseline QT interval, including drug-induced (antibiotics, antidepressants)",
-        "hERG mutations associated with long-QT syndrome",
-        "Concurrent long-acting opioids — must switch to short-acting opioids up to two weeks in advance",
-        "Poor CYP2D6 metabolism (risk factor for impaired ibogaine clearance; methadone also inhibits CYP2D6)",
-        "Motor impairment conditions (Parkinson's disease, multiple sclerosis — potential contraindication, not yet studied)",
-        "Concurrent medications without proper washout",
-        "Multiple concurrent substance addictions (polysubstance use increases fatality risk)",
-        "History of mania or psychosis (3 reported cases, all in unregulated settings)"
+        "Pre-existing cardiac conditions (coronary artery sclerosis, hypertension, myocardial infarct, cardiac hypertrophy, dilated cardiomyopathy) [evidence: fatality review — 6/19 cases]",
+        "Prolonged baseline QT interval, including drug-induced (antibiotics, antidepressants) [evidence: hERG channel mechanism + clinical pharmacology]",
+        "hERG mutations associated with long-QT syndrome [evidence: genetic/mechanistic literature]",
+        "Concurrent long-acting opioids — must switch to short-acting opioids up to two weeks in advance [evidence: fatality review + pharmacokinetic interaction — nearest operational exclusion]",
+        "Poor CYP2D6 metabolism (risk factor for impaired ibogaine clearance; methadone also inhibits CYP2D6) [evidence: pharmacokinetic rationale]",
+        "Motor impairment conditions (Parkinson's disease, multiple sclerosis) [evidence: precautionary principle only — 'has yet to be investigated in a study']",
+        "Concurrent QT-prolonging medications — antibiotics, antidepressants (no washout intervals specified in this paper)",
+        "Multiple concurrent substance addictions (polysubstance use increases fatality risk) [evidence: fatality review — deaths with concurrent cocaine, alcohol, methamphetamine]",
+        "History of mania or psychosis (3 reported cases, all in unregulated settings) [evidence: case reports — protocol adherence unknown]"
       ],
-      "dosing_range": "6–30 mg/kg (therapeutic range)",
-      "route": "oral",
+      "dosing_range": "6–30 mg/kg (cited as typical therapeutic range in neurotoxicity comparison — not a prescribing recommendation)",
+      "route": "not-specified",
       "source_pdf": "2024/Cherian2024_Ibogaine_Primer_Clinicians.pdf",
       "journal": "American Journal of Therapeutics",
       "aliases": [
@@ -11713,13 +11708,13 @@
       "mortality_scope": null,
       "qtc_data": true,
       "herg_data": false,
-      "electrolyte_data": true,
+      "electrolyte_data": false,
       "contraindications": [
         "Clinically significant cardiac disease (including ventricular fibrillation, long QT syndrome, syncope history)",
         "Baseline QTc >450ms (men) or >470ms (women)",
         "Serum potassium <3.5 or >5.0 mmol/L",
         "Severe hepatic or renal dysfunction (eGFR <30)",
-        "Concurrent QTc-prolonging or CYP2D6-affecting medications",
+        "Concurrent QTc-prolonging or CYP2D6-affecting medications (other than methadone) at screening",
         "Major depressive or psychotic symptoms"
       ],
       "dosing_range": null,
@@ -16361,9 +16356,9 @@
         "method/journalism"
       ],
       "clinical_significance": "moderate",
-      "key_findings": "Documents 5 ibogaine fatalities (2024-2026): Ambio, SoulCentro, IbogaQuest, Holos/Costa Rica, Haman/Colorado; advocates transparency over cover-ups; cites 1-in-427 fatality estimate; GITA warnings on nitazene/xylazine detection failures",
+      "key_findings": "Documents 4 ibogaine fatalities (2024-2026): Ambio, SoulCentro, Holos/Costa Rica, Haman/Colorado; advocates transparency over cover-ups; cites 1-in-427 fatality estimate; GITA warnings on nitazene/xylazine detection failures",
       "sample_size": null,
-      "mortality_count": 5,
+      "mortality_count": 4,
       "mortality_scope": "discrete-cases",
       "qtc_data": false,
       "herg_data": false,

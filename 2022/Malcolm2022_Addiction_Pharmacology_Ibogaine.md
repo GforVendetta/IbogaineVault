@@ -62,6 +62,8 @@ licence_verified: false
 
 Educational presentation from Benjamin Malcolm's Psychedelic Pharmacology course, delivered as a slide-based lecture. Malcolm (PharmD, MPH, BCPP) is a Board Certified Psychiatric Pharmacist and psychopharmacology consultant with training from UC San Diego Health. The presentation provides a comprehensive overview of ibogaine covering its history, pharmacology, pharmacokinetics, toxicology, clinical use in substance use disorders, and contraindications.
 
+Malcolm is the principal of Spirit Pharmacist LLC, a psychopharmacology consulting and education business (self-identified on slide 3 via Spiritpharmacist.com branding); his formal course disclosure (slide 2) reports no relationship with an ACCME-ineligible company.
+
 ## Learning Objectives
 
 1. Review the history of iboga, ibogaine, and available forms
@@ -77,6 +79,8 @@ Educational presentation from Benjamin Malcolm's Psychedelic Pharmacology course
 - Lotsof patented ibogaine as an "interrupter of narcotic addiction" for several substances beginning in 1985
 - Despite apparently "miraculous" nature of addiction interruption, no formal clinical trial has yet been conducted for ibogaine in addiction (as of 2022)
 
+Note: the no-formal-trial claim is cited to Popik et al. 1995 — a citation temporally disjoint from the 2022 status assertion. The claim is presented unscoped on slide 6; it is defensible for racemic ibogaine in SUD but not for noribogaine, for which the same deck cites Glue et al. ascending-dose studies elsewhere.
+
 ## Forms of Ibogaine
 
 | Form | Description |
@@ -84,6 +88,22 @@ Educational presentation from Benjamin Malcolm's Psychedelic Pharmacology course
 | Iboga root bark | Dried and ground root bark; large quantities of fibrous plant material needed; contains all alkaloids |
 | Total Alkaloid (TA) Extract | Extraction of psychoactive alkaloid content; lesser quantities needed; contains all alkaloids |
 | Ibogaine HCl | Extracted and purified or semi-synthetically produced; smallest quantity needed; isolates ibogaine |
+
+Malcolm's source table (Iyer 2021) identifies five iboga alkaloids across plant species: ibogaine, ibogamine, voacangine, coronaridine, and catharanthine. Total Alkaloid extract contains all five plus minor alkaloids.
+
+### Plant Source Alkaloid Composition (Iyer 2021, imported)
+
+| Plant species | Ibogaine (%) | Ibogamine (%) | Voacangine (%) | Coronaridine (%) | Catharanthine (%) |
+|---|---|---|---|---|---|
+| *T. iboga*⁹⁻¹² | 0.27–0.32 | 0.097–0.40 | 0.043–0.28 | NR | NR |
+| *V. africana*¹³ | 0.25 | TR | 1.67 | TR | NR |
+| *T. arborea*¹²,¹³ | 0.27 | 0.036 | 0.96 | 0.073 | NR |
+| *C. roseus*¹⁴ | NR | NR | NR | NR | 0.003–0.099 |
+| *T. alba*¹² | 0.046–0.22 | 0.042–0.30 | 0.033–0.96 | 0.075–0.52 | NR |
+| *T. donnell-smithii*¹² | 0.069–0.74 | 0.028–0.032 | 0.21–0.44 | 0.046–0.23 | NR |
+| *T. amygdalifolia*¹² | 0.047 | 0.76–0.96 | 0.19–0.22 | 1.092–1.38 | NR |
+
+Percentages indicate weight of alkaloid free base relative to weight of plant source. TR = trace (<0.01%). NR = not reported. Reference superscripts are Iyer's internal citations preserved for source fidelity. Imported from Iyer 2021 as review-level data, not Malcolm's own measurements.
 
 ## Pharmacodynamics
 
@@ -98,7 +118,7 @@ Malcolm presents ibogaine's pharmacology as "completely opaque, pushing the limi
 | δ opioid | >100 | 25 |
 | NMDA | 1–3 | 6 |
 | σ-1 | 9 | 15 |
-| σ-2 | 0.09–0.25 | — |
+| σ-2 | 0.09–0.2 | 5 |
 | DAT | 2 | 2 |
 | SERT | 0.5 | 0.04 |
 | α3β4 | 0.02 | 1.5 |
@@ -125,6 +145,7 @@ Malcolm places ibogaine in context with other psychedelic classes, noting its un
 
 ## Pharmacokinetics
 
+- Acute psychedelic experience duration is long — 18–30 hours per Malcolm's framing (slide 7)
 - Metabolism dependent on liver function; CYP2D6 is the most implicated enzyme
 - Long-acting active metabolite noribogaine likely plays a significant clinical role
 - Lipophilic drug that sequesters in body tissues — complex pharmacokinetics
@@ -145,6 +166,7 @@ Malcolm places ibogaine in context with other psychedelic classes, noting its un
 - Case reports of ventricular arrhythmias with ibogaine use even without concurrent medication or risk factors
 - Significant QTc prolongation (>500 ms; >60 ms increase from baseline) has occurred with relatively low doses
 - Over 20 deaths reported in the medical literature 1990–2021
+- Note: the ">20 deaths 1990–2021" claim is cited to Alper 2012 (slide 25), which cannot on its own substantiate a count extending through 2021; the actual 2022 figure implicitly draws on later fatality syntheses (e.g. Corkery 2020) not cited on the slide.
 
 ### Noribogaine Dose-Ranging QTc Data
 
@@ -218,8 +240,9 @@ This presentation provides a pharmacist's perspective on ibogaine, notable for:
 - Presentation format — slide deck with limited space for nuance or methodological detail
 - No original data; entirely synthesises existing literature (primarily Litjens 2016, Alper 2012, Glue 2015/2016, GITA 2015)
 - Date of 2022 means it predates significant developments in ibogaine research (e.g., MISTIC protocol, Stanford TBI/PTSD trials)
-- Some receptor binding values presented without source specificity (values compiled from multiple papers)
+- Ki-panel provenance is under-specified: no species/orthologue identified; no recombinant vs native system specified; no assay temperature (22 °C vs 37 °C can differ 5–10× for some targets); binding vs functional assay type not distinguished; and Ki values appear to synthesise Litjens & Brunt 2016 + Mash 1998 + Glick & Maisonneuve 1998 without per-cell attribution. Clinicians querying Ki values for comparative selectivity should treat these as cross-study aggregates, not a single-laboratory dataset.
 - Quiz questions at the end are educational assessment tools, not research findings
+- Source-level typography: the deck renders NMDA as "NDMA" on two bullets (slides 10 and 18 — habitual transposition, not OCR). Vault uses NMDA throughout; source typos are clerical with no pharmacological impact.
 
 ---
 

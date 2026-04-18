@@ -31,7 +31,7 @@ source_pdf: "2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Sa
 evidence_level: systematic-review
 pmid: "36947216"
 qtc_data: true
-electrolyte_data: true
+electrolyte_data: false
 herg_data: false
 contraindications:
   - "Administration in uncontrolled settings without medical supervision"
@@ -47,7 +47,6 @@ contraindications:
   - "Concurrent use of other substances of abuse"
   - "Unknown-purity or uncharacterised ibogaine preparations (root bark, unverified extracts)"
   - "Nutritional deficiencies (risk factor for QT prolongation)"
-  - "QTc prolongation >500ms (emergency magnesium protocol threshold per Knuijver)"
 dosing_range: "Ibogaine HCl 20–800 mg or 8–12 mg/kg; noribogaine HCl 3–180 mg; one study used 1800 mg encapsulated extract (75% purity) — all oral, across 12 reviewed clinical studies"
 route: oral
 open_access: false
@@ -72,6 +71,8 @@ Ibogaine is a psychoactive alkaloid derived from the west-African shrub *Taberna
 The review's central finding is a stark dichotomy between controlled and uncontrolled ibogaine administration settings. Across the 12 clinical studies examined, adverse effects in controlled settings were uniformly mild to moderate (nausea, ataxia, headache, orthostatic hypotension, bradycardia) and self-limiting — resolving without medical intervention. No serious adverse events or fatalities were reported in any controlled clinical study. By contrast, prior systematic reviews of uncontrolled settings documented >25 fatalities, serious cardiovascular events, and outcomes requiring intensive care. The variable predicting safety was not the pharmacology of ibogaine itself but the treatment environment: medical screening, cardiac monitoring, pharmaceutical-grade preparations, and supervised clinical settings.
 
 Specific setting factors identified as safety-associated: (1) pre-treatment medical, psychiatric, and cardiac screening including baseline ECG and laboratory tests; (2) hospital or clinical facility administration with trained professionals; (3) continuous cardiac monitoring during and after administration; (4) use of pharmaceutical-grade ibogaine/noribogaine HCl with verified purity; (5) protocol for managing QTc prolongation including emergency magnesium administration; (6) post-treatment follow-up and psychological support.
+
+**Scope boundary:** The review explicitly disclaims providing an implementable operational protocol. The Conclusion calls for future research to determine "minimum necessary components" for ibogaine sessions and to produce "reliable guidelines." The safety factors above are synthesised observations from the reviewed studies, not validated standards — the paper defers the task of defining minimum operational requirements to future work.
 
 ## Methodology
 
@@ -100,7 +101,7 @@ The 12 included studies comprised 9 clinical studies in patients with substance 
 | ICEERS (ongoing) | Spain | RCT, quadruple-blind | 20 | Methadone maintenance | Ibogaine HCl | 100–600 mg ascending | — |
 | DemeRx (ongoing) | UK | Phase 1 open + Phase 2 RCT | 116 | Opioid-dependent | Ibogaine HCl | 3–12 mg/kg ascending | — |
 
-*Same sample as Glue et al. 2015a. All substances administered orally across all 12 studies.
+*Same sample as Glue et al. 2015a (note: the paper's Table 1 attributes Forsyth to "Glue et al. (2015b)," which appears to be a citation error — Glue 2015b is the noribogaine ascending-dose study with 36 healthy volunteers, whereas Forsyth's ibogaine/paroxetine design and N=21 healthy males match Glue 2015a). All substances administered orally across all 12 studies.
 
 ## Setting Factors Associated with Safety
 
@@ -110,7 +111,7 @@ All 12 studies (except DemeRx, which did not disclose screening data) described 
 
 ### Physical Environment
 
-Seven of 12 studies (58%) conducted sessions in hospital settings: Prior & Prior and ICEERS in general hospital medical wards; USP and Knuijver in psychiatric units (USP within a tertiary hospital); Glue et al. in inpatient clinical trial units. Mash et al. (2000, 2001, 2018) used a 12-bed freestanding facility in St. Kitts. DemeRx used a UK government-licensed clinical research facility. The more recent and ongoing studies provided substantially more detailed setting descriptions than earlier studies, reflecting increasing awareness of setting's role in safety outcomes.
+Seven of 12 studies (58%) conducted sessions in hospital settings: Prior & Prior and ICEERS in general hospital medical wards; USP and Knuijver in psychiatric units (USP within a tertiary hospital); Glue et al. in inpatient clinical trial units. Mash et al. (2000, 2001, 2018) used a 12-bed freestanding facility in St. Kitts. DemeRx used a UK government-licensed clinical research facility with a quiet room, headphones for music, and a trained "sitter" present throughout the active phase. The ICEERS hospital room is equipped with a bed, television, medical gas panel (*régua de gases*), vital signs monitors, and cardiac monitoring devices, with a researcher present throughout the 24-hour session. The more recent and ongoing studies provided substantially more detailed setting descriptions than earlier studies, reflecting increasing awareness of setting's role in safety outcomes.
 
 ### Cardiac Monitoring
 
@@ -118,7 +119,11 @@ Baseline ECG was required across all studies. The most detailed cardiac monitori
 
 ### Medication Management
 
-Four studies required participants to discontinue psychotropic medications or all medications prior to treatment. Two studies (Mash 2000, 2001) did not disclose medication status. Glue et al. 2016 was the exception: patients maintained treatment as usual, with 55% taking ≥1 medication including antipsychotics (11%), antidepressants (22%), and psychostimulants (4%). This is clinically significant — the majority of controlled studies required medication washout.
+Four studies required participants to discontinue psychotropic medications or all medications prior to treatment. Two studies (Mash 2000, 2001) did not disclose medication status. Glue et al. 2016 was the exception: patients maintained treatment as usual, with 55% taking ≥1 medication including antipsychotics (11%), antidepressants (22%), and psychostimulants (4%). This is clinically significant — the majority of controlled studies required medication washout. However, no washout durations are specified for any of the four studies requiring medication discontinuation — a critical operational gap for protocol implementation, particularly given the drug interaction data below.
+
+**Knuijver pre-treatment protocol:** Patients were admitted to an inpatient clinic and converted from opioid substitution treatment (OST) to oral morphine sulphate for 8 days before ibogaine administration. Ibogaine was administered in a yoghurt mixture with 20 mg metoclopramide (antiemetic) adjunct. Tobacco smoking was permitted up to 30 minutes pre-ingestion and again 4–6 hours post-ingestion in a designated smoking area, if the participant was ambulatory.
+
+**CYP2D6 drug interaction (Glue et al. 2015a):** Paroxetine pre-treatment induced a 26-fold increase in peak ibogaine concentration and a longer mean half-life (10.2 h vs 2.5 h, p < 0.05). Rocha et al. report this finding descriptively but do not operationalise it into a contraindication or washout recommendation. Given the absence of specified washout durations across all studies, this interaction — involving a commonly prescribed SSRI and potent CYP2D6 inhibitor — represents a significant unaddressed safety gap in the reviewed literature.
 
 ### Psychological Support
 
@@ -137,7 +142,7 @@ In controlled clinical settings, adverse effects were uniformly mild to moderate
 | Neurological (headache, dizziness, visual impairment) | Glue 2015b, Glue 2016 | Mild | Self-limiting |
 | Perceptual changes | Glue 2015a | Mild | Self-limiting |
 
-No serious adverse events requiring emergency medical intervention were reported in any controlled study. No fatalities occurred. This contrasts sharply with uncontrolled settings where prior reviews documented >25 fatalities (Alper et al. 2012: 19 deaths, 1990–2008; Koenig & Hilber 2015: 3 fatalities, 2009–2014), with most deaths occurring within 72 hours and in settings without medical screening, cardiac monitoring, or verified drug quality.
+No serious adverse events requiring emergency medical intervention were reported in any controlled study. No fatalities occurred. This contrasts sharply with uncontrolled settings where prior reviews documented >25 fatalities across multiple systematic reviews (including Alper et al. 2012: 19 deaths 1990–2008; Koenig & Hilber 2015: 3 fatalities 2009–2014; with additional cases documented in dos Santos et al. 2017, Kock et al. 2022, and Ona et al. 2022), with most deaths occurring within 72 hours and in settings without medical screening, cardiac monitoring, or verified drug quality.
 
 ## Cardiac Safety Data
 
@@ -145,7 +150,7 @@ The review identifies cardiac monitoring as one of the most important setting fa
 
 **Glue et al. 2016:** Dose-dependent QTc prolongation observed with noribogaine (60–180 mg) in opioid-dependent patients. No specific QTc values or thresholds reported in the review's extraction.
 
-**Knuijver et al. 2021:** Most detailed cardiac protocol. Mean QTc prolongation was 95 ms (range 29–146 ms). Six of 14 subjects (43%) had QTc >450 ms persisting beyond 24 hours post-administration. Emergency protocol: QTc >500 ms triggered magnesium bolus (2 g IV over 10 minutes) followed by 2 g magnesium over 10 hours, with CCU transfer available. This protocol represents the most explicit cardiac safety intervention described in any ibogaine clinical study to date.
+**Knuijver et al. 2021:** Most detailed cardiac protocol. QTc prolongation was 95 ms (range 29–146 ms) as reported by Rocha et al. (Note: Rocha describes this as "on average" but the original Knuijver paper may report a median rather than a mean; the primary source may also report a wider range. For applications requiring precise QTc thresholds, cross-reference against the [Knuijver 2021](../2021/Knuijver2021_Safety_Opioid_Detox.md) vault entry.) Six of 14 subjects (43%) had QTc >450 ms persisting beyond 24 hours post-administration. Emergency protocol: QTc >500 ms triggered magnesium bolus (2 g IV over 10 minutes) followed by 2 g magnesium over 10 hours, with CCU transfer available. This protocol represents the most explicit cardiac safety intervention described in any ibogaine clinical study to date.
 
 The review concludes that screening alone does not eliminate cardiovascular risk — case reports from non-clinical settings describe cardiotoxicity even in individuals with no prior cardiac history. Therefore, both rigorous pre-treatment screening AND continuous monitoring during and after administration are essential.
 
@@ -153,19 +158,25 @@ The review concludes that screening alone does not eliminate cardiovascular risk
 
 This review provides the strongest systematic evidence to date that treatment setting — not ibogaine pharmacology alone — is the primary determinant of safety outcomes. The clinical implications are direct:
 
-**For screening protocols:** All reviewed clinical studies required baseline ECG, laboratory testing, and psychiatric evaluation. The review supports these as minimum standards. Psychiatric exclusion criteria should include psychotic spectrum disorders, bipolar disorder, dissociative disorders, and active suicidality. Medical exclusion should include clinically significant cardiovascular, hepatic, or renal disease.
+**For screening protocols:** All reviewed clinical studies required baseline ECG, laboratory testing, and psychiatric evaluation. The review supports these as minimum standards, though it does not define specific thresholds for any screening measure. Note: the YAML contraindications list for this entry is a composite compiled from multiple included studies (which applied different exclusion criteria — e.g. Glue 2016 notably did not exclude psychotic disorders), risk factors identified from fatality reviews, and general safety principles. It does not represent a unified recommendation from Rocha et al. Psychiatric and medical exclusion criteria varied substantially across the 12 reviewed studies.
 
 **For treatment settings:** Hospital or clinical facility administration with continuous cardiac monitoring is strongly supported. The review documents a clear trend toward more controlled settings and more detailed monitoring protocols in more recent studies, suggesting the field itself is recognising setting as safety-critical.
 
-**For cardiac monitoring:** The Knuijver protocol (ECG every 30 minutes for 12 hours, then hourly if QTc prolonged, with magnesium rescue at QTc >500 ms) represents the current gold standard for monitored ibogaine administration as documented in the reviewed studies. The finding that screening alone does not eliminate cardiac risk — with cardiotoxicity cases in otherwise healthy individuals — reinforces that continuous monitoring is not optional.
+**For cardiac monitoring:** The Knuijver protocol (ECG every 30 minutes for 12 hours, then hourly if QTc prolonged, with magnesium rescue at QTc >500 ms) is the most detailed cardiac monitoring protocol reported in the reviewed studies, though it derives from a single open-label study with 14 participants and has not been independently validated. The finding that screening alone does not eliminate cardiac risk — with cardiotoxicity cases in otherwise healthy individuals — reinforces that continuous monitoring is not optional.
 
 **For drug quality:** The review contrasts pharmaceutical-grade ibogaine/noribogaine HCl (used in most clinical studies) with unknown-purity preparations used in uncontrolled settings. Bouso et al. (2020) analysis of 16 iboga products found ibogaine concentrations ranging 8.2–32.9% in extracts and 61.5–73.4% in HCl preparations, with one sample containing no ibogaine at all. Verified drug quality is identified as a critical setting factor.
 
 **For the broader ibogaine treatment landscape:** The review's findings are particularly relevant given that ibogaine use predominantly occurs in uncontrolled settings globally — hotel rooms, private clinics, and home environments where the safety factors identified here are absent.
 
+**Scope limitation:** The review describes and synthesises setting factors associated with safety but does not provide an implementable operational protocol. As the authors note, these are preliminary findings from small, heterogeneous studies, and they explicitly call for future research to define minimum standards and produce validated guidelines.
+
 ## Limitations
 
-As noted by the authors: small sample sizes across all studies (12–36 subjects per completed study, except Mash 2018 with N=191); significant heterogeneity in study designs, dosages, and outcome measures precluding meta-analysis; quality assessment averaging only 50% of criteria met; limited generalisability due to exclusion of participants with comorbid conditions (excluding up to 50% of real-world substance users who have comorbid psychiatric disorders); predominantly male samples (90% average); several studies did not report adverse events or setting characteristics; earlier studies lacked detailed descriptions of screening protocols and setting management. The review's assessment of quality as "moderate" should be weighted when interpreting the absence of serious adverse events.
+As noted by the authors: small sample sizes across all studies (12–36 subjects per completed study, except Mash 2018 with N=191); significant heterogeneity in study designs, dosages, and outcome measures precluding meta-analysis; quality assessment averaging only 50% of criteria met; limited generalisability due to exclusion of participants with comorbid conditions (excluding up to 50% of real-world substance users who have comorbid psychiatric disorders); predominantly male samples (90% average); several studies did not report adverse events or setting characteristics; earlier studies lacked detailed descriptions of screening protocols and setting management. The paper contains several internal inconsistencies that should be noted: (1) the reported total of "163 subjects" across completed studies cannot be reconciled with Table 1 sample sizes, which sum to approximately 371–392 depending on how the Forsyth/Glue sample overlap is handled — Mash 2018 alone enrolled 191, exceeding the claimed range of "12 to 36 subjects"; (2) the Results section lists four open-label studies (Mash 2000, 2001, 2018, Knuijver) but the Discussion states "only one study was open-label [27]" — a direct contradiction; (3) Table 1 attributes Forsyth to "the same sample as Glue 2015b" but this appears to be a citation error (see study table footnote above). These inconsistencies do not invalidate the review's conclusions about setting factors but they indicate that the paper's data extraction and cross-referencing should be verified against primary sources for quantitative applications.
+
+Additionally, potential allegiance bias should be noted: one author (Bouso) is affiliated with ICEERS, whose ongoing study is among the 12 included; the USP study is the authors' own ("the study of our group"); and DemeRx setting information was obtained informally via email to the principal investigator. The conflict of interest declaration states "no conflict of interest," but non-financial allegiance through inclusion of one's own studies is a recognised methodological consideration.
+
+The review's assessment of quality as "moderate" should be weighted when interpreting the absence of serious adverse events.
 
 ---
 

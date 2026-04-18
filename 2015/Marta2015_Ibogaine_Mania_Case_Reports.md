@@ -82,11 +82,11 @@ Retrospective case series of three patients identified through clinical presenta
 | Prior ibogaine use | Yes (1×, no AE) | No | No |
 | Onset after ingestion | ~2 months prior to ED | ~3 weeks prior to ED | ~2 weeks prior to ED |
 | Prior psychiatric Hx | ADHD; adolescent depression (paroxetine) | None | None |
-| Substance Hx | Opiates, cocaine, alcohol; methadone 4 years | Heroin → methadone (5 yr remission) | Cannabis (daily); psilocybin (recent) |
+| Substance Hx | Opiates, cocaine, alcohol; methadone 4 years | Heroin → methadone (5 yr remission); methadone clinic switch (monthly → daily take-home dosing) preceded ibogaine use | Cannabis (daily); psilocybin (recent) |
 | Key symptoms | Insomnia (14 days), grandiose delusions, aggression, tangential speech | Insomnia, aggression, hyper-religious psychotic delusions, hallucinations | Grandiosity, racing thoughts, suicidal ideation, decreased sleep |
 | Diagnosis | Bipolar I, manic episode | Bipolar I, manic episode | Bipolar I, manic episode |
 | Naranjo score | 6 (Probable) | 6 (Probable) | 4 (Possible) |
-| Treatment | Divalproex ER 1500mg, risperidone 2mg BID, atomoxetine 80mg | Olanzapine (therapeutic dose) | Refused all treatment |
+| Treatment | Divalproex ER 1500mg (plasma level 82); risperidone 2mg BID; quetiapine discontinued due to insomnia; atomoxetine 80mg (ADHD, added after mania improvement) | Outside hospital (2 wks): quetiapine + risperidone + olanzapine (doses unknown) → self-discontinued → decompensated. Authors' facility (3 days): olanzapine titrated to therapeutic dose, partial response | Refused all treatment |
 | Hospitalisation | 13 days; marked improvement | 3 days + readmission 1 week later | 6 days; discharged still symptomatic |
 | Outcome | Discharged improved | Lost to follow-up after transfer | Left hospital; poor insight, labile |
 | Confounders | Prior paroxetine exposure (SSRI mania risk?) | None identified | Psilocybin + daily cannabis |
@@ -134,7 +134,7 @@ This paper establishes mania as a clinically significant adverse event of ibogai
 
 1. **Psychiatric screening must extend beyond psychosis.** Prior ibogaine safety literature focused on cardiac risk and cerebellar toxicity; psychiatric adverse events were limited to a single case of psychosis in a patient with pre-existing schizophrenia (Houenou 2011). These cases demonstrate that ibogaine can precipitate de novo Bipolar I mania in individuals with no psychiatric history. Screening protocols should assess not only personal history of bipolar disorder or psychosis but also family history of mood disorders, prior antidepressant exposure (Mr. A had prior paroxetine — a known mania trigger in bipolar-vulnerable individuals), and any features suggesting bipolar diathesis.
 
-2. **Post-treatment psychiatric monitoring is essential.** Onset ranged from days to weeks post-ingestion, consistent with noribogaine's extended half-life (28–49 h) maintaining pharmacological activity long after the acute ibogaine phase. All three patients presented to emergency departments — none to the ibogaine treatment providers. This mandates structured psychiatric follow-up protocols, not just cardiac monitoring, in the days and weeks after treatment. For clinical practice, this supports integration sessions that specifically screen for emergent mood symptoms, sleep disturbance, and grandiosity.
+2. **Post-treatment psychiatric monitoring is essential.** Onset ranged from days to weeks post-ingestion. The paper itself notes only that noribogaine has a "longer half-life" than ibogaine; the specific 28–49 h range commonly cited in the literature (see Mash et al.) is consistent with continued pharmacological activity well beyond the acute ibogaine phase. All three patients presented to emergency departments — none to the ibogaine treatment providers. This mandates structured psychiatric follow-up protocols, not just cardiac monitoring, in the days and weeks after treatment. For clinical practice, this supports integration sessions that specifically screen for emergent mood symptoms, sleep disturbance, and grandiosity.
 
 3. **The "reduced need for sleep" phenomenon may be a prodrome.** Brown (2013) had noted reports of prolonged insomnia at anti-addictive doses. The authors suggest mania may represent the extreme end of this spectrum — sleep disruption as prodrome rather than side effect. Mr. A reportedly did not sleep for 14 days. Clinically, persistent insomnia beyond 48–72 hours post-treatment should trigger psychiatric evaluation.
 
@@ -147,6 +147,7 @@ This paper establishes mania as a clinically significant adverse event of ibogai
 
 - **No toxicological verification of ibogaine ingestion** — patients presented days to weeks after use; ibogaine/noribogaine assays require LC-MS/MS not available in psychiatric emergency settings, so causation relies on self-report and temporal association
 - **Unknown doses in all cases** — none of the three patients had verified dosing information, precluding dose-response analysis
+- **Route and formulation underspecified** — authors use "ingestion" language throughout and Mr. C is described as having "ingest[ed] ibogaine" (implying oral); no formulation details (capsule, powder, decoction, root bark) are given for any case, and no per-case route statement beyond the consistent "ingestion" wording. The `route: oral` YAML value is inferred from the paper's consistent ingestion framing rather than an explicit per-case route statement.
 - **Confounders in Case 3** — Mr. C's concurrent psilocybin and daily cannabis use reduce confidence in ibogaine as sole cause (reflected in lower Naranjo score of 4 vs 6)
 - **Limited collateral for Case 3** — Mr. C refused to allow collateral contact, so pre-existing psychiatric history cannot be definitively excluded
 - **Retrospective design** — cases were identified through clinical practice and retrospectively assessed, not prospectively monitored
