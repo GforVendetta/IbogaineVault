@@ -1,21 +1,23 @@
 ---
+
 title: "A case series of ibogaine toxicity reported to the United Kingdom National Poisons Information Service (NPIS) over a 10-year period"
 authors:
-  - "Edwards, Ella P."
-  - "Gray, Laurence A."
-  - "Elamin, Muhammad E. M. O."
-  - "Veiraiah, Aravindan"
-  - "Thanacoody, Ruben H. K."
-  - "Coulson, James M."
+
+- "Edwards, Ella P."
+- "Gray, Laurence A."
+- "Elamin, Muhammad E. M. O."
+- "Veiraiah, Aravindan"
+- "Thanacoody, Ruben H. K."
+- "Coulson, James M."
 year: 2025
 category: RED
 tags:
-  - topic/cardiac
-  - topic/adverse-event
-  - topic/toxicity
-  - topic/opioid
-  - method/case-series
-key_findings: "7 UK poison centre cases (2012-2022): 6/7 developed cardiotoxicity; 2 cardiac arrests with hypoxic brain injury; QTc 680-720 msec; no dose-response relationship observed; doses 5-34g root bark."
+- topic/cardiac
+- topic/adverse-event
+- topic/toxicity
+- topic/opioid
+- method/case-series
+key_findings: "7 UK poison centre cases (2012-2022), 0 fatalities: 6/7 developed cardiotoxicity; 2 cardiac arrests with hypoxic brain injury (survivors); QTc 680-720 msec; no dose-response relationship; doses 5-34g root bark."
 source_pdf: "2025/Edwards2025_UK_NPIS_Ibogaine_Toxicity_Case_Series.pdf"
 doi: "10.1080/15563650.2024.2447500"
 pmid: "39882933"
@@ -25,8 +27,8 @@ publication_date: "2025-01-30"
 document_type: case-series
 clinical_significance: high
 aliases:
-  - "Edwards 2025"
-  - "UK NPIS Ibogaine Toxicity Case Series"
+- "Edwards 2025"
+- "UK NPIS Ibogaine Toxicity Case Series"
 evidence_level: case-series
 sample_size: 7
 qtc_data: true
@@ -34,11 +36,12 @@ electrolyte_data: true
 herg_data: false
 
 contraindications:
-  - "Pre-existing cardiac conditions"
-  - "Concurrent opioid use (methadone, buprenorphine)"
-  - "Co-ingestants (benzodiazepines, zopiclone, alimemazine)"
-  - "Unsupervised or unscreened settings"
-  - "CYP2D6 poor metaboliser status (flagged as variable susceptibility factor, not assessed in any case)"
+
+- "Pre-existing cardiac conditions"
+- "Concurrent opioid use (methadone, buprenorphine)"
+- "Co-ingestants (benzodiazepines, zopiclone, alimemazine)"
+- "Unsupervised or unscreened settings"
+- "CYP2D6 poor metaboliser status (flagged as variable susceptibility factor, not assessed in any case)"
 dosing_range: "Acute: 5–34 g root bark (where reported); chronic: 0.5–0.7 g root bark 5/7 days for 2 months (Patient 6); mixed preparations (root bark, ibogaine HCl tablets, capsules); dose unknown in majority of cases"
 route: oral
 open_access: false
@@ -46,6 +49,7 @@ publisher: "Taylor & Francis"
 body_format: vault-analytical
 licence_type: all-rights-reserved
 licence_verified: true
+
 ---
 
 # A Case Series of Ibogaine Toxicity Reported to the United Kingdom National Poisons Information Service (NPIS) Over a 10-Year Period
@@ -55,7 +59,6 @@ licence_verified: true
 ## Abstract
 
 Retrospective analysis of telephone enquiries involving ibogaine to the UK National Poisons Information Service (NPIS) between 1 January 2012 and 31 December 2022. Eleven enquiries relating to seven patients were identified. Five patients were male (71%), with the majority aged 31–40 years (57%). All presented symptomatically. Circumstances were recorded as "recreational abuse" in all cases, though two used ibogaine for heroin withdrawal and two for insomnia. Doses ranged from 5 g to 34 g (where reported). Seven patients experienced neurological symptoms and six displayed cardiotoxicity. The most frequently reported features included cardiac arrest, hypoxia, torsade de pointes, QT prolongation, coma, convulsions, stupor, bradycardia, vomiting, and anxiety. Two patients suffered hypoxic brain injury secondary to ibogaine-induced cardiac arrest.
-
 ## Key Findings
 
 - **Cardiotoxicity in 6/7 patients**: Cardiac arrest (2 patients), torsade de pointes, QT prolongation, and bradycardia were the most common cardiovascular features
@@ -71,23 +74,16 @@ Retrospective review of telephone enquiries to the UK NPIS involving ibogaine ex
 
 ## Case Summary Table
 
-| Patient | Age/Sex | Source | Dose | Preparation | Cardiac Features | Neurological Features | QTc (msec) | Electrolytes | Outcome |
-|---------|---------|--------|------|-------------|-----------------|----------------------|------------|-------------|---------|
-| 1 | 32/M | Father purchased (alt. to methadone) | Unknown | Ibogaine HCl tablets | Cardiac arrest (2h CPR, 14 DC shocks) | Hypoxic brain injury, confusion, delirium, agitation | Not recorded | Not reported | ITU >71 days, brain injury, transferred |
-| 2 | 19/M | Cameroon | 5 g | Root bark | None | Pallor, sweating, intoxication | Not recorded | Not reported | Lost to follow-up |
-| 3 | 36/F | Not known | Unknown | Not known | TdP (4 events), QT prolongation | Unconscious | 680 → 566 | K⁺ 4.0 mmol/L (normal) | Treated with MgSO₄ 4 g + K⁺ 40 mmol IV |
-| 4 | 41/M | Not known | Unknown | Not known | 3 cardiac arrests (initial + 11h + 17.5h), VT/TdP | Hypoxic brain injury, GCS 3 | 720 → 586 | K⁺ 4.8, Mg²⁺ 0.97, Ca²⁺ 2.27 mmol/L | Brain injury, GCS 3 when sedation weaned |
-| 5 | 21/M | Online | Unknown | Root bark | Bradycardia (HR 40–42) | Somnolence, GCS 14 | Not recorded | Not reported | Lost to follow-up |
-| 6 | 38/M | Shaman | 34 g acute + chronic (0.5–0.7 g, 5/7 days, 2 mo) | Root bark | Bradycardia (HR 50) | Vomiting, slurred speech, hallucinations, dyskinesia, tremor, miosis, anxiety | Normal QT/QRS | Not reported | Improving day 2 |
-| 7 | 35/F | Healing centre | 4 + 6 capsules over 2 days | Root bark + ibogaine HCl capsules | Palpitations | Myoclonic jerking, hyperreflexia, vomiting, anxiety | Not recorded | Not reported | Not specified |
+PatientAge/SexSourceDosePreparationCardiac FeaturesNeurological FeaturesQTc (msec)ElectrolytesOutcome132/MFather purchased (alt. to methadone)UnknownIbogaine HCl tabletsCardiac arrest (2h CPR, 14 DC shocks)Hypoxic brain injury, confusion, delirium, agitationNot recordedNot reportedITU &gt;71 days, brain injury, transferred219/MCameroon5 gRoot barkNonePallor, sweating, intoxicationNot recordedNot reportedLost to follow-up336/FNot knownUnknownNot knownTdP (4 events), QT prolongationUnconscious680 → 566K⁺ 4.0 mmol/L (normal)Treated with MgSO₄ 4 g + K⁺ 40 mmol IV441/MNot knownUnknownNot known3 cardiac arrests (initial + 11h + 17.5h), VT/TdPHypoxic brain injury, GCS 3720 → 586K⁺ 4.8, Mg²⁺ 0.97, Ca²⁺ 2.27 mmol/LBrain injury, GCS 3 when sedation weaned521/MOnlineUnknownRoot barkBradycardia (HR 40–42)Somnolence, GCS 14Not recordedNot reportedLost to follow-up638/MShaman34 g acute + chronic (0.5–0.7 g, 5/7 days, 2 mo)Root barkBradycardia (HR 50)Vomiting, slurred speech, hallucinations, dyskinesia, tremor, miosis, anxietyNormal QT/QRSNot reportedImproving day 2735/FHealing centre4 + 6 capsules over 2 daysRoot bark + ibogaine HCl capsulesPalpitationsMyoclonic jerking, hyperreflexia, vomiting, anxietyNot recordedNot reportedNot specified
 
 ## Cardiac Safety Data
 
 ### QTc Prolongation
+
 Two patients had documented QTc measurements, both markedly prolonged:
+
 - **Patient 3**: QTc 680 msec on admission, reducing to 566 msec. Four documented episodes of torsade de pointes. Heart rate 60 bpm. Treated with magnesium sulphate 4 g and potassium 40 mmol IV. Serum K⁺ was normal at 4.0 mmol/L
 - **Patient 4**: QTc 720 msec on admission, narrowing to 586 msec on repeat ECG. Three cardiac arrests (initial out-of-hospital, then at 11 h and 17.5 h post-collapse). Both later arrests appeared to be VT or TdP. No previous cardiac history. Electrolytes: K⁺ 4.8 mmol/L, Mg²⁺ 0.97 mmol/L, adjusted Ca²⁺ 2.27 mmol/L
-
 ### Bradycardia
 - **Patient 5**: HR 40–42 bpm
 - **Patient 6**: HR 50 bpm (with normal QT/QRS)

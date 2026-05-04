@@ -53,7 +53,7 @@ For safety-critical queries (cardiac risk, contraindications, drug interactions)
 
 ## What's New
 
-*Last updated: March 2026*
+*Last updated: May 2026*
 
 ### Recent Additions (2026)
 - [Evans2026_Ibogaine_Fatalities_Cover_Ups](Other/Evans2026_Ibogaine_Fatalities_Cover_Ups.md) — Investigative journalism: 2024–2026 fatalities, cover-ups, US political landscape
@@ -76,6 +76,19 @@ For safety-critical queries (cardiac risk, contraindications, drug interactions)
 - **Alper 2001 Review Reconverted** — Landmark 38-page review fully restored from summaries to source-level detail (475 lines)
 - **Alper 2001 Contemporary History Reconverted** — Treatment scenes, political advocacy, primary source quotes preserved (331 lines)
 - **Tier 1 Public Release** — Research vault prepared for academic collaboration and citation
+
+### Vault Milestones (April 2026)
+- **v1.0.3 released** (2026-04-06) — Cross-model Wave 1 corrections; tag taxonomy expanded 62 → 66; `commentary` added to evidence-level enum
+- **v1.0.4 released** (2026-04-08) — Cross-model Wave 2 corrections applied
+- **Wave 4 GREEN verification complete** (2026-04-16) — all 65 GREEN papers triaged
+- **ORANGE prompt-suite v1.0 promoted** (2026-04-18) — Wave 5 ORANGE pilot closed (Knuijver2024 / Malcolm2022 / Arias2010)
+- **METHODOLOGY v3** — Cross-Model Verification added as the fourth QA pillar
+- **VAULT_PRINCIPLES §10 + §11** — Meta-Tooling Deprecation Discipline + Transparent Flagging of Editorial Judgement
+
+### Vault Milestones (May 2026)
+- **v1.0.5 released** (2026-05-04) — Cross-model Wave 3 RED corrections applied; validator at zero (305 papers, 0 errors, 0 parse failures)
+
+See [CHANGELOG](CHANGELOG.md) for release details.
 
 ---
 

@@ -76,24 +76,11 @@ Alper2012 is structurally different from Canessa2020. It presents **original cas
 The vault YAML has `electrolyte_data: True`. The Alper2012 PDF mentions hypokalemia and hypomagnesemia as contraindications/risk factors (captured correctly in the `contraindications` list), but Table 1 contains no actual electrolyte measurement data — no serum potassium, magnesium, or calcium values. The `electrolyte_data` field should indicate whether the paper *presents* electrolyte data, not whether it *discusses* electrolyte relevance. **Resolution: change to `electrolyte_data: false`.**
 
 ### Cross-reference observations
-
 **Mortality count consistency across vault reviews:**
 
-| Review | Year | mortality_count | Scope | Notes |
-|--------|------|-----------------|-------|-------|
-| Maas2006 | 2006 | 8 | cumulative-review | Pre-Alper series |
-| Donnelly2011 | 2011 | 9 | cumulative-review | Legal commentary, likely incomplete count |
-| Alper2012 | 2012 | 19 | cumulative-review | Definitive series 1990–2008 |
-| Koenig2015 | 2015 | 22 | cumulative-review | +3 post-Alper |
-| Litjens2016 | 2016 | 27 | cumulative-review | +5 more |
-| Schep2016 | 2016 | 19 | cumulative-review | Cites Alper2012 specifically |
-| Corkery2018 | 2018 | 33 | cumulative-review | +6 more |
-| Kock2022 | 2022 | 38 | cumulative-review | +5 more |
-| Chen2024 | 2024 | 34 | cumulative-review | Slightly lower than Kock — possible exclusion criteria difference |
-| Esperança2026 | 2026 | 19 | cumulative-review | ⚠️ Anomalously low — likely citing Alper2012 subset, not total known deaths |
+ReviewYearmortality_countScopeNotesMaas200620068cumulative-reviewPre-Alper seriesDonnelly201120119cumulative-reviewLegal commentary, likely incomplete countAlper2012201219cumulative-reviewDefinitive series 1990–2008Koenig2015201522cumulative-review+3 post-AlperLitjens2016201627cumulative-review+5 moreSchep2016201619cumulative-reviewCites Alper2012 specificallyCorkery2018201833cumulative-review+6 moreKock2022202238cumulative-review+5 moreChen2024202434cumulative-reviewSlightly lower than Kock — possible exclusion criteria differenceEsperança2026202619cumulative-review⚠️ Anomalously low — likely citing Alper2012 subset, not total known deaths
 
 The monotonic progression is coherent except for Schep2016 and Esperança2026, which both report exactly 19 — almost certainly referencing the Alper2012 series specifically rather than independently enumerating all known deaths. **Recommend verifying Esperança2026's mortality_count against PDF when that review is processed through the verifier.**
-
 
 ### Cheze2008 gap observation
 
@@ -113,18 +100,13 @@ Not applicable — Alper2012 presents original case data, not citations of publi
 
 ### Actions taken
 
-- **`electrolyte_data` corrected:** Changed from `true` to `false` in vault YAML (2012/Alper2012_Ibogaine_Fatalities.md)
-
-
+- `electrolyte_data` **corrected:** Changed from `true` to `false` in vault YAML (2012/Alper2012_Ibogaine_Fatalities.md)
 
 ---
 
 ## Ona2021 — processed 2026-03-27
 
-**Review:** `2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md`
-**Source PDF:** `2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.pdf`
-**Extraction method:** Docling MCP + PDF Tools MCP (both used; no structured data extraction table in main PDF)
-**Table location:** No formal data extraction table in main PDF. Study data presented narratively in Results section. Supplementary materials 1–4 (online-only) contain detailed tables.
+**Review:** `2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md`**Source PDF:** `2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.pdf`**Extraction method:** Docling MCP + PDF Tools MCP (both used; no structured data extraction table in main PDF) **Table location:** No formal data extraction table in main PDF. Study data presented narratively in Results section. Supplementary materials 1–4 (online-only) contain detailed tables.
 
 ### Review structure note
 

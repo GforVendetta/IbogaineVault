@@ -15,7 +15,10 @@ journal: "Rolling Stone"
 publication_date: "2024-08-14"
 document_type: journalism
 clinical_significance: high
-aliases: ["Busby 2024", "Busby", "Beond Death Investigation"]
+aliases:
+  - "Busby 2024"
+  - "Busby"
+  - "Beond Death Investigation"
 source_pdf: "Other/Busby2024_Beond_Death_Investigation.pdf"
 evidence_level: journalism
 sample_size: 1
@@ -24,7 +27,11 @@ mortality_scope: discrete-cases
 qtc_data: false
 electrolyte_data: false
 herg_data: false
-contraindications: []
+contraindications:
+  - "Concurrent buprenorphine use (Suboxone) — flagged in source as particularly dangerous with long-acting opiates"
+  - "Concurrent benzodiazepine use (Valium)"
+  - "Active polydrug use at admission (fentanyl, cocaine, buprenorphine, benzodiazepine)"
+  - "Recent fentanyl use"
 dosing_range: "undisclosed (ibogaine flood dose + booster)"
 route: oral
 open_access: true
@@ -46,7 +53,9 @@ No formal abstract (investigative journalism). This Rolling Stone investigation 
 
 A 49-year-old American man with a 25-year history of substance dependence died at Beond, a commercial ibogaine clinic in Cancún, Mexico, on 8 May 2022. He had arrived 11 days earlier seeking treatment for polysubstance use — fentanyl, cocaine, Suboxone (buprenorphine/naloxone), and benzodiazepines (Valium) — having relapsed in February 2022 after four years of sobriety. He received a standard ibogaine flood dose followed by a booster dose two days later; specific milligram dosing was not disclosed. He died approximately two days after his ibogaine session.
 
-The death was attributed to cardiac arrest. According to his ex-wife's account, clinic staff used a defibrillator twice and attempted a third resuscitation, which was unsuccessful. No autopsy was conducted — the body was cremated in Cancún and remains transported within four days. The absence of autopsy represents a significant accountability gap, leaving the definitive cause of death undetermined. Beond declined to discuss specifics, citing patient confidentiality.
+The reported cause was cardiac arrest, conveyed verbally by clinic co-founder Tom Feegel to the victim's ex-wife — no autopsy was conducted to establish a definitive cause of death. According to her account, clinic staff used a defibrillator twice and attempted a third resuscitation, which was unsuccessful. The body was cremated in Cancún and remains transported within four days. The absence of autopsy represents a significant accountability gap, leaving the definitive cause of death undetermined. Beond declined to discuss specifics, citing patient confidentiality.
+
+**Reporter's protocol observation:** The journalist personally underwent the Beond protocol during the same period as the victim. Their session involved nine ibogaine capsules plus an anti-nausea tablet at 9 a.m. on 26 April 2022, with prior IV hydration and electrolyte administration. The session was conducted with eye mask and headset playing a preset playlist, followed by approximately 12 hours of monitored bed rest. This is the article's only firsthand protocol detail; the victim's specific protocol was not disclosed by the clinic.
 
 The victim's pre-treatment condition presented multiple risk factors: active fentanyl and polydrug use up to the day of arrival, extensive venous damage from injection drug use (requiring catheter access for IV), and concurrent benzodiazepine and buprenorphine use — both known to elevate cardiac risk during ibogaine treatment (see [Corkery2018_Ibogaine_Benefits_Dangers_Fatalities](../2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md)).
 
@@ -64,7 +73,13 @@ The absence of an autopsy is a critical gap. Without post-mortem examination, it
 
 The investigation situates this death within the broader landscape of ibogaine treatment safety. Industry experts interviewed estimated approximately 20 public-facing clinics with medically trained staff worldwide, plus roughly 100 operating underground. The absence of a formal international regulatory body creates what the article characterises as an unstructured environment, with the Global Iboga Therapy Alliance ([GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md)) providing voluntary guidelines rather than enforceable standards.
 
-Beond operated as a high-end facility charging approximately $12,500 per patient for a 10–14 day protocol, and reported facilitating over 600 ibogaine treatments in 2023. The clinic attracted celebrity endorsements and influencer partnerships, which ethics consultants quoted in the article criticised as potentially misleading — noting that high-profile guests likely receive preferential treatment and their testimonials may not reflect typical patient experiences.
+Beond operated as a high-end facility charging approximately $12,500 per patient for a 10–14 day protocol, and reported facilitating over 600 ibogaine treatments in 2023. Beond commenced operations in March 2022; the victim's admission on 27 April 2022 occurred approximately one month after the clinic opened. The clinic attracted celebrity endorsements and influencer partnerships, which ethics consultants quoted in the article criticised as potentially misleading — noting that high-profile guests likely receive preferential treatment and their testimonials may not reflect typical patient experiences.
+
+The article cites efficacy data alongside its safety reporting: a Mexico observational study reported 7 of 30 patients with no recent opioid use at one-year follow-up; a smaller study reported 6 of 14 testing negative at one year; for context the article also cites short-rehab opioid relapse rates of up to 77% at six months. Full bibliographic details of these secondary citations are not provided in the article.
+
+Dr. Kamlet's own mortality estimates, made before his arrest, are notable in their divergence from the published literature. He claimed to maintain a personal folder documenting more than 60 ibogaine-related deaths — substantially exceeding the 33 publicly reported deaths catalogued in [Corkery2018_Ibogaine_Benefits_Dangers_Fatalities](../2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md) — and estimated the mortality rate could reach 3% in untrained hands. Treated as practitioner claims rather than peer-reviewed figures, these estimates nonetheless support the wider argument that the published safety literature systematically understates actual mortality.
+
+A structurally parallel case is the November 2017 death of Milos Martinovic at the Minds Alive Wellness Centre in Durban, South Africa — also involving polydrug context, screening failures, and death shortly after clinic arrival, judicially established as culpable homicide in 2024 ([2017_Minds_Alive_Martinovic_Death_Durban](../Primary_Sources/2017_Minds_Alive_Martinovic_Death_Durban.md)).
 
 The Kamlet subplot reveals additional governance vulnerabilities. Kamlet, who had described himself as the foremost expert on ibogaine administration and cardiac safety, was arrested in March 2023 on charges involving a 17-year-old. The key witness died before trial. He pleaded guilty to a single charge of custodial interference and surrendered his medical licence. Beond stated it had already terminated its consulting relationship with Kamlet, citing incompatibility with organisational values. The case illustrates the difficulty of vetting practitioners in an unregulated treatment ecosystem.
 
@@ -89,6 +104,8 @@ This case underscores several principles for safe ibogaine treatment:
 - No autopsy was conducted, so the definitive cause of death remains undetermined.
 - The journalist attended Beond at the clinic's invitation (for free) during the same period as the victim, which should be noted as a potential source of reporting perspective.
 - Specific ibogaine dosing (mg/kg) is not reported, limiting pharmacological analysis.
+- Internal source inconsistency (financial): article states ~600 treatments in 2023 at ~$12,500 each but reports gross revenue of "almost $6 million". 600 × $12,500 = $7.5 million; the figures do not reconcile and the article does not explain the discrepancy.
+- Internal source inconsistency (Kamlet charge count): the article itemises approximately 9 specific charges (1 human trafficking, 1 solicitation, 1 unlawful sex act, 2 unlawful sexual activity, 2 controlled substance to a minor, 2 custodial interference) but later describes prosecution as having "dropped 12 of 13 charges". The itemised list does not sum to 13; total charges as filed cannot be reconstructed from the article alone.
 
 ---
 
@@ -97,15 +114,18 @@ This case underscores several principles for safe ibogaine treatment:
 **Parent hub:** [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
 
 **Fatality documentation:**
+
 - [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Seminal 19-case fatality series; establishes methodological framework for ibogaine mortality documentation
 - [Corkery2018_Ibogaine_Benefits_Dangers_Fatalities](../2018/Corkery2018_Ibogaine_Benefits_Dangers_Fatalities.md) — Most comprehensive fatality review (33 deaths, 1990–2018); the figure of 33 publicly reported deaths is cited in this article
 - [Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020](../2021/Ona2021_Adverse_Events_Ibogaine_Updated_Review_2015-2020.md) — Updated adverse events review through 2020
 - [Evans2026_Ibogaine_Fatalities_Cover_Ups](Evans2026_Ibogaine_Fatalities_Cover_Ups.md) — Related investigative journalism on ibogaine fatality documentation and industry accountability
 
 **Safety protocols and mechanisms:**
+
 - [GITA2015_Clinical_Guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) — GITA clinical guidelines referenced in the article as the voluntary safety standard
 - [Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety](../2023/Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) — Setting-dependent safety factors; directly relevant to the clinic-level failures documented here
-- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Cardiac mechanism evidence; contextualises the cardiac arrest that caused this death
+- [Koenig2015_Cardiac_Mechanisms](../2015/Koenig2015_Cardiac_Mechanisms.md) — Cardiac mechanism evidence; contextualises the reported cardiac arrest
 
 **Industry context:**
+
 - [Beond2022_Clinical_Summary](../Industry_Documents/Beond2022_Clinical_Summary.md) — Beond's own clinical claims; compare against the safety failures documented in this investigation

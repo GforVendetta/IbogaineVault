@@ -30,6 +30,9 @@ Cowork_Outputs/
 _builds/
 _archive/
 
+# === Vestigial git artifact (do not use, do not commit) ===
+.git-DO-NOT-USE-vestigial-artifact/
+
 # === AI tooling configuration (operational, not research content) ===
 CLAUDE.md
 copilot/

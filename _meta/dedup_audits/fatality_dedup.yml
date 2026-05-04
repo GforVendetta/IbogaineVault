@@ -1,0 +1,284 @@
+# ============================================================================
+# fatality_dedup.yml — IbogaineVault mortality deduplication audit
+# ============================================================================
+#
+# Schema: DedupAudit v1.0
+# Domain: mortality
+# Status: PRECEDENT-SETTING — first instance of the dedup_audit family.
+#         Future siblings (cardiac_dedup.yml, herg_dedup.yml,
+#         toxicity_dedup.yml) inherit the generic-fields shape below; the
+#         domain_payload schema may differ per domain.
+#
+# Mirror-first discipline:
+#   The Hub at Hubs/RED_Fatalities_Hub.md is the canonical, human-readable
+#   source of truth. THIS FILE MIRRORS the Hub's arithmetic in machine-
+#   readable form. When Hub edits change counts, this file must be updated
+#   to match (manual until automation lands). This file does NOT generate
+#   the Hub and MUST NOT override Hub claims.
+#
+# DRY discipline:
+#   Each `source` field references a paper by its canonical vault key
+#   (basename without .md, e.g. Kock2022). Per-paper metadata
+#   (mortality_scope, sample_size, etc.) is owned by the paper's own YAML
+#   frontmatter and resolvable via papers.json. Do NOT duplicate that
+#   metadata here.
+#
+# Computed total:
+#   computed_total = baseline.count
+#                  + sum(vault_baseline_additions[].count)
+#                  + sum(post_baseline_additions[].count)
+#   `excluded_candidates`, `pending_arbitration`, and `divergent_definitions`
+#   have no arithmetic effect on the headline count — they are documentary.
+#   The Hub's "Excluded: 1 death" line is documentary in this same sense:
+#   Terasaki2026 was never counted into any sum.
+#
+# Domain payload schema (mortality):
+#   baseline:                  the anchor cumulative review (single)
+#     source                   <paper-key>
+#     count                    <int>
+#     through                  <ISO date> — coverage end date
+#     methodology              <string>
+#     cross_referenced_against [<paper-key>...]
+#   vault_baseline_additions:  pre-baseline-cutoff cases the baseline missed
+#     - source                 <paper-key>
+#       count                  <int>
+#       rationale              <string>
+#       attestation            <paper-key | null>
+#       primary_clinical_detail<paper-key | external-doc-id | null>
+#   post_baseline_additions:   post-baseline-cutoff additions
+#     - source                 <paper-key>
+#       count                  <int>
+#       date_range             <string>
+#       rationale              <string>
+#       flagged                <bool>
+#       flag_rationale         <string | null>
+#   excluded_candidates:       documented-and-rejected (no arithmetic effect)
+#     - source                 <paper-key>
+#       count_reported         <int>
+#       rationale              <string>
+#   pending_arbitration:       known disputes awaiting resolution
+#     - issue                  <string>
+#       affected_sources       [<paper-key>...]
+#       resolution_state       <surfaced | scoped | in-progress>
+#       notes                  <string>
+#   divergent_definitions:     alternative-framing forks (Chen2024-style)
+#     - source                 <paper-key>
+#       count                  <int>
+#       definitional_framework <string>
+#       categorically_excludes [<string>...]
+#       rationale              <string>
+#       relationship_to_baseline <narrower | broader | orthogonal>
+#   pending_ingestion:         keys referenced but not yet vault entries
+#     - key                    <string>
+#       type                   <paper | regulatory-document | grey-literature>
+#       referenced_in          [<field-path>...]
+#
+# ============================================================================
+
+# ----------------------------------------------------------------------------
+# Generic dedup_audit fields
+# ----------------------------------------------------------------------------
+
+artefact_type: dedup_audit
+schema_version: "1.0"
+domain: mortality
+derives_from: Hubs/RED_Fatalities_Hub.md
+version: "1.1"
+last_updated: "2026-04-28"
+confidence: moderate-to-high
+computed_total: 46
+computed_total_components:
+  baseline: 38
+  vault_baseline_additions_sum: 2
+  post_baseline_additions_sum: 6
+  formula: "baseline + vault_baseline_additions_sum + post_baseline_additions_sum"
+
+# ----------------------------------------------------------------------------
+# Domain payload (mortality)
+# ----------------------------------------------------------------------------
+
+baseline:
+  source: Kock2022
+  count: 38
+  through: "2020-12-07"
+  methodology: "PRISMA-compliant systematic review (PubMed + EMBASE)"
+  cross_referenced_against:
+    - Alper2012
+    - Corkery2018
+    - Koenig2015
+    - Litjens2016
+
+vault_baseline_additions:
+  - source: Noller2017
+    count: 1
+    rationale: >-
+      Pre-2020 ibogaine-associated fatality (cardiac arrhythmia, probable per
+      post-mortem) within Noller, Frampton & Yazar-Klosinski's New Zealand
+      12-month observational cohort. Outside Köck2022's PRISMA catchment
+      despite 2017 online publication; Köck's literature search did not
+      capture it. The vault adds this case to the baseline-period count,
+      bringing baseline-period total from Köck's 38 to vault baseline 39.
+    attestation: Chen2024
+    primary_clinical_detail: HDC2016
+  - source: Primary_Sources/2017_Minds_Alive_Martinovic_Death_Durban
+    count: 1
+    rationale: >-
+      Pre-2020 ibogaine-associated fatality (cardiac arrest at unknown
+      interval after the last of 3–4 sequential ibogaine doses; post-mortem
+      cause of death recorded as drug-associated death consistent with
+      alprazolam overdose, with ibogaine detected in blood) at the
+      unregistered Minds Alive Wellness Centre, Durban, South Africa,
+      8 November 2017. Death falls within Köck2022's PRISMA catchment window
+      (literature through 7 December 2020) but was not captured because no
+      academic publication had documented the case at the time of Köck's
+      literature search; pre-conviction coverage was confined to South
+      African press reports. The conviction itself — *S v Jeewa*
+      (KwaZulu-Natal High Court, Durban; Vahed J., 22 August 2024) finding
+      Anwar Mohamed Jeewa guilty of culpable homicide — post-dates both
+      Köck2022 (2022) and Chen2024 (2024). The vault adds this case to the
+      baseline-period count, bringing baseline-period total from Köck 38 +
+      Noller 39 to vault baseline 40. First (vault-known) judicially-
+      established ibogaine-clinic negligence conviction.
+    attestation: null
+    primary_clinical_detail: null
+
+post_baseline_additions:
+  - source: Evans2026
+    count: 4
+    date_range: "2024–2026"
+    rationale: >-
+      Four discrete fatalities across multiple clinics (regulated and
+      unregulated settings), all post-Köck-cutoff.
+    flagged: false
+    flag_rationale: null
+  - source: Acimovic2021
+    count: 1
+    date_range: "pre-2021, Serbia"
+    rationale: >-
+      Death occurred before Köck's 7 Dec 2020 cutoff but the publication
+      appeared 12 Jan 2021, after Köck's search window closed. Chen2024
+      Annex II subsequently captured the case, confirming both its
+      existence in the academic record and that Köck genuinely missed it.
+    flagged: true
+    flag_rationale: >-
+      Edge case. Death pre-cutoff but publication post-cutoff. Researchers
+      may legitimately classify as either baseline or post-baseline; the
+      vault classifies as post-baseline because Köck's search could not
+      have captured it.
+  - source: Busby2024
+    count: 1
+    date_range: "spring 2022, Cancún"
+    rationale: >-
+      Discrete case in an unregulated Mexican setting, post-Köck-cutoff.
+    flagged: false
+    flag_rationale: null
+
+excluded_candidates:
+  - source: Terasaki2026
+    count_reported: 1
+    rationale: >-
+      Patient ("Mr S") died of fentanyl overdose during buprenorphine taper.
+      Had previously used ibogaine but was not on ibogaine at time of death.
+      Not ibogaine-associated per pharmacovigilance standards. No arithmetic
+      effect — never counted in any sum.
+
+pending_arbitration:
+  - issue: Schep2016 independence conflict
+    affected_sources:
+      - Schep2016
+      - Alper2012
+    resolution_state: surfaced
+    notes: >-
+      Schep2016 reports 19 ibogaine-associated deaths — the same count
+      Alper2012 reported (and which Esperanca2026 explicitly cites from
+      Alper2012 rather than enumerating independently). The Hub currently
+      treats Schep2016 as an independent toxicological-focus review, but
+      whether its 19 represents independent enumeration or citation of
+      Alper2012's figure has not been arbitrated. Resolution requires
+      direct PDF reading of Schep2016's case-counting methodology section.
+      Tracker reference: schema_evolution_pending.md trigger for
+      mortality_scope_subtype enum (independent | citing-prior |
+      cross-referenced) covers this case among others.
+
+divergent_definitions:
+  - source: Chen2024
+    count: 34
+    definitional_framework: "sudden death"
+    categorically_excludes:
+      - haemorrhagic-pancreatitis
+      - mesenteric-thrombosis
+      - duodenal-ulcer-complications
+    rationale: >-
+      Chen2024 reports a smaller count (34 vs Köck's 38) despite later
+      publication. This is definitional divergence, not coverage difference.
+      Chen's "sudden death" inclusion criteria categorically exclude three
+      classes of fatality that Köck includes. Both papers are correct under
+      their own definitions; the vault adopts Köck's broader "temporally
+      associated" framing because it corresponds to the conventional
+      pharmacovigilance question.
+    relationship_to_baseline: narrower
+
+  - source: Esperanca2026
+    count: 19
+    definitional_framework: "non-independent — cites Alper2012"
+    categorically_excludes: []
+    rationale: >-
+      Esperanca2026 reports 19 deaths but did not enumerate cases
+      independently — its Key Findings section explicitly references "19
+      fatalities in Alper 2012 forensic review." This is Alper2012's number,
+      not an independent count. Must not be added to any total.
+    relationship_to_baseline: orthogonal
+
+pending_ingestion:
+  - key: HDC2016
+    type: regulatory-document
+    referenced_in:
+      - vault_baseline_additions[0].primary_clinical_detail
+    notes: >-
+      New Zealand Health and Disability Commissioner Case 13HDC00966.
+      Primary regulatory document containing detailed clinical timeline of
+      Mrs A (the Noller2017 cohort fatality) — sex, age, dose schedule,
+      monitoring deficiencies, post-mortem findings. Significantly exceeds
+      detail in Noller2017 publication itself. Queued for vault ingestion
+      as a regulatory-document type entry; document_type bucketing requires
+      a schema-evolution decision (paper vs regulatory-document vs
+      grey-literature) before conversion.
+
+# ----------------------------------------------------------------------------
+# Provenance and audit
+# ----------------------------------------------------------------------------
+
+provenance:
+  hub_mtime_at_mirror: "2026-04-28T20:53:00Z"
+  hub_size_bytes_at_mirror: null
+  hub_line_count_at_mirror: null
+  generated_by: "manual mirror, Claude session 2026-04-28 (Martinovic addition)"
+  notes: >-
+    Hub edits applied this session to lift headline count 45 → 46 via
+    Martinovic2017 vault-baseline addition (parallel to existing Noller2017
+    treatment). Five Hub edits: [!summary] block reflowed and incremented
+    (also closes pre-existing rendering bug where `deathsBaseline:` rendered
+    as run-on); Methodology §2 paragraph extended to document the second
+    vault-baseline addition with its evidentiary basis (court record);
+    Baseline Discrete Case Reports preamble updated 8 → 9 cases; primary-
+    sources table extended with Martinovic2017 row parallel to Noller2017;
+    Pattern paragraph arithmetic walked from 8/6-of-8/7-of-8 to 9/7-of-9/
+    8-of-9 with span extended to 2017 and South Africa added to country
+    list; new analytical note added (parallel to Cheze2008 isolated-
+    ibogaine note and Noller2017 regulatory-framework-without-protocol-
+    adherence note) framing Martinovic as the judicially-established
+    protocol-failure case. New Primary_Sources file created at
+    Primary_Sources/2017_Minds_Alive_Martinovic_Death_Durban.md (court-
+    record style; cites *S v Jeewa* judgement of Vahed J.). Provenance
+    fields hub_size_bytes_at_mirror and hub_line_count_at_mirror set null
+    pending mtime/size capture by next maintenance pass; previous values
+    (25977 bytes / 155 lines / 2026-04-25T15:55:17.853Z) reflected the
+    pre-Martinovic Hub state and would be misleading to retain. P4
+    (Wave 3 Busby2024 corrections) deferred to a separate session per
+    scope-cut discipline. Next Hub edit affecting counts MUST trigger a
+    corresponding update to this file (manual until automation lands),
+    with version bump and new last_updated date.
+
+# ============================================================================
+# END fatality_dedup.yml v1.1
+# ============================================================================

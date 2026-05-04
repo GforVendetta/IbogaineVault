@@ -1,5 +1,29 @@
 # Changelog
 
+## v1.0.5 — 2026-05-04
+
+Cross-model verification Wave 3 RED-category corrections; vault at zero validator errors and zero parse failures.
+
+### Cross-model verification Wave 3 corrections (15 HIGH-significance findings across 11 papers)
+
+- **11 papers** with HIGH-significance findings re-arbitrated against source PDFs via Gemini Gem v1.2 PDF-only extraction with Claude reconciliation: Cheze2008, Kontrimaviciute2006_Tissue, Busby2024, Breuer2015, Jalal2013, Uzelac2024, Alper2016, Thurner2014, Mazoyer2013, Marta2015, Dhahir1971
+- **15 of 15 HIGH-significance findings corrected** end-to-end
+- **3 corrections applied to Marta2015** metadata and analytical commentary following independent PDF re-arbitration (Naranjo causality, receptor pharmacology, IRB attribution); changes documented with VAULT_PRINCIPLES §11 transparent-flagging notes
+
+### Validator integrity
+
+- **10 prior YAML parse failures cleared** (Hoelen2009, Alper2012, Knuijver2021, Nardou2023, Chen2024, Acuna2025, Edwards2025, Brunt2026, Kontrimaviciute2006_Tissue, Cheze2008) — papers.json grew 296 → 305 indexed
+- **8 prior validator errors cleared** (Martinovic2017, Mash1997, Boukandou2023)
+- **Validation:** 305 papers, 0 errors, 0 parse failures, 100.0% compliance
+
+### Infrastructure
+
+- **Document-type enum:** `conference-abstract` added to `document_types_paper` enum for short abstracts published in conference proceedings volumes. Distinguished from `conference-talk` (full oral presentation) and `brief-communication` (short paper in a journal). Applied to Marker2002 (TIAFT 2002 abstract) — the only vault paper meeting the definition at time of addition.
+- **Document-type enum:** `journal-article` added to `document_types_paper` enum for peer-reviewed journal articles (vessel-level classification per CONVENTIONS.md P4). Preferred over `research-article` for new conversions — `research-article` is retained but marked non-specific. Applied to Arias2010 (interaction of ibogaine with human α3β4-nAChRs) as the first vault paper reclassified to the new enum (Wave 5 ORANGE pilot).
+- **Schema-evolution tracker** extended with Trigger 9 (`licence_type` enum lacks public-record / court-filing / FDA-transcript / archive-document values) — surfaced from Martinovic2017 validator-confirmed `invalid_enum`. Placeholder-tracking subsection lists Mash1997 + Martinovic2017 awaiting `unknown → public-record` swap when Trigger 9 executes.
+
+**Full paper count:** 305 (was 304)
+
 ## v1.0.4 — 2026-04-08
 
 Cross-model verification Wave 2 corrections — completes the full verification programme.
@@ -93,10 +117,8 @@ Initial public release of the IbogaineVault Tier 1 research support repository.
 
 - **OA format consistency:** Extending vault analytical format (Key Findings, Clinical Implications, Methodology, Data Tables, Limitations) to all open-access papers — the centrepiece of v1.1
 - **`oa_class` copyright classification:** Per-paper open-access classification field (`open-access`, `subscription`, `grey-literature`, `small-publisher`) for transparent copyright status
-- **`mortality_scope` documentation:** Full methodological documentation of the `mortality_scope` enum that prevents naïve-sum errors when aggregating mortality counts across papers
-- **Hub naming standardisation:** All hubs now follow `{CATEGORY}_{Topic}_Hub.md` convention (completed: `Hub_PK-PD_Synthesis.md` → `ORANGE_PK-PD_Hub.md`)
+- **Cross-model verification perimeter closure:** Completing the independent-extraction verification sweep across ORANGE/BLUE papers (Waves 1–5 closed; ORANGE v1.0 prompt-suite shipped; remaining ORANGE/BLUE items to be verified under the v1.0 comparison prompt)
 - **Quartz web layer:** Navigable research website with category-coloured graph and filtered clinical pages
 - **Enhanced validation and schema consistency:** Expanded `validate_vault.py` rules covering new fields, enum consistency audits, and link verification tooling
 - **Obsidian setup script:** `setup_obsidian.sh` to convert markdown links to Obsidian's native wikilink format for users who prefer the full Obsidian experience
 - **`references_stripped` metadata field:** Boolean flag indicating whether a paper's reference list was removed during conversion, enabling future systematic restoration
-- **Resolver exclusion list:** Identifier resolution tooling now skips papers with known cross-match conflicts to prevent incorrect auto-assignment

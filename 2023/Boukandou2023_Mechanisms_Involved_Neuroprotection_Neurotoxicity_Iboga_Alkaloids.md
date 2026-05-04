@@ -151,7 +151,7 @@ The authors do not report systematic limitations, but the following methodologic
 
 - [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — Foundation study establishing GDNF as mediator of ibogaine's anti-addictive action against alcohol; directly supports this review's neuroprotection via neurotrophic factor pathway
 - [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — Original preclinical data on dual BDNF/GDNF modulation in mesocorticolimbic and nigral circuits; provides the experimental basis for this review's neurotrophic claims
-- [Alper2016_hERG_Blockade_Iboga_Alkaloids](../2016/Alper2016_hERG_Blockade_Iboga_Alkaloids.md) — Original hERG assay data for iboga alkaloids including structure–activity relationships; the primary evidence underlying this review's hERG blockade discussion
+- [Alper2016_hERG_Blockade](../2016/Alper2016_hERG_Blockade.md) — Original hERG assay data for iboga alkaloids including structure–activity relationships; the primary evidence underlying this review's hERG blockade discussion
 - [Uzelac2024_Cardiotoxic_Necrosis_Redox](../2024/Uzelac2024_Cardiotoxic_Necrosis_Redox.md) — Redox and cardiotoxicity mechanisms extending this review's cardiac pathway discussion
 - [Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes](../2015/Nikolic-Kokic2015_ExVivo_Ibogaine_Antioxidative_Enzymes_Human_Erythrocytes.md) — Antioxidant enzyme modulation data complementing this review's anti-inflammatory/antioxidant neuroprotection claims
 - [Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism](../2006/Paskulin2006_Ibogaine_Affects_Brain_Energy_Metabolism.md) — Brain energy metabolism mechanisms relevant to the neurotoxicity pathway via mitochondrial dysfunction

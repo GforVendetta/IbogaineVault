@@ -1,20 +1,22 @@
 ---
+
 title: "Ibogaine induces juvenile-like plasticity and modulates functional and structural regulators of plasticity in the adult mouse visual cortex"
 authors:
-  - "Acuña, Alejo"
-  - "Billeri, Federico"
-  - "Totaro, Valentino"
-  - "Carrera, Ignacio"
-  - "Mesa, Juan M."
-  - "Pizzorusso, Tommaso"
-  - "Rossi, Francesco M."
+
+- "Acuña, Alejo"
+- "Billeri, Federico"
+- "Totaro, Valentino"
+- "Carrera, Ignacio"
+- "Mesa, Juan M."
+- "Pizzorusso, Tommaso"
+- "Rossi, Francesco M."
 year: 2025
 category: ORANGE
 tags:
-  - topic/mechanism
-  - topic/cognition
-  - method/preclinical
-  - mechanism/nmda-antagonism
+- topic/mechanism
+- topic/cognition
+- method/preclinical
+- mechanism/nmda-antagonism
 doi: "10.21203/rs.3.rs-8387313/v1"
 journal: "Research Square (Preprint)"
 publication_date: "2025-12-18"
@@ -28,15 +30,17 @@ clinical_significance: moderate
 key_findings: "Single ibogaine dose (40mg/kg) restores juvenile-like plasticity in adult mouse visual cortex by reducing PNNs, PV interneurons, and vGAT—structural/inhibitory brakes on plasticity."
 source_pdf: "2025/Acuna2025_Ibogaine_Visual_Cortex_Plasticity.pdf"
 aliases:
-  - "Acuña 2025"
-  - "Visual Cortex Plasticity Study"
+- "Acuña 2025"
+- "Visual Cortex Plasticity Study"
 contraindications: []
 open_access: true
 publisher: "Research Square"
 body_format: academic-retained
 licence_type: unknown
 licence_verified: false
+
 ---
+
 # Ibogaine induces juvenile-like plasticity and modulates functional and structural regulators of plasticity in the adult mouse visual cortex
 
 > **Format note:** This paper retains its original academic structure. All YAML metadata and cross-references are complete. A full analytical conversion to vault format is planned for v1.1.
@@ -45,10 +49,11 @@ licence_verified: false
 **Authors:** Alejo Acuña, Federico Billeri, Valentino Totaro, Ignacio Carrera, Juan M. Mesa, Tommaso Pizzorusso, Francesco M. Rossi
 
 **Affiliations:**
+
 - Universidad de la República, Uruguay
 - Scuola Normale Superiore, Italy
 
-**Corresponding Author:** Francesco M. Rossi (fmrossi@fcien.edu.uy)
+**Corresponding Author:** Francesco M. Rossi ([fmrossi@fcien.edu.uy](mailto:fmrossi@fcien.edu.uy))
 
 **Preprint:** Research Square, December 18, 2025
 
@@ -113,6 +118,7 @@ Spine density quantification was performed on apical dendrites of pyramidal neur
 ### Immunofluorescence Staining
 
 Mice were perfused with cold PBS and then 4% paraformaldehyde. For each brain, 50 μm coronal sections spanning the whole visual cortex were collected. Sections were stained with:
+
 - Biotinylated Wisteria Floribunda Lectin (WFA) — marker of PNNs
 - Mouse anti-Parvalbumin antibody — marker of PVs
 - Rabbit polyclonal anti-vesicular GABA transporter (vGAT)
@@ -132,11 +138,13 @@ Adult (P60) mice were treated with vehicle or ibogaine (40 mg/kg) and 6 days lat
 However, when adult mice were treated with ibogaine and then monocularly deprived for 4 days:
 
 **In ibogaine-treated mice, visual acuity of the deprived eye was significantly reduced:**
+
 - IBO Left (undeprived): 0.393±0.016 c/d
 - IBO Right (deprived): 0.256±0.022 c/d
-- n=8, t₂₆=7.221, **p<0.001**
+- n=8, t₂₆=7.221, **p&lt;0.001**
 
 In vehicle-treated mice, no difference was observed:
+
 - VEH Left: 0.327±0.012 c/d
 - VEH Right: 0.340±0.015 c/d
 - n=10, t₂₆=-0.734, p=0.469
@@ -144,11 +152,13 @@ In vehicle-treated mice, no difference was observed:
 ### Ibogaine Restores Structural Plasticity in Adult Mice
 
 Dendritic spine density was similar between vehicle- and ibogaine-treated adult animals without MD:
+
 - IBO: 0.825±0.049 spines/μm (n=19 dendrites, n=3 mice)
 - VEH: 0.815±0.023 spines/μm (n=13 dendrites, n=3 mice)
 - z=0.331, p=0.987
 
 **Following monocular deprivation, dendritic spine density was reduced in ibogaine-treated mice:**
+
 - IBO MD: 0.681±0.061 spines/μm (n=14 dendrites, n=4 mice)
 - VEH MD: 0.827±0.040 spines/μm (n=32 dendrites, n=6 mice)
 - z=-2.743, **p=0.006**
@@ -157,36 +167,27 @@ Dendritic spine density was similar between vehicle- and ibogaine-treated adult 
 
 **PNN energy was diminished in ibogaine-treated mice:**
 
-| Layer | Vehicle | Ibogaine | P |
-|-------|---------|----------|---|
-| I | 310.1±73.7 | 193.8±28.6 | 0.205 |
-| II-III | 1793.9±388.7 | 1065.9±163.7 | 0.495 |
-| **IV** | 14073.7±2272.5 | 9243.4±1066.7 | **0.001** |
-| V | 5459.2±1057.8 | 3587.3±467.1 | 0.105 |
-| VI | 1655.7±295.3 | 1036.9±115.5 | 0.587 |
+LayerVehicleIbogainePI310.1±73.7193.8±28.60.205II-III1793.9±388.71065.9±163.70.495**IV**14073.7±2272.59243.4±1066.7**0.001**V5459.2±1057.83587.3±467.10.105VI1655.7±295.31036.9±115.50.587
 
 **Parvalbumin energy was reduced in ibogaine-treated mice:**
+
 - VEH: 11437.9±1882.0 a.u. (n=6)
 - IBO: 5222.5±915.5 a.u. (n=6)
 - χ²₁=9.087, **p=0.002**
 
-| Layer | Vehicle | Ibogaine | P |
-|-------|---------|----------|---|
-| I | 995.5±221.5 | 671.1±148.1 | 0.727 |
-| **II-III** | 9296.0±1810.6 | 7952.5±1533.5 | **0.042** |
-| **IV** | 19074.5±3314.6 | 9296.0±1810.6 | **0.001** |
-| **V** | 15366.8±2688.4 | 7506.2±1236.0 | **0.004** |
-| VI | 5749.3±936.4 | 2690.3±485.1 | 0.146 |
+LayerVehicleIbogainePI995.5±221.5671.1±148.10.727**II-III**9296.0±1810.67952.5±1533.5**0.042IV**19074.5±3314.69296.0±1810.6**0.001V**15366.8±2688.47506.2±1236.0**0.004**VI5749.3±936.42690.3±485.10.146
 
 ### PNN/PV Colocalization
 
 The percentage of both PNN+/PV cells and PV+/PNNs were reduced in ibogaine-treated mice:
+
 - PNN+/PV cells: VEH 31.2±2.2% vs IBO 37.4±3.0%, **p=0.029**
 - PV+/PNNs: VEH 66.3±4.9% vs IBO 47.7±4.7%, **p=0.007**
 
 ### Ibogaine Reduces vGAT Staining
 
 **The density of vGAT positive puncta was reduced in ibogaine-treated mice:**
+
 - VEH: 0.657±0.039 puncta/μm²
 - IBO: 0.552±0.020 puncta/μm²
 - χ²₁=5.644, **p=0.017**

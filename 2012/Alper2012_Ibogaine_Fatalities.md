@@ -1,15 +1,17 @@
 ---
+
 title: "Fatalities Temporally Associated with the Ingestion of Ibogaine"
 authors:
-  - "Alper, Kenneth R."
-  - "Stajić, Marina"
-  - "Gill, James R."
+
+- "Alper, Kenneth R."
+- "Stajić, Marina"
+- "Gill, James R."
 year: 2012
 category: RED
 tags:
-  - topic/adverse-event
-  - method/systematic-review
-  - topic/cardiac
+- topic/adverse-event
+- method/systematic-review
+- topic/cardiac
 key_findings: "FOUNDATIONAL: Systematic review of all 19 ibogaine fatalities (1990-2008). 12/14 adequate autopsies showed cardiovascular comorbidities + polysubstance intoxication explained deaths. No characteristic neurotoxicity syndrome."
 doi: "10.1111/j.1556-4029.2011.02008.x"
 pmid: "22268458"
@@ -29,17 +31,17 @@ qtc_data: false
 electrolyte_data: false
 herg_data: false
 contraindications:
-  - "cardiovascular disease"
-  - "coronary artery atherosclerosis"
-  - "dilated cardiomyopathy"
-  - "ventricular hypertrophy"
-  - "liver disease"
-  - "opioid co-use"
-  - "benzodiazepine withdrawal"
-  - "alcohol withdrawal"
-  - "cocaine use"
-  - "hypokalemia"
-  - "hypomagnesemia"
+- "cardiovascular disease"
+- "coronary artery atherosclerosis"
+- "dilated cardiomyopathy"
+- "ventricular hypertrophy"
+- "liver disease"
+- "opioid co-use"
+- "benzodiazepine withdrawal"
+- "alcohol withdrawal"
+- "cocaine use"
+- "hypokalemia"
+- "hypomagnesemia"
 dosing_range: "4.5–29 mg/kg (mean 14.3±6.1)"
 route: oral
 open_access: false
@@ -47,6 +49,7 @@ publisher: "Wiley"
 body_format: vault-analytical
 licence_type: all-rights-reserved
 licence_verified: true
+
 ---
 
 # Fatalities Temporally Associated with the Ingestion of Ibogaine
@@ -74,7 +77,6 @@ This is the seminal ibogaine fatality series — the foundational dataset upon w
 **Pulmonary thromboembolism (PE):** Reported cause in 3 Mexican deaths, but all 3 autopsy reports were inadequate for proximate cause determination. Risk factors include immobility during treatment, IV drug use history, and travel.
 
 ## Methodology
-
 Systematic review of all available autopsy, toxicological, and investigative reports for the consecutive series of all known fatalities temporally associated with ibogaine use outside West Central Africa, 1990–2008. IRB-approved by NYU School of Medicine; General Counsel of NYC Office of Chief Medical Examiner (OCME) approved access to medico-legal records. Case identification via ethnographic contact with ibogaine treatment providers since mid-1990s (18/19 cases) and literature search (1 case). All cases followed up with medico-legal death investigation agencies for autopsy reports, toxicology, inquest testimony. Treatment providers and death scene observers interviewed. A board-certified forensic pathologist (JRG) independently evaluated all available evidence to determine proximate cause of death, controlling for variance in official documentation quality across jurisdictions. Literature search: PubMed and ISI Web of Knowledge (1966–2010) with terms "ibogaine" + "death"/"fatality", plus grey literature searches.
 
 ## Fatality Data

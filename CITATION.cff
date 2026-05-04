@@ -6,7 +6,7 @@ authors:
   - family-names: Kagalovsky
     given-names: Philip
     orcid: "https://orcid.org/0009-0008-3558-3097"
-version: 1.0.4
+version: 1.0.5
 doi: "10.5281/zenodo.19468431"
 repository-code: "https://github.com/GforVendetta/IbogaineVault"
 abstract: >-
@@ -31,4 +31,4 @@ keywords:
   - opioid use disorder
   - pharmacology
 license: CC-BY-NC-SA-4.0
-date-released: 2026-04-18
+date-released: 2026-05-04

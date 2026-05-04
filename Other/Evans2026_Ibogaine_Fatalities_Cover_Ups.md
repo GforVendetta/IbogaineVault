@@ -48,7 +48,7 @@ licence_verified: true
   - August 2024 Lauren Levis at SoulCentro (Costa Rica) — cardiac arrest
   - December 2024 Blanka at Awaken Your Soul/Holos (Costa Rica) — wandered into jungle, drowned
   - Andy Haman (Colorado) — underground treatment by fitness coach Ameen Alai; Alai sentenced to 4 years (September 2025)
-- **Fatality estimate:** Cited as approximately 1 in 427 ibogaine treatments; Barsuglia/Arns study attempting updated estimate
+- **Fatality estimate:** Cited as approximately 1 in 427 ibogaine treatments
 - **GITA statement on synthetic opioids:** Nitazenes and xylazine may be present undetected; nitazenes not reliably detected by standard toxicology; lipophilic molecules may remain 7-14 days; premature ibogaine administration risks opioid potentiation and respiratory depression
 - **Ambio protocol change:** New 21-day minimum stay for anyone consuming fentanyl prior to treatment
 - **Political context:** Texas $50M funding, Arizona $5M, Netflix documentary *In Waves and War*, Americans for Ibogaine advocacy

@@ -1,8 +1,8 @@
 {
   "vault": "IbogaineVault",
   "version": "1.0.1",
-  "generated_at": "2026-04-18T18:08:28Z",
-  "paper_count": 303,
+  "generated_at": "2026-05-04T23:25:21Z",
+  "paper_count": 305,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
     {
@@ -117,42 +117,43 @@
       "tags": [
         "topic/toxicity",
         "topic/cardiac",
-        "topic/pharmacokinetics",
-        "topic/adverse-event",
         "topic/serotonin",
-        "topic/mechanism",
-        "topic/receptor",
+        "topic/pharmacokinetics",
         "topic/alcohol",
+        "topic/adverse-event",
+        "topic/mechanism",
         "method/preclinical"
       ],
-      "clinical_significance": "high",
-      "key_findings": "Ibogaine LD₅₀ 145 mg/kg rat i.p.; peaks liver/kidney 1h, cleared 12h; 15% excreted as indolic metabolite (not 5-HIAA); vagal-mediated hypotension/bradycardia (atropine-reversible); ethanol 2g/kg potentiates toxicity 1.4×",
+      "clinical_significance": "moderate",
+      "key_findings": "Ibogaine LD50 145 mg/kg rat i.p.; tissue peaks liver/kidney 1h, cleared 12h; 15% excreted as indolic metabolite (not 5-HIAA); vagal hypotension/bradycardia (atropine-reversible); ethanol 2g/kg potentiates 1.4x; iproniazid enhances acute toxicity.",
       "sample_size": null,
       "mortality_count": null,
       "mortality_scope": null,
       "qtc_data": false,
       "herg_data": false,
       "electrolyte_data": false,
-      "contraindications": [],
-      "dosing_range": "Acute LD₅₀: 145 mg/kg i.p. (rat), 175 mg/kg i.p. (mouse), 327 mg/kg i.g. (rat). Chronic: 10–50 mg/kg i.p. (30 days), 40 mg/kg i.p. (12 days). Cardiovascular: 2–32 mg/kg i.v.",
+      "contraindications": [
+        "Ethanol (high dose) — 2 g/kg potentiates ibogaine acute toxicity 1.4x (rat i.p.)",
+        "MAOIs (iproniazid) — pretreatment significantly enhances ibogaine acute toxicity at <1/2 usual threshold"
+      ],
+      "dosing_range": "Acute (rat i.p.): 110–189 mg/kg administered; LD50 145 mg/kg. Acute (mouse i.p.): up to 216 mg/kg; LD50 175 mg/kg. Acute (rat i.g.): up to 448 mg/kg; LD50 327 mg/kg. Chronic: 10 + 50 mg/kg/d × 30 d (n=4/group); 40 mg/kg/d × 12 d. Cardiovascular: 2, 4, 8, 16, 32 mg/kg i.v.",
       "route": "intraperitoneal",
       "source_pdf": "1971/Dhahir1971_Ibogaine_Serotonin_Toxicity.pdf",
       "journal": null,
       "aliases": [
         "Dhahir 1971",
-        "Ibogaine Serotonin Toxicity Comparison",
-        "Ibogaine PhD Dissertation"
+        "Dhahir Ibogaine Toxicity Dissertation"
       ],
       "source_url": null,
       "pmid": null,
       "pmcid": null,
-      "open_access": true,
+      "open_access": false,
       "publisher": null,
       "body_format": "vault-analytical",
       "issn": null,
       "licence_type": "all-rights-reserved",
-      "licence_verified": true,
-      "references_stripped": true,
+      "licence_verified": false,
+      "references_stripped": false,
       "filepath": "1971/Dhahir1971_Ibogaine_Serotonin_Toxicity.md"
     },
     {
@@ -3316,7 +3317,7 @@
       "year": 2002,
       "doi": "10.1051/ata/2002012",
       "primary_category": "RED",
-      "document_type": "brief-communication",
+      "document_type": "conference-abstract",
       "secondary_categories": null,
       "evidence_level": "case-report",
       "tags": [
@@ -4093,7 +4094,7 @@
       ],
       "dosing_range": "unknown (iboga root bark; blood levels elevated relative to published therapeutic range — femoral ibogaine 3.3 µg/mL, noribogaine 4.6 µg/mL)",
       "route": "oral",
-      "source_pdf": "2008/Cheze2008_.pdf",
+      "source_pdf": "2008/Cheze2008 .pdf",
       "journal": "Forensic Science International",
       "aliases": [
         "Chèze 2008",
@@ -4284,7 +4285,7 @@
       "year": 2010,
       "doi": "10.1016/j.biocel.2010.05.011",
       "primary_category": "ORANGE",
-      "document_type": "in-vitro",
+      "document_type": "journal-article",
       "secondary_categories": null,
       "evidence_level": "in-vitro",
       "tags": [
@@ -5419,10 +5420,11 @@
         "topic/cardiac",
         "topic/adverse-event",
         "topic/opioid",
+        "topic/toxicity",
         "method/case-report"
       ],
       "clinical_significance": "high",
-      "key_findings": "25yo male with pre-existing SVT died from multi-organ failure 2 days after ingesting 2.5g ibogaine for heroin cessation; unsupervised. Same case as Warrick2012 NACCT abstract (see See Also).",
+      "key_findings": "25yo male with pre-existing SVT died from multi-organ failure 2 days after ingesting 2.5g ibogaine for heroin cessation; medically unsupervised (home setting, mother present). Same case as Warrick2012 NACCT abstract (see See Also).",
       "sample_size": 1,
       "mortality_count": 1,
       "mortality_scope": "discrete-cases",
@@ -5535,7 +5537,9 @@
       "tags": [
         "topic/adverse-event",
         "method/case-report",
-        "topic/toxicity"
+        "topic/toxicity",
+        "topic/opioid",
+        "topic/benzodiazepine"
       ],
       "clinical_significance": "high",
       "key_findings": "FATALITY CASE: 27yo male died ~12h after iboga root ingestion during withdrawal treatment. Femoral blood ibogaine 1.27 μg/mL. Co-ingestion with methadone and diazepam — triple QT-prolongation risk.",
@@ -5831,20 +5835,16 @@
         "method/in-vitro",
         "topic/toxicity"
       ],
-      "clinical_significance": "landmark",
-      "key_findings": "Ibogaine blocks hERG channels from cytosolic side via open/inactivated-state binding at Y652/F656 residues; IC₅₀ ~1-4 μM; F656A mutation reduces potency 50-fold; inactivation-deficient mutant equally sensitive.",
+      "clinical_significance": "high",
+      "key_findings": "hERG IC₅₀ ~1.0 μM (Fig 5C tail) and ~1.2 μM (Fig 5B sustained at +10 mV); ~3–4 μM figures elsewhere cite Koenig 2012/2013. Y652A 5-fold + F656A 50-fold reductions. Best fit OIB; closed-state binding negligible (COIB null vs OIB, P>0.05).",
       "sample_size": null,
       "mortality_count": null,
       "mortality_scope": null,
       "qtc_data": false,
       "herg_data": true,
       "electrolyte_data": false,
-      "contraindications": [
-        "Pre-existing hERG channel dysfunction",
-        "Concomitant use of other hERG-blocking drugs",
-        "Conditions favouring intracellular acidosis (increases ibogaine trapping and hERG block)"
-      ],
-      "dosing_range": "IC₅₀ ~1–4 μM (hERG wild-type); standard test concentration 3 μM — in vitro",
+      "contraindications": [],
+      "dosing_range": "IC₅₀ ~1.0–1.2 μM (hERG wild-type, this paper's protocols); 3 μM standard test concentration — in vitro",
       "route": "not-applicable",
       "source_pdf": "2014/Thurner2014_hERG_Channel_Block_Ibogaine.pdf",
       "journal": "Journal of Pharmacology and Experimental Therapeutics",
@@ -5916,7 +5916,7 @@
       "filepath": "2014/Vlaanderen2014_Cardiac_Arrest_Ibogaine.md"
     },
     {
-      "title": "Herbal seizures - atypical symptoms after ibogaine intoxication: a case report",
+      "title": "\"Herbal seizures\" – atypical symptoms after ibogaine intoxication: a case report",
       "authors": [
         "Breuer, Lorenz",
         "Kasper, Burkhard S.",
@@ -5937,16 +5937,16 @@
         "topic/toxicity",
         "topic/adverse-event",
         "method/case-report",
-        "topic/mechanism"
+        "mechanism/nmda-antagonism"
       ],
       "clinical_significance": "high",
       "key_findings": "Seizure case report: 22yo male, extreme 38 g dose triggered generalised tonic-clonic seizures. Suggests ibogaine proconvulsive at high doses. Treated with midazolam/levetiracetam.",
       "sample_size": 1,
       "mortality_count": null,
       "mortality_scope": null,
-      "qtc_data": false,
+      "qtc_data": true,
       "herg_data": false,
-      "electrolyte_data": false,
+      "electrolyte_data": true,
       "contraindications": [
         "Seizure disorders or epilepsy",
         "High-dose iboga root bark ingestion (proconvulsive at high doses)"
@@ -5958,7 +5958,8 @@
       "aliases": [
         "Breuer 2015",
         "Breuer",
-        "Breuer Seizures 2015"
+        "Breuer Seizures 2015",
+        "Herbal Seizures Case Report"
       ],
       "source_url": null,
       "pmid": "26518760",
@@ -6278,17 +6279,18 @@
       "primary_category": "RED",
       "document_type": "case-series",
       "secondary_categories": [
-        "GREEN",
-        "PURPLE"
+        "ORANGE"
       ],
       "evidence_level": "case-series",
       "tags": [
         "topic/adverse-event",
         "topic/psychiatric",
+        "topic/serotonin",
+        "topic/mechanism",
         "method/case-series"
       ],
       "clinical_significance": "high",
-      "key_findings": "SAFETY ALERT: 3 cases de novo mania post-ibogaine in patients with no prior bipolar history. Naranjo scale: probable (2 cases) and possible (1). First published reports of ibogaine-induced mania.",
+      "key_findings": "SAFETY ALERT: 3 cases de novo mania post-ibogaine, no prior bipolar history. Onset days-to-weeks post-use. Stimulant-induced mania excluded by tox; opiate withdrawal dismissed via Mr. C's opiate-naive history. First published mania reports.",
       "sample_size": 3,
       "mortality_count": null,
       "mortality_scope": null,
@@ -6451,8 +6453,10 @@
       "evidence_level": "in-vitro",
       "tags": [
         "topic/cardiac",
+        "topic/18-mc",
+        "topic/noribogaine",
         "mechanism/herg-blockade",
-        "mechanism/ion-channel"
+        "method/in-vitro"
       ],
       "clinical_significance": "high",
       "key_findings": "LANDMARK hERG DATA: Whole-cell patch clamp IC₅₀ values - ibogaine 4.09μM, noribogaine 2.86μM, voacangine 2.25μM. 18-MC >50μM (12× safer). Noribogaine's extended T½ may explain delayed cardiac events.",
@@ -6462,28 +6466,14 @@
       "qtc_data": false,
       "herg_data": true,
       "electrolyte_data": false,
-      "contraindications": [
-        "hypokalemia",
-        "hypomagnesemia",
-        "cardiac disease",
-        "bradycardia",
-        "liver disease",
-        "respiratory disease",
-        "seizures",
-        "alcohol withdrawal",
-        "cocaine withdrawal",
-        "co-ingestants"
-      ],
-      "dosing_range": "10–25 mg/kg (typical clinical range); IC₅₀ overlaps therapeutic plasma concentrations (2.4 μM ibogaine, 3.2 μM noribogaine at 10 mg/kg)",
-      "route": "oral",
+      "contraindications": [],
+      "dosing_range": "In-vitro concentrations: 0.1–10,000 nM (radioligand binding); 1–100 μM (patch clamp)",
+      "route": "not-applicable",
       "source_pdf": "2016/Alper2016_hERG_Blockade.pdf",
       "journal": "Cardiovascular Toxicology",
       "aliases": [
         "Alper 2016",
-        "Alper",
-        "Alper hERG 2016",
-        "Alper2016_hERG_Blockade_Iboga_Alkaloids",
-        "Alper2016_hERG_Ibogaine"
+        "Alper hERG 2016"
       ],
       "source_url": null,
       "pmid": "25636206",
@@ -6493,7 +6483,7 @@
       "body_format": "vault-analytical",
       "issn": "1559-0259",
       "licence_type": "all-rights-reserved",
-      "licence_verified": true,
+      "licence_verified": false,
       "references_stripped": null,
       "filepath": "2016/Alper2016_hERG_Blockade.md"
     },
@@ -9377,19 +9367,18 @@
       "year": 2021,
       "doi": "10.1111/add.15448",
       "primary_category": "RED",
-      "document_type": "clinical-trial",
+      "document_type": "observational",
       "secondary_categories": [
         "GREEN",
         "BLUE"
       ],
-      "evidence_level": "cohort",
+      "evidence_level": "case-series",
       "tags": [
         "topic/opioid",
         "topic/withdrawal",
         "topic/adverse-event",
-        "topic/protocol",
         "mechanism/herg-blockade",
-        "method/clinical-trial"
+        "method/observational"
       ],
       "clinical_significance": "high",
       "key_findings": "Dutch hospital study (n=14). QTc prolongation median ΔQTcMax 102ms (SD 36ms, range 40–168ms); 50% reached >500ms. Prolongation >450ms lasted >24h in 6 patients. No torsade. Severe but reversible ataxia in all. 11/14 did not return to morphine.",
@@ -11962,7 +11951,7 @@
         "Mijović, Milica",
         "Miler, Marko",
         "Grahovac, Tanja",
-        "Orešcanin Dušić, Zorana",
+        "Oreščanin Dušić, Zorana",
         "Nikolić-Kokić, Aleksandra",
         "Blagojević, Duško"
       ],
@@ -11975,13 +11964,13 @@
       ],
       "evidence_level": "preclinical",
       "tags": [
-        "method/preclinical",
         "topic/cardiac",
         "topic/toxicity",
-        "mechanism/energy-metabolism"
+        "mechanism/energy-metabolism",
+        "method/preclinical"
       ],
       "clinical_significance": "high",
-      "key_findings": "First demonstration that oral ibogaine causes dose-dependent myocardial necrosis in rats. Lower dose (1mg/kg): focal necrosis. Higher dose (20mg/kg): diffuse necrosis affecting 60% of myocardium. Non-inflammatory mechanism.",
+      "key_findings": "First histopathological demonstration of dose-dependent myocardial necrosis in rats from oral ibogaine. Low dose (1mg/kg): focal. High dose (20mg/kg): diffuse extensive (>51% per paper's scoring). Non-inflammatory mechanism.",
       "sample_size": null,
       "mortality_count": null,
       "mortality_scope": null,
@@ -11989,7 +11978,7 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": "1mg/kg (low dose) and 20mg/kg (high dose)",
+      "dosing_range": "1 or 20 mg/kg b.w. single dose per os by gavage",
       "route": "oral",
       "source_pdf": "2024/Uzelac2024_Cardiotoxic_Necrosis_Redox.pdf",
       "journal": "International Journal of Molecular Sciences",
@@ -12310,7 +12299,7 @@
         "method/case-series"
       ],
       "clinical_significance": "high",
-      "key_findings": "7 UK poison centre cases (2012-2022): 6/7 developed cardiotoxicity; 2 cardiac arrests with hypoxic brain injury; QTc 680-720 msec; no dose-response relationship observed; doses 5-34g root bark.",
+      "key_findings": "7 UK poison centre cases (2012-2022), 0 fatalities: 6/7 developed cardiotoxicity; 2 cardiac arrests with hypoxic brain injury (survivors); QTc 680-720 msec; no dose-response relationship; doses 5-34g root bark.",
       "sample_size": 7,
       "mortality_count": null,
       "mortality_scope": null,
@@ -13797,7 +13786,7 @@
         "method/review"
       ],
       "clinical_significance": "high",
-      "key_findings": "QTc prolongation at therapeutic doses even without cardiac history; CYP2D6 poor metabolisers at higher risk; safe dose ~0.87 mg/kg (10× lower, but may lack efficacy); recommends genotyping + monitoring.",
+      "key_findings": "Narrative review, no new primary fatalities: QTc prolongation at therapeutic doses even without cardiac history; CYP2D6 poor metabolisers at higher risk; safe dose ~0.87 mg/kg (10× lower, may lack efficacy); recommends genotyping + monitoring.",
       "sample_size": null,
       "mortality_count": null,
       "mortality_scope": null,
@@ -13805,15 +13794,14 @@
       "herg_data": true,
       "electrolyte_data": true,
       "contraindications": [
-        "Pre-existing cardiac conditions",
-        "QTc prolongation (>450ms males, >460ms females)",
+        "QTc prolongation (≥450 ms males, ≥460 ms females)",
         "CYP2D6 poor metaboliser status (genotyping recommended)",
         "Concurrent QT-prolonging medications",
         "Doses exceeding ~0.87 mg/kg without cardiac monitoring"
       ],
-      "dosing_range": "Safe dose ~0.87mg/kg (10× lower than therapeutic 8–14mg/kg)",
+      "dosing_range": "Safe dose ~0.87 mg/kg (10× lower than therapeutic 8–14 mg/kg)",
       "route": "oral",
-      "source_pdf": "2026/Brunt2026_Ibogaine_Cardiovascular_Complications.pdf",
+      "source_pdf": "2026/Brunt2026_Cardiovascular_Complications_Review.pdf",
       "journal": "Addiction",
       "aliases": [
         "Brunt 2026",
@@ -13822,11 +13810,11 @@
       "source_url": null,
       "pmid": "41560340",
       "pmcid": null,
-      "open_access": false,
+      "open_access": true,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
       "issn": "1360-0443",
-      "licence_type": "all-rights-reserved",
+      "licence_type": "cc-by-nc-nd",
       "licence_verified": true,
       "references_stripped": null,
       "filepath": "2026/Brunt2026_Cardiovascular_Complications_Review.md"
@@ -14913,6 +14901,64 @@
       "filepath": "Primary_Sources/2017_EntheoScience_Clare_Wilkins_Cannabis_Ethics.md"
     },
     {
+      "title": "Martinovic Death at Minds Alive Wellness Centre, Durban (November 2017): Court Record",
+      "authors": [
+        "S v Jeewa (KZN High Court, Durban, 2024)"
+      ],
+      "year": 2017,
+      "doi": null,
+      "primary_category": "RED",
+      "document_type": "primary-source",
+      "secondary_categories": [
+        "GREEN",
+        "WHITE"
+      ],
+      "evidence_level": "primary-source",
+      "tags": [
+        "topic/adverse-event",
+        "topic/cardiac",
+        "topic/protocol",
+        "topic/policy",
+        "topic/harm-reduction",
+        "method/qualitative"
+      ],
+      "clinical_significance": "high",
+      "key_findings": "Death of Milos Martinovic (26, Canadian/French) at Anwar Jeewa's unregistered Minds Alive Wellness Centre, Durban, 8 November 2017. Cause: alprazolam overdose with ibogaine in blood. S v Jeewa (KZN High Court, 2024): culpable homicide, Vahed J.",
+      "sample_size": 1,
+      "mortality_count": 1,
+      "mortality_scope": "discrete-cases",
+      "qtc_data": false,
+      "herg_data": false,
+      "electrolyte_data": false,
+      "contraindications": [
+        "concurrent-benzodiazepine",
+        "polydrug-use-at-admission",
+        "benzodiazepine-not-tapered-pre-treatment",
+        "opioid-not-tapered-pre-treatment"
+      ],
+      "dosing_range": "3–4 sequential ibogaine capsule doses (specific milligram dosing not established in available record); on Day 1 of admission (7 November 2017)",
+      "route": "oral",
+      "source_pdf": "not-applicable",
+      "journal": null,
+      "aliases": [
+        "Martinovic 2017",
+        "S v Jeewa 2024",
+        "Minds Alive Death",
+        "Vahed J. judgement"
+      ],
+      "source_url": null,
+      "pmid": null,
+      "pmcid": null,
+      "open_access": true,
+      "publisher": null,
+      "body_format": "vault-analytical",
+      "issn": null,
+      "licence_type": "unknown",
+      "licence_verified": true,
+      "references_stripped": null,
+      "filepath": "Primary_Sources/2017_Minds_Alive_Martinovic_Death_Durban.md"
+    },
+    {
       "title": "Clare Wilkins at Psychedelic Science 2017: Novel Approach to Methadone Detox",
       "authors": [
         "Wilkins, Clare"
@@ -15118,6 +15164,52 @@
       "filepath": "Primary_Sources/INTASH1990_Ibogaine_Experience_Reflections.md"
     },
     {
+      "title": "Mash v. NDA International, Inc. — Amended Complaint (Noribogaine Patent Dispute)",
+      "authors": [
+        "Mash, Deborah C."
+      ],
+      "year": 1997,
+      "doi": null,
+      "primary_category": "WHITE",
+      "document_type": "primary-source",
+      "secondary_categories": null,
+      "evidence_level": "primary-source",
+      "tags": [
+        "topic/history",
+        "topic/noribogaine",
+        "topic/policy"
+      ],
+      "clinical_significance": "moderate",
+      "key_findings": "Primary source documenting Mash–Lotsof patent dispute over noribogaine inventorship; reveals the contractual and IP dynamics that fractured ibogaine's two main development lineages",
+      "sample_size": null,
+      "mortality_count": null,
+      "mortality_scope": null,
+      "qtc_data": false,
+      "herg_data": false,
+      "electrolyte_data": false,
+      "contraindications": [],
+      "dosing_range": null,
+      "route": null,
+      "source_pdf": "Other/Legal1998_Mash_v_NDA_International.pdf",
+      "journal": null,
+      "aliases": [
+        "Mash v NDA 1997",
+        "Mash Lotsof Patent Dispute",
+        "Noribogaine Patent Case"
+      ],
+      "source_url": null,
+      "pmid": null,
+      "pmcid": null,
+      "open_access": null,
+      "publisher": null,
+      "body_format": null,
+      "issn": null,
+      "licence_type": "unknown",
+      "licence_verified": false,
+      "references_stripped": null,
+      "filepath": "Primary_Sources/Mash1997_v_NDA_Patent_Dispute.md"
+    },
+    {
       "title": "Professor Jan Bastiaans and the Ibogaine Saga",
       "authors": [
         "Wachtel, Boaz"
@@ -15297,7 +15389,12 @@
       "qtc_data": false,
       "herg_data": false,
       "electrolyte_data": false,
-      "contraindications": [],
+      "contraindications": [
+        "Concurrent buprenorphine use (Suboxone) — flagged in source as particularly dangerous with long-acting opiates",
+        "Concurrent benzodiazepine use (Valium)",
+        "Active polydrug use at admission (fentanyl, cocaine, buprenorphine, benzodiazepine)",
+        "Recent fentanyl use"
+      ],
       "dosing_range": "undisclosed (ibogaine flood dose + booster)",
       "route": "oral",
       "source_pdf": "Other/Busby2024_Beond_Death_Investigation.pdf",

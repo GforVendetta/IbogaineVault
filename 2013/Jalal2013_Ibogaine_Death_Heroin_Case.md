@@ -10,14 +10,15 @@ tags:
   - topic/cardiac
   - topic/adverse-event
   - topic/opioid
+  - topic/toxicity
   - method/case-report
-key_findings: "25yo male with pre-existing SVT died from multi-organ failure 2 days after ingesting 2.5g ibogaine for heroin cessation; unsupervised. Same case as Warrick2012 NACCT abstract (see See Also)."
+key_findings: "25yo male with pre-existing SVT died from multi-organ failure 2 days after ingesting 2.5g ibogaine for heroin cessation; medically unsupervised (home setting, mother present). Same case as Warrick2012 NACCT abstract (see See Also)."
 source_pdf: "2013/Jalal2013_Ibogaine_Death_Heroin_Case.pdf"
 doi: "10.1111/j.1521-0391.2012.00330.x"
 pmid: "23617876"
 journal: "The American Journal on Addictions"
 issn: "1521-0391"
-publication_date: "2013-01-01"
+publication_date: "2013-04-25"
 document_type: case-report
 secondary_categories: []
 clinical_significance: high
@@ -79,7 +80,7 @@ This case powerfully illustrates why pre-treatment cardiac screening protocol is
 
 1. **Pre-existing arrhythmia as absolute contraindication:** The patient's SVT history would immediately exclude him from treatment under any responsible screening protocol. This case is a sobering example of what happens when cardiac screening is absent entirely.
 
-2. **Unsupervised administration:** Home use without medical monitoring, ECG equipment, or resuscitation capability removed every safety net. the controlled clinical environment with continuous cardiac monitoring exists precisely to prevent this scenario.
+2. **Unsupervised administration:** Home use without medical monitoring, ECG equipment, or resuscitation capability removed every safety net. The controlled clinical environment with continuous cardiac monitoring exists precisely to prevent this scenario.
 
 3. **No dose titration or assessment:** The 2.5 g dose was administered without any prior medical evaluation, cardiac workup, or test dose protocol. Modern protocols (e.g., GITA guidelines) mandate stepwise dosing with continuous monitoring.
 
@@ -92,13 +93,16 @@ This case powerfully illustrates why pre-treatment cardiac screening protocol is
 - Single case report with limited clinical detail (single page)
 - No ECG, QTc, or electrolyte data reported
 - Exact ibogaine preparation and purity not specified (substance confirmed by Poison Control but no concentration data)
-- No information on concomitant substances other than heroin
+- No toxicology screen for concomitant substances reported; time since last heroin use not specified — a critical gap given the patient's active heroin addiction
+- No autopsy findings reported in this publication (cf. Warrick2012 for postmortem ibogaine concentrations from the same case)
+- No formal causality assessment performed; causal link between ibogaine and death rests on temporal association and toxicology confirmation rather than demonstrated cardiac mechanism (no ECG, no rhythm diagnosis, no autopsy in this publication)
 - Timeline between arrest and hospital presentation not specified
 - Publication date 2013 but case details suggest events occurred earlier (received December 2011)
 
 ---
 
 ## See Also
+
 - [Warrick2012_Ibogaine_Fatality](../2012/Warrick2012_Ibogaine_Fatality.md) — **Same case.** Warrick & Baltarowich presented this case at NACCT 2012 (Abstract #184, *Clinical Toxicology*) before Jalal et al. published the full case report in 2013. Confirmed identical via matching postmortem ibogaine concentrations across all four specimens (heart blood 2.2 µg/mL, iliac 1.8 µg/mL, vitreous 0.98 µg/mL, liver 4.2 µg/g). The Warrick abstract provides clinical data absent from this publication: AICD interrogation confirming Vtach/Vfib, QTc 521 ms, QRS 208 ms, EF 10%, and full lab trajectories. Both teams were based in Detroit (Warrick at Children's Hospital of Michigan Poison Center; Jalal at St. John Hospital and Medical Center).
 - [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)
 - [Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction](../2006/Maas2006_Cardiac_Fatalities_Autonomic_Dysfunction.md) — Cited in this paper; proposes autonomic dysfunction mechanism for ibogaine cardiac fatalities

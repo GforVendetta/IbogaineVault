@@ -22,7 +22,7 @@ key_findings: "RECEPTOR MECHANISM: Ibogaine inhibits human α3β4 nAChRs with st
 journal: "International Journal of Biochemistry & Cell Biology"
 publisher: "Elsevier BV"
 issn: "1357-2725"
-document_type: in-vitro
+document_type: journal-article
 clinical_significance: moderate
 aliases: ["Arias 2010", "Arias", "Arias nAChR 2010"]
 source_pdf: "2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human.pdf"
