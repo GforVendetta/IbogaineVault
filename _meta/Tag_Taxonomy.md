@@ -106,7 +106,7 @@
 
 Three-tier limits based on document function:
 
-- **Standard (≤5):** Empirical papers — clinical-trial, case-report, case-series, in-vitro, preclinical, observational, qualitative, research-article, brief-communication.
+- **Standard (≤5):** Empirical papers — clinical-trial, case-report, case-series, in-vitro, preclinical, observational, qualitative, research-article, journal-article, brief-communication, conference-abstract.
 - **Synthesis (≤10):** Reviews, systematic-reviews, theses, guidelines, primary-sources, conference-talks, educational, interview-transcripts, commentaries, books, book-chapters, policy-reports.
 - **Encyclopedic (named exceptions):** Alper2001 (16), Kobr2024 (14), Alfonso2023 (11). Comprehensive field reviews spanning ≥4 distinct domains. Adding new exceptions requires review.
 
@@ -117,11 +117,13 @@ The limit is a target, not a ceiling. Papers at limit+1 are acceptable when each
 ## Using Tags in Bases
 
 Filter by tag in any Base using:
+
 ```
 tags.contains("topic/cardiac")
 ```
 
 Combine with OR logic:
+
 ```yaml
 or:
   - 'tags.contains("topic/veterans")'

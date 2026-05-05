@@ -25,7 +25,7 @@ To find mortality data: filter `papers.json` for `mortality_count > 0` (31 paper
 
 #### Understanding mortality data: the `mortality_scope` field
 
-**Do not sum `mortality_count` values across papers.** The vault's mortality data requires deduplication because cumulative review papers overlap massively — a 2022 review tallying 38 deaths and a 2018 review tallying 33 deaths are largely counting the same incidents. A naïve sum across all papers with `mortality_count > 0` would report approximately 250 deaths when the deduplicated estimate is approximately 45.
+**Do not sum `mortality_count` values across papers.** The vault's mortality data requires deduplication because cumulative review papers overlap massively — a 2022 review tallying 38 deaths and a 2018 review tallying 33 deaths are largely counting the same incidents. A naïve sum across all papers with `mortality_count > 0` would report approximately 250 deaths when the deduplicated estimate is approximately 46.
 
 Each paper that reports fatalities carries a `mortality_scope` field with one of three values:
 
@@ -33,7 +33,7 @@ Each paper that reports fatalities carries a `mortality_scope` field with one of
 - **`discrete-cases`** — The paper reports individual incidents (typically case reports). These may or may not already be included in cumulative reviews. Only deaths occurring after the baseline review's search cut-off date, or demonstrably absent from it, should be added to the total.
 - **`incidental`** — The paper mentions deaths reported elsewhere but does not contribute new mortality data. Exclude entirely from any count.
 
-**The deduplication algorithm in practice:** The vault uses Kock et al. (2022) as the mortality baseline: 38 deaths, covering literature through 7 December 2020, with the most rigorous cross-referencing against earlier reviews. Post-baseline discrete cases (Acimovic 2021, Busby 2024, Evans 2026) add 7 further deaths, producing an estimated total of approximately 45 ibogaine-associated deaths in the published literature. Note that this figure reflects published reports only — unreported deaths in unregulated settings remain a known coverage gap.
+**The deduplication algorithm in practice:** The vault uses Kock et al. (2022) as the mortality baseline: 38 deaths, covering literature through 7 December 2020, with the most rigorous cross-referencing against earlier reviews. Two further deaths within Köck's baseline period are added at vault level — the cardiac-arrhythmia death documented in Noller 2017 (outside Köck's PRISMA catchment) and the Martinovic 2017 death (judicially established as culpable homicide in *S v Jeewa* 2024, post-dating both Köck2022 and Chen2024) — bringing the baseline-period total to 40. Post-baseline discrete cases (Acimovic 2021, Busby 2024, Evans 2026) add a further 6 deaths, producing an estimated total of approximately 46 ibogaine-associated deaths in the published literature. Note that this figure reflects published reports only — unreported deaths in unregulated settings remain a known coverage gap.
 
 For the full worked example with per-paper provenance, see the [RED Cardiac Safety Hub](Hubs/RED_Cardiac_Safety_Hub.md) and the [Methodology](_meta/METHODOLOGY.md) documentation on cross-paper consistency.
 

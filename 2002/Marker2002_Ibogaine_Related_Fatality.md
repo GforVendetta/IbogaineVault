@@ -15,7 +15,7 @@ source_pdf: "2002/Marker2002_Ibogaine_Related_Fatality.pdf"
 doi: "10.1051/ata/2002012"
 journal: "Annales de Toxicologie Analytique"
 issn: "0768-598X"
-document_type: brief-communication
+document_type: conference-abstract
 clinical_significance: high
 aliases:
   - "Marker 2002"

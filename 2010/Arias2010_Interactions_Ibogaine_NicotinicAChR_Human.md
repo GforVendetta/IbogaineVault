@@ -22,7 +22,7 @@ key_findings: "RECEPTOR MECHANISM: Ibogaine inhibits human α3β4 nAChRs with st
 journal: "International Journal of Biochemistry & Cell Biology"
 publisher: "Elsevier BV"
 issn: "1357-2725"
-document_type: in-vitro
+document_type: journal-article
 clinical_significance: moderate
 aliases: ["Arias 2010", "Arias", "Arias nAChR 2010"]
 source_pdf: "2010/Arias2010_Interactions_Ibogaine_NicotinicAChR_Human.pdf"
@@ -30,8 +30,8 @@ evidence_level: in-vitro
 qtc_data: false
 electrolyte_data: false
 herg_data: false
-dosing_range: "N/A (receptor binding Ki 0.57 µM)"
-route: not-specified
+dosing_range: "Kd 0.46 µM; Ki 0.37 µM desensitised / 1.05 µM resting ([³H]ibogaine competition)"
+route: not-applicable
 contraindications: []
 open_access: true
 body_format: vault-analytical
@@ -61,15 +61,25 @@ Mutual displacement between [³H]ibogaine and [³H]TCP (a PCP analogue) establis
 
 Thermodynamic profiling revealed that ibogaine binding in both receptor states is entropy-driven (−TΔS° contributing −26.2 to −29.4 kJ/mol), with a smaller but significant enthalpic component (ΔH° = −7.6 to −10.5 kJ/mol) consistent with van der Waals contacts dominating the interaction. The entropic contribution was more pronounced in the desensitised state, implying greater conformational reorganisation of the binding pocket upon ibogaine engagement with desensitised channels.
 
+The authors themselves frame these findings as mechanistic groundwork rather than a clinical claim. The paper's Discussion explicitly states that the study is not intended to establish therapeutic properties of ibogaine or PCP, but to pave the way for a better understanding of their pharmacology at this receptor subtype. Any inference from these in-vitro results to patient-level outcomes is therefore vault-side extrapolation, not a claim endorsed by the source.
+
 ## Methodology
 
 Arias and colleagues employed four complementary techniques to characterise ibogaine's interaction with hα3β4 nAChRs, using HEK293 cells stably expressing the human receptor.
 
-**Functional assays** measured Ca²⁺ influx via FLIPR fluorescence detection in response to epibatidine stimulation, with ibogaine or PCP applied during a 5-minute pre-incubation to assess noncompetitive inhibition. **Equilibrium radioligand binding** used [³H]ibogaine (23 Ci/mmol) and [³H]TCP (45 Ci/mmol) in competition experiments against membranes (1.5–1.8 mg/mL total protein), with conformational states controlled by omitting agonist (resting) or including 1 µM nicotine (desensitised). Scatchard analysis established binding parameters; Cheng-Prusoff transformation converted IC₅₀ values to K_i estimates.
+**Compound characterisation.** Ibogaine·HCl, PCP·HCl, and [³H]ibogaine (23 Ci/mmol) were obtained from the National Institute on Drug Abuse / National Institutes of Health. [³H]TCP (45 Ci/mmol) was supplied by PerkinElmer and stored in ethanol. Epibatidine and unlabelled nicotine were purchased from Sigma; α-bungarotoxin was sourced from Biotoxins Inc. The authors describe reagent purity as "analytical grade" without further specification — no certificates of analysis, purity assay results, or enantiomeric composition data are reported.
 
-**Non-linear chromatography** employed a cellular membrane affinity chromatography (CMAC) column — solubilised hα3β4 membranes immobilised on artificial monolayer particles — to measure association/dissociation kinetics and thermodynamic parameters. Conformational states were set using α-bungarotoxin (resting) or epibatidine (desensitised). Van't Hoff and Arrhenius analyses across five temperatures (10–25°C) yielded enthalpy, entropy, and activation energy values.
+**Buffer compositions.** Binding experiments used a Tris-HCl-based binding-study (BS) buffer (pH 7.4) supplemented with a protease-inhibitor cocktail (leupeptin, bacitracin, pepstatin A, aprotinin, benzamidine, PMSF) and 0.025% sodium azide. FLIPR assays used Hank's balanced salt solution (HBSS) with HEPES buffering.
+
+**Functional assays** measured Ca²⁺ influx via FLIPR fluorescence detection (488 nm excitation / 510 nm emission) in black 96-well plates at 5×10⁴ cells per well. Cells were loaded with 2 µM Fluo-4 in the presence of 2.5 mM probenecid. Ibogaine or PCP was applied during a 5-minute pre-incubation followed by stimulation with 0.1 µM epibatidine; inhibition experiments used n = 10 wells per condition.
+
+**Equilibrium radioligand binding** used [³H]ibogaine (23 Ci/mmol) and [³H]TCP (45 Ci/mmol) in competition experiments against HEK293-derived membranes (1.5–1.8 mg/mL total protein). Conformational states were set by omitting agonist (resting) or including 1 µM nicotine (desensitised). Nonspecific binding was defined by inclusion of 100 µM unlabelled ibogaine. Bound ligand was separated from free by vacuum filtration through glass-fibre filters pre-soaked in 0.5% polyethylenimine (PEI) to reduce nonspecific adsorption. Binding was conducted at room temperature; the 37°C condition noted in Methods applied to cell culture and FLIPR dye loading only, not to binding or chromatography. Scatchard saturation analysis pooled data across two independent experiments (Fig. 2 caption reports the displayed curve as a "combination of two separate experiments"); Cheng-Prusoff transformation converted IC₅₀ values to K_i estimates where its assumptions held. Thermodynamic binding experiments were conducted at n = 3 replicates.
+
+**Non-linear chromatography (CMAC)** employed solubilised hα3β4 membranes immobilised on artificial monolayer particles packed into a 150 × 5 mm (ID) column. Mobile phase: 10 mM ammonium acetate (pH 7.4) in methanol:water (15:85, v/v) at 0.2 mL/min, 20°C. Ibogaine was introduced as 10 µL injections of 10 µM solution per run; detection used LC-MS in positive-ion single-ion-monitoring (SIM) mode at m/z 310.9. Conformational states were set by including 1 nM α-bungarotoxin (resting) or 0.1 µM epibatidine (desensitised) in the mobile phase, with a 1-hour column equilibration before kinetic runs. Van't Hoff and Arrhenius analyses used five temperatures spanning 10–25°C; no measurements were taken at physiological temperature (37°C).
 
 **Molecular docking** used a homology model of the hα3β4 ion channel constructed from the *Torpedo* AChR cryo-EM structure (PDB 2BG9, ~4 Å resolution) with Molegro Virtual Docker, testing both neutral and protonated states of ibogaine and PCP.
+
+**State-manipulation asymmetry — methodological caveat.** The paper treats the membrane-binding and chromatography arms as cross-validating measurements of the same state preference, but the state-setting manipulations are not identical: membranes use no-ligand (resting) versus 1 µM nicotine (desensitised), while chromatography uses 1 nM α-bungarotoxin (resting) versus 0.1 µM epibatidine (desensitised). Direction of state preference (desensitised > resting) agrees across arms, but the magnitude differs by roughly 2.5× — approximately 2.6–2.8× in membrane binding (Table 2 K_i ratios: 1.05/0.37 ≈ 2.84 and 9.5/3.6 ≈ 2.64) versus approximately 1.1× in chromatography (Table 3 ratios: K_a 3.84/3.47 ≈ 1.11; k_off 0.088/0.078 ≈ 1.13). The two arms should be read as complementary rather than as replicate measurements of a single underlying state-preference magnitude.
 
 ## Receptor Binding and Channel Interaction Data
 
@@ -91,7 +101,7 @@ The nine-fold potency difference between ibogaine and PCP at the hα3β4 subtype
 | PCP | [³H]Ibogaine | 17 ± 2 | 0.88 ± 0.07 | ND | ND |
 | PCP | [³H]TCP | 10 ± 2 | 0.87 ± 0.10 | ND | ND |
 
-The consistent ~2.6–2.8-fold affinity shift favouring the desensitised state appeared regardless of which radioligand was used as the reporter — a reassuring internal validation. PCP exhibited 10–16-fold lower resting-state affinity than ibogaine, aligning with the functional potency hierarchy.
+The consistent ~2.6–2.8-fold affinity shift favouring the desensitised state appeared regardless of which radioligand was used as the reporter — a reassuring internal validation. The paper's headline figure of PCP displaying "10–16-fold lower affinity" than ibogaine at the resting receptor, however, is specific to the [³H]ibogaine-competition readout (K_i ratio 17 / 1.05 ≈ 16×). Against [³H]TCP competition the two compounds are approximately equipotent at the resting state (K_i ratio 10 / 9.5 ≈ 1×). The 10–16-fold framing should therefore be read as radioligand-specific rather than as an unconditional potency hierarchy — the functional Ca²⁺-influx IC₅₀ gap (0.95 vs 8.5 µM; ~9×) is the cleaner potency claim.
 
 ### Kinetics and Thermodynamics
 
@@ -126,11 +136,27 @@ The shared binding locus between ibogaine, PCP, and tricyclic antidepressants (p
 
 This study's primary clinical significance lies in anchoring the α3β4 nAChR as a mechanistically validated target for ibogaine's anti-addictive activity. The α3β4 subtype is densely expressed in the habenulo-interpeduncular pathway — a circuit increasingly recognised as a critical modulator of reward processing, aversion, and withdrawal. Ibogaine's preferential binding to desensitised α3β4 channels suggests a mechanism by which the alkaloid could selectively suppress nicotinic signalling in recently activated (and therefore desensitised) reward circuits, without broadly silencing resting-state cholinergic transmission.
 
-The overlapping binding site shared by ibogaine, PCP, and tricyclic antidepressants within the α3β4 channel pore has direct implications for drug interaction screening in clinical ibogaine contexts. Patients with concurrent antidepressant use may experience altered ibogaine efficacy at this target, though the clinical magnitude of such interactions remains uncharacterised. For analog development, the study identifies specific structural features — ibogaine's methoxy group hydrogen bonding at the serine ring, optimal fit within the valine/phenylalanine cleft — that future drug design could exploit to achieve higher subtype selectivity while reducing off-target activity. The nine-fold potency advantage over PCP and the sub-micromolar binding affinity establish ibogaine as a lead scaffold worth optimising, as subsequently demonstrated by [the coronaridine analog programme](../2023/Arias2023_Catharanthine_18-MC.md).
+The overlapping binding site shared by ibogaine, PCP, and tricyclic antidepressants within the α3β4 channel pore has direct implications for drug interaction screening in clinical ibogaine contexts. *(Vault commentary.)* Co-administration with tricyclic antidepressants — which the paper places at the same luminal binding domain between the 13′ and 9′ rings via self-citation to Arias et al. 2010b — could plausibly alter ibogaine's channel-site occupancy, though the source paper explicitly disclaims clinical-efficacy extrapolation and the magnitude of any such receptor-level interaction remains uncharacterised in this work. For analog development, the study identifies specific structural features — ibogaine's methoxy group hydrogen bonding at the serine ring, optimal fit within the valine/phenylalanine cleft — that future drug design could exploit to achieve higher subtype selectivity while reducing off-target activity. The nine-fold potency advantage over PCP and the sub-micromolar binding affinity establish ibogaine as a lead scaffold worth optimising, as subsequently demonstrated by [the coronaridine analog programme](../2023/Arias2023_Catharanthine_18-MC.md).
 
 ## Limitations
 
 The authors note several constraints. All experiments used heterologously expressed hα3β4 receptors in HEK293 cells, which lack the complex lipid environment and accessory subunit combinations present in native neurons. The homology model was based on *Torpedo* AChR cryo-EM data at ~4 Å resolution — sufficient for identifying general binding domains but inadequate for resolving precise atomic contacts. The CMAC column approach, while elegant for kinetic measurements, immobilises receptors on artificial lipid surfaces that may not fully reproduce native membrane dynamics. Desensitised-state affinities were measured as IC₅₀ values rather than true K_i values, limiting direct comparison with resting-state binding constants. The study did not address noribogaine, ibogaine's primary active metabolite with a substantially longer plasma half-life, at this receptor subtype.
+
+A separate source-side reporting gap: the paper does not report replicate numbers for the Table 2 competition binding fits or the Table 3 non-linear chromatography kinetic parameters. Footnotes describe equations, figures, and the "ND" convention but do not specify n per fit, and Methods §2.6–§2.7 describe binding protocols without stating n for the fits in these tables. The ±SE values reported in both tables therefore cannot be interpreted as between-replicate variability with a known denominator.
+
+### Source Consistency Notes
+
+Readers consulting the source paper should be aware of several internal inconsistencies that do not affect the study's substantive findings but complicate literal-text reading:
+
+- **[³H]ibogaine concentration range (§2.1).** Methods reports the saturation-binding range as "0.2 nM to 0.07 µM" while the Figure 2 caption gives "0.05 to 0.07 µM." The Fig. 2A curve begins around 0.05 µM, consistent with the caption — the Methods "0.2 nM" lower bound appears to be a typographical error and is not operationally reflected in the displayed data.
+
+- **Table 2 K_i vs IC₅₀ labelling (§2.2).** The Table 2 Resting column is labelled K_i while the Desensitised column is labelled IC₅₀; Methods §2.7 acknowledges that Cheng-Prusoff transformation assumes a resting-state K_d that does not strictly apply to the desensitised state. The Discussion nevertheless refers to the desensitised value as K_i. Table 2 labelling, Methods, and Discussion are internally inconsistent on this point, though the underlying values are unaffected.
+
+- **Thermodynamic-section cross-reference cluster (§2.4, §2.5).** Figure 6 caption attributes the ΔH°/ΔS° calculation to Eq. (6) (should be Eq. (7), van't Hoff) and the activation energy E_a to Eq. (10) (should be Eq. (9), Arrhenius); the caption also states ΔS° = −y-intercept · R whereas Methods §2.9 gives ΔS° = +y-intercept · R. Table 4 footnote additionally references "Fig. 7A/B" for the thermodynamic and Arrhenius plots — the actual figure is Fig. 6. The tabulated values in Tables 3 and 4 are consistent with the Methods sign convention, so downstream numerical interpretation is not affected — only the figure caption and table footnote carry the typographical errors.
+
+- **§3.4 kinetic-to-equilibrium comparator (§2.6).** The §3.4 narrative reports the kinetic K_d (~0.3 µM) as corresponding with the [³H]ibogaine binding experiments "in Table 2." The absolute-terms equilibrium K_d value is 0.46 µM in Figure 2 (Scatchard analysis), not in Table 2 (which reports state-dependent K_i / IC₅₀ values). A defensive reading links kinetic K_d ≈ 0.3 µM to Table 2's desensitised K_i/IC₅₀ 0.37 µM, but the canonical kinetic-versus-equilibrium comparator is the Fig. 2 Scatchard K_d.
+
+- **PCP state coverage — text vs. table vs. figure (§1.18).** Results §3.3 describes both noncompetitive antagonists as inhibiting binding "in either state" of both radioligands. The underlying data do not support this generalisation for PCP: Table 2 reports PCP K_i values only for the resting state (desensitised entries marked ND for both [³H]ibogaine and [³H]TCP), and Figures 3B and 4B show PCP competition curves only at resting. The "either state" framing holds for ibogaine (data exist for both states) but overreaches for PCP.
 
 ---
 

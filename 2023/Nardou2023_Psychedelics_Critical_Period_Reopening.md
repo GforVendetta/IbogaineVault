@@ -1,25 +1,27 @@
 ---
+
 title: "Psychedelics reopen the social reward learning critical period"
 authors:
-  - "Nardou, Romain"
-  - "Sawyer, Edward"
-  - "Song, Young Jun"
-  - "Wilkinson, Makenzie"
-  - "Padovan-Hernandez, Yasmin"
-  - "de Deus, Júnia Lara"
-  - "Wright, Noelle"
-  - "Lama, Carine"
-  - "Faltin, Sehr"
-  - "Goff, Loyal A."
-  - "Stein-O'Brien, Genevieve L."
-  - "Dölen, Gül"
+
+- "Nardou, Romain"
+- "Sawyer, Edward"
+- "Song, Young Jun"
+- "Wilkinson, Makenzie"
+- "Padovan-Hernandez, Yasmin"
+- "de Deus, Júnia Lara"
+- "Wright, Noelle"
+- "Lama, Carine"
+- "Faltin, Sehr"
+- "Goff, Loyal A."
+- "Stein-O'Brien, Genevieve L."
+- "Dölen, Gül"
 year: 2023
 category: ORANGE
 tags:
-  - topic/neuroplasticity
-  - topic/mechanism
-  - topic/receptor
-  - method/preclinical
+- topic/neuroplasticity
+- topic/mechanism
+- topic/receptor
+- method/preclinical
 key_findings: "All psychedelics reopen social reward learning critical period in mice; ibogaine open state ≥4 weeks (longest tested), proportional to 36-72h human subjective effects; convergent mechanism is ECM remodelling, not 5-HT₂A"
 source_pdf: "2023/Nardou2023_Psychedelics_Critical_Period_Reopening.pdf"
 doi: "10.1038/s41586-023-06204-3"
@@ -32,9 +34,9 @@ document_type: preclinical
 secondary_categories: [BLUE]
 clinical_significance: high
 aliases:
-  - "Nardou 2023"
-  - "Psychedelics Critical Period"
-  - "Dölen Lab Critical Period"
+- "Nardou 2023"
+- "Psychedelics Critical Period"
+- "Dölen Lab Critical Period"
 evidence_level: preclinical
 sample_size:
 mortality_count:
@@ -49,6 +51,7 @@ publisher: "Springer Nature"
 body_format: vault-analytical
 licence_type: unknown
 licence_verified: false
+
 ---
 
 # Psychedelics Reopen the Social Reward Learning Critical Period
@@ -69,13 +72,7 @@ All five tested psychedelics — psilocybin (0.3 mg/kg), LSD (1 μg/kg), MDMA (1
 
 The duration of the critical period open state varied systematically across compounds, in direct proportion to the duration of acute subjective effects reported in humans:
 
-| Psychedelic | Human subjective effects | Mouse open state duration |
-|---|---|---|
-| Ketamine | 30 min – 2 h | 48 h (closed by 4 days) |
-| MDMA | 3–6 h | 2 weeks |
-| Psilocybin | 3–6 h | 2 weeks |
-| LSD | 8–10 h | 3 weeks |
-| **Ibogaine** | **36–72 h** | **≥4 weeks (still open at 4 wk)** |
+PsychedelicHuman subjective effectsMouse open state durationKetamine30 min – 2 h48 h (closed by 4 days)MDMA3–6 h2 weeksPsilocybin3–6 h2 weeksLSD8–10 h3 weeks**Ibogaine36–72 h≥4 weeks (still open at 4 wk)**
 
 Ibogaine produced the longest-lasting open state of any psychedelic tested — still open at 4 weeks, the latest time point measured. Increasing LSD dose to 50 μg/kg did not extend its open state duration.
 
@@ -104,7 +101,7 @@ The working model proposes that psychedelics act on diverse binding targets (SER
 - **Behavioural assay:** Social conditioned place preference (sCPP) — bedding cue pairing with social vs. isolation conditioning
 - **Drug administration:** All i.p.; ibogaine 40 mg/kg (gift from NIDA)
 - **Electrophysiology:** Whole-cell voltage-clamp recordings from MSNs in NAc; mEPSC frequency and amplitude measured after oxytocin bath application
-- **RNA sequencing:** Microdissected NAc, strand-specific libraries, NovaSeq 6000, ~77M paired-end reads/sample; transcript-level abundances via kallisto, gene-level analysis via sleuth
+- **RNA sequencing:** Microdissected NAc, strand-specific libraries, NovaSeq 6000, \~77M paired-end reads/sample; transcript-level abundances via kallisto, gene-level analysis via sleuth
 - **Statistics:** Two-tailed paired/unpaired t-tests, MANOVA, natural spline regression model, likelihood ratio tests; n = 4–23 mice per group depending on experiment
 
 ## Ibogaine-Specific Findings
@@ -148,6 +145,7 @@ This study provides a foundational mechanistic framework for understanding iboga
 ---
 
 ## See Also
+
 - [Marton2019_Ibogaine_GDNF_BDNF](../2019/Marton2019_Ibogaine_GDNF_BDNF.md) — Ibogaine neurotrophin signalling (GDNF/BDNF), complementary neuroplasticity mechanism
 - [He2006_Ibogaine_and_GDNF](../2006/He2006_Ibogaine_and_GDNF.md) — Foundational GDNF findings for ibogaine
 - [Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release](../2015/Gassaway2015_Iboga_Alkaloid_Skeleton_GDNF_Release.md) — Structure-activity for iboga alkaloid GDNF release

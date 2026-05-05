@@ -15,7 +15,7 @@ tags:
   - topic/electrolytes
   - topic/harm-reduction
   - method/review
-key_findings: "USP/LEAPS clinical protocols: 72h cardiac monitoring, electrolyte targets K+ 4.5-5.5/Mg 1.5-2.5, medication tapering schedules, 3-person minimum team, trauma-informed approach framework."
+key_findings: "USP/LEAPS clinical protocols: ECG and electrolyte screening required (thresholds deferred to cited guidelines), 72h monitoring endorsed per GITA, medication tapering schedules, 3-person minimum team, trauma-informed approach framework."
 doi: "10.3390/psychoactives2040024"
 journal: "Psychoactives"
 publication_date: "2023-12-11"
@@ -26,16 +26,13 @@ clinical_significance: high
 aliases: ["Rocha USP 2023", "Rocha Safety Protocols 2023", "USP Guidelines 2023"]
 source_pdf: "2023/Rocha2023_USP_Safety_Protocols.pdf"
 evidence_level: guideline
-qtc_data: true
-electrolyte_data: true
+qtc_data: false
+electrolyte_data: false
 herg_data: false
-dosing_range: "Per GITA guidelines; 72h monitoring minimum"
+dosing_range: "Not specified"
 contraindications:
-  - "QTc >450ms (males) or >470ms (females)"
-  - "K+ outside 4.5-5.5 mEq/L"
-  - "Mg outside 1.5-2.5 mEq/L"
   - "Personal or family history of psychosis, bipolar disorder, or schizophrenia"
-  - "Recent cardiac, renal, or hepatic pathology"
+  - "Recent cardiac, renal, or hepatic pathology (note: 'recent' is not defined by the paper)"
   - "Pregnancy or lactation"
   - "Concurrent uncontrolled psychotropic medication use"
   - "Severe dissociative symptoms or severe personality disorders"
@@ -43,7 +40,7 @@ contraindications:
   - "Manic episodes (current or historical, including antidepressant-induced)"
   - "Drug-induced psychosis history"
   - "Uncontrolled general medical pathologies"
-route: oral
+route: not-specified
 open_access: true
 publisher: "MDPI"
 body_format: vault-analytical
@@ -68,7 +65,7 @@ This guideline represents the first comprehensive set of clinical research proto
 
 For ibogaine specifically, the guidelines mandate a minimum 72-hour monitoring window following administration, reflecting the well-documented extended pharmacokinetic profile and the temporal clustering of ibogaine-associated fatalities within this period. The screening protocol requires liver and kidney function tests, complete blood count, electrolyte panel, and electrocardiogram as baseline assessments prior to ibogaine administration, with some researchers recommending supplementary stress echocardiography, thallium stress testing, or 24-hour Holter monitoring for enhanced cardiac evaluation.
 
-The medication tapering framework follows standardised timelines: two weeks for most antidepressants, five weeks for fluoxetine (reflecting its extended half-life via norfluoxetine), with individualised schedules for other medications based on drug-specific pharmacokinetics. Extreme-risk patients may undergo supervised washout as inpatients at the university hospital — a safety escalation pathway rarely available in non-academic treatment settings.
+The medication tapering framework follows standardised timelines: two weeks for most antidepressants, five weeks for fluoxetine (reflecting its extended half-life via norfluoxetine), with individualised schedules for other medications based on drug-specific pharmacokinetics. These timelines appear to be USP/LEAPS centre-specific practice rather than evidence-based consensus, and the paper does not cite supporting literature for the specific durations. Extreme-risk patients may undergo supervised washout as inpatients at the university hospital — a safety escalation pathway rarely available in non-academic treatment settings.
 
 Session staffing requires a minimum of three team members at all times, with continuous bedside researcher presence mandatory for ibogaine sessions during the first 12 hours (more stringent than the ayahuasca protocol, where brief researcher absences are permitted for stable participants). The guidelines explicitly require at least one same-gender researcher to minimise vulnerability-related distress, a consideration particularly relevant for populations such as women with post-traumatic stress disorder.
 
@@ -88,7 +85,7 @@ The psychiatric exclusion criteria encompass personal or family history of psych
 
 A distinctive feature is the "safety contact" requirement: each volunteer must designate a close relative or trusted friend for emergency notification, established during pre-screening. This formalises what many treatment settings handle informally and creates an accountability structure that persists beyond the session itself.
 
-For ibogaine specifically, the biomedical screening layer adds liver function tests, kidney function tests, complete blood count, electrolyte panel, and electrocardiogram — all analysed by a physician before protocol initiation. The recommendation for supplementary cardiac assessment (stress echocardiography, thallium stress testing, or 24-hour Holter monitoring) is noted as endorsed by some researchers, referencing the [GITA guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md). Electrocardiogram exclusion thresholds are specified at QTc >450ms for males and >470ms for females, with electrolyte targets of K⁺ 4.5–5.5 mEq/L and Mg²⁺ 1.5–2.5 mEq/L.
+For ibogaine specifically, the biomedical screening layer adds liver function tests, kidney function tests, complete blood count, electrolyte panel, and electrocardiogram — all analysed by a physician before protocol initiation. The recommendation for supplementary cardiac assessment (stress echocardiography, thallium stress testing, or 24-hour Holter monitoring) is noted as endorsed by some researchers, referencing the [GITA guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md). The paper requires ECG and electrolyte screening but does not specify numeric exclusion thresholds or target ranges; these are deferred to cited guidelines, particularly the [GITA guidelines (Dickinson et al. 2015)](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md).
 
 ## Medication Management Protocol
 
@@ -104,7 +101,9 @@ The physical environment specifications address both participant comfort and eme
 
 The session conduct framework emphasises non-directive psychological support with a trauma-informed stance. Staff are instructed to maintain calm, gentle interaction patterns, avoid note-taking during active psychedelic states (attention should remain on the volunteer), refrain from interpreting or guiding the experience, and obtain explicit consent before any physical contact. The approach to challenging experiences prioritises environmental and verbal de-escalation: reducing stimuli, having the rapport-established same-gender researcher take the lead, employing breathing-focused grounding techniques, and making physical contact (such as hand-holding or arm-touching) available only with prior informed consent and immediate cessation when the participant stabilises.
 
-For ibogaine specifically, continuous researcher presence is required for a minimum of 12 hours — substantially more intensive than the ayahuasca protocol, which permits brief privacy periods for stable volunteers. The ibogaine monitoring protocol also specifies that the full 72-hour post-administration window requires close supervision within a controlled setting, reflecting the compound's extended QTc-prolongation risk window and the temporal distribution of reported fatalities.
+**Note:** The prose text specifies "at least one researcher with the same gender as the volunteer" while the paper's Figure 2 quick reference says "Conduct checkpoints with 2–3 researchers from both sexes." These are different staffing requirements that the paper does not reconcile.
+
+For ibogaine specifically, continuous researcher presence is required for a minimum of 12 hours — substantially more intensive than the ayahuasca protocol, which permits brief privacy periods for stable volunteers. The ibogaine monitoring protocol also specifies that the full 72-hour post-administration window requires close supervision within a controlled setting, reflecting the compound's extended QTc-prolongation risk window and the temporal distribution of reported fatalities. **Note:** The paper does not define when the "experimental session" formally ends, creating ambiguity between the 12-hour continuous presence requirement, the 72-hour monitoring window, and the 12/24-hour post-session follow-up schedule.
 
 ## Adverse Event Management
 
@@ -116,7 +115,7 @@ The operational protocols for managing specific adverse scenarios (confusion, an
 
 ## Post-Session Monitoring
 
-The discharge and follow-up protocol extends the duty of care beyond the acute experimental window. Discharge is contingent on clinical evaluation confirming both physical and psychological fitness for safe departure. Participants must be accompanied by a trusted companion, instructed to avoid strenuous or demanding activities, and advised to maintain a tyramine-free diet and abstain from recreational substances for 24 hours post-session.
+The discharge and follow-up protocol extends the duty of care beyond the acute experimental window. Discharge is contingent on clinical evaluation confirming both physical and psychological fitness for safe departure. Participants must be accompanied by a trusted companion, instructed to avoid strenuous or demanding activities, and advised to maintain a tyramine-free diet and abstain from recreational substances for 24 hours post-session. **Note:** The tyramine-free diet restriction is pharmacologically well-justified for ayahuasca (which contains MAO-inhibiting β-carbolines) but the paper does not provide an ibogaine-specific rationale; this may be a carry-over from the dual-substance protocol design rather than an ibogaine-specific precaution.
 
 Active follow-up occurs at minimum 12- and 24-hour intervals, assessing general condition, adverse effects, and any substance use. A structured mood monitoring system (0–10 self-report scale) provides ongoing psychological surveillance in the days following the session, with predefined trigger patterns (sudden score drops, sustained low mood) prompting direct professional evaluation by a psychiatrist or psychologist. Any severe adverse effects trigger immediate notification of the study coordinator and responsible psychiatrist.
 
@@ -126,13 +125,15 @@ This guideline fills a notable gap in the ibogaine clinical literature: while th
 
 Several elements carry particular clinical translation value. The two-stage screening funnel (pre-screening by any trained staff, followed by formal psychiatric assessment) offers a resource-efficient model that smaller treatment centres could implement without requiring specialist involvement at every intake contact. The medication tapering framework, with its explicit timelines and escalation pathways, addresses what is often the most anxiety-producing phase for both practitioners and participants. The insistence on shared decision-making with existing healthcare providers establishes a collaborative model that reduces the risk of patients making unilateral medication changes.
 
-The ibogaine-specific protocols reinforce the emerging consensus reflected in [GITA 2015](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) and [Rocha et al.'s companion systematic review](Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) that controlled clinical settings with comprehensive cardiac monitoring substantially mitigate the risks that have historically driven ibogaine-associated mortality. The electrolyte target ranges (K⁺ 4.5–5.5, Mg²⁺ 1.5–2.5 mEq/L), QTc exclusion thresholds, and 72-hour monitoring minimum represent an institutional codification of safety parameters that have been evolving across the ibogaine treatment field.
+The ibogaine-specific protocols reinforce the emerging consensus reflected in [GITA 2015](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) and [Rocha et al.'s companion systematic review](Rocha2023_Setting_Factors_Associated_With_Improved_Ibogaine_Safety.md) that controlled clinical settings with comprehensive cardiac monitoring substantially mitigate the risks that have historically driven ibogaine-associated mortality. The requirement for ECG and electrolyte screening — with numeric thresholds deferred to existing guidelines such as GITA 2015 — and the endorsed 72-hour monitoring minimum reflect the evolving safety parameters across the ibogaine treatment field. Notably, this paper does not itself specify QTc exclusion thresholds or electrolyte target ranges, instead requiring that screening be performed and analysed by a physician.
 
 The explicitly trauma-informed approach to session conduct — same-gender researchers, consent-based physical contact, non-directive support — represents a sophistication in psychedelic clinical practice that extends beyond mere medical safety into the psychological conditions necessary for therapeutic benefit. This framing aligns with the broader "set and setting" paradigm while operationalising it into concrete, auditable staff behaviours.
 
 ## Limitations
 
-The authors acknowledge that the guideline is based on researcher expertise from the LEAPS team rather than formal scientific community consensus (e.g., Delphi process). While the research group has substantial experience across a decade of human trials with both ayahuasca and ibogaine, this limits the breadth of clinical perspectives incorporated. The guidelines are designed for a university hospital context with considerable clinical infrastructure and may require significant adaptation for resource-limited settings. The supplementary operational protocols, while referenced, are not fully detailed in the main text, reducing standalone clinical utility. The guideline does not address dosing protocols for ibogaine, deferring to existing guidance such as the GITA guidelines.
+The authors acknowledge that the guideline is based on researcher expertise from the LEAPS team rather than formal scientific community consensus (e.g., Delphi process). While the research group has substantial experience across a decade of human trials with both ayahuasca and ibogaine, this limits the breadth of clinical perspectives incorporated. The guidelines are designed for a university hospital context with considerable clinical infrastructure and may require significant adaptation for resource-limited settings. The supplementary operational protocols, while referenced, are not fully detailed in the main text, reducing standalone clinical utility.
+
+Notable operational gaps that practitioners would need to source from elsewhere include: (a) no ibogaine dosing protocol — the paper defers entirely to existing guidance; (b) no numeric screening thresholds for ECG or laboratory values — the paper requires screening but defers cut-off values to cited guidelines; (c) no medication interaction guidance beyond antidepressant tapering — no washout table for opioids, benzodiazepines, stimulants, or antipsychotics; (d) no operationalised discharge criteria beyond "good condition" despite the 72-hour risk window; (e) no opioid-specific detoxification or transition protocol, which is notable given ibogaine's primary clinical use context. The paper's Figure 2 provides a quick-reference checklist of pre-session instructions (refrain from psychoactive substances and tyramine-containing foods 24h before/after, fast morning of session, rest night before, inform close relative, comfortable clothes, no cell phones, do not drive to/from hospital) that is substantially compressed in the body text and worth consulting directly.
 
 ---
 

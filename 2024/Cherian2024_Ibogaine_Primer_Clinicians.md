@@ -31,25 +31,25 @@ publication_date: "2024-03-04"
 document_type: review
 evidence_level: review
 clinical_significance: high
-dosing_range: "6–30 mg/kg (therapeutic range)"
-route: oral
-qtc_data: true
+dosing_range: "6–30 mg/kg (cited as typical therapeutic range in neurotoxicity comparison — not a prescribing recommendation)"
+route: not-specified
+qtc_data: false
 herg_data: false
-electrolyte_data: true
+electrolyte_data: false
 source_pdf: "2024/Cherian2024_Ibogaine_Primer_Clinicians.pdf"
 aliases:
   - "Cherian Primer 2024"
   - "Ibogaine Clinician Primer"
 contraindications:
-  - "Pre-existing cardiac conditions (coronary artery sclerosis, hypertension, myocardial infarct, cardiac hypertrophy, dilated cardiomyopathy)"
-  - "Prolonged baseline QT interval, including drug-induced (antibiotics, antidepressants)"
-  - "hERG mutations associated with long-QT syndrome"
-  - "Concurrent long-acting opioids — must switch to short-acting opioids up to two weeks in advance"
-  - "Poor CYP2D6 metabolism (risk factor for impaired ibogaine clearance; methadone also inhibits CYP2D6)"
-  - "Motor impairment conditions (Parkinson's disease, multiple sclerosis — potential contraindication, not yet studied)"
-  - "Concurrent medications without proper washout"
-  - "Multiple concurrent substance addictions (polysubstance use increases fatality risk)"
-  - "History of mania or psychosis (3 reported cases, all in unregulated settings)"
+  - "Pre-existing cardiac conditions (coronary artery sclerosis, hypertension, myocardial infarct, cardiac hypertrophy, dilated cardiomyopathy) [evidence: fatality review — 6/19 cases]"
+  - "Prolonged baseline QT interval, including drug-induced (antibiotics, antidepressants) [evidence: hERG channel mechanism + clinical pharmacology]"
+  - "hERG mutations associated with long-QT syndrome [evidence: genetic/mechanistic literature]"
+  - "Concurrent long-acting opioids — must switch to short-acting opioids up to two weeks in advance [evidence: fatality review + pharmacokinetic interaction — nearest operational exclusion]"
+  - "Poor CYP2D6 metabolism (risk factor for impaired ibogaine clearance; methadone also inhibits CYP2D6) [evidence: pharmacokinetic rationale]"
+  - "Motor impairment conditions (Parkinson's disease, multiple sclerosis) [evidence: precautionary principle only — 'has yet to be investigated in a study']"
+  - "Concurrent QT-prolonging medications — antibiotics, antidepressants (no washout intervals specified in this paper)"
+  - "Multiple concurrent substance addictions (polysubstance use increases fatality risk) [evidence: fatality review — deaths with concurrent cocaine, alcohol, methamphetamine]"
+  - "History of mania or psychosis (3 reported cases, all in unregulated settings) [evidence: case reports — protocol adherence unknown]"
 open_access: false
 publisher: "Lippincott Williams & Wilkins"
 body_format: vault-analytical
@@ -86,11 +86,11 @@ This paper is a narrative review structured around the Clinical Case, Background
 
 The cardiac risk profile demands rigorous pre-treatment screening. Ibogaine's primary safety concern is QT interval prolongation mediated through blockade of hERG potassium channels — the same mechanism responsible for many drug-induced cardiac arrhythmias. The repolarisation delay can precipitate Torsades de Pointes, a potentially fatal ventricular tachyarrhythmia. In a review of 19 fatalities, six individuals had pre-existing cardiac pathology including coronary artery disease, hypertension, prior myocardial infarction, cardiac hypertrophy, and dilated cardiomyopathy. However, a separate review documented eight cases of cardiac complications (including one fatality) in patients with no prior cardiovascular history, demonstrating that pre-existing disease is not the sole determinant of risk.
 
-Opioid interactions present a separate and equally critical danger. Ibogaine potentiates opioid analgesia, elevating overdose risk. The CYP2D6 metabolic pathway creates a compounding vulnerability: methadone inhibits CYP2D6 — the same enzyme responsible for ibogaine's O-demethylation to noribogaine — meaning patients on methadone face both pharmacokinetic and pharmacodynamic risks. Clinicians should transition patients from long-acting opioids to short-acting alternatives at least two weeks before ibogaine administration. Benzodiazepine tapering, by contrast, is specifically advised against.
+Opioid interactions present a separate and equally critical danger. Ibogaine potentiates opioid analgesia, elevating overdose risk. The CYP2D6 metabolic pathway creates a compounding vulnerability: methadone inhibits CYP2D6 — the same enzyme responsible for ibogaine's O-demethylation to noribogaine — meaning patients on methadone face both pharmacokinetic and pharmacodynamic risks. Clinicians should transition patients from long-acting opioids to short-acting alternatives up to two weeks before ibogaine administration. Benzodiazepine tapering, by contrast, is specifically advised against.
 
 Magnesium co-administration has emerged as the most promising cardiac risk mitigation strategy. The underlying rationale is physiologically grounded: magnesium depletion triggers mitochondrial swelling in cardiomyocytes through disrupted sodium-potassium balance, leading to myocardial fibre death. Supplementation has independently been shown to reduce QT intervals. The MISTIC study (n=30) demonstrated that magnesium-ibogaine therapy eliminated clinically significant cardiac events entirely, though this remains a single observational cohort requiring replication.
 
-Additional safety considerations include transient motor effects (ataxia in 100% of participants in one study, resolving within 24 hours), rare psychiatric complications (three reported mania cases, all in unregulated settings), and neurotoxicity concerns. The neurotoxicity evidence is reassuring: while early rodent studies showed Purkinje cell degeneration at doses of 100–300 mg/kg, this damage did not occur at 40 mg/kg, and no cerebellar damage has been documented in humans, even among fatalities. The therapeutic dose range of 6–30 mg/kg sits well below the neurotoxic threshold observed in animal models.
+Additional safety considerations include transient motor effects (ataxia in all 14 participants in one OUD study, resolving within 24 hours), rare psychiatric complications (three reported mania cases, all in unregulated settings), and neurotoxicity concerns. The neurotoxicity evidence is reassuring: while early rodent studies showed Purkinje cell degeneration at doses of 100–300 mg/kg, this damage did not occur at 40 mg/kg, and no cerebellar damage has been documented in humans, even among fatalities. The therapeutic dose range of 6–30 mg/kg sits well below the neurotoxic threshold observed in animal models.
 
 No FDA-approved guidelines for ibogaine screening, administration, or monitoring currently exist.
 
@@ -135,7 +135,7 @@ None of these alternatives produce psychoactive effects, which may be clinically
 
 This primer fills a specific gap in clinical education: most primary care providers encounter ibogaine through patient inquiries rather than medical training, and the evidence base is scattered across pharmacology, cardiology, addiction medicine, and military health literatures. Several practical implications emerge for clinicians:
 
-**Screening protocols** remain underdeveloped. While the paper identifies clear contraindications — pre-existing cardiac disease, prolonged QTc, concurrent long-acting opioids, CYP2D6 poor metaboliser status, polysubstance use, and psychiatric history — no FDA-approved screening framework exists. The [GITA 2015 guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) represent the closest available consensus standard.
+**Screening protocols** remain underdeveloped. While the paper identifies clear contraindications — pre-existing cardiac disease, prolonged QTc, concurrent long-acting opioids, CYP2D6 poor metaboliser status, polysubstance use, and psychiatric history — no FDA-approved screening framework exists. The paper cites the [Dickinson clinical guidelines](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md) for opioid and benzodiazepine management but does not designate any guideline as a consensus standard.
 
 **Magnesium co-administration** may represent a paradigm shift from managing cardiac risk to potentially eliminating it, though evidence remains limited to a single observational cohort. The biological rationale (mitochondrial protection, QT interval reduction) is well-established independently of ibogaine.
 
@@ -146,6 +146,12 @@ This primer fills a specific gap in clinical education: most primary care provid
 ## Limitations
 
 The authors acknowledge that the evidence base rests predominantly on observational studies, with only a single double-blind, placebo-controlled RCT to date (n=20, for cocaine dependence specifically). The retrospective survey design of the Davis et al. 2020 veteran study introduces recall bias that may inflate pre-treatment symptom estimates. All veteran studies were conducted at a single clinic in Mexico, limiting generalisability. The paper does not systematically assess study quality or risk of bias across cited evidence. Additionally, no standardised clinical guidelines exist for ibogaine screening, dosing, monitoring, or discharge — the primer identifies what should be screened but cannot point clinicians to validated protocols.
+
+**Scope boundaries:** The paper explicitly acknowledges that "formal clinical practices should be developed" and specifies six domains for future guidance: patient screening, drug interaction management, monitoring, dosing, co-administration caution, and supply/purity oversight. Operational elements NOT addressed in this primer include: monitoring schedule, staffing requirements, equipment specifications, facility type, aftercare/discharge criteria, ECG entry thresholds, electrolyte screening thresholds, pregnancy guidance, age-range criteria, and congenital long-QT handling.
+
+**Conflict of interest:** The authors declare no conflicts of interest. Author Muir is affiliated with Fermata Health (Brooklyn, NY) and Acacia Clinics (Sunnyvale, CA) — commercial neuromodulation services, not ibogaine-specific per available sources. (Source: author affiliations in published paper; commercial context from GPT cross-model verification — flagged for provenance transparency.)
+
+**Source inconsistency:** The paper's opioid transition timing ("up to two weeks") may not precisely match the more granular instructions in its cited Dickinson guideline, which addresses residual-dose targets and 48–72 hour elimination considerations. Clinicians following the cited source may receive different operational detail than the summary presented here.
 
 ---
 

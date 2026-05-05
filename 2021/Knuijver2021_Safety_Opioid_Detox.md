@@ -1,54 +1,55 @@
 ---
+
 title: "Safety of ibogaine administration in detoxification of opioid-dependent individuals: a descriptive open-label observational study"
 authors:
-  - "Knuijver, Thomas"
-  - "Schellekens, Arnt"
-  - "Belgers, Maarten"
-  - "Donders, Rogier"
-  - "van Oosteren, Toon"
-  - "Kramers, Kees"
-  - "Verkes, Robbert"
+
+- "Knuijver, Thomas"
+- "Schellekens, Arnt"
+- "Belgers, Maarten"
+- "Donders, Rogier"
+- "van Oosteren, Toon"
+- "Kramers, Kees"
+- "Verkes, Robbert"
 year: 2021
 category: RED
 tags:
-  - topic/opioid
-  - topic/withdrawal
-  - topic/adverse-event
-  - topic/protocol
-  - mechanism/herg-blockade
-  - method/clinical-trial
+- topic/opioid
+- topic/withdrawal
+- topic/adverse-event
+- mechanism/herg-blockade
+- method/observational
 key_findings: "Dutch hospital study (n=14). QTc prolongation median ΔQTcMax 102ms (SD 36ms, range 40–168ms); 50% reached >500ms. Prolongation >450ms lasted >24h in 6 patients. No torsade. Severe but reversible ataxia in all. 11/14 did not return to morphine."
 doi: "10.1111/add.15448"
 pmid: "33620733"
 pmcid: "PMC9292417"
 journal: "Addiction"
 issn: "1360-0443"
-publication_date: "2021-01-01"
-document_type: clinical-trial
+publication_date: "2021-08-09"
+document_type: observational
 secondary_categories: [GREEN, BLUE]
 clinical_significance: high
 aliases: ["Knuijver 2021", "Dutch Hospital Safety Study"]
 source_pdf: "2021/Knuijver2021_Safety_Opioid_Detox.pdf"
-evidence_level: cohort
+evidence_level: case-series
 sample_size: 14
 qtc_data: true
 electrolyte_data: true
 herg_data: false
 contraindications:
-  - "cardiac disease history"
-  - "ventricular fibrillation history"
-  - "long QT syndrome"
-  - "syncope history"
-  - "QTc >450ms men / >470ms women"
-  - "serum potassium >5.0 or <3.5 mmol/L"
-  - "severe liver dysfunction"
-  - "severe renal dysfunction (MDRD <30)"
-  - "pregnancy"
-  - "QT-prolonging medications"
-  - "CYP2D6 inhibitors"
-  - "psychosis history"
-  - "severe depression"
-  - "suicidality"
+- "cardiac disease history"
+- "ventricular fibrillation history"
+- "long QT syndrome"
+- "syncope history"
+- "QTc >450ms men / >470ms women"
+- "serum potassium >5.0 or <3.5 mmol/L"
+- "severe liver dysfunction"
+- "severe renal dysfunction (MDRD <30)"
+- "pregnancy"
+- "QT-prolonging medications"
+- "CYP2D6 inhibitors"
+- "psychosis history"
+- "severe depression"
+- "suicidality"
 dosing_range: "10mg/kg"
 route: oral
 open_access: true
@@ -56,11 +57,11 @@ publisher: "Wiley"
 body_format: vault-analytical
 licence_type: cc-by-nc
 licence_verified: true
+
 ---
 
 # Safety of ibogaine administration in detoxification of opioid-dependent individuals: a descriptive open-label observational study
-
-**Citation:** Knuijver, T., Schellekens, A., Belgers, M., Donders, R., van Oosteren, T., Kramers, K., & Verkes, R. (2021). Safety of ibogaine administration in detoxification of opioid-dependent individuals: a descriptive open-label observational study. *Addiction*, 117(1), 118–128. https://doi.org/10.1111/add.15448
+**Citation:** Knuijver, T., Schellekens, A., Belgers, M., Donders, R., van Oosteren, T., Kramers, K., & Verkes, R. (2021). Safety of ibogaine administration in detoxification of opioid-dependent individuals: a descriptive open-label observational study. *Addiction*, 117(1), 118–128. <https://doi.org/10.1111/add.15448>
 
 ## Abstract
 
@@ -73,7 +74,6 @@ The maximum QTc (Fridericia) prolongation was on average 95ms (range 29-146ms). 
 This open-label observational study found that ibogaine treatment of patients with opioid use disorder can induce a clinically relevant but reversible QTc prolongation, bradycardia, and severe ataxia.
 
 ## Key Findings
-
 This study represents the first prospective clinical trial to systematically quantify ibogaine's cardiac risk under controlled hospital conditions. Fourteen opioid-dependent patients received 10 mg/kg ibogaine-HCl — a dose at the lower end of therapeutic ranges — yet the cardiac effects were striking. The median maximum QTc prolongation reached 102 ms above baseline (SD 36 ms, range 40–168 ms), with half of all participants breaching the critical 500 ms threshold at some point during monitoring. Persistent repolarisation disturbance was evident in 6 of 14 individuals whose QTc remained above 450 ms beyond 24 hours post-ingestion, consistent with the prolonged elimination half-life of noribogaine (28–49 hours).
 
 Despite these alarming electrocardiographic changes, no torsades de pointes events occurred — though the study was underpowered to detect such rare arrhythmias, and ECG monitoring was intermittent rather than continuous. Eight participants required intravenous magnesium supplementation when automated ECG readings exceeded 500 ms.

@@ -65,7 +65,7 @@ New Zealand pioneered legal, regulated ibogaine treatment under a prescription m
 **MODEL FOR TRANSPARENT INFORMED CONSENT.** Patient-facing document covering risks, benefits, expectations, and the treatment process. Any provider developing informed consent materials should reference this alongside [GITA 2015](../Clinical_Guidelines/GITA2015_Clinical_Guidelines.md)'s patient communication recommendations. The quality of informed consent directly affects both ethical practice and legal liability — particularly in jurisdictions where ibogaine's regulatory status is ambiguous.
 
 ### [Noller et al. 2016: Ibogaine Treatment for Opioid Dependence in New Zealand](../2017/Noller2017_Ibogaine_Opioid_12Month_Outcomes.md)
-**FIRST RIGOROUS OUTCOME DATA FROM THE NZ REGULATED MODEL.** 12-month prospective observational study (n=14) documenting sustained reductions in opioid use within the legal NZ framework. This paper demonstrates that the NZ regulatory model produces measurable, sustained clinical outcomes — not merely safety compliance. Co-authored by Geoff Noller (GITA co-founder), whose subsequent work on the Arns fatalities analysis collaboration builds on this NZ evidence base. See [BLUE_Outcomes_Hub](BLUE_Outcomes_Hub.md) for detailed outcome data.
+**FIRST RIGOROUS OUTCOME DATA FROM THE NZ REGULATED MODEL.** 12-month prospective observational study (n=14) documenting sustained reductions in opioid use within the legal NZ framework. This paper demonstrates that the NZ regulatory model produces measurable, sustained clinical outcomes — not merely safety compliance. Co-authored by Geoff Noller (GITA co-founder). See [BLUE_Outcomes_Hub](BLUE_Outcomes_Hub.md) for detailed outcome data.
 
 ---
 

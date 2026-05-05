@@ -208,7 +208,9 @@ enums:
     - thesis
     - primary-source
     - research-article   # Valid but non-specific — avoid for new conversions
+    - journal-article    # Peer-reviewed journal article (vessel, per CONVENTIONS.md v2.1 P4). Prefer over `research-article` for new conversions. Added 2026-04-18 to unblock Arias2010 §1.2 correction (Wave 5); full propagation across CONVENTIONS/conversion_manifest/Tier 1 overrides happens in Phase E1 of schema-evolution programme (ROADMAP Active Priority #10).
     - conference-talk
+    - conference-abstract # Short abstract published in conference proceedings (≤500 words, typically peer-reviewed briefly). Distinct from conference-talk (full oral presentation) and brief-communication (short paper in a journal). Added 2026-04-19 to unblock Marker2002 reclassification (Wave 3 cross-model comparison 2026-04-10); Phase C of schema-evolution programme, Trigger 1.
     - educational        # Lectures, courses, webinars — pedagogical intent, not conference venue
     - interview-transcript
     - journalism
@@ -306,7 +308,7 @@ enums:
   tag_count_policy:
     standard:
       max: 5
-      applies_to: "Empirical papers — clinical-trial, case-report, case-series, in-vitro, preclinical, observational, qualitative, research-article, brief-communication"
+      applies_to: "Empirical papers — clinical-trial, case-report, case-series, in-vitro, preclinical, observational, qualitative, research-article, journal-article, brief-communication, conference-abstract"
     synthesis:
       max: 10
       applies_to: "Reviews, systematic-reviews, theses, guidelines, primary-sources, conference-talks, educational, interview-transcripts, commentaries, books, book-chapters, policy-reports, journalism, industry-reports"

@@ -91,7 +91,8 @@ VALID_DOCUMENT_TYPES_PAPER = {
     "case-series", "guideline", "in-vitro", "preclinical",
     "observational", "qualitative", "commentary", "book",
     "book-chapter", "thesis", "primary-source", "research-article",
-    "conference-talk", "educational", "interview-transcript", "journalism",
+    "journal-article",
+    "conference-talk", "conference-abstract", "educational", "interview-transcript", "journalism",
     "policy-report", "brief-communication", "industry-report",
 }
 

@@ -1,16 +1,18 @@
 ---
+
 title: "Long-QT Syndrome Induced by the Antiaddiction Drug Ibogaine"
 authors:
-  - "Hoelen, Dianne W.M."
-  - "Spiering, Wilko"
-  - "Valk, Gerlof D."
+
+- "Hoelen, Dianne W.M."
+- "Spiering, Wilko"
+- "Valk, Gerlof D."
 year: 2009
 category: RED
 tags:
-  - topic/cardiac
-  - topic/adverse-event
-  - topic/electrolytes
-  - method/case-report
+- topic/cardiac
+- topic/adverse-event
+- topic/electrolytes
+- method/case-report
 key_findings: "Ibogaine-induced Long-QT syndrome (QTc 616 ms) with ventricular tachyarrhythmias in a 31-year-old woman; QT normalised at 42 hours; concurrent hypomagnesaemia and hypokalaemia identified."
 source_pdf: "2009/Hoelen2009_Long_QT_Ibogaine.pdf"
 doi: "10.1056/NEJMc0804248"
@@ -21,16 +23,16 @@ publication_date: "2009-01-15"
 document_type: case-report
 clinical_significance: landmark
 aliases:
-  - "Hoelen 2009"
-  - "NEJM ibogaine Long-QT case"
+- "Hoelen 2009"
+- "NEJM ibogaine Long-QT case"
 evidence_level: case-report
 sample_size: 1
 qtc_data: true
 electrolyte_data: true
 herg_data: false
 contraindications:
-  - "Pre-existing QT prolongation"
-  - "Electrolyte imbalance (hypomagnesaemia, hypokalaemia)"
+- "Pre-existing QT prolongation"
+- "Electrolyte imbalance (hypomagnesaemia, hypokalaemia)"
 dosing_range: "3.5 g ibogaine 15% preparation (single dose)"
 route: not-specified
 open_access: false
@@ -38,11 +40,12 @@ publisher: "NEJM Group"
 body_format: vault-analytical
 licence_type: all-rights-reserved
 licence_verified: true
+
 ---
 
 # Long-QT Syndrome Induced by the Antiaddiction Drug Ibogaine
 
-**Citation:** Hoelen, D.W.M., Spiering, W., & Valk, G.D. (2009). Long-QT Syndrome Induced by the Antiaddiction Drug Ibogaine. *New England Journal of Medicine*, 360(3), 308–309. https://doi.org/10.1056/NEJMc0804248
+**Citation:** Hoelen, D.W.M., Spiering, W., & Valk, G.D. (2009). Long-QT Syndrome Induced by the Antiaddiction Drug Ibogaine. *New England Journal of Medicine*, 360(3), 308–309. <https://doi.org/10.1056/NEJMc0804248>
 
 ## Abstract
 
@@ -64,15 +67,17 @@ Single case report published as correspondence (letter to the editor) in NEJM. A
 ## Cardiac Safety Data
 
 **ECG findings:**
+
 - QT interval: 548 ms (uncorrected)
 - QTc (heart-rate corrected): 616 ms
 - Ventricular tachyarrhythmias on prolonged monitoring
 - Normalisation at 42 hours post-presentation
 
 **Electrolyte findings:**
+
 - Magnesium: 0.49 mmol/L (1.2 mg/dL) — low (reference 0.70–1.00 mmol/L)
 - Potassium: 3.2 mmol/L (12.5 mg/dL) — low (reference 3.8–5.0 mmol/L)
-- Serum osmolal gap: 3.1 mOsm/kg — normal (<10)
+- Serum osmolal gap: 3.1 mOsm/kg — normal (&lt;10)
 
 **Ibogaine dose:** 3.5 g of 15% ibogaine preparation (within standard dosing range of 2–6 g). Note: "15%" is ambiguous — if indicating alkaloid content of the preparation, the active ibogaine dose would be approximately 525 mg, fundamentally different from 3.5 g pure ibogaine.
 
@@ -84,9 +89,9 @@ This case is a cornerstone reference for ibogaine cardiac safety protocols. Key 
 
 1. **Pre-treatment electrolyte screening is essential** — hypomagnesaemia and hypokalaemia must be corrected *before* ibogaine administration, as they synergistically worsen QT prolongation
 2. **Continuous ECG monitoring is mandatory** — ventricular tachyarrhythmias were detected only on prolonged monitoring
-3. **42-hour monitoring window** — QT normalisation took 42 hours. *[Vault context: this duration is consistent with the long half-life of noribogaine (~28–49 hours) established in later pharmacokinetic studies — the source paper does not mention noribogaine.]*
+3. **42-hour monitoring window** — QT normalisation took 42 hours. *\[Vault context: this duration is consistent with the long half-life of noribogaine (\~28–49 hours) established in later pharmacokinetic studies — the source paper does not mention noribogaine.\]*
 4. **QT prolongation is dose-independent at therapeutic range** — the dose given was within the standard range, suggesting that even "normal" doses carry cardiac risk
-5. **Mechanism hypothesis:** The dissociation between electrolyte correction and QT normalisation supports a direct ion channel effect. *[Vault context: this mechanism was later confirmed as hERG channel blockade (Thurner et al. 2014) — the source paper does not discuss specific ion channel targets.]*
+5. **Mechanism hypothesis:** The dissociation between electrolyte correction and QT normalisation supports a direct ion channel effect. *\[Vault context: this mechanism was later confirmed as hERG channel blockade (Thurner et al. 2014) — the source paper does not discuss specific ion channel targets.\]*
 
 ## Limitations
 
@@ -97,7 +102,7 @@ This case is a cornerstone reference for ibogaine cardiac safety protocols. Key 
 - Short correspondence format limits methodological detail
 - Heart rate and QTc correction formula not reported — QTc 616 ms cannot be independently reproduced from the stated QT 548 ms
 - Treatment-resistant alcohol addiction raises an unacknowledged confounder — alcohol withdrawal can independently cause seizures, hypomagnesaemia, and hypokalaemia; neither recent alcohol intake nor cessation timing is reported
-- No genetic evaluation for congenital long-QT susceptibility was performed (prevalence ~1 in 2,500); family history negative but does not exclude de novo or incompletely penetrant variants
+- No genetic evaluation for congenital long-QT susceptibility was performed (prevalence \~1 in 2,500); family history negative but does not exclude de novo or incompletely penetrant variants
 
 ## Figures
 
@@ -107,13 +112,14 @@ This case is a cornerstone reference for ibogaine cardiac safety protocols. Key 
 
 1. He D-Y, McGough NNH, Ravindranathan A, et al. Glial cell line-derived neurotrophic factor mediates the desirable actions of the anti-addiction drug ibogaine against alcohol consumption. *J Neurosci* 2005;25:619-28.
 2. Vastag B. Addiction treatment strives for legitimacy. *JAMA* 2002;288:3096, 3099-101.
-3. Vastag B. Addiction research — ibogaine therapy: a 'vast, uncontrolled experiment.' *Science* 2005;308:345-6. [Erratum, *Science* 2005;308:1260.]
+3. Vastag B. Addiction research — ibogaine therapy: a 'vast, uncontrolled experiment.' *Science* 2005;308:345-6. \[Erratum, *Science* 2005;308:1260.\]
 4. Lotsof HS, Wachtel B. Manual for ibogaine therapy: screening, safety, monitoring & aftercare. Second revision. The Ibogaine Dossier, 2003.
 5. Maas U, Strubelt S. Fatalities after taking ibogaine in addiction treatment could be related to sudden cardiac death caused by autonomic dysfunction. *Med Hypotheses* 2006;67:960-4.
 
 ---
 
 ## See Also
+
 - [Alper2012_Ibogaine_Fatalities](../2012/Alper2012_Ibogaine_Fatalities.md) — Comprehensive fatality analysis referencing this case
 - [Paling2012_Life_Threatening_Complications](../2012/Paling2012_Life_Threatening_Complications.md) — Additional cardiac complication case reports
 - [Mazoyer2013_Fatality_Case](../2013/Mazoyer2013_Fatality_Case.md) — Fatal cardiac case with QT prolongation

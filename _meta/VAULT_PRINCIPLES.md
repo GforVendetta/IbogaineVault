@@ -96,6 +96,26 @@ The vault does not create false impressions of evidence that does not exist. Emp
 
 **Why this matters:** A researcher browsing the vault forms expectations based on its structure. An empty folder implies missing content; a stale count implies more or fewer papers than exist. Representational accuracy is a prerequisite for the vault to function as a trustworthy research instrument.
 
+### 10. Meta-Tooling Deprecation Discipline
+
+Research papers in this vault are bounded by a clear scope test: is this study about ibogaine? Tools in `_meta/tools/` are bounded by use: if no workflow runs a script, it is archived. Meta-documentation — progress trackers, session logs, amendment catalogues, process registers, self-describing sub-programmes — has no equivalent natural constraint. It does not fall out of scope because its own existence creates its scope. It does not fall out of use because it is the thing tracking use. Unpruned, it grows indefinitely.
+
+The vault therefore treats its meta-layer as requiring explicit deprecation discipline that content and code do not need. At the close of every phase and at each v1.x release, meta-documents are evaluated for retirement. If a tracker has produced an insight worth keeping, the insight is extracted into a permanent document — a change-log note, a principle, a schema comment — and the tracker is archived. If no such insight exists, the tracker is archived with a note explaining why it did not earn a permanent place. The default state of meta-tooling is deprecation; survival is the exception that requires justification.
+
+A meta-document whose existence is justified by problems the meta-layer itself generated is itself a deprecation signal. When a tracker produces a sub-tracker, or a register begins to track its own state, the correct response is to archive the subtree and return to the original work it was meant to support.
+
+**Why this matters:** Locally rational additions to meta-infrastructure compound into globally irrational ceremony. A process register, an amendment catalogue, a progress tracker, a session log — each addition defensible in isolation; collectively they become paralysing. Without deliberate deprecation, the scaffold outgrows the building. For a vault whose legitimacy depends on producing accurate evidence synthesis at clinical pace, ceremony is not free — it displaces the work it is meant to organise.
+
+### 11. Transparent Flagging of Editorial Judgement
+
+The vault makes editorial decisions that cannot be fully mechanised: whether a borderline paper belongs in the corpus, whether a category boundary is crossed, whether a secondary category is warranted, whether an interpretation in a hub is supported by the underlying papers. These are assessments, not verdicts — and they are flagged as such.
+
+The vault prefers the language of *assessment* over *judgement*: an assessment is provisional, evidenced, and open to revision; a judgement claims authority the vault does not possess. Where an editorial decision is non-obvious — a paper at the margin of inclusion, a category assignment that could plausibly go two ways, an interpretive claim in a hub that extends beyond any single source — the vault presents the evidence that informed the decision, the reasoning applied, and the remaining uncertainty explicitly. The reader is left to agree, disagree, or refine.
+
+This principle forbids two failure modes. The first is hidden adjudication: quietly including or excluding papers without flagging the borderline status, so that the vault appears more settled than it is. The second is false certainty: presenting an interpretive synthesis as if it were derivable from the primary evidence when it depends on editorial inference.
+
+**Why this matters:** A vault that hides its own editorial reasoning cannot be audited. A collaborator — now or in five years — must be able to see which decisions were difficult, what evidence was weighed, and where the editor was uncertain. Transparent flagging makes the vault's epistemic state legible, and legibility is a prerequisite for trust in any research instrument maintained by a single curator.
+
 ---
 
 ## Applying These Principles

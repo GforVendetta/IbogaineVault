@@ -1,25 +1,27 @@
 ---
+
 title: "Rare but relevant: Ibogaine and cardiovascular complications—prolonged QT interval and ventricular arrhythmias"
 authors:
-  - "Brunt, Tibor Markus"
+
+- "Brunt, Tibor Markus"
 year: 2026
 category: RED
 tags:
-  - topic/cardiac
-  - topic/adverse-event
-  - topic/toxicity
-  - topic/noribogaine
-  - topic/cyp2d6
-  - topic/analogues
-  - mechanism/herg-blockade
-  - method/review
-key_findings: "QTc prolongation at therapeutic doses even without cardiac history; CYP2D6 poor metabolisers at higher risk; safe dose ~0.87 mg/kg (10× lower, but may lack efficacy); recommends genotyping + monitoring."
-source_pdf: "2026/Brunt2026_Ibogaine_Cardiovascular_Complications.pdf"
+- topic/cardiac
+- topic/adverse-event
+- topic/toxicity
+- topic/noribogaine
+- topic/cyp2d6
+- topic/analogues
+- mechanism/herg-blockade
+- method/review
+key_findings: "Narrative review, no new primary fatalities: QTc prolongation at therapeutic doses even without cardiac history; CYP2D6 poor metabolisers at higher risk; safe dose ~0.87 mg/kg (10× lower, may lack efficacy); recommends genotyping + monitoring."
+source_pdf: "2026/Brunt2026_Cardiovascular_Complications_Review.pdf"
 doi: "10.1111/add.70319"
 pmid: "41560340"
 journal: "Addiction"
 issn: "1360-0443"
-publication_date: "2026-01-01"
+publication_date: "2026-01-20"
 document_type: review
 evidence_level: review
 clinical_significance: high
@@ -27,21 +29,21 @@ qtc_data: true
 electrolyte_data: true
 herg_data: true
 aliases:
-  - "Brunt 2026"
-  - "Cardiovascular Complications Review"
+- "Brunt 2026"
+- "Cardiovascular Complications Review"
 contraindications:
-  - "Pre-existing cardiac conditions"
-  - "QTc prolongation (>450ms males, >460ms females)"
-  - "CYP2D6 poor metaboliser status (genotyping recommended)"
-  - "Concurrent QT-prolonging medications"
-  - "Doses exceeding ~0.87 mg/kg without cardiac monitoring"
-dosing_range: "Safe dose ~0.87mg/kg (10× lower than therapeutic 8–14mg/kg)"
+- "QTc prolongation (≥450 ms males, ≥460 ms females)"
+- "CYP2D6 poor metaboliser status (genotyping recommended)"
+- "Concurrent QT-prolonging medications"
+- "Doses exceeding ~0.87 mg/kg without cardiac monitoring"
+dosing_range: "Safe dose ~0.87 mg/kg (10× lower than therapeutic 8–14 mg/kg)"
 route: oral
-open_access: false
+open_access: true
 publisher: "Wiley"
 body_format: vault-analytical
-licence_type: all-rights-reserved
+licence_type: cc-by-nc-nd
 licence_verified: true
+
 ---
 
 # Rare but relevant: Ibogaine and cardiovascular complications—prolonged QT interval and ventricular arrhythmias
@@ -56,7 +58,7 @@ licence_verified: true
 
 ## Key Findings
 
-QTc prolongation at therapeutic doses even without cardiac history; CYP2D6 poor metabolisers at higher risk; safe dose ~0.87 mg/kg (10× lower, but may lack efficacy); recommends genotyping + monitoring.
+QTc prolongation at therapeutic doses even without cardiac history; CYP2D6 poor metabolisers at higher risk; safe dose \~0.87 mg/kg (10× lower, but may lack efficacy); recommends genotyping + monitoring.
 
 ---
 
@@ -71,7 +73,6 @@ Case reports demonstrate that these events occur with therapeutic doses of iboga
 ## Cardiac Risk Mechanism
 
 ### hERG Channel Blockade
-
 The primary mechanism of QTc prolongation is blockade by ibogaine and noribogaine of ether-a-go-go-related gene (hERG) potassium channels in cardiomyocytes. hERG channels cause repolarization of cardiac action potentials; blockade delays repolarization, leading to:
 - Prolonged QTc interval (≥450 ms males, ≥460 ms females)
 - Ventricular tachyarrhythmias
