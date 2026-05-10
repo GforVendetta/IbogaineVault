@@ -2,9 +2,9 @@ name: Validate Vault
 
 on:
   push:
-    branches: [main]
+    branches: [main, v1.1-dev]
   pull_request:
-    branches: [main]
+    branches: [main, v1.1-dev]
   schedule:
     - cron: '0 6 * * 1'  # Weekly Monday 06:00 UTC
 
