@@ -1,7 +1,7 @@
 {
   "vault": "IbogaineVault",
   "version": "1.0.1",
-  "generated_at": "2026-05-05T01:43:31Z",
+  "generated_at": "2026-05-10T20:18:22Z",
   "paper_count": 305,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
@@ -702,7 +702,7 @@
         "Ibogaine NMDA MK-801 competitive binding"
       ],
       "source_url": null,
-      "pmid": null,
+      "pmid": "7531855",
       "pmcid": null,
       "open_access": "unknown",
       "publisher": "Springer Science and Business Media LLC",
@@ -2982,7 +2982,7 @@
         "Noribogaine Neurobiology Comparison"
       ],
       "source_url": null,
-      "pmid": null,
+      "pmid": "11303040",
       "pmcid": null,
       "open_access": "unknown",
       "publisher": "Elsevier BV",
