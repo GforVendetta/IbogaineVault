@@ -14,6 +14,7 @@ tags:
 key_findings: "Ibogaine competitively inhibits [³H]MK-801 binding at NMDA receptor ion channels (Kᵢ = 1.01 ± 0.1 μM, nH = 1.2). No effect on AMPA, kainate, or metabotropic glutamate receptors up to 100 μM."
 source_pdf: "1994/Popik1994_Ibogaine_NMDA_MK801_Binding.pdf"
 doi: "10.1007/bf02245000"
+pmid: "7531855"
 journal: "Psychopharmacology"
 publisher: "Springer Science and Business Media LLC"
 issn: "1432-2072"
