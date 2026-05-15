@@ -8,6 +8,7 @@ authors:
   - "Carlson, J. Neil"
 year: 1992
 doi: "10.1016/0028-3908(92)90089-8"
+pmid: "1528400"
 category: ORANGE
 tags:
   - topic/opioid

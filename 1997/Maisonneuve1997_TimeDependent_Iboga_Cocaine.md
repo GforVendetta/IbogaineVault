@@ -9,6 +9,7 @@ authors:
   - "Glick, Stanley D."
 year: 1997
 doi: "10.1016/s0014-2999(97)01231-4"
+pmid: "9384223"
 category: ORANGE
 tags:
   - topic/stimulant

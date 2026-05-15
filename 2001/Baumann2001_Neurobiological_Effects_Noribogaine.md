@@ -7,6 +7,7 @@ authors:
   - "Mash, Deborah C."
 year: 2001
 doi: "10.1016/s0022-3565(24)29567-7"
+pmid: "11303040"
 category: ORANGE
 tags:
   - topic/noribogaine

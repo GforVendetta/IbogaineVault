@@ -6,6 +6,7 @@ authors:
   - "Szumlinski, Karen K."
 year: 1996
 doi: "10.1016/0006-8993(96)00056-x"
+pmid: "8782860"
 category: ORANGE
 tags:
   - topic/18-mc

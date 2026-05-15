@@ -24,6 +24,7 @@ doi: "10.1016/S0099-9598(01)56006-X"
 pmid: "11705115"
 journal: "The Alkaloids: Chemistry and Biology"
 issn: "1099-4831"
+isbn: "9780124695566"
 publication_date: "2001-01-01"
 document_type: book-chapter
 secondary_categories: [BLUE]

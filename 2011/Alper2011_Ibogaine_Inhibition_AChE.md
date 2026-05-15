@@ -6,6 +6,7 @@ authors:
   - "Sershen, Henry"
 year: 2011
 doi: "10.1016/j.jep.2011.12.006"
+pmid: "22200647"
 category: ORANGE
 tags:
   - mechanism/nicotinic-receptor

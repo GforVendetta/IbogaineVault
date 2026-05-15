@@ -14,6 +14,7 @@ tags:
 key_findings: "CYP2D6 is the primary enzyme catalysing ibogaine O-demethylation to noribogaine (KMapp 1.1 µM, IC₅₀ quinidine 0.2 µM, r²=0.711 with bufuralol 1'-hydroxylase). Poor metabolisers lack this activity."
 source_pdf: "1998/Obach1998_CYP2D6_Ibogaine_Metabolism.pdf"
 journal: "Drug Metabolism and Disposition"
+pmid: "9698290"
 document_type: in-vitro
 clinical_significance: high
 aliases:
