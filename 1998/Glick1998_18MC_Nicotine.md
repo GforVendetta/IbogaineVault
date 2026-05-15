@@ -9,6 +9,7 @@ authors:
   - "Kuehne, Martin E."
 year: 1998
 doi: "10.1007/s002130050716"
+pmid: "9784085"
 category: ORANGE
 tags:
   - topic/18-mc

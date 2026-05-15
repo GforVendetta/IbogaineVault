@@ -8,6 +8,7 @@ authors:
   - "Berger, S. P."
 year: 1996
 doi: "10.1007/bf01291787"
+pmid: "9013390"
 category: ORANGE
 tags:
   - topic/dopamine

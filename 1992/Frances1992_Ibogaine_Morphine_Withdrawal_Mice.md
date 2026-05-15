@@ -7,6 +7,7 @@ authors:
   - "Zajac, Jean-Marie"
 year: 1992
 doi: "10.1111/j.1472-8206.1992.tb00127.x"
+pmid: "1292965"
 category: ORANGE
 tags:
   - topic/opioid

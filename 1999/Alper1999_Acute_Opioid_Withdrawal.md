@@ -8,6 +8,7 @@ authors:
   - "Bastiaans, Jan"
 year: 1999
 doi: "10.1080/105504999305848"
+pmid: "10506904"
 category: BLUE
 tags:
   - topic/opioid

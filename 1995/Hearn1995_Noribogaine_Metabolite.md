@@ -7,6 +7,7 @@ authors:
   - "Mash, Deborah C."
 year: 1995
 doi: "10.1093/jat/19.6.427"
+pmid: "8926737"
 category: ORANGE
 tags:
   - topic/pharmacokinetics

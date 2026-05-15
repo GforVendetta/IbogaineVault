@@ -8,6 +8,7 @@ authors:
   - "Martin, Thomas J."
 year: 1995
 doi: "10.1007/bf02246099"
+pmid: "7770600"
 category: ORANGE
 tags:
   - topic/opioid

@@ -24,6 +24,7 @@ tags:
 key_findings: "Comprehensive ibogaine pharmacology synthesis: NMDA, opioid, 5-HT, nicotinic interactions. Novel mechanism distinct from existing treatments. 10 μM brain levels validate in vitro activities."
 source_pdf: "2001/Alper2001_Ibogaine_Review.pdf"
 journal: "The Alkaloids: Chemistry and Biology"
+pmid: "11705103"
 volume: 56
 pages: "1-38"
 document_type: review

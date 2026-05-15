@@ -11,6 +11,7 @@ authors:
   - "Shoptaw, Steven"
 year: 2026
 doi: "10.1017/neu.2026.10059"
+pmid: "41679899"
 category: ORANGE
 tags:
   - topic/mechanism

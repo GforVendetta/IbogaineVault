@@ -5,6 +5,7 @@ authors:
   - "Sigg, E. B."
 year: 1957
 doi: "10.1111/j.1749-6632.1957.tb40765.x"
+pmid: "13425258"
 category: ORANGE
 tags:
   - topic/mechanism
