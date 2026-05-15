@@ -35,6 +35,7 @@ licence_type: unknown
 licence_verified: false
 pmid: "11705113"
 issn: "1099-4831"
+isbn: "9780124695566"
 ---
 
 # From the Roots Up: Ibogaine and Addict Self-Help
