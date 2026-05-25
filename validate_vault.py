@@ -1057,11 +1057,15 @@ def main():
         print(report)
 
     # ── Exit code ──
+    # A parse failure means validate_paper never ran on that file, so it carries
+    # no violations and would otherwise slip past the error check below — treat
+    # an unparseable file as a hard failure, not a silent pass.
     has_errors = any(
         any(v.severity == "error" for v in r["violations"])
         for r in results.values()
     )
-    sys.exit(1 if has_errors else 0)
+    has_parse_failures = any(r["parse_error"] for r in results.values())
+    sys.exit(1 if (has_errors or has_parse_failures) else 0)
 
 
 if __name__ == "__main__":

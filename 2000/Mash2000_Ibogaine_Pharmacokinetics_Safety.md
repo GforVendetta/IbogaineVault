@@ -15,12 +15,15 @@ category: ORANGE
 tags:
   - topic/pharmacokinetics
   - topic/noribogaine
+  - topic/cyp2d6
+  - topic/opioid
+  - topic/stimulant
   - method/case-series
 key_findings: "Preliminary efficacy (n=27, 500–800 mg ibogaine HCl): BDI depression scores fell significantly (16.86→2.29, p=.0005). Opiate craving reduced across all 5 HCQN-29 subscales (p<.0001). Cocaine craving reduced on 3 of 5 CCQN-45 subscales."
 journal: "Annals of the New York Academy of Sciences"
 publisher: "Wiley"
 issn: "1749-6632"
-document_type: brief-communication
+document_type: journal-article
 secondary_categories: [BLUE]
 clinical_significance: high
 aliases: ["Mash 2000", "Mash PK 2000"]
@@ -30,12 +33,15 @@ sample_size: 27
 qtc_data: false
 electrolyte_data: false
 herg_data: false
-dosing_range: "500–800 mg oral ibogaine HCl (human)"
+dosing_range: "500, 600, or 800 mg fixed-dose oral ibogaine HCl (human)"
 route: oral
-contraindications: []
-open_access: unknown
+contraindications:
+  - "histories of stroke"
+  - "epilepsy"
+  - "axis I psychotic disorders"
+open_access: false
 body_format: vault-analytical
-licence_type: unknown
+licence_type: all-rights-reserved
 licence_verified: false
 ---
 
@@ -53,11 +59,11 @@ Ibogaine is an indole alkaloid found in the roots of *Tabernanthe Iboga* (Apocyn
 - Opiate craving decreased across all five HCQN-29 subscales (all p<.0001), with reductions persisting through programme discharge. The most dramatic drops were in Desire to Use (4.07→1.22) and Intention to Use (3.26→1.24).
 - Cocaine craving showed a more mixed picture: three of five CCQN-45 subscales reached significance (Anticipation of Positive Outcomes p=.05, Relief of Negative States p=.0005, Lack of Control p=.002), while Desire to Use and Intention to Use did not — possibly due to floor effects at baseline and small sample size.
 - All 27 subjects were CYP2D6 extensive metabolisers; no poor metabolisers were identified in this cohort. The O-demethylation pathway produced noribogaine detectable in blood beyond 24 hours post-dose, consistent with slow metabolite clearance.
-- Pharmacokinetic curves from representative subjects (Figure 1) demonstrated rapid ibogaine absorption with noribogaine concentrations exceeding parent drug levels within hours and persisting well beyond ibogaine clearance — but no tabulated PK parameters were reported.
+- Pharmacokinetic curves from three representative subjects (Figure 1) demonstrated rapid ibogaine absorption; noribogaine accumulated to concentrations comparable to or exceeding parent drug, with the parent-to-metabolite crossover time depending on CYP2D6 genotype (visible in the wt/wt vs wt/*4 panel contrast at the same 800 mg dose). By 24 hours, noribogaine consistently exceeded ibogaine in all panels — but no tabulated PK parameters were reported.
 
 ## Methodology
 
-Twenty-seven treatment-seeking individuals (23 men, 4 women) meeting DSM-IV criteria for cocaine or opioid dependence participated in a 14-day open-label inpatient study. Mean age was 34.6±1.9 years for the opiate group and 37.5±2.9 years for the cocaine group, with mean education of 14.0±0.5 years. All had positive urine screens at entry. Participants were assigned to one of three fixed doses of ibogaine HCl (500, 600, or 800 mg). Inclusion required physician review of history, physical examination, and screening ECG and laboratory tests within predetermined limits; exclusion criteria included stroke, epilepsy, and Axis I psychotic disorders. Ibogaine and noribogaine were quantified in whole blood by GC/MS. CYP2D6 genotyping covered alleles *3, *4, *5, and wildtype. Mood was assessed by the Beck Depression Inventory (BDI), opiate craving by the HCQN-29, and cocaine craving by the CCQN-45, each administered at pre-ibogaine, post-ibogaine, discharge, and (for the BDI) one-month follow-up. Repeated measures ANOVA with primary drug of abuse as between-subjects factor was used for analysis.
+Twenty-seven treatment-seeking individuals (23 men, 4 women) meeting DSM-IV criteria for cocaine or opioid dependence participated in a 14-day open-label inpatient study. Mean age was 34.6±1.9 years for the opiate group and 37.5±2.9 years for the cocaine group, with mean education of 14.0±0.5 years. All had positive urine screens at entry. Participants were assigned to one of three fixed doses of ibogaine HCl (500, 600, or 800 mg). Inclusion required physician review of history, physical examination, and screening ECG and laboratory tests within predetermined limits; exclusion criteria included stroke, epilepsy, and Axis I psychotic disorders. Ibogaine and noribogaine were quantified in whole blood by full-scan electron-impact gas chromatography/mass spectrometry (GC/MS). CYP2D6 genotyping covered alleles *3, *4, *5, and wildtype. Mood was assessed by the Beck Depression Inventory (BDI), opiate craving by the HCQN-29, and cocaine craving by the CCQN-45, each administered at pre-ibogaine, post-ibogaine, discharge, and (for the BDI) one-month follow-up. Repeated measures ANOVA with primary drug of abuse as between-subjects factor was used for analysis.
 
 ## Craving and Depression Outcomes
 
@@ -106,27 +112,31 @@ Lower subscale means indicate less craving. At one-month follow-up, subjects rep
 
 ## Pharmacokinetic Observations
 
-This paper presents pharmacokinetic data qualitatively rather than in tabulated form. Representative concentration-time profiles (Figure 1) show ibogaine and noribogaine levels over 24 hours in a male subject (800 mg) and a female subject (500 mg). The curves demonstrate rapid ibogaine absorption followed by relatively quick clearance, while noribogaine accumulates to concentrations exceeding the parent compound and persists beyond the 24-hour measurement window. All 27 subjects were CYP2D6 extensive metabolisers (genotyped for *3, *4, *5 alleles); no poor metabolisers were identified. The absence of poor metabolisers in this cohort limits what can be said about altered PK profiles in that phenotype, though the authors note that CYP2D6-mediated O-demethylation is the primary metabolic pathway. The prolonged presence of noribogaine beyond 24 hours is consistent with the sustained anti-craving and antidepressant effects observed through discharge and at one-month follow-up.
+This paper presents pharmacokinetic data qualitatively rather than in tabulated form. Figure 1 shows three representative concentration-time profiles over 24 hours: subject M18 (male, 800 mg, CYP2D6 wt/wt), subject M12 (male, 800 mg, wt/*4), and subject F2 (female, 500 mg, wt/wt). The wt/wt versus wt/*4 contrast at the same 800 mg dose constitutes the only within-paper visualisation of the CYP2D6 genotype–PK relationship. The curves demonstrate rapid ibogaine absorption followed by relatively quick clearance, while noribogaine accumulates to concentrations comparable to or exceeding the parent compound — though the parent-to-metabolite crossover time is genotype-dependent (in the wt/*4 panel, ibogaine peak appears at or above noribogaine in the early hours, with noribogaine catching up later). By 24 hours, noribogaine consistently exceeds ibogaine in all panels and persists beyond the measurement window. All 27 subjects were CYP2D6 extensive metabolisers (genotyped for *3, *4, *5, and wildtype alleles); the proportions of homozygous (e.g. wt/wt) and heterozygous (e.g. wt/*4) extensive metabolisers did not differ significantly between opioid- and cocaine-dependent groups, and no poor metabolisers were identified. The absence of poor metabolisers limits what can be said about altered PK profiles in that phenotype, though the authors note that CYP2D6-mediated O-demethylation is the primary metabolic pathway. The prolonged presence of noribogaine beyond 24 hours is consistent with the sustained anti-craving and antidepressant effects observed through discharge and at one-month follow-up.
 
 ## Clinical Implications
 
-This study was among the earliest to apply validated, multidimensional craving instruments to ibogaine treatment outcomes. The use of the HCQN-29 and CCQN-45 — instruments specifically designed to capture distinct dimensions of craving including desire, intention, anticipated outcomes, relief motivation, and perceived control — provided more granular data than the unidimensional measures used in earlier ibogaine reports. The finding that opiate craving was uniformly reduced across all five dimensions, while cocaine craving responded selectively (significant for anticipated outcomes, relief of negative states, and perceived control but not for desire or intention), suggests that ibogaine's anti-craving mechanisms may interact differently with opioid versus stimulant dependence pathways. The sustained depression improvement (BDI 16.86→2.29 at one month) is notable given the well-established relationship between depressive symptoms and relapse risk. The CYP2D6 genotyping of all subjects, while yielding a homogeneous cohort, laid the groundwork for the [pharmacogenomic considerations](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) that would become central to later ibogaine research. The authors' proposal that noribogaine's slow clearance may underlie the prolonged therapeutic effects anticipated the later development of [noribogaine as a standalone therapeutic candidate](../2015/Glue2015_Noribogaine_Ascending_Doses.md).
+This study was among the earliest to apply validated, multidimensional craving instruments to ibogaine treatment outcomes. The use of the HCQN-29 and CCQN-45 — instruments specifically designed to capture distinct dimensions of craving including desire, intention, anticipated outcomes, relief motivation, and perceived control — provided more granular data than the unidimensional measures used in earlier ibogaine reports. The finding that opiate craving was uniformly reduced across all five dimensions, while cocaine craving responded selectively (significant for anticipated outcomes, relief of negative states, and perceived control but not for desire or intention), suggests that ibogaine's anti-craving mechanisms may interact differently with opioid versus stimulant dependence pathways. The sustained depression improvement (BDI 16.86→2.29 at one month) is notable given the well-established relationship between depressive symptoms and relapse risk. The CYP2D6 genotyping of all subjects, while yielding a homogeneous cohort, laid the groundwork for the [pharmacogenomic considerations](../2015/Glue2015_Ibogaine_CYP2D6_Activity.md) that would become central to later ibogaine research. The authors' proposal that noribogaine's slow clearance may underlie the prolonged therapeutic effects anticipated the later development of [noribogaine as a standalone therapeutic candidate](../2015/Glue2015_Noribogaine_Ascending_Doses.md). The paper's only safety conclusion is the qualitative statement that ibogaine was "well tolerated" in both subgroups, citing concordance with prior reports — but no quantitative safety endpoints (QTc, vital signs, electrolytes, dose-stratified adverse events, or laboratory changes during or after dosing) are reported, despite the title's framing of "Concerns for Safety." This title-content gap is material for downstream citations that treat Mash 2000 as a safety reference.
 
 ## Limitations
 
 - Open-label design with no placebo or active comparator, limiting causal inference
 - Small sample (n=27) with acknowledged need for replication
 - Self-report measures only — no objective verification of craving or drug use
-- No tabulated pharmacokinetic parameters despite the paper's title emphasising PK complexity
+- No tabulated pharmacokinetic parameters (no Cmax, tmax, AUC, half-life, clearance, or volume of distribution) despite the paper's title emphasising PK complexity
 - All subjects were CYP2D6 extensive metabolisers, providing no data on safety or efficacy in poor metabolisers
-- ECG used as a screening criterion only; the paper reports no cardiovascular monitoring data during or after ibogaine administration
+- No quantitative safety endpoints reported during or after dosing — no vital signs, no QTc or other ECG measurements, no electrolytes, no hepatic or renal laboratory data, no enumerated adverse events, and no dose-stratified tolerability. ECG and laboratory tests served only as inclusion criteria.
+- The paper reports fixed mg doses without body weights or mg/kg normalisation, and does not state how many subjects received each of the three doses (500, 600, or 800 mg). This precludes mg/kg-based exposure-response analysis and direct comparison with mg/kg-normalised PK studies.
+- Source, supplier, purity, formulation (capsule vs liquid), excipients, and fasting/feeding status of the administered ibogaine HCl are not specified in the source paper — reproducibility-relevant details are absent.
+- Reported F-statistic degrees of freedom differ across tables despite the single n=27 cohort: BDI F(3,18), HCQN-29 F(3,24), CCQN-45 F(2,10). The paper does not state per-analysis inclusion rules or the missing-data structure. Table 2's F(3,24) implies a four-level repeated-measures factor but only three timepoints (pre, post, discharge) are printed; the 1-month craving data referenced in the text are "data not shown."
+- Printed CCQN-45 p-values do not exactly reproduce from the F statistics under F(2,10): F=3.74 corresponds to p≈.06 (printed as .05); F=15.26 to p≈.0009 (printed as .0005); F=10.76 to p≈.003 (printed as .002). Directional significance is unaffected for two of three rows; one row is borderline non-significant rounded to .05.
 - One-month follow-up data for craving referenced but not tabulated
 
 ---
 
 ## See Also
 
-**Parent hub:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md)
+**Parent hubs:** [ORANGE_Mechanisms_Hub](../Hubs/ORANGE_Mechanisms_Hub.md), [BLUE_Outcomes_Hub](../Hubs/BLUE_Outcomes_Hub.md)
 
 - [Baumann2001_Neurobiological_Effects_Noribogaine](../2001/Baumann2001_Neurobiological_Effects_Noribogaine.md) — Noribogaine profiling from same era
 - [Glue2015_Noribogaine_Ascending_Doses](../2015/Glue2015_Noribogaine_Ascending_Doses.md) — Human noribogaine PK/PD

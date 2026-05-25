@@ -1,7 +1,7 @@
 {
   "vault": "IbogaineVault",
-  "version": "1.0.1",
-  "generated_at": "2026-05-10T20:18:22Z",
+  "version": "1.0.5",
+  "generated_at": "2026-05-25T23:28:19Z",
   "paper_count": 305,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
@@ -157,7 +157,7 @@
       "filepath": "1971/Dhahir1971_Ibogaine_Serotonin_Toxicity.md"
     },
     {
-      "title": "Ibogaine and the inhibition of morphine self-administration: aftereffects of ibogaine on morphine self-administration in rats",
+      "title": "Effects and aftereffects of ibogaine on morphine self-administration in rats",
       "authors": [
         "Glick, Stanley D.",
         "Rossman, Kenner",
@@ -167,18 +167,21 @@
       ],
       "year": 1991,
       "doi": "10.1016/0014-2999(91)90474-5",
-      "primary_category": "ORANGE",
-      "document_type": "preclinical",
-      "secondary_categories": null,
+      "primary_category": "BLUE",
+      "document_type": "journal-article",
+      "secondary_categories": [
+        "ORANGE"
+      ],
       "evidence_level": "preclinical",
       "tags": [
         "topic/opioid",
+        "topic/efficacy",
         "topic/mechanism",
         "topic/dopamine",
         "method/preclinical"
       ],
       "clinical_significance": "moderate",
-      "key_findings": "Ibogaine (10-80 mg/kg i.p.) dose-dependently reduced morphine self-administration in rats acutely and ≥1 day post-dose; some rats showed persistent decreases lasting weeks. Aftereffect not attributable to conditioned aversion or motor impairment.",
+      "key_findings": "Ibogaine (2.5–80 mg/kg i.p.; threshold 10 mg/kg) dose-dependently reduced morphine self-administration in rats acutely and ≥1 day post-dose; persistent decreases over weeks in some rats. Aftereffect not from conditioned aversion or motor impairment.",
       "sample_size": null,
       "mortality_count": null,
       "mortality_scope": null,
@@ -571,7 +574,7 @@
       "year": 1993,
       "doi": "10.1016/0306-4522(93)90500-f",
       "primary_category": "ORANGE",
-      "document_type": "brief-communication",
+      "document_type": "journal-article",
       "secondary_categories": null,
       "evidence_level": "preclinical",
       "tags": [
@@ -589,8 +592,8 @@
       "herg_data": false,
       "electrolyte_data": false,
       "contraindications": [],
-      "dosing_range": null,
-      "route": null,
+      "dosing_range": "100 mg/kg (single dose, daily × 3, or two doses 8 h apart)",
+      "route": "intraperitoneal",
       "source_pdf": "1993/OHearn1993_Purkinje_Cell_Degeneration.pdf",
       "journal": "Neuroscience",
       "aliases": [
@@ -2685,7 +2688,7 @@
       "year": 2000,
       "doi": "10.1111/j.1749-6632.2000.tb05213.x",
       "primary_category": "ORANGE",
-      "document_type": "brief-communication",
+      "document_type": "journal-article",
       "secondary_categories": [
         "BLUE"
       ],
@@ -2693,6 +2696,9 @@
       "tags": [
         "topic/pharmacokinetics",
         "topic/noribogaine",
+        "topic/cyp2d6",
+        "topic/opioid",
+        "topic/stimulant",
         "method/case-series"
       ],
       "clinical_significance": "high",
@@ -2703,8 +2709,12 @@
       "qtc_data": false,
       "herg_data": false,
       "electrolyte_data": false,
-      "contraindications": [],
-      "dosing_range": "500–800 mg oral ibogaine HCl (human)",
+      "contraindications": [
+        "histories of stroke",
+        "epilepsy",
+        "axis I psychotic disorders"
+      ],
+      "dosing_range": "500, 600, or 800 mg fixed-dose oral ibogaine HCl (human)",
       "route": "oral",
       "source_pdf": "2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.pdf",
       "journal": "Annals of the New York Academy of Sciences",
@@ -2715,11 +2725,11 @@
       "source_url": null,
       "pmid": null,
       "pmcid": null,
-      "open_access": "unknown",
+      "open_access": false,
       "publisher": "Wiley",
       "body_format": "vault-analytical",
       "issn": "1749-6632",
-      "licence_type": "unknown",
+      "licence_type": "all-rights-reserved",
       "licence_verified": false,
       "references_stripped": null,
       "filepath": "2000/Mash2000_Ibogaine_Pharmacokinetics_Safety.md"
@@ -2952,19 +2962,18 @@
       "year": 2001,
       "doi": "10.1016/s0022-3565(24)29567-7",
       "primary_category": "ORANGE",
-      "document_type": "preclinical",
-      "secondary_categories": [
-        "RED"
-      ],
+      "document_type": "journal-article",
+      "secondary_categories": [],
       "evidence_level": "preclinical",
       "tags": [
         "topic/noribogaine",
         "topic/pharmacokinetics",
         "topic/serotonin",
+        "topic/dopamine",
         "mechanism/sert-inhibition",
         "method/preclinical"
       ],
-      "clinical_significance": "high",
+      "clinical_significance": "moderate",
       "key_findings": "Noribogaine is ~10× more potent than ibogaine as indirect 5-HT agonist via SERT inhibition. Ibogaine causes tremors/ataxia; noribogaine does not. Neither drug alters accumbens DA. Noribogaine may be safer alternative.",
       "sample_size": null,
       "mortality_count": null,
