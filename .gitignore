@@ -29,6 +29,8 @@ Cowork_Outputs/
 # === Development and build artifacts ===
 _builds/
 _archive/
+__pycache__/
+*.pyc
 
 # === Vestigial git artifact (do not use, do not commit) ===
 .git-DO-NOT-USE-vestigial-artifact/

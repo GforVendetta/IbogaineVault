@@ -1,0 +1,4 @@
+# Python dependencies for IbogaineVault tooling (validator, index generator,
+# export freshness gate). PyYAML is a hard dependency (ADR-001 Phase 6 direction):
+# tools fail loud rather than fall back to a non-equivalent manual parser.
+PyYAML>=6.0

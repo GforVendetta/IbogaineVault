@@ -150,7 +150,7 @@ The vault uses markdown links to create a navigable research graph. Conventions:
 - **Paper-to-paper links** connect studies that directly build on, contradict, or extend each other. The link should appear in the body text where the relationship is discussed, not in a standalone "Related Papers" section.
 - **Paper-to-hub backlinks** ensure every paper is reachable from its domain hub. Papers include a backlink to their primary hub (e.g., `Categorised in [RED_Cardiac_Safety_Hub](../Hubs/RED_Cardiac_Safety_Hub.md)`).
 - **Hub cross-references** link between hubs when evidence in one domain has implications for another (e.g., the RED hub references GREEN protocol papers that address cardiac screening).
-- **Display text** uses the pipe syntax for readability: `[Alper 2001](../2001/Alper2001_Ibogaine_Review.md)`.
+- **Display text** uses readable link labels: `[Alper 2001](../2001/Alper2001_Ibogaine_Review.md)`.
 
 ---
 

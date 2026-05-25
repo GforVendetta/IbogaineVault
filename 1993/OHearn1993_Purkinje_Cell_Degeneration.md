@@ -17,7 +17,7 @@ pmid: "8377927"
 journal: "Neuroscience"
 issn: "0306-4522"
 publication_date: "1993-07-01"
-document_type: brief-communication
+document_type: journal-article
 clinical_significance: moderate
 aliases:
   - "O'Hearn 1993"
@@ -27,6 +27,8 @@ evidence_level: preclinical
 qtc_data: false
 electrolyte_data: false
 herg_data: false
+dosing_range: "100 mg/kg (single dose, daily × 3, or two doses 8 h apart)"
+route: intraperitoneal
 contraindications: []
 open_access: false
 publisher: "Elsevier"
@@ -42,6 +44,8 @@ licence_verified: true
 ## Abstract
 
 The indole alkaloids ibogaine and harmaline are β-carboline derivatives that cause both hallucinations and tremor. In this study, ibogaine-treated rats were analysed for evidence of neurotoxic effects because human clinical trials of ibogaine had been proposed. The authors recently found that ibogaine induces a marked glial reaction in the cerebellum with activated astrocytes and microglia aligned in parasagittal stripes within the vermis. The present study investigated whether ibogaine may cause neuronal injury or degeneration. After treatment with ibogaine or harmaline, a subset of Purkinje cells in the vermis degenerates. Loss of the neuronal proteins microtubule-associated protein 2 (MAP2) and calbindin was co-extensive with loss of Nissl-stained Purkinje cell bodies. Argyrophilic staining of Purkinje cell bodies, dendrites and axons was obtained with the Gallyas reduced silver method for degenerating neurons. Degenerating neurons were confined to narrow parasagittal stripes within the vermis. The authors conclude that both ibogaine and harmaline have selective neurotoxic effects which lead to degeneration of Purkinje cells in the cerebellar vermis. The longitudinal stripes of neuronal damage may be related to the parasagittal organisation of the olivocerebellar climbing fibre projection. Since these drugs produce sustained activation of inferior olivary neurons, the authors hypothesise that release of an excitatory amino acid from climbing fibre synaptic terminals may lead to excitotoxic degeneration of Purkinje cells.
+
+> **§11 Vault chemistry correction.** The Abstract opens by classifying ibogaine and harmaline as "β-carboline derivatives." This is loose chemistry: only harmaline is a β-carboline (3,4-dihydro-β-carboline). Ibogaine is an iboga-type indole alkaloid (indole nucleus fused to an isoquinuclidine system) — a chemically distinct family despite the shared indole ring. The paper itself uses the more accurate "indole-alkylamine similar to harmaline in chemical structure" framing later in the text. The error does not affect the morphological findings but should not be propagated for chemical-class claims about ibogaine.
 
 ## Key Findings
 
@@ -102,7 +106,7 @@ The indole alkaloids ibogaine and harmaline are β-carboline derivatives that ca
 
 The authors propose a specific mechanistic hypothesis integrating their findings with known olivocerebellar physiology:
 
-1. **Inferior olive activation:** Ibogaine and harmaline (and related β-carbolines) strongly activate inferior olivary neurons, producing rhythmic burst firing
+1. **Inferior olive activation:** Harmaline directly produces rhythmic burst firing in inferior olivary neurons (De Montigny & Lamarre, 1973). Ibogaline, a related iboga alkaloid, evokes a nearly identical pattern of sustained burst responses in olivary neurons and Purkinje cells (De Montigny & Lamarre, 1974). The authors note that *"the electrophysiologic effects of ibogaine have not been directly studied"* and conclude that ibogaine *"is likely to have the same physiologic actions as does harmaline"* — the olivary-activation claim for ibogaine itself is inferential, not directly demonstrated in this paper.
 2. **Climbing fibre excitation:** Activated olivary neurons drive sustained, repetitive complex spike bursts in Purkinje cells via the olivocerebellar climbing fibre projection — this activation may continue for hours
 3. **Excitatory amino acid release:** Prolonged activation leads to excessive release of an excitatory neurotransmitter (likely an excitatory amino acid) at climbing fibre synapses
 4. **Calcium overload:** Repetitive action potentials in Purkinje cell dendrites cause calcium influx, combined with mobilisation of intracellular calcium stores, leading to excessive cytosolic calcium accumulation
@@ -124,12 +128,27 @@ This paper was historically influential in shaping the regulatory landscape for 
 
 ## Limitations
 
+### Authors' acknowledged
+
 - Large doses (4× proposed human dose) used to maximise detection of neurotoxic effects — dose-response relationship not established
 - Species extrapolation from rat to human is uncertain
 - Quantitative motor assessment was not conducted
 - Tissue preparation (30-μm immunocytochemistry sections) did not afford high-resolution cytological evaluation — fine structural analysis reserved for separate publication
 - No dose-response comparison between ibogaine and harmaline to establish relative potencies
 - Duration of calcium-mediated excitotoxicity hypothesis not directly tested (3-acetylpyridine lesion experiment described as ongoing)
+
+### Vault-identified additional
+
+- **Compound preparation poorly characterised** — salt form, source, purity, vehicle, injection volume, and formulation pH are not reported for either ibogaine or harmaline. This prevents clean replication and complicates dose-equivalence comparison with modern ibogaine HCl preparations.
+- **Route mismatch** — ibogaine was administered i.p. in rats, whereas human therapeutic use is typically oral. I.p. dosing bypasses first-pass metabolism and produces different Cₘₐₓ and parent-to-metabolite ratios; the "4× human dose" framing should be interpreted with this in mind.
+- **No pharmacokinetic data** — plasma/brain concentrations of ibogaine and noribogaine were not measured. The 4× dose ratio is therefore a mass comparison, not an exposure comparison. Noribogaine, the long-half-life human metabolite that dominates exposure post-peak, is not assessed in this study.
+- **Male-only rats** — sex differences in ibogaine metabolism and cerebellar susceptibility were not assessed.
+- **Untreated (not vehicle-injected) controls** — given that the ibogaine and harmaline vehicles are unspecified, a vehicle-injection arm would have strengthened attribution of effects to the active compound. No positive-control neurotoxin was used to validate the staining pipeline.
+- **Allocation, randomisation, and blinding** of histological assessment are not reported; per-condition n values (by dose schedule, survival time, or stain) are not broken out from the totals (n = 50 ibogaine; n = 11 harmaline).
+
+### Vault-flagged source ambiguities
+
+- **Harmaline injection route** is not specified in the source paper; the 40 mg/kg single-dose harmaline condition is mentioned in Figure 3 but not separately quantified beyond the figure caption.
 
 ---
 

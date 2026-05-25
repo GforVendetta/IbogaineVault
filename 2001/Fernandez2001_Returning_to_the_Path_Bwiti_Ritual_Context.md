@@ -1,20 +1,23 @@
 ---
 title: "Returning to the Path: The Use of Iboga[ine] in an Equatorial African Ritual Context and the Binding of Time, Space, and Social Relationships"
 authors:
-  - "Fernandez, James W."
-  - "Fernandez, Renate L."
+  - Fernandez, James W.
+  - Fernandez, Renate L.
 year: 2001
 category: WHITE
 tags:
   - topic/traditional-use
   - topic/history
   - method/qualitative
-key_findings: "Reframes Bwiti iboga use as 'time and space binding' against colonial anomie; compares initiation with INTASH therapy; argues collectivist aftercare model outperforms Western individualism"
-source_pdf: "2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.pdf"
+key_findings: Reframes Bwiti iboga use as 'time and space binding' against colonial anomie; compares initiation with INTASH therapy; argues collectivist aftercare model outperforms Western individualism
+source_pdf: 2001/Fernandez2001_Returning_to_the_Path_Bwiti_Ritual_Context.pdf
 journal: "The Alkaloids: Chemistry and Biology"
 document_type: book-chapter
 clinical_significance: moderate
-aliases: ["Fernandez 2001", "Fernandez & Fernandez 2001", "Returning to the Path"]
+aliases:
+  - Fernandez 2001
+  - Fernandez & Fernandez 2001
+  - Returning to the Path
 evidence_level: qualitative
 qtc_data: false
 herg_data: false

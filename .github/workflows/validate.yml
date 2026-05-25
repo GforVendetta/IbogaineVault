@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
   pull_request:
-    branches: [main]
+    branches: [main, v1.1-dev]
   schedule:
     - cron: '0 6 * * 1'  # Weekly Monday 06:00 UTC
 
@@ -17,10 +17,20 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install pyyaml
+        run: pip install -r requirements.txt
 
       - name: Run vault validation
         run: python3 validate_vault.py --json --summary
+
+      - name: Check generated exports are fresh (D10)
+        run: python3 check_exports_fresh.py
+
+# Tier-1 projection note: the ADR-001 Phase 0 `freeze` job is intentionally
+# OMITTED here. check_freeze.py is a Tier-2-only tool (lives in _meta/tools/,
+# excluded from this public projection) and the freeze rule governs the working
+# vault, not Tier-1 — public content only ever arrives via the controlled sync,
+# never via direct content commits. Keep this file as the Tier-1 override so the
+# freeze job never ships to the public repo.

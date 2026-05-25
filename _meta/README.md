@@ -9,7 +9,7 @@ Schema definitions, taxonomy, and architectural documentation for the IbogaineVa
 | `schema_registry.yml` | **Single source of truth** — all YAML schemas, enums, field definitions, and validation rules. Every paper's frontmatter conforms to this schema. |
 | `Tag_Taxonomy.md` | Canonical 66-tag taxonomy. All tags used in paper frontmatter are drawn from this controlled vocabulary. |
 | `VAULT_ARCHITECTURE.md` | Three-layer navigation design: Bases (queryable databases), Hubs (curated entry points), MOCs (researcher maps of content). |
-| `VAULT_PRINCIPLES.md` | Design philosophy — 8 architectural axioms governing vault organisation, clinical accuracy standards, and co-equal category treatment. |
+| `VAULT_PRINCIPLES.md` | Design philosophy — 11 architectural principles (6 clinical + 5 methodological) governing vault organisation, clinical accuracy standards, and co-equal category treatment. |
 | `METHODOLOGY.md` | Conversion methodology, copyright compliance (licence-aware posture, n-gram validation, numerical fidelity), quality assurance infrastructure. |
 | `README.md` | This file. |
 

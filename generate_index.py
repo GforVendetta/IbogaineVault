@@ -23,6 +23,11 @@ import argparse
 from pathlib import Path
 from datetime import datetime, timezone
 
+# ADR-001 Phase 1: consult vault_config.yml for canonicality instead of hardcoding.
+# Imported lazily in main() only when --vault is omitted, so the Tier-1 copy of
+# this tool (which lives at repo root, without _meta/tools/vault_config.py) stays
+# runnable when invoked with an explicit --vault.
+
 
 # ══════════════════════════════════════════
 # VAULT DETECTION (mirrored from validate_vault.py)
@@ -227,11 +232,35 @@ def extract_paper_record(yaml_dict):
 # OUTPUT GENERATION
 # ══════════════════════════════════════════
 
-def generate_json(papers, output_path):
+def read_citation_version(vault_root):
+    """Read the canonical dataset version from CITATION.cff (CFF is YAML).
+
+    CITATION.cff is the single source of truth for the version stamped into
+    papers.json. Read the `version` key (not `cff-version`, which is the file
+    format). PyYAML is required — fail loud rather than emit a guessed or stale
+    version (this replaces a hardcoded "1.0.1" that had drifted to 1.0.5).
+    """
+    cff_path = Path(vault_root) / "CITATION.cff"
+    try:
+        import yaml
+    except ImportError:
+        sys.exit("generate_index: PyYAML required to read CITATION.cff (pip install pyyaml).")
+    try:
+        with open(cff_path, "r", encoding="utf-8") as f:
+            data = yaml.safe_load(f)
+    except FileNotFoundError:
+        sys.exit(f"generate_index: CITATION.cff not found at {cff_path}.")
+    version = (data or {}).get("version")
+    if not version:
+        sys.exit(f"generate_index: no 'version' key in {cff_path}.")
+    return str(version)
+
+
+def generate_json(papers, output_path, version):
     """Write papers.json to the specified directory."""
     envelope = {
         "vault": "IbogaineVault",
-        "version": "1.0.1",
+        "version": version,
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "paper_count": len(papers),
         "schema_reference": "_meta/schema_registry.yml",
@@ -280,21 +309,33 @@ def generate_csv(papers, output_path):
 def main():
     parser = argparse.ArgumentParser(
         description="IbogaineVault Machine-Readable Index Generator")
-    parser.add_argument("--vault", type=str, required=True,
-                        help="Path to vault root directory")
+    parser.add_argument("--vault", type=str, default=None,
+                        help="Path to vault root directory "
+                             "(default: canonicality.tier2_source from vault_config.yml)")
     parser.add_argument("--output", type=str, default=None,
                         help="Output directory (defaults to vault root)")
+    parser.add_argument("--allow-partial", action="store_true",
+                        help="Generate exports even if some files failed to parse "
+                             "(default: fail closed without writing). Diagnostics only.")
     args = parser.parse_args()
 
-    vault_root = detect_vault_root(args.vault)
+    if args.vault:
+        vault_arg = args.vault
+    else:
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import vault_config as _vault_config
+        vault_arg = str(_vault_config.tier2_source())
+    vault_root = detect_vault_root(vault_arg)
     output_dir = Path(args.output) if args.output else vault_root
 
     if not output_dir.exists():
         print(f"ERROR: Output directory does not exist: {output_dir}", file=sys.stderr)
         sys.exit(1)
 
+    version = read_citation_version(vault_root)
     print(f"Vault root: {vault_root}")
     print(f"Output:     {output_dir}")
+    print(f"Version:    {version} (from CITATION.cff)")
     print()
 
     # Discover papers
@@ -327,9 +368,13 @@ def main():
         if len(parse_failures) > 10:
             print(f"  ... and {len(parse_failures) - 10} more")
         print()
+        if not args.allow_partial:
+            sys.exit(f"generate_index: {len(parse_failures)} parse failure(s) — refusing to "
+                     "write a partial index. Fix the file(s), or pass --allow-partial for a "
+                     "diagnostic export.")
 
     # Generate outputs
-    json_path = generate_json(papers, output_dir)
+    json_path = generate_json(papers, output_dir, version)
     csv_path = generate_csv(papers, output_dir)
 
     print(f"\n── Results ──")
