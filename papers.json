@@ -1,7 +1,7 @@
 {
   "vault": "IbogaineVault",
   "version": "1.0.5",
-  "generated_at": "2026-05-25T23:28:19Z",
+  "generated_at": "2026-06-01T06:48:07Z",
   "paper_count": 305,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
@@ -13333,7 +13333,7 @@
         "method/clinical-trial"
       ],
       "clinical_significance": "high",
-      "key_findings": "First worldwide clinical trial of ibogaine for AUD. Dose-escalation 20–400mg HCl in N=9. Dose-dependent QTc prolongation (peaks ~496ms). 2/9 abstinent at 3 months.",
+      "key_findings": "WITHDRAWN pending reconversion (fidelity audit 2026-06-01). The earlier summary contained fabricated cardiac and outcome data and must not be used or cited. See FIDELITY_STATUS.md.",
       "sample_size": 9,
       "mortality_count": null,
       "mortality_scope": null,

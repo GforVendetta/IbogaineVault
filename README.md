@@ -1,3 +1,15 @@
+> [!CAUTION]
+> **Do not cite this vault — any version, any entry — until the fidelity audit is complete.**
+>
+> An active fidelity audit has confirmed that an AI-assisted PDF→markdown conversion step fabricated data in some recently added clinical-trial entries, including invented cardiac-safety values. This vault exists to make ibogaine's safety literature *more* trustworthy, not less — so we are saying this plainly rather than quietly patching it.
+>
+> - **For you, right now:** treat no entry as citation-grade. Verify every figure against the primary source before relying on it — especially cardiac, dosing, and adverse-event data.
+> - **What we're doing:** entries found to contain fabricated data are being corrected or withdrawn as the audit reaches them.
+> - **Live status & details:** see **[FIDELITY_STATUS.md](FIDELITY_STATUS.md)** — per-paper status, what has been corrected, what has been withdrawn, and the target date for lifting this notice.
+>
+> If you have already cited or relied on a vault entry, please re-check it against the original source and open an [issue](https://github.com/GforVendetta/IbogaineVault/issues) so we can help.
+
+
 [![DOI](https://zenodo.org/badge/1167860310.svg)](https://doi.org/10.5281/zenodo.19159665)
 
 # IbogaineVault
@@ -170,11 +182,15 @@ See [CHANGELOG.md](CHANGELOG.md) for the complete version history and roadmap.
 
 ## Citation
 
-If you use the IbogaineVault in your research, please cite:
+> [!CAUTION]
+> **Citation is suspended pending the fidelity audit** (see the notice at the top of this README and [FIDELITY_STATUS.md](FIDELITY_STATUS.md)). Please do not cite the vault or any of its entries until the audit completes and this notice is lifted. If you need to reference a specific finding in the meantime, cite the **primary source** directly, not this vault.
+
+When citation resumes, the form will be:
 
 > Kagalovsky, P. (2026). *IbogaineVault: A Structured Evidence Map for Ibogaine Science* (v1.0.5) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19159665
 
 See [CITATION.cff](CITATION.cff) for machine-readable citation metadata.
+
 
 ## Contributing
 

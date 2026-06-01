@@ -1,6 +1,12 @@
 cff-version: 1.2.0
 title: "IbogaineVault: A Structured Evidence Map for Ibogaine Science"
-message: "If you use this resource, please cite it as below."
+message: >-
+  ⚠ DO NOT CITE YET. A fidelity audit is in progress and this resource is NOT
+  citation-ready as of 2026-06-01. An AI-assisted conversion step was found to
+  have fabricated data in some recently added clinical-trial entries (including
+  invented cardiac-safety values); affected entries are being corrected or
+  withdrawn. Please do not cite the vault or any entry until the audit completes.
+  See FIDELITY_STATUS.md before using or citing any part of this resource.
 type: dataset
 authors:
   - family-names: Kagalovsky
@@ -18,7 +24,8 @@ abstract: >-
   research instrument for the ibogaine research community. Categories span
   cardiac safety (RED), clinical protocols (GREEN), pharmacological mechanisms
   (ORANGE), clinical outcomes (BLUE), phenomenology (PURPLE), and
-  historical/policy context (WHITE).
+  historical/policy context (WHITE). NOTE: a fidelity audit is in progress; this
+  resource is not citation-ready (see FIDELITY_STATUS.md).
 keywords:
   - ibogaine
   - noribogaine

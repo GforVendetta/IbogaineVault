@@ -46,58 +46,52 @@ Carlucci R, Senhorinho BDMC, Teixeira IN. Ibogaine microdosing in a patient with
 Microdosing (3mg/72h, 12 weeks) in treatment-resistant bipolar II: 60% HAM-D improvement, no hypomania, stable cardiovascular. Single case, Brazilian regulatory context.
 
 ## Abstract
-This case report describes the use of ibogaine microdosing in a 45-year-old female patient with treatment-resistant bipolar II disorder presenting with moderate depressive episode. The patient received 3mg ibogaine orally every 72 hours for 12 weeks as adjunctive therapy to her existing mood stabiliser regimen.
+Ibogaine is an indole alkaloid extracted from the root of the Tabernanthe iboga plant, traditionally used in medicinal and spiritual rituals in West Africa. In recent decades, its therapeutic potential has been explored in the treatment of chemical dependencies and psychiatric disorders. This article presents a case report of ibogaine microdosing in a patient diagnosed with bipolar II disorder with a predominance of depressive episodes, combined with a systematic review of the Brazilian literature. The study aims to understand the effects, safety, and feasibility of microdosing the substance in a psychiatric clinical setting. The methodology followed the PRISMA criteria for article selection, analyzing studies published between 2010 and 2024 in Brazilian databases. The results indicate possible significant symptomatic improvement, although studies on ibogaine microdosing are scarce. Controlled use monitored by a multidisciplinary team appears promising, but requires further studies with large sample sizes and rigorous control.
 
 ## Patient Characteristics
-- **Age:** 45 years
-- **Sex:** Female
+- **Age:** 34 years
+- **Sex:** Male
 - **Diagnosis:** Bipolar II disorder, current episode depressive, treatment-resistant
-- **Prior treatments:** Multiple antidepressant trials with inadequate response or mood destabilisation
-- **Concurrent medications:** Mood stabiliser (maintained throughout)
+- **Prior treatments:** Psychiatric treatment for 8 years; history of medication resistance to mood stabilizers AND traditional antidepressants
+
+## Systematic Review Methodology
+- **Framework:** PRISMA criteria for article selection
+- **Date Range:** 2010 to 2024
+- **Sources:** Brazilian databases
 
 ## Protocol
 - **Dose:** 3mg ibogaine (sub-psychoactive microdose)
 - **Frequency:** Every 72 hours
 - **Duration:** 12 weeks
+- **Dose Adjustment:** Adjusted individually based on body weight and tolerance, maintained below the psychoactive dose
 - **Route:** Oral
 - **Setting:** Outpatient, Brazilian clinical context
 
 ## Outcomes
 
 ### Depression Severity (HAM-D)
-- **Baseline:** Moderate depression
-- **Week 12:** 60% reduction in HAM-D score
-- **Response:** Clinically significant improvement
+- **Improvement Onset:** Progressive improvement observed from the 4th week
+- **Final Outcome:** 60% reduction in HAM-D score at the end of protocol
+- **Patient Report:** Reported a sensation of "emotional clarity" ("clareza emocional")
 
 ### Safety Monitoring
 - **Manic/hypomanic switch:** None observed
-- **Cardiovascular:** Stable throughout treatment period
-- **Adverse events:** None reported
+- **Cardiovascular:** Clinical follow-up revealed stabilization of cardiovascular parameters
+- **Adverse events:** Mild and transient in the first weeks (nausea and mild insomnia); no severe side effects
 
 ### Functional Outcomes
 - Reduction in suicidal ideation
 - Improved mood stability
-- Enhanced daily functioning
+- Increased motivation
 
 ## Discussion
 
-### Novel Aspects
-This represents one of the first documented cases of ibogaine microdosing for bipolar depression. The sub-psychoactive dosing strategy (3mg, far below the 10-20mg/kg typical for addiction treatment) aimed to:
-1. Avoid cardiac risks associated with full doses
-2. Prevent psychotomimetic effects that could destabilise mood
-3. Provide sustained neuromodulatory effects through repeated low-dose exposure
-
-### Mechanism Considerations
-The authors propose that microdosing may provide:
-- Sustained GDNF upregulation without acute psychedelic effects
-- Gradual receptor modulation avoiding sudden neuroplastic shifts
-- Lower cardiac risk profile suitable for outpatient use
+### Conclusion
+The authors conclude that ibogaine microdosing may be a promising therapeutic alternative for bipolar II patients with depressive episodes, especially in cases of resistance to conventional pharmacological treatments. Controlled use monitored by a multidisciplinary team appears promising, but requires further studies with large sample sizes and rigorous control.
 
 ### Limitations
 - Single case (n=1)
-- No control condition
-- Short follow-up period
-- Potential placebo/expectancy effects
+- Scarcity of existing literature on ibogaine microdosing
 - Brazilian regulatory context may limit generalisability
 
 ## Regulatory Context
