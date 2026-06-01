@@ -40,6 +40,6 @@ The two clinical-trial fabrications found in this audit share a profile: recentl
 
 This notice will be removed only when the body-level audit of the affected cohort is complete and any further fabrications are corrected or withdrawn.
 
-**Target date:** _to be set — see commit history and [Issues](https://github.com/GforVendetta/IbogaineVault/issues) for progress._
+**Target date:** approximately **August 2026**. Progress is tracked in commit history and [Issues](https://github.com/GforVendetta/IbogaineVault/issues).
 
 _Last updated: 2026-06-01._
