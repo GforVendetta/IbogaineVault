@@ -24,7 +24,7 @@ The automated audit primarily compares each entry's **abstract** against the sou
 
 | Entry | Issue | Status |
 |---|---|---|
-| **Rocha2025** (Ibogaine for AUD, PhD thesis) | 14+ fabrications, including an invented per-patient QTc table and an **inverted** electrolyte-safety claim ("no derangements" vs. documented mild hyperkalemia), a fabricated COVID-19 protocol section, invented demographics, outcome instruments, and adverse-event percentages. | **Withdrawn** pending full reconversion from the primary source. The page now shows only a withdrawal notice and a source pointer. |
+| **Rocha2025** (Ibogaine for AUD, PhD thesis) | **Re-verified & corrected 2026-06-20** (13 corrections + 1 unverified ReBEC reg; full list on the card + ledger). Among the genuine errors: invented demographics ("all male, 29–58" vs source 3F/6M, ages 25–61); wrong efficacy instrument ("TLFB" — absent across 117 pp); inverted electrolyte summary ("no derangements" vs documented mild hyperkalemia). The earlier "14+ fabrications" was an over-count: the per-patient QTc table (Tabela 6), COVID-19 §3.1 protocol section, HRS instrument, 8/9 cocaine-comorbidity, AE percentages, and the cardiac AE narrative are **real and source-grounded** — the text-only audit over-flagged figure-grounded tables and untranslated Portuguese prose, while the text-only conversion fabricated identifiers, instruments, criteria, and one dose attribution (Vol 3 hypertensive crisis = 320 mg, not 240 mg). Both directions corrected. | **Corrected 2026-06-20** — re-verified directly against the primary source and restored for use, with a correction notice + verification ledger on the card. |
 | **Carlucci2025** (Microdosing, bipolar II) | 5 fabrications, including invented demographics (reported as 45 F; source is 34 M), a fabricated "no adverse events" claim (source reports nausea + mild insomnia), invented concurrent medications, a fabricated mechanism passage, and an omitted systematic-review methodology. | **Corrected** (2026-06-01) directly against the source. |
 | **Mash2000** (earlier entry) | The original case that revealed this failure mode: confabulated author names, a fabricated abstract, and an incorrect sample size. | **Corrected** (2026-03-17). |
 
@@ -32,7 +32,7 @@ The automated audit primarily compares each entry's **abstract** against the sou
 
 The two clinical-trial fabrications found in this audit share a profile: recently added, non-English-origin (Brazilian/Portuguese) clinical-trial papers run through the AI-assisted conversion step. We are treating this as a **systemic conversion failure mode**, not three isolated mistakes. The current work:
 
-1. Re-converting the withdrawn entry (Rocha2025) directly from source.
+1. ✅ Rocha2025 corrected & re-verified directly from source (2026-06-20) — 13 corrections applied; card restored with a verification ledger.
 2. A body-level re-audit of the recently added (2024–2025) clinical-trial entries — beyond abstract matching.
 3. Re-checking entries that previously cleared on abstract-only matching.
 
