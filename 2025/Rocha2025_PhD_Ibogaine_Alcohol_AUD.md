@@ -47,11 +47,11 @@ publisher: "Universidade de São Paulo. Agência de Bibliotecas e Coleções Dig
 # Tolerability and Efficacy of Ibogaine in the Treatment of Alcohol Use Disorder: An Open-Label Dose-Escalation Study
 
 > [!NOTE]
-> **Corrected 2026-06-20 — verification ledger ({13 corrected · ~20 confirmed-accurate · 1 unverified}).** This card was withdrawn 2026-06-01 after an AI-conversion fidelity audit, then re-verified directly against the Portuguese primary source (text layer + 8× figure-render, with adversarial cross-checks on the safety-critical values). It is **restored for use** with the corrections below applied. Every clinically actionable value (QTc, doses, BP, electrolytes, medications) has been disk-verified against the thesis.
+> **Corrected 2026-06-20 — verification ledger: 13 corrected · ~20 confirmed-accurate · 1 unverified (ReBEC reg).** This card was withdrawn 2026-06-01 after an AI-conversion fidelity audit, then re-verified directly against the Portuguese primary source (text layer + 8× figure-render, with adversarial cross-checks on the safety-critical values). It is **restored for use** with the corrections below applied. Every clinically actionable value (QTc, doses, BP, electrolytes, medications) has been disk-verified against the thesis.
 >
 > **Why two kinds of error existed:** a *text-only* auditor over-flagged content that is real but **figure-grounded** (the per-volunteer QTc table, Tabela 6) or written in **untranslated Portuguese**; conversely the *text-only conversion* fabricated or mis-stated identifiers, instruments, criteria, and one dose attribution. Both directions are corrected here.
 >
-> **Corrections applied (13):** sex (all-male → **3 female / 6 male**); age (29–58 → **25–61**); ethics CAAE (→ **72938717.3.0000.5440**); ReBEC registration → **unconfirmed** (absent from text layer); dose ladder (+**40 mg** step); contraindications/criteria (removed invented thresholds — "QTc>450ms", "Child-Pugh B/C", etc. are **not** in the source); efficacy instrument (TLFB → **weekly alcohol-use self-report**); BDI-II/BAI baseline severity (**not** cohort-wide Severe/Moderate); hypertensive crisis (**320 mg session**, not 240 mg); antiemetic (**bromopride**, not ondansetron/metoclopramide); electrolytes (**Vol 7 mild hyperkalemia**, not "none"); QTc Vol 9 time-to-peak (6h → **5h**); adverse-event list ("dry mouth" removed — 0% in source).
+> **Corrections applied (13):** sex (all-male → **3 female / 6 male**); age (29–58 → **25–61**); ethics CAAE (→ **72938717.3.0000.5440**); dose ladder (+**40 mg** step); contraindications/criteria (removed invented thresholds — "QTc>450ms", "Child-Pugh B/C", etc. are **not** in the source); efficacy instrument (TLFB → **weekly alcohol-use self-report**); BDI-II baseline severity (→ **3 minimal / 3 moderate / 3 severe**, not cohort-wide Severe); BAI baseline severity (predominantly **minimal-to-mild**); hypertensive crisis (**320 mg session**, not 240 mg); antiemetic (**bromopride**, not ondansetron/metoclopramide); electrolytes (**Vol 7 mild hyperkalemia**, not "none"); QTc Vol 9 time-to-peak (6h → **5h**); adverse-event list ("dry mouth" removed — 0% in source). **Separately,** the ReBEC registration "RBR-9h7ckx" could **not** be located in the thesis text layer and is flagged **unconfirmed** (the 1 unverified item).
 >
 > **Cite the primary source, not this vault entry.** Status tracked in [FIDELITY_STATUS.md](../FIDELITY_STATUS.md).
 
@@ -61,7 +61,7 @@ publisher: "Universidade de São Paulo. Agência de Bibliotecas e Coleções Dig
 
 ## Abstract
 
-This PhD thesis reports the first clinical trial worldwide specifically designed to evaluate ibogaine for Alcohol Use Disorder (AUD). An open-label, dose-escalation design tested ibogaine hydrochloride (99.3% purity, Phytostan Enterprises Inc.) at doses from 20 mg to 400 mg in 9 participants (3 female, 6 male) with moderate-to-severe AUD (DSM-5) at the Clinical Hospital of Ribeirão Preto Medical School, University of São Paulo, Brazil.
+This PhD thesis reports the first clinical trial worldwide specifically designed to evaluate ibogaine for Alcohol Use Disorder (AUD). An open-label, dose-escalation design tested ibogaine hydrochloride (99.3% purity, Phytostan International Inc.) at doses from 20 mg to 400 mg in 9 participants (3 female, 6 male) with moderate-to-severe AUD (DSM-5) at the Clinical Hospital of Ribeirão Preto Medical School, University of São Paulo, Brazil.
 
 The study was conducted in two phases: a dose-escalation phase (Volunteers 1–3, doses 20–320 mg, 72-hour inter-dose intervals) and a treatment phase (Volunteers 4–9, single 400 mg dose). COVID-19 necessitated major protocol changes mid-study, reducing hospitalisation from 20 days to 3 days, follow-up from 12 months to 3 months, and shifting from multi-dose to single-dose administration.
 
@@ -74,7 +74,7 @@ Primary outcomes were tolerability (adverse events via UKU Side Effect Rating Sc
 - **Transient ST-elevation and T-wave inversion** in one participant (Vol 7, 400 mg) — spontaneous resolution, follow-up angio-CT normal
 - **Hypertensive crisis** in one participant (Vol 3) at the **320 mg** session — BP 180/110 mmHg, required captopril + lorazepam (the next escalation session was suspended)
 - **2/9 participants achieved 3-month abstinence** from both alcohol and cocaine (Vol 5 and Vol 8)
-- **Depression improvement** — BDI-II scores improved from baseline to discharge, though baseline depression was mixed (4 minimal / 3 moderate / 2 severe across the cohort), not uniformly severe
+- **Depression improvement** — BDI-II scores improved from baseline to discharge, though baseline depression was mixed (3 minimal / 3 moderate / 3 severe across the cohort), not uniformly severe
 - **Major confound:** 8/9 participants had comorbid cocaine use disorder, making it impossible to attribute outcomes solely to ibogaine's effect on alcohol
 
 ## Methodology
@@ -98,7 +98,7 @@ Primary outcomes were tolerability (adverse events via UKU Side Effect Rating Sc
 | Dose-escalation | Vol 1–3 | 20, 40, 80, 160, 240, 320 | Ascending, 72h intervals |
 | Treatment | Vol 4–9 | 400 (single dose) | One session |
 
-- **Formulation:** Ibogaine HCl 99.3% purity (Phytostan Enterprises Inc.)
+- **Formulation:** Ibogaine HCl 99.3% purity (Phytostan International Inc.)
 - **Administration:** Oral capsules, after light breakfast
 - **Monitoring:** ECG at 8 timepoints per session (baseline, 1h, 2h, 3h, 4h, 5h, 6h, 12h); vital signs hourly
 
@@ -179,7 +179,7 @@ Per the study medications table (Tabela 9):
 - **3/9 lost to follow-up** (33% attrition)
 
 ### Depression and Anxiety
-- **BDI-II:** Improvement from baseline to discharge. Baseline severity was mixed across the cohort (4 minimal / 3 moderate / 2 severe — only 2 of 9 in the severe range), so the improvement is not a uniform "Severe → Minimal" shift
+- **BDI-II:** Improvement from baseline to discharge. Baseline severity was mixed across the cohort (3 minimal / 3 moderate / 3 severe — 3 of 9 in the severe range: Vols 4, 5, 6), so the improvement is not a uniform "Severe → Minimal" shift
 - **BAI:** Baseline anxiety was predominantly minimal (6/9) to mild (2/9), with a single moderate outlier; scores improved to discharge
 - Depression improvement was observed even in participants who did not achieve abstinence
 
