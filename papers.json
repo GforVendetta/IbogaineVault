@@ -1,7 +1,7 @@
 {
   "vault": "IbogaineVault",
   "version": "1.0.5",
-  "generated_at": "2026-06-01T06:48:07Z",
+  "generated_at": "2026-06-20T04:09:13Z",
   "paper_count": 305,
   "schema_reference": "_meta/schema_registry.yml",
   "papers": [
@@ -13333,7 +13333,7 @@
         "method/clinical-trial"
       ],
       "clinical_significance": "high",
-      "key_findings": "WITHDRAWN pending reconversion (fidelity audit 2026-06-01). The earlier summary contained fabricated cardiac and outcome data and must not be used or cited. See FIDELITY_STATUS.md.",
+      "key_findings": "First worldwide clinical trial of ibogaine for AUD. Dose-escalation 20–400mg HCl in N=9 (3 female, 6 male). Dose-dependent QTc prolongation (peak 496ms at 400mg). 2/9 abstinent at 3 months.",
       "sample_size": 9,
       "mortality_count": null,
       "mortality_scope": null,
@@ -13341,12 +13341,13 @@
       "herg_data": false,
       "electrolyte_data": true,
       "contraindications": [
-        "Pre-existing cardiac conditions",
-        "Long QT syndrome (baseline QTc >450ms)",
-        "Concurrent QT-prolonging medications",
-        "Hepatic impairment (Child-Pugh B/C)",
-        "Uncontrolled hypertension",
-        "Active psychosis or suicidal ideation"
+        "Significant cardiovascular, hepatic, or neurological organic disease",
+        "Decompensated or untreated chronic organic disease",
+        "Schizophrenia-spectrum or bipolar disorder (diagnosis or family history)",
+        "Current or prior psychotic or manic symptoms",
+        "Continuous use of medications or psychopharmaceuticals",
+        "Significant laboratory or ECG abnormalities",
+        "Pregnancy or breastfeeding"
       ],
       "dosing_range": "20 mg – 400 mg",
       "route": "oral",

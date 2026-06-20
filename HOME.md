@@ -64,7 +64,7 @@ For safety-critical queries (cardiac risk, contraindications, drug interactions)
 - [Grundmann2026_Indole_Alkaloids_Biased_Opioid_Receptor_Modulators](2026/Grundmann2026_Indole_Alkaloids_Biased_Opioid_Receptor_Modulators.md) — Biased agonism mechanisms
 
 ### 2025 Highlights
-- [Rocha2025_PhD_Ibogaine_Alcohol_AUD](2025/Rocha2025_PhD_Ibogaine_Alcohol_AUD.md) — **FIRST AUD TRIAL**: Dose-escalation (N=9), significant cardiac safety data without Mg protection
+- [Rocha2025_PhD_Ibogaine_Alcohol_AUD](2025/Rocha2025_PhD_Ibogaine_Alcohol_AUD.md) — ✅ **Corrected 2026-06-20** — **FIRST AUD TRIAL**: Dose-escalation (N=9, 3F/6M), significant cardiac safety data without Mg protection
 - [Lissemore2025_Magnesium_Ibogaine_TBI](2025/Lissemore2025_Magnesium_Ibogaine_TBI.md) — Neural mechanisms of MISTIC protocol
 - [Faerman2025_MISTIC_12Month_Followup](2025/Faerman2025_MISTIC_12Month_Followup.md) — Sustained effects at 12 months
 - [Gupta2025_Benzofuran_Iboga_Analogues](2025/Gupta2025_Benzofuran_Iboga_Analogues.md) — Cardio-safe analogue design

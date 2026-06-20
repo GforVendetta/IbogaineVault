@@ -148,12 +148,15 @@ Maryland Poison Center bulletin documenting cardiac effects persisting up to **9
 This study proves that even with significant QTc prolongation, fatal arrhythmia can be prevented with proper hospital monitoring. The extended duration of QTc elevation (>24h) validates the need for prolonged cardiac observation post-treatment.
 
 ### [Rocha 2025: Dose-Escalation AUD Trial — Unprotected QTc Data](../2025/Rocha2025_PhD_Ibogaine_Alcohol_AUD.md)
+
+> [!NOTE] **Corrected card (2026-06-20) — safe to cite with the corrections applied.** Re-verified 2026-06-19: the QTc values below (figure-grounded in Tabela 6, p57) and the cardiac AE narrative (Vol 7 ST-elevation; Vol 3 hypertensive crisis, p66-67) are **confirmed real** against the primary source. The card was corrected for *unrelated* errors (demographics, electrolyte summary, efficacy instrument, and the hypertensive-crisis dose attribution), not for this cardiac data. See [FIDELITY_STATUS](../FIDELITY_STATUS.md).
+
 **DOSE-RESPONSE WITHOUT MAGNESIUM**: First ibogaine trial for AUD (N=9, 20–400mg HCl). Provides controlled dose-response QTc data in the absence of magnesium cardioprotection — a critical contrast with [MISTIC](../2024/Cherian2024_Magnesium_Ibogaine_TBI.md):
 - **Vol 3 (240mg):** Baseline 413ms → Peak 492ms at 12h (ΔQTc +79ms)
 - **Vol 5 (400mg):** Baseline 413ms → Peak 496ms at 12h (ΔQTc +83ms)
-- **Vol 9 (400mg):** Baseline 409ms → Peak 470ms at 6h (ΔQTc +61ms)
+- **Vol 9 (400mg):** Baseline 409ms → Peak 470ms at 5h (ΔQTc +61ms)
 - **Novel finding — ischaemic mimic:** Vol 7 (400mg) developed transient ST-elevation and T-wave inversion in V2/V3 at 5–6h, spontaneously resolving by 12h. Follow-up angio-CT normal. This is the first controlled documentation of ibogaine-associated ST-changes beyond QTc prolongation.
-- **Hypertensive crisis:** Vol 3 reached BP 180/110 mmHg at 240mg, requiring captopril + lorazepam. Planned 400mg session cancelled.
+- **Hypertensive crisis:** Vol 3 reached BP 180/110 mmHg at the **320 mg** session (the earlier 240 mg session was milder, 163/113 mmHg), requiring captopril + lorazepam. The next planned escalation session was suspended.
 - **No electrolyte optimisation protocol** — reinforces the MISTIC finding that magnesium co-administration may be the critical differentiator.
 
 **Clinical significance:** When read alongside Knuijver 2021 (also unprotected, QTc >500ms in 50%) and MISTIC (Mg-protected, ZERO events), this study strengthens the case that magnesium cardioprotection is not optional but essential.
