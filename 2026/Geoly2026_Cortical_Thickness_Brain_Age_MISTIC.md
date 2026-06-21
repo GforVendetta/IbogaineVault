@@ -31,6 +31,7 @@ tags:
 key_findings: "MISTIC therapy associated with increased cortical thickness in 13 regions, subcortical expansion in 8 regions, and predicted brain age reduction of 1.3 years at 1 month in SOF veterans with blast TBI (n=25)"
 source_pdf: "2026/Geoly2026_Cortical_Thickness_Brain_Age_MISTIC.pdf"
 doi: "10.1016/j.isci.2026.115121"
+pmid: "41883580"
 journal: "iScience"
 issn: "2589-0042"
 document_type: observational

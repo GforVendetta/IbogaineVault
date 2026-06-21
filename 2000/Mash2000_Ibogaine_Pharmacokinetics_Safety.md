@@ -11,6 +11,7 @@ authors:
   - "Mayor, Manny"
 year: 2000
 doi: "10.1111/j.1749-6632.2000.tb05213.x"
+pmid: "11085338"
 category: ORANGE
 tags:
   - topic/pharmacokinetics

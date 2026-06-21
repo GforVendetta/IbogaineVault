@@ -6,6 +6,7 @@ authors:
   - "Glick, Stanley D."
 year: 1996
 doi: "10.1016/0024-3205(95)02322-4"
+pmid: "8632705"
 category: ORANGE
 tags:
   - topic/pharmacokinetics

@@ -17,6 +17,7 @@ tags:
   - topic/noribogaine
 key_findings: "PHARMACOKINETICS: Ibogaine peaks ~1h (3.2±1.3 µg/mL at 8-12mg/kg), T½ 7.3±3.2h. Noribogaine appears within 2h, persists 24-48+ hours. CYP2D6 polymorphisms affect metabolism. Establishes dose-PK relationships."
 journal: "The Alkaloids: Chemistry and Biology"
+pmid: "11705106"
 document_type: book-chapter
 secondary_categories: [BLUE]
 clinical_significance: high

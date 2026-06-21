@@ -16,6 +16,7 @@ tags:
 key_findings: "Brazilian clinical experience confirms ibogaine reduces opioid withdrawal, craving, and substance use; emphasises integration psychotherapy and proper screening as essential; estimates >30,000 treatments since 2007."
 source_pdf: "2025/Gomes2025_Ibogaine_Tool_Substance_Addiction.pdf"
 doi: "10.1163/9789004729759_021"
+isbn: ["9789004729759", "9789004729728"]
 journal: "Brill"
 publication_date: "2025-01-01"
 document_type: book-chapter

@@ -10,6 +10,7 @@ authors:
   - "Ali, Syed F."
 year: 2000
 doi: "10.1111/j.1749-6632.2000.tb05212.x"
+pmid: "11085337"
 category: ORANGE
 tags:
   - topic/stimulant
