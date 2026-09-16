@@ -3,9 +3,10 @@
 >
 > An active fidelity audit has confirmed that an AI-assisted PDF→markdown conversion step fabricated data in some recently added clinical-trial entries, including invented cardiac-safety values. This vault exists to make ibogaine's safety literature *more* trustworthy, not less — so we are saying this plainly rather than quietly patching it.
 >
+> - **v1 is obsolete and stays under this warning. A second version, rebuilt with blind verification and a published error rate, is in progress.**
 > - **For you, right now:** treat no entry as citation-grade. Verify every figure against the primary source before relying on it — especially cardiac, dosing, and adverse-event data.
 > - **What we're doing:** entries found to contain fabricated data are being corrected or withdrawn as the audit reaches them.
-> - **Live status & details:** see **[FIDELITY_STATUS.md](FIDELITY_STATUS.md)** — per-paper status, what has been corrected, what has been withdrawn, and the target date for lifting this notice.
+> - **Live status & details:** see **[FIDELITY_STATUS.md](FIDELITY_STATUS.md)** — per-paper status, what has been corrected, what has been withdrawn, and what replaces it.
 >
 > If you have already cited or relied on a vault entry, please re-check it against the original source and open an [issue](https://github.com/GforVendetta/IbogaineVault/issues) so we can help.
 
