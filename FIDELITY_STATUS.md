@@ -1,6 +1,6 @@
 # Fidelity Status — read this before citing or relying on the vault
 
-**Status as of 2026-06-01: NOT citation-ready. A fidelity audit is in progress.**
+**Status as of 2026-09-16: NOT citation-ready. v1 is obsolete; a second version is in progress.**
 
 This page exists because accuracy here is not a formality. The vault's own stated standard is that *miscategorised cardiac-safety evidence can affect patient safety* — and the people who use this resource are often making real decisions about a drug with real cardiac risk. So when the audit found fabricated data, the right thing to do was to say so directly, in the open, rather than correct it quietly and hope no one had already relied on it.
 
@@ -38,8 +38,6 @@ The two clinical-trial fabrications found in this audit share a profile: recentl
 
 ## When this notice will lift
 
-This notice will be removed only when the body-level audit of the affected cohort is complete and any further fabrications are corrected or withdrawn.
+**Not for v1.** v1 is obsolete. A second version — rebuilt from the sources, verified blind against the rendered page, with a published error rate — replaces it on release. Corrections to v1 entries stay listed above. Progress is tracked in commit history and [Issues](https://github.com/GforVendetta/IbogaineVault/issues).
 
-**Target date:** approximately **August 2026**. Progress is tracked in commit history and [Issues](https://github.com/GforVendetta/IbogaineVault/issues).
-
-_Last updated: 2026-06-01._
+_Previous target (approximately August 2026) withdrawn 16 September 2026. Last updated: 2026-09-16._
